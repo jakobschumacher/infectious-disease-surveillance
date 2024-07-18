@@ -1,0 +1,51 @@
+project:
+  type: website
+
+website:
+  title: "Infectious disease surveillance"
+  navbar:
+    right:
+      - about.qmd
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - section: "Why do we need surveillance?"
+        href: why.qmd
+        contents:
+          - decisions.qmd
+          - aourndtheworld.qmd
+      - section: "What is surveillance?"
+        href: what.qmd
+        contents:
+          - events.qmd
+          - casedefinition.qmd
+          - data.qmd
+          - assessment.qmd
+          - dissemination.qmd
+      - section: "What surveillance systems exist?"
+        href: what.qmd
+        contents:
+          - eventsurveillance.qmd
+          - labsurveillance.qmd
+          - activepassivesurveillance.qmd
+          - collaborativesurveillance.qmd
+          - wastewater.qmd
+          - emergencyroom.qmd
+          - mortality.qmd
+      - section: "How to measure surveillance?"
+        href: why.qmd
+        contents:
+          - dataquality.qmd
+          - evaluations.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

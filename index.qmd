@@ -1,0 +1,8 @@
+---
+title: "Infectious disease surveillance"
+author: "Jakob Schumacher"
+---
+
+This book is about infectious disease surveillance. 
+
+
