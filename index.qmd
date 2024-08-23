@@ -5,4 +5,6 @@ author: "Jakob Schumacher"
 
 This book is about infectious disease surveillance. 
 
+Surveillance comes from the french words "sur" and "veiller". A literal translation is "to watch over". 
+
 

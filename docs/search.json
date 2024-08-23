@@ -54,5 +54,52 @@
     "title": "Infectious disease surveillance",
     "section": "",
     "text": "This book is about infectious disease surveillance."
+  },
+  {
+    "objectID": "legal.html",
+    "href": "legal.html",
+    "title": "Legal requirements",
+    "section": "",
+    "text": "Infectious disease surveillance is a tool that is so important that it has found its way in virtually all"
+  },
+  {
+    "objectID": "what.html",
+    "href": "what.html",
+    "title": "What is a surveillance system",
+    "section": "",
+    "text": "A surveillance system consists out of the following elements\nlibrary(DiagrammeR)\n\nWarning: Paket 'DiagrammeR' wurde unter R Version 4.3.3 erstellt\n\na_graph &lt;-  create_graph() %&gt;%\n  add_node(labe = \"Events\") %&gt;%\n  add_node(label = \"Classification\") %&gt;%\n  add_node(label = \"Assessment\") %&gt;%\n  add_node(label = \"Decision\") %&gt;%\n  add_edge(from = 1, to = 2) |&gt; \n  add_edge(from = 2, to = 3) |&gt; \n  add_edge(from = 3, to = 4) |&gt; \n  add_edge(from = 4, to = 1) \n\n\nrender_graph(a_graph, layout = \"nicely\")\nSurveillance systems",
+    "crumbs": [
+      "About",
+      "What is surveillance?"
+    ]
+  },
+  {
+    "objectID": "what.html#detailed-graph-about-an-infectious-disease-surveillance-system",
+    "href": "what.html#detailed-graph-about-an-infectious-disease-surveillance-system",
+    "title": "What is a surveillance system",
+    "section": "Detailed graph about an infectious disease surveillance system",
+    "text": "Detailed graph about an infectious disease surveillance system\n\nlibrary(DiagrammeR)\n\n\na_graph &lt;-  create_graph() %&gt;%\n  add_node(labe = \"Events\") %&gt;%\n  add_node(labe = \"Info gathering\") %&gt;%\n  add_node(label = \"Classification\") %&gt;%\n  add_node(label = \"Data handling\") %&gt;%\n  add_node(label = \"Quality check\") %&gt;%\n  add_node(label = \"Signal detection\") %&gt;%\n  add_node(label = \"Assessment\") %&gt;%\n  add_node(label = \"Communication\") %&gt;%\n  add_node(label = \"Measures\") %&gt;%\n  add_edge(from = 1, to = 2) |&gt; \n  add_edge(from = 2, to = 3) |&gt; \n  add_edge(from = 3, to = 4) |&gt; \n  add_edge(from = 4, to = 1) \n\n\nrender_graph(a_graph, layout = \"nicely\")",
+    "crumbs": [
+      "About",
+      "What is surveillance?"
+    ]
+  },
+  {
+    "objectID": "what.html#events",
+    "href": "what.html#events",
+    "title": "What is a surveillance system",
+    "section": "Events",
+    "text": "Events\nEvents are something that wants to be monitored. In infectious disease surveillance it is typically an infection. But i can also be other events as well: lab confirmation of a pathogen, free intensiv care beds, hospiatalisation because of a disease, vaccinations, death of person, a contact between to persons. One important but sometimes difficult distinction is differing between infection and disease. A lab confirmation usually shows an infection, which means that we know, that a person has a infection but is not necessarily sick, whereas a confirmation by a physician usually means that a person is sick.\nWhat event is monitored depends on the aim of the surveillance system. It is useful to be precise about the event that wants to be monitored. This helps in the communication and in the quality assessment.",
+    "crumbs": [
+      "About",
+      "What is surveillance?"
+    ]
+  },
+  {
+    "objectID": "dangers.html",
+    "href": "dangers.html",
+    "title": "Daners",
+    "section": "",
+    "text": "Surveillance has dangers.\nPanopticum \nFocoult"
   }
 ]

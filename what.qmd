@@ -2,3 +2,59 @@
 title: "What is a surveillance system"
 ---
 
+A surveillance system consists out of the following elements
+
+```{r}
+library(DiagrammeR)
+
+
+a_graph <-  create_graph() %>%
+  add_node(labe = "Events") %>%
+  add_node(label = "Classification") %>%
+  add_node(label = "Assessment") %>%
+  add_node(label = "Decision") %>%
+  add_edge(from = 1, to = 2) |> 
+  add_edge(from = 2, to = 3) |> 
+  add_edge(from = 3, to = 4) |> 
+  add_edge(from = 4, to = 1) 
+
+
+render_graph(a_graph, layout = "nicely")
+
+```
+
+Surveillance systems 
+
+
+
+## Detailed graph about an infectious disease surveillance system
+```{r}
+library(DiagrammeR)
+
+
+a_graph <-  create_graph() %>%
+  add_node(labe = "Events") %>%
+  add_node(labe = "Info gathering") %>%
+  add_node(label = "Classification") %>%
+  add_node(label = "Data handling") %>%
+  add_node(label = "Quality check") %>%
+  add_node(label = "Signal detection") %>%
+  add_node(label = "Assessment") %>%
+  add_node(label = "Communication") %>%
+  add_node(label = "Measures") %>%
+  add_edge(from = 1, to = 2) |> 
+  add_edge(from = 2, to = 3) |> 
+  add_edge(from = 3, to = 4) |> 
+  add_edge(from = 4, to = 1) 
+
+
+render_graph(a_graph, layout = "nicely")
+
+```
+
+
+## Events
+
+Events are something that wants to be monitored. In infectious disease surveillance it is typically an infection. But i can also be other events as well: lab confirmation of a pathogen, free intensiv care beds, hospiatalisation because of a disease, vaccinations, death of person, a contact between to persons. One important but sometimes difficult distinction is differing between infection and disease. A lab confirmation usually shows an infection, which means that we know, that a person has a infection but is not necessarily sick, whereas a confirmation by a physician usually means that a person is sick. 
+
+What event is monitored depends on the aim of the surveillance system. It is useful to be precise about the event that wants to be monitored. This helps in the communication and in the quality assessment. 

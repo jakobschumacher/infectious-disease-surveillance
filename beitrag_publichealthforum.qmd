@@ -1,0 +1,31 @@
+---
+title: "Infectious disease surveillance"
+author: "Jakob Schumacher"
+---
+
+
+Am 28. Oktober 2020 trafen sich Angela Merkel und die Ministerpräsidentinnen und Ministerpräsidenten. Sie debatierten über Maßnahmen gegen die zweite Welle der COVID-19-Pandemie. Wir wissen nicht genau welche Informationen auf ihren Sprechzetteln standen, aber wir können uns sicher sein, dass die Daten und Zahlen des Meldewesens nach dem Infektionsschutzgesetz eine zentrale Rolle gespielt haben. In der anschließenden Konferenz wurden die Verdopplungszahl und die Zahlen der Intensivstation als Begründung angeführt. Das Surveillance von Infektionskrankheiten hat also einen entscheidenden Anteil am Wohl und Wehe einer ganzen Nation.
+
+## Einordnung von Surveillance
+Nahezu alle komplexeren biologischen Systeme und technischen Systeme enthalten eine Art Statuserhebung um den Zustand des Systems zu überwachen und zu steuern. Auch viele soziale Systeme analysieren den jeweils aktuellen Zustand. Es gibt dafür viele verschiedene Namen und Beschreibungen: eine wissenschaftliche Studie ist eine Statuserhebung, ebenso die polizeiliche Überwachung einer Gruppierung oder die Evaluation eines Projekts im Unternehmensbereich. Auch die Surveillance ist eine Statuserhebung. Surveillance ist entstanden aus den französischen Worten: "sur" and "veiller". Die deutsche Übersetzung ist "überwachen". Tieman et al. unterscheiden drei grundsätzliche Stufen von Surveillance: Stufe 1) Panopticum bzw. es könnte auch Top-Down-Surveillance genannt werden. Hierbei überwacht ein Akteur (im Regelfall staatliche) eine Gruppe von Personen mit dem Ziel ein Verhalten bei den Überwachten zu erreichen 2) Eine rhizomatische Surveillance, die im verborgenen Daten sammelt, wie dieses im Internet regelhaft durchgeführt wird 3) eine partizipatorische Surveillance bei der auch Bürgerinnen und Bürger durch das Teilen von Photos und Informationen eine Surveillance kreieren. (DOI:10.1093/oxfordhb/9780199680832.013.31)
+
+## Epidemiologische Surveillance
+Als epidemiologische Surveillance (im folgenden verkürzte als Surveillance bezeichnet) ist die fortlaufende systematische Sammlung, wissenschaftliche Analyse und Bewertung von Gesundheitsdaten sowie die zeitnahe Berichterstattung der bewerteten Ergebnisse zum Zweck der Planung, Durchführung und Bewertung von Maßnahmen zur Krankheitsprävention und -bekämpfung. (Antao EM, Jung-Sendzik T, Buda S, Haas W, Diercke M, Schumacher J, Hamouda O, Schaade L, Wieler LH: COVID-19-Pandemie: Surveillance und Studien des Robert Koch-Instituts zur Lage- und Maßnahmenbewertung Epid Bull 2022;29:3-11 | DOI 10.25646/10314). Die epidemiologische Surveillance grenzt sich von ähnlich gelagerten Konzepten ab. Surveillance ist regelmäßig und zumeist dauerhaft angelegt. Damit grenzt sie sich von einer Evaluation, die sich üblicherweise auf ein einzelnes Geschehnis bezieht. Die Surveillance ist ausdefiniert, d.h. es steht im Regefall von Anfang an fest was wie genau angeschaut wird und im Regelfall weiß man welche Ergebnisse man erwartet. Dies ist im Gegensatz zu einer wissenschaftlichen Untersuchung, die ja gerade darauf abzielt unbekanntes aufzudecken. Die Surveillance ist üblicherweise von einem Akteur mit einem Ziel beauftragt womit die Surveillance im Gegensatz zu einer anlasslosen Sammlung von Daten, die interessehalber ausgewertet wird. 
+
+
+## Bestandteile der Surveillance
+Die Surveillance besteht aus den Bausteinen 
+
+## Das Meldewesen
+Das deutsche infektionsepidemiologische Meldewesen nach dem Infektionsschutzgesetz ist das Rückgrat der infektiologischen Surveillance in Deutschland. Es hat sich historisch entwickelt. Die frühesten Elemente sind im Reichsseuchengesetz von 1900 enthalten. 
+
+## Die syndromische Surveillance
+Die syndromische Surveillance
+
+## ARS
+
+
+## Abwassersurveillance
+
+
+
