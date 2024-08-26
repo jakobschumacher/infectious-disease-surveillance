@@ -53,7 +53,11 @@
     "href": "index.html",
     "title": "Infectious disease surveillance",
     "section": "",
-    "text": "This book is about infectious disease surveillance."
+    "text": "This book is about infectious disease surveillance.\nSurveillance comes from the french words “sur” and “veiller”. A literal translation is “to watch over”.",
+    "crumbs": [
+      "About",
+      "Home"
+    ]
   },
   {
     "objectID": "legal.html",
@@ -100,6 +104,111 @@
     "href": "dangers.html",
     "title": "Daners",
     "section": "",
-    "text": "Surveillance has dangers.\nPanopticum \nFocoult"
+    "text": "Surveillance has dangers.People behave differntly when watched.\nPanopticum \nFocoult"
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html",
+    "href": "beitrag_publichealthforum.html",
+    "title": "Infectious disease surveillance",
+    "section": "",
+    "text": "Am 28. Oktober 2020 trafen sich Angela Merkel und die Ministerpräsidentinnen und Ministerpräsidenten. Sie debatierten über Maßnahmen gegen die zweite Welle der COVID-19-Pandemie. Wir wissen nicht genau welche Informationen auf ihren Sprechzetteln standen, aber wir können uns sicher sein, dass die Daten und Zahlen des Meldewesens nach dem Infektionsschutzgesetz eine zentrale Rolle gespielt haben. In der anschließenden Konferenz wurden die Verdopplungszahl und die Zahlen der Intensivstation als Begründung für eingreifende Maßnahmen angeführt. Das Surveillance von Infektionskrankheiten hat also einen entscheidenden Anteil am Wohl und Wehe der ganzen Nation."
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#einordnung-von-surveillance",
+    "href": "beitrag_publichealthforum.html#einordnung-von-surveillance",
+    "title": "Infectious disease surveillance",
+    "section": "Einordnung von Surveillance",
+    "text": "Einordnung von Surveillance\nNahezu alle komplexeren biologischen Systeme und technischen Systeme enthalten eine Art Statuserhebung um den Zustand des Systems zu überwachen und zu steuern. Auch viele soziale Systeme analysieren den jeweils aktuellen Zustand. Es gibt dafür viele verschiedene Namen und Beschreibungen: eine wissenschaftliche Studie ist eine Statuserhebung, ebenso die polizeiliche Überwachung einer Gruppierung oder die Evaluation eines Projekts im Unternehmensbereich. Auch die Surveillance ist eine Statuserhebung. Surveillance ist entstanden aus den französischen Worten: “sur” and “veiller”. Die deutsche Übersetzung ist “überwachen”. Tieman et al. unterscheiden drei grundsätzliche Stufen von Surveillance: Stufe 1) Panopticum bzw. es könnte auch Top-Down-Surveillance genannt werden. Hierbei überwacht ein Akteur (im Regelfall staatliche) eine Gruppe von Personen mit dem Ziel ein Verhalten bei den Überwachten zu erreichen 2) Eine rhizomatische Surveillance, die im verborgenen Daten sammelt, wie dieses im Internet regelhaft durchgeführt wird 3) eine partizipatorische Surveillance bei der auch Bürgerinnen und Bürger durch das Teilen von Photos und Informationen eine Surveillance kreieren. (DOI:10.1093/oxfordhb/9780199680832.013.31)"
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#epidemiologische-surveillance",
+    "href": "beitrag_publichealthforum.html#epidemiologische-surveillance",
+    "title": "Infectious disease surveillance",
+    "section": "Epidemiologische Surveillance",
+    "text": "Epidemiologische Surveillance\nAls epidemiologische Surveillance (im folgenden verkürzte als Surveillance bezeichnet) ist die fortlaufende systematische Sammlung, wissenschaftliche Analyse und Bewertung von Gesundheitsdaten sowie die zeitnahe Berichterstattung der bewerteten Ergebnisse zum Zweck der Planung, Durchführung und Bewertung von Maßnahmen zur Krankheitsprävention und -bekämpfung. (Antao EM, Jung-Sendzik T, Buda S, Haas W, Diercke M, Schumacher J, Hamouda O, Schaade L, Wieler LH: COVID-19-Pandemie: Surveillance und Studien des Robert Koch-Instituts zur Lage- und Maßnahmenbewertung Epid Bull 2022;29:3-11 | DOI 10.25646/10314). Die Surveillance grenzt sich damit von ähnlich gelagerten Konzepten der Statuserhebung ab. Surveillance ist regelmäßig und zumeist dauerhaft angelegt. Damit grenzt sie sich von einer Evaluation, die sich üblicherweise auf ein einzelnes Geschehnis bezieht. Die Surveillance ist ausdefiniert, d.h. es steht im Regefall von Anfang an fest was wie genau angeschaut wird und im Regelfall weiß man welche Ergebnisse man erwartet. Dies ist im Gegensatz zu einer wissenschaftlichen Untersuchung, die ja gerade darauf abzielt unbekanntes aufzudecken. Die Surveillance ist üblicherweise von einem Akteur mit einem Ziel beauftragt womit die Surveillance im Gegensatz zu einer anlasslosen Sammlung von Daten, die interessehalber ausgewertet wird."
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#surveillance-auf-internationaler-ebene",
+    "href": "beitrag_publichealthforum.html#surveillance-auf-internationaler-ebene",
+    "title": "Infectious disease surveillance",
+    "section": "Surveillance auf internationaler Ebene",
+    "text": "Surveillance auf internationaler Ebene\nDie Surveillance ist tief in das Rechtssystem eingearbeitet. Die internationalen Gesundheitsvorschriften - eines der ganz wenigen nahezu weltweit gültigen Gesetze - beinhalten eine Surveillance. Diese zielt vor allem darauf ab grenzüberschreitenden Gefahren durch Infektionskrankheiten abzuwehren. In der Coronapandemie hat sich der Wert einer solchen internationalen Zusammenarbeit gezeigt. Aktuell laufen Bemühungen den internationalen Gesundheitsvorschriften einen Internationaler Vertrag zur Pandemieprävention zu vereinbaren (https://www.who.int/news/item/01-12-2021-world-health-assembly-agrees-to-launch-process-to-develop-historic-global-accord-on-pandemic-prevention-preparedness-and-response)\nSurveillance ist der erste Baustein der “Essential public health operations” (https://who-sandbox.squiz.cloud/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations)"
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#bestandteile-der-surveillance",
+    "href": "beitrag_publichealthforum.html#bestandteile-der-surveillance",
+    "title": "Infectious disease surveillance",
+    "section": "Bestandteile der Surveillance",
+    "text": "Bestandteile der Surveillance\nDie Surveillance besteht aus den Bausteinen\n\nSurveillance for Action (Langmuir see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149774/)"
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#das-meldewesen",
+    "href": "beitrag_publichealthforum.html#das-meldewesen",
+    "title": "Infectious disease surveillance",
+    "section": "Das Meldewesen",
+    "text": "Das Meldewesen\nDas deutsche infektionsepidemiologische Meldewesen nach dem Infektionsschutzgesetz ist das Rückgrat der infektiologischen Surveillance in Deutschland. Es hat sich historisch entwickelt. Die frühesten Elemente sind im Reichsseuchengesetz von 1900 enthalten."
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#die-syndromische-surveillance",
+    "href": "beitrag_publichealthforum.html#die-syndromische-surveillance",
+    "title": "Infectious disease surveillance",
+    "section": "Die syndromische Surveillance",
+    "text": "Die syndromische Surveillance\nDie syndromische Surveillance"
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#ars",
+    "href": "beitrag_publichealthforum.html#ars",
+    "title": "Infectious disease surveillance",
+    "section": "ARS",
+    "text": "ARS"
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#abwassersurveillance",
+    "href": "beitrag_publichealthforum.html#abwassersurveillance",
+    "title": "Infectious disease surveillance",
+    "section": "Abwassersurveillance",
+    "text": "Abwassersurveillance"
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#fazit",
+    "href": "beitrag_publichealthforum.html#fazit",
+    "title": "Infectious disease surveillance",
+    "section": "Fazit",
+    "text": "Fazit\nDie Surveillance ist ein zentraler Bestandteil der Evidenzgewinnung in Deutschland."
+  },
+  {
+    "objectID": "noninfectioussurveillance.html",
+    "href": "noninfectioussurveillance.html",
+    "title": "Non-infectious surveillance",
+    "section": "",
+    "text": "The top-down surveillance is the “classic” form of surveillance. An actor - usually someone with power - watches over other actors. The watcher can be a school teacher watching over a class of students, or a hospital watching its patients or the police setting up CCTVs in the streets to detect crimes. The example of Jails watching there inmates become a symbol of surveillance with Bethams Panopticum \nFoucault"
+  },
+  {
+    "objectID": "noninfectioussurveillance.html#top-down-surveillance",
+    "href": "noninfectioussurveillance.html#top-down-surveillance",
+    "title": "Non-infectious surveillance",
+    "section": "",
+    "text": "The top-down surveillance is the “classic” form of surveillance. An actor - usually someone with power - watches over other actors. The watcher can be a school teacher watching over a class of students, or a hospital watching its patients or the police setting up CCTVs in the streets to detect crimes. The example of Jails watching there inmates become a symbol of surveillance with Bethams Panopticum \nFoucault"
+  },
+  {
+    "objectID": "noninfectioussurveillance.html#participatory-surveillance",
+    "href": "noninfectioussurveillance.html#participatory-surveillance",
+    "title": "Non-infectious surveillance",
+    "section": "Participatory surveillance",
+    "text": "Participatory surveillance\nParticipatory surveillance is the oldest form of surveillance. In its broadest sense it es people watching other people. Small Communities such as villages have a strong tendency to have a strong particpatory surveillance. Neighbors see and know everything what other neigbohrs are doing. This can be framed positively as in the saying: “it takes a village to raise a child” or negatively when people blaspheme other people. A neighborhoodwatch\nWith widespread availability of cameras and the possibility to communicate directly the perticipatory surveillance has gained a large momentum. The largely unsuccesfull Google glass project could have been an even larger driver of participatory surveillance. Now Surveillance becomes a tool that does not lie in the hands of a strong actor such as a state or less strong actors such as companies but in the hands of the individuals. This gives infectious disease specialists the opportunity to gather information from thos eindividuals as it is done in epidemic intelligence"
+  },
+  {
+    "objectID": "noninfectioussurveillance.html#rhizomatic-surveillance",
+    "href": "noninfectioussurveillance.html#rhizomatic-surveillance",
+    "title": "Non-infectious surveillance",
+    "section": "Rhizomatic surveillance",
+    "text": "Rhizomatic surveillance\nRhizomatic surveillance is a term coined by Haggerty and Ericson [@Haggarty] (https://pubmed.ncbi.nlm.nih.gov/11140886/). The term comes from rhizom - the large underground network from Fungi. This form of surveillance shows similar characteristics of the rhisom: is is being not directly visible (being “underground”)), it is horizontal in contrast to the top-down surveillance (like the rhizom that does not follow the typical direction of plants growing upwards to the sun)) and the surveillance is a group of different actors instead of one single responsible body. The surveillance done by the big tech companies is a form a rhizomatic surveillance. Collecting millons of datapoints that are left behind by users in the internet can give valuable inside that can be turned into profit. The cambridge analytica scandal is an example of such a surveillance system. State actors are of course also capable of doing rhizomatic survaillance as could bee seen in the documents leaked to PRISM."
+  },
+  {
+    "objectID": "beitrag_publichealthforum.html#die-schritte-der-surveillance",
+    "href": "beitrag_publichealthforum.html#die-schritte-der-surveillance",
+    "title": "Infectious disease surveillance",
+    "section": "Die Schritte der Surveillance",
+    "text": "Die Schritte der Surveillance\nDie Surveillance beobachtet im Regelfall Infektionsereignisse (Schritt 1). Diese Infektionsereignisse werden erfasst (Schritt 2) und klassifiziert (Schritt 3). Anschließend werden die entstandenen Daten verarbeitet (Schritt 4) und dann epidemiologisch bewertet (Schritt 5). Die entstandenen Informationen werden an Entscheidungsträger kommuniziert (Schritt 6). Die Maßnahme (Schritt 7) ist nicht mehr Bestandteil der Surveillance im eigentlichen Sinne, aber die Surveillance ist darauf ausgerichtet.\nDie Surveillance folgt damit den ersten zwei Teilen des “data–information–knowledge–wisdom Schemas” (DOI: 10.1177/0165551506070706).\nDaher auch der Leitspruch der Surveillance “Daten für Taten”, der in seiner ursprünglichen Form “Surveillance for Action” hieß (Langmuir see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149774/)\n\nlibrary(DiagrammeR)\n\nWarning: Paket 'DiagrammeR' wurde unter R Version 4.3.3 erstellt\n\na_graph &lt;-  create_graph() %&gt;%\n  add_node(label = \"Infektionsereignis (1)\") %&gt;%  \n  add_node(labe = \"Erfassung (2)\") %&gt;%\n  add_node(label = \"Klassifikation (3)\") %&gt;%\n  add_node(label = \"Datenverarbeitung (4)\") %&gt;%\n  add_node(label = \"Bewertung (5)\") %&gt;%\n  add_node(label = \"Kommunikation (6)\") %&gt;%\n  add_node(label = \"Entscheidung (7)\", type = \"rect\") %&gt;%\n  add_edge(from = 1, to = 2) |&gt; \n  add_edge(from = 2, to = 3) |&gt; \n  add_edge(from = 3, to = 4) |&gt; \n  add_edge(from = 4, to = 5) |&gt; \n  add_edge(from = 5, to = 6) |&gt; \n  add_edge(from = 6, to = 7) |&gt; \n  add_edge(from = 7, to = 1) |&gt; \n  set_node_attrs(node_attr = \"shape\", value = \"rectangle\") |&gt; \n  set_node_attrs(node_attr = \"style\", value = \"rounded,filled\") %&gt;%\n  set_node_attrs(node_attr = \"color\", value = \"lightblue\") |&gt; \n  set_node_attrs(node_attr = \"width\", value = 1.4)\n\nrender_graph(a_graph, layout = \"circle\")  \n\n\n\n\n\n\nSchritt 1: Infektionsereignis\nDie infektionsrelevanten Ereignisse, die in einem Surveillancesystem überwacht werden, können vielfältig sein. Die Wahl des jeweiligen Ereignisses hat dabei einen entscheidenden Einfluss auf das ganze System. Deshalb werden Surveillancesysteme häufig nach diesem Ereignis benannt: Die Notaufnahmesurveillance ist ein solches Beispiel. Auch die Unterteilung von Surveillancesystem erfolgt häufig anhand des Ereignisses, dass analysiert wird: so ist beruht die Einteilung der “syndromic surveillance” darauf, dass Syndrome überwacht werden. Ein klassisches Ereigniss, das überwacht wird ist das Auftreten einer Infektionskrankheiten bei einem Menschen. Es gibt aber viele Variationen und weitere Infektionsereignisse die eine Relevanz haben können: Ein freies Intensivbett, ein Virusgenom im Abwasser, die Besiedelung eines Menschen mit einem Erreger, die ärztliches ICD-10 Einstufung eines Patienten oder einer Patientin, das Finden eines Zeitungsartikels zu einem Krankheitsgeschehen, die subjektive Bewertung eines ÖGD-Mitarbeiters, dass etwas eine Gefahr für die Bevölkerung darstellt.\n\n\nSchritt 2: Erfassung\nDie Infektionsereignisse werden erfasst. Wie genau die Erfassung erfolgt hängt dabei vom jeweiligen Surveillancesystem ab. Dies passiert z.B. durch eine Meldung einer Ärztin oder eines Arztes. Ein Ereignis kann aber auch erfasst werden durch eine beauftragte Laboruntersuchung beispielsweise im Abwasser. Andere Erfassung erfolgen durch die Gesundheitsämter, die nach einer ersten Meldung weitere Fälle ermitteln. Es gibt auch eine Nutzung von anderen Datenquellen, die nicht primär für die Surveillance erhoben wurden, z.B. Krankheitsmeldungen an die Krankenkasse oder Todesbescheinigungen von Ärztinnen und Ärzten. Auch dieser Schritt gibt Anlass für die Bennung eines Surveillancesystems (Arzt-basiertes System oder Labor-basiertes System) oder Sekundärdatensurveillance.\n\n\nSchritt 3: Klassifikation\nKlassifikation bedeutet, dass die erfassten Ereignisse eingeteilt werden. Ein Mensch oder eine Software entscheidet anhand einer Definition auf welche Art und Weise das Ereignis als Datenpunkt mit aufgenommen wird. Häufig ist die Klassifikation eine Absprache was genau ein Fall ist und was nicht. Die Absprachen im Meldewesen sind unter dem Stichwort: “Falldefinition” bekannt. Diese Klassifizierung ist wichtig, denn erfasste Ereignisse können fehlerhaft sein (“Fehlalarm”) oder es liegen nicht genug Informationen vor um zu entscheiden ob ein Ereignis vorliegt oder nicht. Ohne eine Klassifikation bilden die Ereignisse eine Sammlung bei dem die Bedeutung unklar ist. Die Klassifikation ist häufig ein versteckter Teil des Surveillancesystem oder so im System eingebaut, dass er nicht als solcher erkannt wird, so ist die Anwendung der Falldefinitionen im Meldewesen in die Meldesoftware eingebaut.\n\n\nSchritt 4: Datenverarbeitung\nDie Datenverarbeitung ist in der klassischen Surveillanceliteratur wenig erwähnt, stellt aber einen Schritt dar, an dem sich viel in den letzten Jahren getan hat. Wurde früher in Surveillancesystem gefaxt oder per Brief Daten übermittelt so erfolgt der Datenfluß zumeist über Datenbanken und Schnittstellen zwischen Softwareprogrammen. Die Art und Weise wie die Daten übermittelt werden beeinflusst die Datenqualität und damit auch die Bewertung der Daten. Die Datenverarbeitung beinhaltet auch die Anwendung von Scripten, die die Datenmengen für die anschließende Bewertung vorbereitet. Eine automatisierte Ausbruchserkennung ist ein Beispiel dafür. Das Ergebns der Datenverarbeitung kann als Open Data bereitgestellt werden. Dieses ist ein Veröffentlichungsform die in der letzten Zeit stark zugenommen hat.\n\n\nSchritt 5: Bewertung\nDer Bewertungsschritt besteht aus der Analyse der Daten und dem anschließenden Ziehen von Schlüssen. In manchen Fällen ist eine Bewertung einfach durchzuführen, zum Beispiel bei der Meldung eines Ebola-Falles bei einem Reiserückkehrer. In anderen Fällen ist eine Bewertung hochkomplex und erfordert viel Erfahrung und Austausch zwischen den bewertenden Personen.\n\n\nSchritt 6: Kommunikation\n\n\nSchritt 7: Maßnahmen\n\n\nAnwendung der Schritte\nDie Schritte können dabei in einem komplexen System nacheinander abgearbeitet werden. Es ist aber auch möglich, diese Schritte gedanklich durch eine einzelne Person in wenigen Sekunden durchzugehen"
   }
 ]
