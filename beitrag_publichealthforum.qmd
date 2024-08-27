@@ -3,95 +3,61 @@ title: "Infectious disease surveillance"
 author: "Jakob Schumacher"
 ---
 
-Am 28. Oktober 2020 trafen sich Angela Merkel und die Ministerpräsidentinnen und Ministerpräsidenten. Sie debatierten über Maßnahmen gegen die zweite Welle der COVID-19-Pandemie. Wir wissen nicht genau welche Informationen auf ihren Sprechzetteln standen, aber wir können uns sicher sein, dass die Daten und Zahlen des Meldewesens nach dem Infektionsschutzgesetz eine zentrale Rolle gespielt haben. In der anschließenden Konferenz wurden die Verdopplungszahl und die Zahlen der Intensivstation als Begründung für eingreifende Maßnahmen angeführt. Das Surveillance von Infektionskrankheiten hat also einen entscheidenden Anteil am Wohl und Wehe der ganzen Nation.
+Am 28. Oktober 2020 trafen sich Angela Merkel und die Ministerpräsidentinnen und Ministerpräsidenten, um Maßnahmen gegen die zweite Welle der COVID-19-Pandemie zu diskutieren. Obwohl wir nicht genau wissen, welche Informationen auf ihren Sprechzetteln standen, können wir davon ausgehen, dass die Daten und Zahlen des Meldewesens nach dem Infektionsschutzgesetz eine zentrale Rolle spielten. In der anschließenden Konferenz wurden die Verdopplungszeit und die Zahl der belegten Intensivbetten als Begründung für einschneidende Maßnahmen herangezogen. Das Surveillance-System für Infektionskrankheiten spielt somit eine entscheidende Rolle für dasWohl der gesamten Nation.
 
 ## Einordnung von Surveillance
-Nahezu alle komplexeren biologischen Systeme und technischen Systeme enthalten eine Art Statuserhebung um den Zustand des Systems zu überwachen und zu steuern. Auch viele soziale Systeme analysieren den jeweils aktuellen Zustand. Es gibt dafür viele verschiedene Namen und Beschreibungen: eine wissenschaftliche Studie ist eine Statuserhebung, ebenso die polizeiliche Überwachung einer Gruppierung oder die Evaluation eines Projekts im Unternehmensbereich. Auch die Surveillance ist eine Statuserhebung. Surveillance ist entstanden aus den französischen Worten: "sur" and "veiller". Die deutsche Übersetzung ist "überwachen". Tieman et al. unterscheiden drei grundsätzliche Stufen von Surveillance: Stufe 1) Panopticum bzw. es könnte auch Top-Down-Surveillance genannt werden. Hierbei überwacht ein Akteur (im Regelfall staatliche) eine Gruppe von Personen mit dem Ziel ein Verhalten bei den Überwachten zu erreichen 2) Eine rhizomatische Surveillance, die im verborgenen Daten sammelt, wie dieses im Internet regelhaft durchgeführt wird 3) eine partizipatorische Surveillance bei der auch Bürgerinnen und Bürger durch das Teilen von Photos und Informationen eine Surveillance kreieren. (DOI:10.1093/oxfordhb/9780199680832.013.31)
+Nahezu alle komplexeren biologischen und technischen Systeme verfügen über Mechanismen zur Statuserhebung, um den Zustand des Systems zu überwachen und zu steuern. Auch viele soziale Systeme analysieren regelmäßig ihren aktuellen Zustand. Für diese Art der Analyse gibt es verschiedene Begriffe: Eine wissenschaftliche Studie ist eine Form der Statuserhebung, ebenso wie die polizeiliche Überwachung einer Gruppierung oder die Evaluation eines Projekts im Unternehmensbereich. Auch Surveillance ist eine Form der Statuserhebung. Der Begriff „Surveillance“ leitet sich aus den französischen Wörtern „sur“ und „veiller“ ab und bedeutet auf Deutsch „überwachen“. Tieman et al. unterscheiden drei grundlegende Stufen von Surveillance:
+
+1. Panoptikum oder Top-Down-Surveillance: Hierbei überwacht ein Akteur (in der Regel der Staat) eine Gruppe von Personen mit dem Ziel, ein bestimmtes Verhalten bei den Überwachten zu erreichen.
+2. Rhizomatische Surveillance: Diese Form sammelt verdeckt Daten, wie es beispielsweise routinemäßig im Internet geschieht.
+3 Partizipatorische Surveillance: Hierbei beteiligen sich Bürgerinnen und Bürger aktiv, indem sie durch das Teilen von Fotos und Informationen eine Überwachungskultur schaffen. (DOI:10.1093/oxfordhb/9780199680832.013.31)
 
 ## Epidemiologische Surveillance
-Als epidemiologische Surveillance (im folgenden verkürzte als Surveillance bezeichnet) ist die fortlaufende systematische Sammlung, wissenschaftliche Analyse und Bewertung von Gesundheitsdaten sowie die zeitnahe Berichterstattung der bewerteten Ergebnisse zum Zweck der Planung, Durchführung und Bewertung von Maßnahmen zur Krankheitsprävention und -bekämpfung. (Antao EM, Jung-Sendzik T, Buda S, Haas W, Diercke M, Schumacher J, Hamouda O, Schaade L, Wieler LH: COVID-19-Pandemie: Surveillance und Studien des Robert Koch-Instituts zur Lage- und Maßnahmenbewertung Epid Bull 2022;29:3-11 | DOI 10.25646/10314). Die Surveillance grenzt sich damit von ähnlich gelagerten Konzepten der Statuserhebung ab. Surveillance ist regelmäßig und zumeist dauerhaft angelegt. Damit grenzt sie sich von einer Evaluation, die sich üblicherweise auf ein einzelnes Geschehnis bezieht. Die Surveillance ist ausdefiniert, d.h. es steht im Regefall von Anfang an fest was wie genau angeschaut wird und im Regelfall weiß man welche Ergebnisse man erwartet. Dies ist im Gegensatz zu einer wissenschaftlichen Untersuchung, die ja gerade darauf abzielt unbekanntes aufzudecken. Die Surveillance ist üblicherweise von einem Akteur mit einem Ziel beauftragt womit die Surveillance im Gegensatz zu einer anlasslosen Sammlung von Daten, die interessehalber ausgewertet wird. 
+Als epidemiologische Surveillance (im folgenden verkürzte als Surveillance bezeichnet) ist die fortlaufende systematische Sammlung, wissenschaftliche Analyse und Bewertung von Gesundheitsdaten sowie die zeitnahe Berichterstattung der bewerteten Ergebnisse zum Zweck der Planung, Durchführung und Bewertung von Maßnahmen zur Krankheitsprävention und -bekämpfung. (Antao EM, Jung-Sendzik T, Buda S, Haas W, Diercke M, Schumacher J, Hamouda O, Schaade L, Wieler LH: COVID-19-Pandemie: Surveillance und Studien des Robert Koch-Instituts zur Lage- und Maßnahmenbewertung Epid Bull 2022;29:3-11 DOI 10.25646/10314). Die Surveillance grenzt sich damit von ähnlich gelagerten Konzepten der Statuserhebung ab. Surveillance ist regelmäßig und zumeist dauerhaft angelegt. Damit grenzt sie sich von einer Evaluation, die sich üblicherweise auf ein einzelnes Geschehnis bezieht. Die Surveillance ist ausdefiniert, d.h. es steht im Regefall von Anfang an fest was wie genau angeschaut wird und im Regelfall weiß man welche Ergebnisse man erwartet. Dies ist im Gegensatz zu einer wissenschaftlichen Untersuchung, die ja gerade darauf abzielt unbekanntes aufzudecken. Die Surveillance ist üblicherweise von einem Akteur mit einem Ziel beauftragt womit die Surveillance im Gegensatz zu einer anlasslosen Sammlung von Daten, die interessehalber ausgewertet wird. 
 
 ## Surveillance auf internationaler Ebene
 Die Surveillance ist tief in das Rechtssystem eingearbeitet. Die internationalen Gesundheitsvorschriften - eines der ganz wenigen nahezu weltweit gültigen Gesetze - beinhalten eine Surveillance. Diese zielt vor allem darauf ab grenzüberschreitenden Gefahren durch Infektionskrankheiten abzuwehren. In der Coronapandemie hat sich der Wert einer solchen internationalen Zusammenarbeit gezeigt. Aktuell laufen Bemühungen den internationalen Gesundheitsvorschriften einen Internationaler Vertrag zur Pandemieprävention zu vereinbaren (https://www.who.int/news/item/01-12-2021-world-health-assembly-agrees-to-launch-process-to-develop-historic-global-accord-on-pandemic-prevention-preparedness-and-response) 
 
 Surveillance ist der erste Baustein der "Essential public health operations" (https://who-sandbox.squiz.cloud/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations)
 
+## Die Ziele der Surveillance
+Eine Surveillance hat ein Ziel. Dieses Ziel ist im Regelfall Maßnahmen zu ergreifen um eine Gesundheitsgefahr abzuwenden oder zu minimieren. Daher ist auch der Leitspruch der Surveillance "Daten für Taten". Manchmal wird er auch als "Informationen für Aktionen" dargestellt um zu betonen, dass es Daten erst bewertet werden müssen und damit in Information umgewandelt werden. Der Leitspruch ist seiner ursprünglichen Form von Langumir als folgende Formel dargestellt: "Surveillance for Action" (Langmuir  see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149774/)
+
 ## Die Schritte der Surveillance
-Die Surveillance beobachtet im Regelfall Infektionsereignisse (Schritt 1). Diese Infektionsereignisse werden erfasst (Schritt 2) und klassifiziert (Schritt 3). Anschließend werden die entstandenen Daten verarbeitet (Schritt 4) und dann epidemiologisch bewertet (Schritt 5). Die entstandenen Informationen werden an Entscheidungsträger kommuniziert (Schritt 6). Die Maßnahme (Schritt 7) ist nicht mehr Bestandteil der Surveillance im eigentlichen Sinne, aber die Surveillance ist darauf ausgerichtet. 
+Die Surveillance beobachtet im Regelfall Infektionsereignisse (Bestandteil 1). Diese Infektionsereignisse werden erfasst (Bestandteil 2) und klassifiziert (Bestandteil 3). Anschließend werden die entstandenen Daten verarbeitet (Bestandteil 4) und dann epidemiologisch bewertet (Bestandteil 5). Die entstandenen Informationen werden an Entscheidungsträger kommuniziert (Bestandteil 6). Die Maßnahme (Bestandteil 7) ist kein Teil der Surveillance im eigentlichen Sinne, aber die Surveillance ist darauf ausgerichtet. Die Schritte können dabei in einem komplexen System nacheinander abgearbeitet werden. Es ist aber auch möglich, diese Schritte gedanklich durch eine einzelne Person in wenigen Sekunden durchzugehen.  
 
 
-
-Daher auch der Leitspruch der Surveillance "Daten für Taten", der in seiner ursprünglichen Form "Surveillance for Action" hieß (Langmuir  see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7149774/)
-
-```{r}
-# library(DiagrammeR)
-# 
-# a_graph <-  create_graph() %>%
-#   add_node(label = "Infektionsereignis (1)") %>%  
-#   add_node(labe = "Erfassung (2)") %>%
-#   add_node(label = "Klassifikation (3)") %>%
-#   add_node(label = "Datenverarbeitung (4)") %>%
-#   add_node(label = "Bewertung (5)") %>%
-#   add_node(label = "Kommunikation (6)") %>%
-#   add_node(label = "Entscheidung (7)", type = "rect") %>%
-#   add_edge(from = 1, to = 2) |> 
-#   add_edge(from = 2, to = 3) |> 
-#   add_edge(from = 3, to = 4) |> 
-#   add_edge(from = 4, to = 5) |> 
-#   add_edge(from = 5, to = 6) |> 
-#   add_edge(from = 6, to = 7) |> 
-#   add_edge(from = 7, to = 1) |> 
-#   set_node_attrs(node_attr = "shape", value = "rectangle") |> 
-#   set_node_attrs(node_attr = "style", value = "rounded,filled") %>%
-#   set_node_attrs(node_attr = "color", value = "lightblue") |> 
-#   set_node_attrs(node_attr = "width", value = 1.4)
-# 
-# render_graph(a_graph, layout = "circle")  
-```
-
-### Schritt 1: Infektionsereignis
+### Bestandteil 1: Infektionsereignis
 Die infektionsrelevanten Ereignisse, die in einem Surveillancesystem überwacht werden, können vielfältig sein. Die Wahl des jeweiligen Ereignisses hat dabei einen entscheidenden Einfluss auf das ganze System. Deshalb werden Surveillancesysteme häufig nach diesem Ereignis benannt: Die Notaufnahmesurveillance ist ein solches Beispiel. Auch die Unterteilung von Surveillancesystem erfolgt häufig anhand des Ereignisses, dass analysiert wird: so beruht die Einteilung eines Systems als "syndromic surveillance" darauf, dass "Syndrome" überwacht werden. 
 Ein klassisches Ereigniss, das überwacht wird, ist das Auftreten einer Infektionskrankheiten bei einem Menschen. Es gibt aber viele Variationen und weitere Infektionsereignisse, die eine Relevanz haben können: Ein freies Intensivbett, ein Virusgenom im Abwasser, die Besiedelung eines Menschen mit einem Erreger, die ärztliches ICD-10 Einstufung eines Patienten oder einer Patientin, das Finden eines Zeitungsartikels zu einem Krankheitsgeschehen, die subjektive Bewertung eines ÖGD-Mitarbeiters, dass etwas eine Gefahr für die Bevölkerung darstellt.   
 
-### Schritt 2: Erfassung
-Die Infektionsereignisse werden erfasst. Wie genau die Erfassung erfolgt hängt dabei vom jeweiligen Surveillancesystem ab. Dies passiert z.B. durch eine Meldung einer Ärztin oder eines Arztes. Ein Ereignis kann aber auch erfasst werden durch eine beauftragte Laboruntersuchung beispielsweise im Abwasser. Andere Erfassung erfolgen durch die Gesundheitsämter, die nach einer ersten Meldung weitere Fälle ermitteln. Es gibt auch eine Nutzung von anderen Datenquellen, die nicht primär für die Surveillance erhoben wurden, z.B. Krankheitsmeldungen an die Krankenkasse oder Todesbescheinigungen von Ärztinnen und Ärzten. Auch dieser Schritt gibt Anlass für die Bennung eines Surveillancesystems: Arzt-basiertes System im Gegensatz zu einem Labor-basiertes System oder aber auch Sekundärdatensurveillance.
+### Bestandteil 2: Erfassung
+Die Infektionsereignisse werden erfasst. Wie genau die Erfassung erfolgt hängt dabei vom jeweiligen Surveillancesystem ab. Dies passiert z.B. durch eine Meldung einer Ärztin oder eines Arztes. Ein Ereignis kann aber auch erfasst werden durch eine beauftragte Laboruntersuchung beispielsweise im Abwasser. Andere Erfassung erfolgen durch die Gesundheitsämter, die nach einer ersten Meldung weitere Fälle ermitteln. Es gibt auch eine Nutzung von anderen Datenquellen, die nicht primär für die Surveillance erhoben wurden, z.B. Krankheitsmeldungen an die Krankenkasse oder Todesbescheinigungen von Ärztinnen und Ärzten. Auch dieser Bestandteil gibt Anlass für die Bennung eines Surveillancesystems: Arzt-basiertes System im Gegensatz zu einem Labor-basiertes System oder aber auch Sekundärdatensurveillance.
 
-### Schritt 3: Klassifikation
+### Bestandteil 3: Klassifikation
 Klassifikation bedeutet, dass die erfassten Ereignisse eingeteilt werden. Ein Mensch oder eine Software entscheidet anhand einer Definition auf welche Art und Weise das Ereignis als Datenpunkt mit aufgenommen wird. Häufig ist die Klassifikation eine Absprache was genau als Ereignis zählt ist und was nicht. Diese Klassifikation erfolgt häufig durch eine sogenannte Falldefinition. Eine Klassifizierung ist wichtig, denn erfasste Ereignisse können fehlerhaft sein und sollte nicht gezählt werden. Oder es liegen nicht genug Informationen vor, um zu entscheiden ob ein echtes Ereignis vorliegt oder nicht. Ohne eine Klassifikation bilden die Ereignisse eine unklare Sammlung mit zweifelhafter Bedeutung. Die Klassifikation ist häufig ein versteckter Teil des Surveillancesystem oder so im System eingebaut, dass er nicht als solcher erkannt wird, so ist die Anwendung der Falldefinitionen im Meldewesen in die Meldesoftware eingebaut. Auch bei zunächst trivial erscheinenden Klassifizierungen müssen wichtige Absprachen getroffen werden: Zählt bei der Mortalitätssurveillance der Tod eines Touristen mit ausländischem Pass als Todesfall im Sinne der Surveillance?
 
-### Schritt 4: Datenverarbeitung
-Die Datenverarbeitung ist in der klassischen Surveillanceliteratur wenig erwähnt, stellt aber einen Schritt dar, an dem sich viel in den letzten Jahren getan hat und der viele Personen auf allen Ebenen beschäftigt. Wurde früher in Surveillancesystem monatlich per Brief übermittelt so erfolgt der Datenfluß heute zumeist über Schnittstellen zwischen Softwareprogrammen und Datenbanken. Die Art und Weise wie die Daten übermittelt werden, beeinflusst die Datenqualität und damit auch die Bewertung der Daten.
+### Bestandteil 4: Datenverarbeitung
+Die Datenverarbeitung ist in der klassischen Surveillanceliteratur wenig erwähnt, stellt aber einen Bestandteil dar, an dem sich viel in den letzten Jahren getan hat und der viele Personen auf allen Ebenen beschäftigt. Wurde früher in Surveillancesystem monatlich per Brief übermittelt so erfolgt der Datenfluß heute zumeist über Schnittstellen zwischen Softwareprogrammen und Datenbanken. Die Art und Weise wie die Daten übermittelt werden, beeinflusst die Datenqualität und damit auch die Bewertung der Daten.
 Die Datenverarbeitung beinhaltet auch die Anwendung von Scripten, die die Datenmengen für die anschließende Bewertung vorbereitet. Eine automatisierte Ausbruchserkennung ist ein Beispiel dafür. Dabei werden die Daten mit Hilfe eines Algorithmus oder auch mittels machine-learning analysiert und es wird festgestellt ob eine hohe Wahrscheinlichkeit für ein Ausbruch vorliegt.
 Der entstehende Datensatz kann als Open Data bereitgestellt werden. Dieses ist ein Veröffentlichungsform, die in der letzten Zeit stark zugenommen hat. 
 
-### Schritt 5: Bewertung
-Der Bewertungsschritt besteht aus der Analyse der Daten und dem anschließenden Ziehen von Schlüssen. In manchen Fällen ist eine Bewertung einfach durchzuführen, zum Beispiel bei der Meldung eines Ebola-Falles bei einem Reiserückkehrer ist es klar, dass dieses ein wichtiges Ereignis darstellt, dass Maßnahmen nach sich zieht. In anderen Fällen ist eine Bewertung hochkomplex und erfordert viel Erfahrung und Austausch zwischen den bewertenden Personen: Ist ein relativer Anstieg einer Variante von SARS-CoV-2 ein Anlass für Maßnahmen?  Dieser Bewertungsschritt wandelt Daten in Informationen um und folgt damit den ersten zwei Teilen des "data–information–knowledge–wisdom Pyramide" (DOI: 10.1177/0165551506070706). Die Bewertung ist dabei ein subjektiver Vorgang, der stark kontextabhängig ist. Für die Bewertung ist vor allem die Kenntnisse über die Limitationen ein wichtiger Bestandteil. Ein Fallanstieg mag auf dem Papier ein eindeutiges Ereignis sein, kann aber zum Beispiel durch eine intensivierte Erfassung verursacht sein und damit weniger relevant und sogar ein Zeichen der Entspannung, z.B. wenn bei einer umfassenden Diagnostik aller Mitarbeitenden in einem Krankenhaus weniger Fälle als erwartet gefunden werden. 
+### Bestandteil 5: Bewertung
+Der Bewertungsschritt besteht aus der Analyse der Daten und dem anschließenden Ziehen von Schlüssen, mit anderen Worten die vorhandenen Daten werden in Informationen umgewandelt. In manchen Fällen ist eine Bewertung einfach durchzuführen, zum Beispiel bei der Meldung eines Ebola-Falles bei einem Reiserückkehrer ist es klar, dass dieses ein wichtiges Ereignis darstellt, dass Maßnahmen nach sich zieht. In anderen Fällen ist eine Bewertung hochkomplex und erfordert viel Erfahrung und Austausch zwischen den bewertenden Personen: Ist ein relativer Anstieg einer Variante von SARS-CoV-2 ein Anlass für Maßnahmen?  Dieser Bewertungsschritt wandelt Daten in Informationen um und folgt damit den ersten zwei Teilen des "data–information–knowledge–wisdom Pyramide" (DOI: 10.1177/0165551506070706). Die Bewertung ist dabei ein subjektiver Vorgang, der stark kontextabhängig ist. Für die Bewertung ist vor allem die Kenntnisse über die Limitationen ein wichtiger Bestandteil. Ein Fallanstieg mag auf dem Papier ein eindeutiges Ereignis sein, kann aber zum Beispiel durch eine intensivierte Erfassung verursacht sein und damit weniger relevant und sogar ein Zeichen der Entspannung, z.B. wenn bei einer umfassenden Diagnostik aller Mitarbeitenden in einem Krankenhaus weniger Fälle als erwartet gefunden werden. 
 Die Veröffentlichung als Open Data bedeutet, dass die Bewertung nicht nur durch direkt dafür vorgesehene Personen erfolgt, sondern Allen die Möglichkeit dazu gibt. Diese ermöglicht eine unabhängige Kontrolle dieses Schrittes der Surveillance, birgt aber die Gefahr einer Fehlinterpretation.  
 
-### Schritt 6: Kommunikation
-Die Kommunikation oder Dissemination beinhaltet die 
+### Bestandteil 6: Kommunikation
+Die Kommunikation ist die Verbreitung der erhaltenen Informationen in Wort, Schrift und Bild. Kommunikation besteht aus den traditionellen Elementen wie Pressemitteilung und Pressekonferenzen oder der Erstellung von Berichten. Kommunikation ist aber inzwischen auch Social media und Fact-checking. Auch die Darstellung von Daten und Informationen in Dashboards zählt zur Kommunikation. Nicht zuletzt ist die graphische Darstellung von Informationen zu Zeit, Ort und Person ein Teil dieses Surveillance-Bestandteils. Die Kommunikation von epidemiologischen Informationen stand zum Ende der Pandemie stark im Fokus und ist ein Bereich mit einem starken Entwicklungspotential. Nahezu weltweit gab es einen relevanten Anteil der Bevölkerung, die die Maßnahmen zur Bekämpfung der COVID-19 Pandemie abgelehnt haben und dadurch einen Einfluss auf den Verlauf der Pandemie hatten. 
 
-### Schritt 7: Maßnahmen
-
-
-
-### Anwendung der Schritte
-
-Die Schritte können dabei in einem komplexen System nacheinander abgearbeitet werden. Es ist aber auch möglich, diese Schritte gedanklich durch eine einzelne Person in wenigen Sekunden durchzugehen  
-
+### Bestandteil 7: Maßnahmen
+Die Maßnahmen sind streng genommen kein Bestandteil der Surveillance, aber sie sind das Ziel auf das die Surveillance hinarbeitet. Maßnahmen sind alle absichtlichen Anstrengungen von beauftragten Akteuren, die auf die Verhinderung der Weiterverbreitung und generell auf die Minimierung von Schaden durch Infektionskrankheiten gerichtet sind. Maßnahmen sind häufig gesetzlich beschrieben zum Beispiel im Infektionsschutzgesetz.
 
 ## Das Meldewesen
-Das deutsche infektionsepidemiologische Meldewesen nach dem Infektionsschutzgesetz ist das Rückgrat der infektiologischen Surveillance in Deutschland. Es hat sich historisch entwickelt. Die frühesten Elemente sind im Reichsseuchengesetz von 1900 enthalten. 
-
-
-
-
-
-
-## Die syndromische Surveillance
-Die syndromische Surveillance
-
-## ARS
+Das deutsche infektionsepidemiologische Meldewesen nach dem Infektionsschutzgesetz ist das Rückgrat der infektiologischen Surveillance in Deutschland. Es hat sich historisch entwickelt und lässt sich auch schon im  Reichsseuchengesetz von 1900 erkennen. Dort heißt es zum Beispiel: _"Jede Erkrankung und jeder Todesfall an Ausatz (Lepra), Cholera (asiatischer), Fleckfieber (Flecktyphus), Gelbfieber, Pest (orientalischer Beulenpest), Pocken (Blattern) [...] ist [...] der zuständigen Polizeibehörde unverzüglich anzuzeigen."_     (https://www.reichstagsprotokolle.de/Blatt_k10_bsb00002789_00558.html)
+Das bestehende Meldewesen wurde im Jahr 2000 mit der Gestaltung des Infektionsschutzgesetzes erarbeitet. Dort ist in den §§ 6 bis 11 das Meldewesen gesetzlich geregelt. Die entsprechenden Paragraphen wurden vielfach geändert zumeist als Reaktion auf ein akutes Geschehen wie z.B. der HUS-Epidemie 2011. 
+Das Meldewesen umfasst verschiedene Sachverhalte von verschiedenen meldepflichtigen Professionen. Damit kann es als eine Sammlung von ähnlichen aber unterschiedlichen Surveillancesystemen betrachtet werden. Zum einen existiert eine namentliche Meldepflicht für Ärztinnen und Ärzte sowie Pathologinnen und Pathologen und in Teilaspeketen noch von weiteren Professionen. Das Ereignis das dadurch erfasst wird ist: _der Verdacht einer Erkrankung, die Erkrankung sowie der Tod_ von einer Reihe von Infektionskrankheiten, die ärztlich diagnostiziert werden können. Ein weiteres Eregnis, dass im Meldewesen betrachtet wird ist unter dem Namen Meldepflicht für Labore bekannt. Das Ereignis ist ein Labornachweis, der auf eine akute Infektion hinweist. Dieses gilt für eine größere Anzahl von Infektionskrankheiten. Daneben existieren noch weitere Meldepflichten z.B. eine nicht-namentliche Meldepflicht in § 7 Absatz 3 IfSG für den Labornachweis von bestimmte Infektionserreger wie HIV.   
+Die Erfassung dieser Ereignisse (Schritt 2) erfolgt im Regelfall durch die Meldung und durch die Ermittlung der Gesundheitsämter. Lange Jahre war die Art und Weise einer Meldung nicht festgelegt, seit der Einführung von DEMIS ist die Verwendung des Systems vorgeschrieben. Die Art und Weise der Ermittlung der Gesundheitsämter ist nicht vorgeschrieben, wobei natürlich  Einschränkungen durch die Persönlichkeitsrechte gelten (https://www.gesetze-im-internet.de/ifsg/__25.html). Häufig ruft das Gesundheitsamt die betroffenen Personen an um einen Fall zu evaluieren. Das Meldewesen ist damit ein Mischsystem aus passiver und aktiver Surveillance. Passiv weil die überwachten Ereignisse nicht für das Meldewesen geschaffen wurden - so würde eine ärztliche Untersuchung unabhängig vom Meldewesen durchgeführt werden. Aktiv ist das Surveillancesystem deshalb, weil die Gesundheitsämter aktiv ermitteln und die betroffenen Personen anrufen.
+Die Klassifizierung (Schritt 3) erfolgt durch die Meldesoftware. Dabei sind die Definitionen zweigeteilt. Zum einen ist festgelegt, welche Ereignisse an die Landesstelle und das RKI übermittelt werden "Übermittlungsdefinition" und zum anderen ist festgelegt 
 
 
 ## Abwassersurveillance

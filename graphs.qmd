@@ -1,0 +1,29 @@
+---
+title: "graphs"
+---
+
+```{r}
+# library(DiagrammeR)
+# 
+# a_graph <-  create_graph() %>%
+#   add_node(label = "Infektionsereignis (1)") %>%  
+#   add_node(labe = "Erfassung (2)") %>%
+#   add_node(label = "Klassifikation (3)") %>%
+#   add_node(label = "Datenverarbeitung (4)") %>%
+#   add_node(label = "Bewertung (5)") %>%
+#   add_node(label = "Kommunikation (6)") %>%
+#   add_node(label = "Entscheidung (7)", type = "rect") %>%
+#   add_edge(from = 1, to = 2) |> 
+#   add_edge(from = 2, to = 3) |> 
+#   add_edge(from = 3, to = 4) |> 
+#   add_edge(from = 4, to = 5) |> 
+#   add_edge(from = 5, to = 6) |> 
+#   add_edge(from = 6, to = 7) |> 
+#   add_edge(from = 7, to = 1) |> 
+#   set_node_attrs(node_attr = "shape", value = "rectangle") |> 
+#   set_node_attrs(node_attr = "style", value = "rounded,filled") %>%
+#   set_node_attrs(node_attr = "color", value = "lightblue") |> 
+#   set_node_attrs(node_attr = "width", value = 1.4)
+# 
+# render_graph(a_graph, layout = "circle")  
+```
