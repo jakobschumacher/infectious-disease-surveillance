@@ -1,0 +1,9 @@
+---
+title: "Step 4: Data Processing"
+---
+
+Data processing is seldom mentioned in classical surveillance literature, but it is a step that significantly improves surveillance systems. Many people at all levels are involved in data processing within surveillance systems. In the past, data was transmitted monthly by mail in surveillance systems, whereas today, data flow mostly occurs through interfaces between software programs and databases. The way data is transmitted affects data quality and, consequently, the evaluation of the data. Data processing also includes the application of scripts that prepare the data for subsequent evaluation. An example is automated outbreak detection. Here, data is analyzed using an algorithm or machine learning to determine whether there is a high probability of an outbreak. The resulting dataset can be made available as open data, a publication format that has increased significantly in recent times.
+
+
+
+

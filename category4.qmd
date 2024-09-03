@@ -1,0 +1,7 @@
+---
+title: "Active and Passive Surveillance"
+---
+
+
+An active surveillance system involves a group of individuals who actively collect information for the surveillance system. In contrast, a passive surveillance system uses data collected for another purpose. Passive surveillance is sometimes referred to as secondary data analysis. For example, organization staff might go door-to-door to gather information—this would be an active surveillance system. Alternatively, data could be extracted from a hospital database—this would be a passive surveillance system.
+

@@ -1,0 +1,5 @@
+---
+title: "Step 3: Classification"
+---
+
+Classification means categorizing the recorded events. A person or software decides based on a definition how the event is included as a data point. Often, classification involves agreeing on what exactly counts as an event and what does not. This classification is often done using a so-called case definition. Classification is important because recorded events can be erroneous and should not be counted. Or there may not be enough information to decide whether a real event has occurred. Without classification, the events form an unclear collection with questionable significance. Classification is often a hidden part of the surveillance system or built into the system in a way that it is not recognized as such. For example, the application of case definitions in the reporting system is built into the reporting software. Even in seemingly trivial classifications, important definitions must be agreed upon: Does the death of a tourist with a foreign passport count as a death in the context of mortality surveillance?

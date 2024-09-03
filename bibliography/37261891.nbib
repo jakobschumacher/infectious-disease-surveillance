@@ -1,0 +1,135 @@
+PMID- 37261891
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230903
+IS  - 2564-1891 (Electronic)
+IS  - 2564-1891 (Linking)
+VI  - 3
+DP  - 2023 Jun 1
+TI  - Establishing Infodemic Management in Germany: A Framework for Social Listening 
+      and Integrated Analysis to Report Infodemic Insights at the National Public 
+      Health Institute.
+PG  - e43646
+LID - 10.2196/43646 [doi]
+LID - e43646
+AB  - BACKGROUND: To respond to the need to establish infodemic management functions at 
+      the national public health institute in Germany (Robert Koch Institute, RKI), we 
+      explored and assessed available data sources, developed a social listening and 
+      integrated analysis framework, and defined when infodemic management functions 
+      should be activated during emergencies. OBJECTIVE: We aimed to establish a 
+      framework for social listening and integrated analysis for public health in the 
+      German context using international examples and technical guidance documents for 
+      infodemic management. METHODS: This study completed the following objectives: 
+      identified (potentially) available data sources for social listening and 
+      integrated analysis; assessed these data sources for their suitability and 
+      usefulness for integrated analysis in addition to an assessment of their risk 
+      using the RKI's standardized data protection requirements; developed a framework 
+      and workflow to combine social listening and integrated analysis to report back 
+      actionable infodemic insights for public health communications by the RKI and 
+      stakeholders; and defined criteria for activating integrated analysis structures 
+      in the context of a specific health event or health emergency. RESULTS: We 
+      included and classified 38% (16/42) of the identified and assessed data sources 
+      for social listening and integrated analysis at the RKI into 3 categories: social 
+      media and web-based listening data, RKI-specific data, and infodemic insights. 
+      Most data sources can be analyzed weekly to detect current trends and narratives 
+      and to inform a timely response by reporting insights that include a risk 
+      assessment and scalar judgments of different narratives and themes. CONCLUSIONS: 
+      This study identified, assessed, and prioritized a wide range of data sources for 
+      social listening and integrated analysis to report actionable infodemic insights, 
+      ensuring a valuable first step in establishing and operationalizing infodemic 
+      management at the RKI. This case study also serves as a roadmap for others. 
+      Ultimately, once operational, these activities will inform better and targeted 
+      public health communication at the RKI and beyond.
+CI  - ©T Sonia Boender, Paula Helene Schneider, Claudia Houareau, Silvan Wehrli, Tina D 
+      Purnat, Atsuyoshi Ishizumi, Elisabeth Wilhelm, Christopher Voegeli, Lothar H 
+      Wieler, Christina Leuker. Originally published in JMIR Infodemiology 
+      (https://infodemiology.jmir.org), 01.06.2023.
+FAU - Boender, T Sonia
+AU  - Boender TS
+AUID- ORCID: 0000-0002-4418-3713
+AD  - Risk Communication Unit, Robert Koch Institute, Berlin, Germany.
+FAU - Schneider, Paula Helene
+AU  - Schneider PH
+AUID- ORCID: 0000-0002-7513-1342
+AD  - Risk Communication Unit, Robert Koch Institute, Berlin, Germany.
+FAU - Houareau, Claudia
+AU  - Houareau C
+AUID- ORCID: 0000-0001-7532-4956
+AD  - Department for Infectious Disease Epidemiology, Robert Koch Institute, Berlin, 
+      Germany.
+FAU - Wehrli, Silvan
+AU  - Wehrli S
+AUID- ORCID: 0009-0006-3377-1890
+AD  - Centre for Artificial Intelligence in Public Health Research, Robert Koch 
+      Institute, Berlin, Germany.
+FAU - Purnat, Tina D
+AU  - Purnat TD
+AUID- ORCID: 0000-0002-0257-6631
+AD  - Health Emergencies Programme, Department of Pandemic and Epidemic Preparedness 
+      and Prevention, World Health Organization, Geneva, Switzerland.
+FAU - Ishizumi, Atsuyoshi
+AU  - Ishizumi A
+AUID- ORCID: 0000-0001-9678-5372
+AD  - Health Emergencies Programme, Department of Pandemic and Epidemic Preparedness 
+      and Prevention, World Health Organization, Geneva, Switzerland.
+FAU - Wilhelm, Elisabeth
+AU  - Wilhelm E
+AUID- ORCID: 0000-0002-4641-516X
+AD  - School of Public Health Information Futures Lab, Brown University, Providence, 
+      RI, United States.
+FAU - Voegeli, Christopher
+AU  - Voegeli C
+AUID- ORCID: 0000-0002-1217-402X
+AD  - Centers for Disease Control and Prevention, Atlanta, Georgia.
+FAU - Wieler, Lothar H
+AU  - Wieler LH
+AUID- ORCID: 0000-0003-4365-3717
+AD  - Robert Koch Institute, Berlin, Germany.
+AD  - Digital Global Public Health, Hasso Plattner Institute, University of Potsdam, 
+      Potsdam, Germany.
+FAU - Leuker, Christina
+AU  - Leuker C
+AUID- ORCID: 0000-0003-2337-3785
+AD  - Risk Communication Unit, Robert Koch Institute, Berlin, Germany.
+LA  - eng
+GR  - 001/WHO_/World Health Organization/International
+PT  - Journal Article
+DEP - 20230601
+PL  - Canada
+TA  - JMIR Infodemiology
+JT  - JMIR infodemiology
+JID - 9918249014806676
+PMC - PMC10273031
+OTO - NOTNLM
+OT  - communication
+OT  - health promotion
+OT  - infodemic
+OT  - infodemic insights
+OT  - infodemiology
+OT  - integrated analysis
+OT  - misinformation
+OT  - public health
+OT  - social listening
+COIS- Conflicts of Interest: EW report no conflict of interest. TSB, CL, PHS, CH, SW 
+      and LHW are employed by the Robert Koch Institute, which is an organization that 
+      is the subject of inquiry and review. TDP and AI are staff members of the World 
+      Health Organization, are responsible for the views expressed in this paper, and 
+      do not represent the views of the organization. CV is employed by the US Centers 
+      for Disease Control and Prevention; the findings and conclusions in this 
+      manuscript are those of the authors and do not necessarily represent the official 
+      position of the US Centers for Disease Control and Prevention.
+EDAT- 2023/06/01 13:09
+MHDA- 2023/06/01 13:10
+PMCR- 2023/06/01
+CRDT- 2023/06/01 11:53
+PHST- 2022/12/09 00:00 [received]
+PHST- 2023/04/24 00:00 [accepted]
+PHST- 2023/04/18 00:00 [revised]
+PHST- 2023/06/01 13:10 [medline]
+PHST- 2023/06/01 13:09 [pubmed]
+PHST- 2023/06/01 11:53 [entrez]
+PHST- 2023/06/01 00:00 [pmc-release]
+AID - v3i1e43646 [pii]
+AID - 10.2196/43646 [doi]
+PST - epublish
+SO  - JMIR Infodemiology. 2023 Jun 1;3:e43646. doi: 10.2196/43646.

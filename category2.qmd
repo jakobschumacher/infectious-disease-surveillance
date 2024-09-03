@@ -1,0 +1,6 @@
+---
+title: "Event-Based Surveillance"
+---
+
+Event-based surveillance, better known by its English name, is somewhat different from the usual concept of surveillance because the events being monitored are not known in advance. Through a defined system, relevant events are actively sought. An example of such surveillance is an expert commission that regularly meets to collect potentially relevant events. These events could be news reports or rumors heard by the experts. The collected events are then evaluated, and the critical information is passed on.
+

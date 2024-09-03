@@ -1,0 +1,76 @@
+PMID- 27063588
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20161230
+IS  - 1560-7917 (Electronic)
+IS  - 1025-496X (Linking)
+VI  - 21
+IP  - 13
+DP  - 2016
+TI  - A system for automated outbreak detection of communicable diseases in Germany.
+LID - 10.2807/1560-7917.ES.2016.21.13.30180 [doi]
+AB  - We describe the design and implementation of a novel automated outbreak detection 
+      system in Germany that monitors the routinely collected surveillance data for 
+      communicable diseases. Detecting unusually high case counts as early as possible 
+      is crucial as an accumulation may indicate an ongoing outbreak. The detection in 
+      our system is based on state-of-the-art statistical procedures conducting the 
+      necessary data mining task. In addition, we have developed effective methods to 
+      improve the presentation of the results of such algorithms to epidemiologists and 
+      other system users. The objective was to effectively integrate automatic outbreak 
+      detection into the epidemiological workflow of a public health institution. Since 
+      2013, the system has been in routine use at the German Robert Koch Institute.
+FAU - Salmon, Maëlle
+AU  - Salmon M
+AD  - Department for Infectious Disease Epidemiology, Robert Koch Institute, Berlin, 
+      Germany.
+FAU - Schumacher, Dirk
+AU  - Schumacher D
+FAU - Burmann, Hendrik
+AU  - Burmann H
+FAU - Frank, Christina
+AU  - Frank C
+FAU - Claus, Hermann
+AU  - Claus H
+FAU - Höhle, Michael
+AU  - Höhle M
+LA  - eng
+PT  - Journal Article
+PL  - Sweden
+TA  - Euro Surveill
+JT  - Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 
+      communicable disease bulletin
+JID - 100887452
+SB  - IM
+MH  - Algorithms
+MH  - Communicable Disease Control/*methods
+MH  - Communicable Diseases/*epidemiology
+MH  - Data Collection
+MH  - *Disease Outbreaks
+MH  - Epidemiological Monitoring
+MH  - Germany/epidemiology
+MH  - Humans
+MH  - *Numerical Analysis, Computer-Assisted
+MH  - Population Surveillance/*methods
+MH  - Public Health
+MH  - Public Health Informatics/instrumentation
+OTO - NOTNLM
+OT  - automated surveillance
+OT  - epidemiology
+OT  - informatics
+OT  - outbreaks
+OT  - software
+OT  - statistics
+OT  - surveillance
+EDAT- 2016/04/12 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2016/04/12 06:00
+PHST- 2015/05/15 00:00 [received]
+PHST- 2015/11/23 00:00 [accepted]
+PHST- 2016/04/12 06:00 [entrez]
+PHST- 2016/04/12 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - 30180 [pii]
+AID - 10.2807/1560-7917.ES.2016.21.13.30180 [doi]
+PST - ppublish
+SO  - Euro Surveill. 2016;21(13). doi: 10.2807/1560-7917.ES.2016.21.13.30180.

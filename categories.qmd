@@ -1,0 +1,19 @@
+---
+title: "Categorization of Surveillance Systems"
+---
+
+
+
+```{=html}
+<iframe class="slide-deck" src="demo/" width="400px"></iframe>
+```
+
+Surveillance systems can be categorized in different ways to highlight specific characteristics. These categories are not mutually exclusive, and a surveillance system can typically fit into several categories.
+
+- eventsurveillance
+- labsurveillance
+- activepassivesurveillance
+- collaborativesurveillance
+- wastewater
+- emergencyroom
+- mortality

@@ -8,35 +8,46 @@ website:
     right:
       - about.qmd
   sidebar:
+    logo: "img/booklogo.jpg"
     style: "floating"
     search: true
     contents:
       - href: index.qmd
         text: Home
-      - section: "Why do we need surveillance?"
+      - section: "Aims"
+        href: why.qmd
+        contents:
+          - case_based_measures.qmd
+          - community_based_measures.qmd
+          - guiding_people.qmd
+          - guiding_medicine.qmd
+          - science.qmd
+          - resources.qmd
+      - section: "Origins"
         href: why.qmd
         contents:
           - decisions.qmd
           - aourndtheworld.qmd
-      - section: "What is surveillance?"
-        href: what.qmd
+          - goals.qmd
+      - section: "Steps"
+        href: steps.qmd
         contents:
-          - events.qmd
-          - casedefinition.qmd
-          - data.qmd
-          - assessment.qmd
-          - dissemination.qmd
-      - section: "What surveillance systems exist?"
-        href: what.qmd
+          - step1.qmd
+          - step2.qmd
+          - step3.qmd
+          - step4.qmd
+          - step5.qmd
+          - step6.qmd
+          - step7.qmd
+      - section: "Categories"
+        href: categories.qmd
         contents:
-          - eventsurveillance.qmd
-          - labsurveillance.qmd
-          - activepassivesurveillance.qmd
-          - collaborativesurveillance.qmd
-          - wastewater.qmd
-          - emergencyroom.qmd
-          - mortality.qmd
-      - section: "How to measure surveillance?"
+          - category1.qmd
+          - category2.qmd
+          - category3.qmd
+          - category4.qmd
+          - category5.qmd
+      - section: "Evaluation"
         href: why.qmd
         contents:
           - dataquality.qmd
