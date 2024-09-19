@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -170,68 +136,54 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./why.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Aims</span></a>
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">What is surveillance?</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
- <span class="menu-text">case_based_measures.qmd</span>
-  </li>
-          <li class="sidebar-item">
- <span class="menu-text">community_based_measures.qmd</span>
-  </li>
-          <li class="sidebar-item">
- <span class="menu-text">guiding_people.qmd</span>
-  </li>
-          <li class="sidebar-item">
- <span class="menu-text">guiding_medicine.qmd</span>
-  </li>
-          <li class="sidebar-item">
- <span class="menu-text">science.qmd</span>
-  </li>
-          <li class="sidebar-item">
- <span class="menu-text">resources.qmd</span>
-  </li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a href="./why.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Origins</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./decisions.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Decisions</span></a>
+  <a href="./background_decisions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Information for action</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./aourndtheworld.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Surveillance around the world</span></a>
+  <a href="./background_othersurveillance.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Other forms of surveillance</span></a>
   </div>
 </li>
           <li class="sidebar-item">
- <span class="menu-text">goals.qmd</span>
-  </li>
+  <div class="sidebar-item-container"> 
+  <a href="./background_definition.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Definition of surveillance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./background_aims.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Aims of surveillance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./background_evaluation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Evaluation</span></a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="./steps.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Steps</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./step1.html" class="sidebar-item-text sidebar-link">
@@ -278,54 +230,66 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./categories.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Categories</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+            <a href="./types.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Types</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./category1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Categorization of Surveillance Systems</span></a>
+  <a href="./type_case.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Case based surveillance</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./category2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Event-Based Surveillance</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./category3.html" class="sidebar-item-text sidebar-link">
+  <a href="./type_syndromic.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Syndromic Surveillance</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./category4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Active and Passive Surveillance</span></a>
+  <a href="./type_event.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Event-Based Surveillance</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./category5.html" class="sidebar-item-text sidebar-link">
+  <a href="./type_activevspassive.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Active vs passive</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./type_sentinel.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sentinal vs comprehensive</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./type_massgathering.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Mass-Gathering Surveillance</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./type_wastewater.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Wastewater</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./why.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Evaluation</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true" aria-label="Toggle section">
+            <a href="./attributes.qmd" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Attributes</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
  <span class="menu-text">dataquality.qmd</span>
   </li>
@@ -364,13 +328,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<p>About this site</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<p><strong>Who writes this book:</strong> The contents of the book come form the “EPIET-World” - the european fellowship programm for applied epidemiology. So far the book is writtten by Jakob Schumacher but its based upon the work of many collegues who taught the subject beforehand.</p>
+<p><strong>How can i help this book:</strong> You would like to help this book - great!</p>
+<ol type="1">
+<li>You can go to Github issues of this repository and say what can be improved</li>
+<li>You can clone, than write something yourself and then make a pull request.</li>
+</ol>
 
 
 

@@ -1,0 +1,5 @@
+---
+title: "Mortality surveillance"
+---
+
+Mortality surveillance asses the number of deaths. One example would be the collection of 

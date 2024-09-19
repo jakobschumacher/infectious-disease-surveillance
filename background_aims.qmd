@@ -1,0 +1,27 @@
+---
+title: "Objectives of surveillance"
+---
+
+
+|Objective|Description|
+|---|---|
+|ALERT|Serves as an early warning system for impending public health emergencies|
+|ACTION|Allows case based measures, regulation based measures, medical measures, community measures|
+|EVALUATE|Documents the impact of an intervention, or track progress towards specified goals|
+|DESCRIBE|Monitors and clarify the epidemiology of health problems|
+|INFORM|Allows priorities to be set and to inform public health policy and strategies|
+
+
+## ALERT
+- There are surveillance systems that are build to detect threats to human and animal health. 
+- Surveillance systems that focus on this aspect usually have to be timely
+
+## ACTION
+- Surveillance systems are set up to open the possibilty to take action. 
+- Case based measures are measures like information of cases and contacts or quarantine or isolation
+- regulation based measures are 
+
+
+Surveillance is firmly anchored in German and international legal systems. The International Health Regulations—one of the few nearly globally applicable frameworks—include articles that require surveillance from states. These articles aim to prevent cross-border threats from infectious diseases. During the COVID-19 pandemic, the value of such international collaboration became evident. There are currently efforts to supplement the International Health Regulations with an International Treaty on Pandemic Prevention. Surveillance is also a component of the “Essential Public Health Operations.” The goal of this fundamental component is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.
+
+Surveillance has a purpose. This purpose is usually to take public health measures to avert or minimize a health threat. Therefore, the guiding principle of surveillance is "data for action." Sometimes it is also presented as "information for action" to emphasize that data must first be evaluated and thereby transformed into information. The guiding principle was originally formulated by Langumir as the following phrase: "Surveillance for Action."

@@ -15,9 +15,11 @@ __Whats in this book:__ This book is about infectious disease surveillance. It e
 
 __Who should read this book:__ The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
 
-__Who writes this book:__ This book is written by Jakob Schumacher, who hopes that other co-authors from the field would join.
+__Learning objectives:__ 
 
-__How can i help this book:__ You would like to help this book - great! 1) You can go to Github issues of this repository and say what can be improved 2) You can clone, than write something yourself and then make a pull request.
-
+- Learn how to define a surveillance system
+- Get to know types of surveillance systems
+- Learn the steps of a surveillance system
+- Find resources about the evaluation
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/ 

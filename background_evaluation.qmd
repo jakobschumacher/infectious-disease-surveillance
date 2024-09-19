@@ -1,0 +1,13 @@
+---
+title: "Evaluation"
+---
+
+## Steps for an evaluation
+Step 1. Plan the evaluation (why evaluate, find attributes to evaluate, engage stakeholders, find team, evaluation protocol)
+Step 2. Describe the system (objectives, events, case definitions, population under surveillance, geography, data flow, interventions)
+Step 3. Perform the evaluation (depends on attributes)
+Step 4. Develop an action plan (give interventions)
+
+
+## Handbooks for evaluation
+- ECDC 

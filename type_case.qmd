@@ -1,0 +1,8 @@
+---
+title: "Case based surveillance"
+---
+
+A case based surveillance system focuses on identifying instances of diseases. They are very typical around the world. Its usually physicians that need to notify the occurence of a disease (physician-based surveillance) or a laboratory (lab-based surveillance). 
+
+A typical example is a system that requeires a physician to fill out a form when she or he finds a person that has a disease. The form is then send to a local public health agency 
+
