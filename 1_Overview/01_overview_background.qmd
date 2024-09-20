@@ -1,22 +1,34 @@
 ---
-title: "What is surveillance?"
+title: "Intro"
+toc: false
+lightbox: true
 ---
 
-## Information for action
-- On the 28th of October 2020 the German government based their decision to do a lockdown on the surveillance system
+## Scenario
+- 28th of October 2020 
+- German government decided a lockdown 
+- Basis: the surveillance system
+- Surveillance is information for action
 
 ![Picture taken from "Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020"](../img/corona_okt_2020_germany.png)
+
+<br><br><br>
 
 
 ## Definition
 >  Public health surveillance is the __systematic__ __ongoing__ __collection__, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.
 ^[World Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)]
 
+<br><br><br>
+
 
 ## Other surveillance systems
 1. Neighbourhood surveillance (People watching other people)
 2. Rhizomatic surveillance (Unkown actors watching secretly)
 3. Top-down-surveillance (State actors watching their people)
+
+<br><br><br>
+
 
 ## Objectives
 
@@ -28,26 +40,42 @@ title: "What is surveillance?"
 |DESCRIBE|Monitors and clarify the epidemiology of health problems|
 |INFORM|Allows priorities to be set and to inform public health policy and strategies|
 
+<br><br><br>
 
-### Alert
-- There are surveillance systems that are build to detect threats to human and animal health. 
-- Surveillance systems that focus on this aspect usually have to be timely
+### Objective: Alert
+- Detect threats to human and animal health
 
-### Action
-- Surveillance systems are set up to open the possibilty to take action. 
-- Case based measures are measures like information of cases and contacts or quarantine or isolation
-- Group based measures are measures that affect a group of people. Examples are mask mandates
-- Medical measures are measurements taken by health care personel. An example ist the substitution of an antibiotic drug with another because of a higher resistancy
-- Community measures are measures taken by the people upon recieving information about an infectious disease. An example would be poeple starting to wear a mask if the SARS-CoV-2 incidence goes up
 
-### Evaluate
-- Interventions in public health should eventually have an impact. So if somebody was to launch a campaign for hygeinic cooking the impact could be measured in the campylobacter surveillance
+<br><br><br>
 
-### Describe
-- Surveillance can serve as a basis for scientific research. The change of variants of a pathogen in relationship to vaccination is an example
+### Objective: Action
+- Surveillance systems should guide action. 
+- Case based: counselling/quarantine/isolation
+- Group based measures: masks/lockdown
+- Medical measures: substitute antibiotic 
+- Community measures: voluntary masks
 
-### Inform
-- In public health long term decisions about resources are made by politicians. Surveillance systems can guide those decisions.
+<br><br><br>
+
+
+### Objective: Evaluate
+- Interventions should have an impact. 
+- Impact could be measured in s surveillance system
+
+<br><br><br>
+
+
+### Objective: Describe
+- Descriptions serves science
+
+<br><br><br>
+
+
+### Objective: Inform
+- Priorities
+- Resources
+
+<br><br><br>
 
 ## Examples
 ### Campylobacter

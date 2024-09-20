@@ -12,12 +12,15 @@ book:
   repo-url: https://github.com/jakobschumacher/infectious-disease-surveillance
   page-navigation: true
   edition: 1
+  sidebar:
+    collapse-level: 1
+    logo: img/logo.png
   downloads:
     - pdf
     - docx
   chapters:
   - index.qmd
-  - part: Overview of surveillance
+  - part: Presentation
     chapters:
       - 1_Overview/01_overview_background.qmd
       - 1_Overview/02_overview_steps.qmd
@@ -64,9 +67,8 @@ book:
 
 format:
   html:
-    theme: cosmo
-    colors:
-      primary: "#69ae23"
+    theme: "styles.scss"
+
   pdf:
     documentclass: scrreprt
   epub:

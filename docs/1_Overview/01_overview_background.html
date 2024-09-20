@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Infectious disease surveillance - 2&nbsp; What is surveillance?</title>
+<title>Infectious disease surveillance - 2&nbsp; Intro</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -73,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar floating fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -82,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../1_Overview/01_overview_background.html">Overview of surveillance</a></li><li class="breadcrumb-item"><a href="../1_Overview/01_overview_background.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">What is surveillance?</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../1_Overview/01_overview_background.html">Overview of surveillance</a></li><li class="breadcrumb-item"><a href="../1_Overview/01_overview_background.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Intro</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -95,7 +98,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../img/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Infectious disease surveillance</a> 
         <div class="sidebar-tools-main">
@@ -130,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Infectious disease surveillance</span></span></a>
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">About the book</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -145,25 +151,25 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../1_Overview/01_overview_background.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">What is surveillance?</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Intro</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../1_Overview/02_overview_steps.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Steps of a surveillance system</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Steps</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../1_Overview/03_overview_types.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Types of surveillance systems</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Types</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../1_Overview/04_overview_attributes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Attributes of surveillance systems</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Attributes</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -176,13 +182,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
  <span class="menu-text">What is surveillance?</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../2_Background/02_background_decisions.html" class="sidebar-item-text sidebar-link">
@@ -217,13 +223,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
  <span class="menu-text">Steps of surveillance</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Steps/step1.html" class="sidebar-item-text sidebar-link">
@@ -270,13 +276,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
  <span class="menu-text">Types of surveillance</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../4_Types/02_type_case.html" class="sidebar-item-text sidebar-link">
@@ -329,13 +335,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="false">
  <span class="menu-text">Attributes of surveillance</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../5_Attributes/01_sensitvity.html" class="sidebar-item-text sidebar-link">
@@ -397,37 +403,13 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#information-for-action" id="toc-information-for-action" class="nav-link active" data-scroll-target="#information-for-action"><span class="header-section-number">2.1</span> Information for action</a></li>
-  <li><a href="#definition" id="toc-definition" class="nav-link" data-scroll-target="#definition"><span class="header-section-number">2.2</span> Definition</a></li>
-  <li><a href="#other-surveillance-systems" id="toc-other-surveillance-systems" class="nav-link" data-scroll-target="#other-surveillance-systems"><span class="header-section-number">2.3</span> Other surveillance systems</a></li>
-  <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives"><span class="header-section-number">2.4</span> Objectives</a>
-  <ul class="collapse">
-  <li><a href="#alert" id="toc-alert" class="nav-link" data-scroll-target="#alert"><span class="header-section-number">2.4.1</span> Alert</a></li>
-  <li><a href="#action" id="toc-action" class="nav-link" data-scroll-target="#action"><span class="header-section-number">2.4.2</span> Action</a></li>
-  <li><a href="#evaluate" id="toc-evaluate" class="nav-link" data-scroll-target="#evaluate"><span class="header-section-number">2.4.3</span> Evaluate</a></li>
-  <li><a href="#describe" id="toc-describe" class="nav-link" data-scroll-target="#describe"><span class="header-section-number">2.4.4</span> Describe</a></li>
-  <li><a href="#inform" id="toc-inform" class="nav-link" data-scroll-target="#inform"><span class="header-section-number">2.4.5</span> Inform</a></li>
-  </ul></li>
-  <li><a href="#examples" id="toc-examples" class="nav-link" data-scroll-target="#examples"><span class="header-section-number">2.5</span> Examples</a>
-  <ul class="collapse">
-  <li><a href="#campylobacter" id="toc-campylobacter" class="nav-link" data-scroll-target="#campylobacter"><span class="header-section-number">2.5.1</span> Campylobacter</a></li>
-  <li><a href="#rotavirus" id="toc-rotavirus" class="nav-link" data-scroll-target="#rotavirus"><span class="header-section-number">2.5.2</span> Rotavirus</a></li>
-  <li><a href="#sars-cov-2" id="toc-sars-cov-2" class="nav-link" data-scroll-target="#sars-cov-2"><span class="header-section-number">2.5.3</span> SARS-CoV-2</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../1_Overview/01_overview_background.html">Overview of surveillance</a></li><li class="breadcrumb-item"><a href="../1_Overview/01_overview_background.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">What is surveillance?</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../1_Overview/01_overview_background.html">Overview of surveillance</a></li><li class="breadcrumb-item"><a href="../1_Overview/01_overview_background.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Intro</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">What is surveillance?</span></h1>
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Intro</span></h1>
 </div>
 
 
@@ -444,23 +426,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="information-for-action" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="information-for-action"><span class="header-section-number">2.1</span> Information for action</h2>
+<section id="scenario" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="scenario"><span class="header-section-number">2.1</span> Scenario</h2>
 <ul>
-<li>On the 28th of October 2020 the German government based their decision to do a lockdown on the surveillance system</li>
+<li>28th of October 2020</li>
+<li>German government decided a lockdown</li>
+<li>Basis: the surveillance system</li>
+<li>Surveillance is information for action</li>
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../img/corona_okt_2020_germany.png" class="img-fluid figure-img"></p>
+<p><a href="../img/corona_okt_2020_germany.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Picture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”"><img src="../img/corona_okt_2020_germany.png" class="img-fluid figure-img" alt="Picture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”"></a></p>
 <figcaption>Picture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”</figcaption>
 </figure>
 </div>
+<p><br><br><br></p>
 </section>
 <section id="definition" class="level2" data-number="2.2">
 <h2 data-number="2.2" class="anchored" data-anchor-id="definition"><span class="header-section-number">2.2</span> Definition</h2>
 <blockquote class="blockquote">
 <p>Public health surveillance is the <strong>systematic</strong> <strong>ongoing</strong> <strong>collection</strong>, collation and <strong>analysis</strong> of data for public health purposes and the <strong>timely</strong> <strong>dissemination</strong> of public health information for assessment and <strong>public health response</strong> as necessary. <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 </blockquote>
+<p><br><br><br></p>
 </section>
 <section id="other-surveillance-systems" class="level2" data-number="2.3">
 <h2 data-number="2.3" class="anchored" data-anchor-id="other-surveillance-systems"><span class="header-section-number">2.3</span> Other surveillance systems</h2>
@@ -469,6 +456,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Rhizomatic surveillance (Unkown actors watching secretly)</li>
 <li>Top-down-surveillance (State actors watching their people)</li>
 </ol>
+<p><br><br><br></p>
 </section>
 <section id="objectives" class="level2" data-number="2.4">
 <h2 data-number="2.4" class="anchored" data-anchor-id="objectives"><span class="header-section-number">2.4</span> Objectives</h2>
@@ -506,40 +494,47 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<section id="alert" class="level3" data-number="2.4.1">
-<h3 data-number="2.4.1" class="anchored" data-anchor-id="alert"><span class="header-section-number">2.4.1</span> Alert</h3>
+<p><br><br><br></p>
+<section id="objective-alert" class="level3" data-number="2.4.1">
+<h3 data-number="2.4.1" class="anchored" data-anchor-id="objective-alert"><span class="header-section-number">2.4.1</span> Objective: Alert</h3>
 <ul>
-<li>There are surveillance systems that are build to detect threats to human and animal health.</li>
-<li>Surveillance systems that focus on this aspect usually have to be timely</li>
+<li>Detect threats to human and animal health</li>
 </ul>
+<p><br><br><br></p>
 </section>
-<section id="action" class="level3" data-number="2.4.2">
-<h3 data-number="2.4.2" class="anchored" data-anchor-id="action"><span class="header-section-number">2.4.2</span> Action</h3>
+<section id="objective-action" class="level3" data-number="2.4.2">
+<h3 data-number="2.4.2" class="anchored" data-anchor-id="objective-action"><span class="header-section-number">2.4.2</span> Objective: Action</h3>
 <ul>
-<li>Surveillance systems are set up to open the possibilty to take action.</li>
-<li>Case based measures are measures like information of cases and contacts or quarantine or isolation</li>
-<li>Group based measures are measures that affect a group of people. Examples are mask mandates</li>
-<li>Medical measures are measurements taken by health care personel. An example ist the substitution of an antibiotic drug with another because of a higher resistancy</li>
-<li>Community measures are measures taken by the people upon recieving information about an infectious disease. An example would be poeple starting to wear a mask if the SARS-CoV-2 incidence goes up</li>
+<li>Surveillance systems should guide action.</li>
+<li>Case based: counselling/quarantine/isolation</li>
+<li>Group based measures: masks/lockdown</li>
+<li>Medical measures: substitute antibiotic</li>
+<li>Community measures: voluntary masks</li>
 </ul>
+<p><br><br><br></p>
 </section>
-<section id="evaluate" class="level3" data-number="2.4.3">
-<h3 data-number="2.4.3" class="anchored" data-anchor-id="evaluate"><span class="header-section-number">2.4.3</span> Evaluate</h3>
+<section id="objective-evaluate" class="level3" data-number="2.4.3">
+<h3 data-number="2.4.3" class="anchored" data-anchor-id="objective-evaluate"><span class="header-section-number">2.4.3</span> Objective: Evaluate</h3>
 <ul>
-<li>Interventions in public health should eventually have an impact. So if somebody was to launch a campaign for hygeinic cooking the impact could be measured in the campylobacter surveillance</li>
+<li>Interventions should have an impact.</li>
+<li>Impact could be measured in s surveillance system</li>
 </ul>
+<p><br><br><br></p>
 </section>
-<section id="describe" class="level3" data-number="2.4.4">
-<h3 data-number="2.4.4" class="anchored" data-anchor-id="describe"><span class="header-section-number">2.4.4</span> Describe</h3>
+<section id="objective-describe" class="level3" data-number="2.4.4">
+<h3 data-number="2.4.4" class="anchored" data-anchor-id="objective-describe"><span class="header-section-number">2.4.4</span> Objective: Describe</h3>
 <ul>
-<li>Surveillance can serve as a basis for scientific research. The change of variants of a pathogen in relationship to vaccination is an example</li>
+<li>Descriptions serves science</li>
 </ul>
+<p><br><br><br></p>
 </section>
-<section id="inform" class="level3" data-number="2.4.5">
-<h3 data-number="2.4.5" class="anchored" data-anchor-id="inform"><span class="header-section-number">2.4.5</span> Inform</h3>
+<section id="objective-inform" class="level3" data-number="2.4.5">
+<h3 data-number="2.4.5" class="anchored" data-anchor-id="objective-inform"><span class="header-section-number">2.4.5</span> Objective: Inform</h3>
 <ul>
-<li>In public health long term decisions about resources are made by politicians. Surveillance systems can guide those decisions.</li>
+<li>Priorities</li>
+<li>Resources</li>
 </ul>
+<p><br><br><br></p>
 </section>
 </section>
 <section id="examples" class="level2" data-number="2.5">
@@ -548,7 +543,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="2.5.1" class="anchored" data-anchor-id="campylobacter"><span class="header-section-number">2.5.1</span> Campylobacter</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../img/background_campy.png" class="img-fluid figure-img"></p>
+<p><a href="../img/background_campy.png" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Bless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/"><img src="../img/background_campy.png" class="img-fluid figure-img" alt="Bless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/"></a></p>
 <figcaption>Bless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/</figcaption>
 </figure>
 </div>
@@ -557,7 +552,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="2.5.2" class="anchored" data-anchor-id="rotavirus"><span class="header-section-number">2.5.2</span> Rotavirus</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../img/background_rota.png" class="img-fluid figure-img"></p>
+<p><a href="../img/background_rota.png" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="quarto-lightbox-gallery-3" title="Marquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/"><img src="../img/background_rota.png" class="img-fluid figure-img" alt="Marquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/"></a></p>
 <figcaption>Marquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/</figcaption>
 </figure>
 </div>
@@ -566,12 +561,18 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="2.5.3" class="anchored" data-anchor-id="sars-cov-2"><span class="header-section-number">2.5.3</span> SARS-CoV-2</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../img/background_sarscov2.png" class="img-fluid figure-img"></p>
+<p><a href="../img/background_sarscov2.png" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="quarto-lightbox-gallery-4" title="Summary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report"><img src="../img/background_sarscov2.png" class="img-fluid figure-img" alt="Summary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report"></a></p>
 <figcaption>Summary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report</figcaption>
 </figure>
 </div>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Picture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”</span>
+<span class="glightbox-desc lightbox-desc-2">Bless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/</span>
+<span class="glightbox-desc lightbox-desc-3">Marquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/</span>
+<span class="glightbox-desc lightbox-desc-4">Summary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report</span>
+</div>
 </section>
 </section>
 <section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
@@ -993,17 +994,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link" aria-label="Infectious disease surveillance">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Infectious disease surveillance</span></span>
+      <a href="../index.html" class="pagination-link" aria-label="About the book">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">About the book</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../1_Overview/02_overview_steps.html" class="pagination-link" aria-label="Steps of a surveillance system">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Steps of a surveillance system</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../1_Overview/02_overview_steps.html" class="pagination-link" aria-label="Steps">
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Steps</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","selector":".lightbox","openEffect":"zoom","loop":false,"closeEffect":"zoom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 

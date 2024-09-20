@@ -1,43 +1,33 @@
 ---
-title: "Infectious disease surveillance"
+title: "About the book"
 subtitle: "Learn how infectious diseases are monitored. "
 author: "Jakob Schumacher"
 date: "02 September 2024"
 toc: false
-
 ---
-
-
-![](img/epicurve.png)
-
 
 ## Whats in this book{.unnumbered}
 This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what elements a surveillance system is build of and how to asses the quality of surveillance systems. The books gives many examples
 
-## Who should read this book
+## Who should read this book{.unnumbered}
 The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
 
-## Learning objectives 
+## Learning objectives{.unnumbered}
 - Surveillance is information for action
 - Learn how to define a surveillance system
 - Get to know types of surveillance systems
 - Learn the steps of a surveillance system
 - Find resources about the evaluation
 
-## QR Code
-![QR-Code of the website](img/qr_code.png)
-
-
 ## Who writes this book{.unnumbered}
 The contents of the book come form the "EPIET-World" - the european fellowship programm for applied epidemiology. So far the book is writtten by Jakob Schumacher but its based upon the work of many collegues who taught the subject beforehand.
 
-## How can i help this book:
-
+## How can i help this book{.unnumbered}
 You would like to help this book - great! 
 
 1. You can go to Github issues of this repository and say what can be improved 
 2. You can clone, than write something yourself and then make a pull request.
 
-## Going beyond the book
+## Learn more{.unnumbered}
 - [ECDC Handbook: Data quality monitoring and surveillance system evaluation](https://www.ecdc.europa.eu/en/publications-data/data-quality-monitoring-and-surveillance-system-evaluation-handbook-methods-and)
 

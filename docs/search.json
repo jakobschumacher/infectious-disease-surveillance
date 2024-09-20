@@ -6,37 +6,27 @@
     "section": "",
     "text": "Whats in this book\nThis book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what elements a surveillance system is build of and how to asses the quality of surveillance systems. The books gives many examples",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the book</span>"
     ]
   },
   {
     "objectID": "index.html#who-should-read-this-book",
     "href": "index.html#who-should-read-this-book",
     "title": "Infectious disease surveillance",
-    "section": "0.1 Who should read this book",
-    "text": "0.1 Who should read this book\nThe book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to.",
+    "section": "Who should read this book",
+    "text": "Who should read this book\nThe book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the book</span>"
     ]
   },
   {
     "objectID": "index.html#learning-objectives",
     "href": "index.html#learning-objectives",
     "title": "Infectious disease surveillance",
-    "section": "0.2 Learning objectives",
-    "text": "0.2 Learning objectives\n\nSurveillance is information for action\nLearn how to define a surveillance system\nGet to know types of surveillance systems\nLearn the steps of a surveillance system\nFind resources about the evaluation",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nSurveillance is information for action\nLearn how to define a surveillance system\nGet to know types of surveillance systems\nLearn the steps of a surveillance system\nFind resources about the evaluation",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#qr-code",
-    "href": "index.html#qr-code",
-    "title": "Infectious disease surveillance",
-    "section": "0.3 QR Code",
-    "text": "0.3 QR Code\n\n\n\nQR-Code of the website",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the book</span>"
     ]
   },
   {
@@ -46,291 +36,291 @@
     "section": "Who writes this book",
     "text": "Who writes this book\nThe contents of the book come form the “EPIET-World” - the european fellowship programm for applied epidemiology. So far the book is writtten by Jakob Schumacher but its based upon the work of many collegues who taught the subject beforehand.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the book</span>"
     ]
   },
   {
     "objectID": "index.html#how-can-i-help-this-book",
     "href": "index.html#how-can-i-help-this-book",
     "title": "Infectious disease surveillance",
-    "section": "0.4 How can i help this book:",
-    "text": "0.4 How can i help this book:\nYou would like to help this book - great!\n\nYou can go to Github issues of this repository and say what can be improved\nYou can clone, than write something yourself and then make a pull request.",
+    "section": "How can i help this book",
+    "text": "How can i help this book\nYou would like to help this book - great!\n\nYou can go to Github issues of this repository and say what can be improved\nYou can clone, than write something yourself and then make a pull request.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the book</span>"
     ]
   },
   {
-    "objectID": "index.html#going-beyond-the-book",
-    "href": "index.html#going-beyond-the-book",
+    "objectID": "index.html#learn-more",
+    "href": "index.html#learn-more",
     "title": "Infectious disease surveillance",
-    "section": "0.5 Going beyond the book",
-    "text": "0.5 Going beyond the book\n\nECDC Handbook: Data quality monitoring and surveillance system evaluation",
+    "section": "Learn more",
+    "text": "Learn more\n\nECDC Handbook: Data quality monitoring and surveillance system evaluation",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About the book</span>"
     ]
   },
   {
     "objectID": "1_Overview/01_overview_background.html",
     "href": "1_Overview/01_overview_background.html",
-    "title": "2  What is surveillance?",
+    "title": "2  Intro",
     "section": "",
-    "text": "2.1 Information for action",
+    "text": "2.1 Scenario",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
-    "objectID": "1_Overview/01_overview_background.html#information-for-action",
-    "href": "1_Overview/01_overview_background.html#information-for-action",
-    "title": "2  What is surveillance?",
+    "objectID": "1_Overview/01_overview_background.html#scenario",
+    "href": "1_Overview/01_overview_background.html#scenario",
+    "title": "2  Intro",
     "section": "",
-    "text": "On the 28th of October 2020 the German government based their decision to do a lockdown on the surveillance system\n\n\n\n\nPicture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”",
+    "text": "28th of October 2020\nGerman government decided a lockdown\nBasis: the surveillance system\nSurveillance is information for action\n\n\n\n\nPicture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
     "objectID": "1_Overview/01_overview_background.html#definition",
     "href": "1_Overview/01_overview_background.html#definition",
-    "title": "2  What is surveillance?",
+    "title": "2  Intro",
     "section": "2.2 Definition",
     "text": "2.2 Definition\n\nPublic health surveillance is the systematic ongoing collection, collation and analysis of data for public health purposes and the timely dissemination of public health information for assessment and public health response as necessary. 1",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
     "objectID": "1_Overview/01_overview_background.html#other-surveillance-systems",
     "href": "1_Overview/01_overview_background.html#other-surveillance-systems",
-    "title": "2  What is surveillance?",
+    "title": "2  Intro",
     "section": "2.3 Other surveillance systems",
     "text": "2.3 Other surveillance systems\n\nNeighbourhood surveillance (People watching other people)\nRhizomatic surveillance (Unkown actors watching secretly)\nTop-down-surveillance (State actors watching their people)",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
     "objectID": "1_Overview/01_overview_background.html#objectives",
     "href": "1_Overview/01_overview_background.html#objectives",
-    "title": "2  What is surveillance?",
+    "title": "2  Intro",
     "section": "2.4 Objectives",
-    "text": "2.4 Objectives\n\n\n\n\n\n\n\nObjective\nDescription\n\n\n\n\nALERT\nServes as an early warning system for impending public health emergencies\n\n\nACTION\nAllows case based measures, group based measures, medical measures, community measures\n\n\nEVALUATE\nDocuments the impact of an intervention, or track progress towards specified goals\n\n\nDESCRIBE\nMonitors and clarify the epidemiology of health problems\n\n\nINFORM\nAllows priorities to be set and to inform public health policy and strategies\n\n\n\n\n2.4.1 Alert\n\nThere are surveillance systems that are build to detect threats to human and animal health.\nSurveillance systems that focus on this aspect usually have to be timely\n\n\n\n2.4.2 Action\n\nSurveillance systems are set up to open the possibilty to take action.\nCase based measures are measures like information of cases and contacts or quarantine or isolation\nGroup based measures are measures that affect a group of people. Examples are mask mandates\nMedical measures are measurements taken by health care personel. An example ist the substitution of an antibiotic drug with another because of a higher resistancy\nCommunity measures are measures taken by the people upon recieving information about an infectious disease. An example would be poeple starting to wear a mask if the SARS-CoV-2 incidence goes up\n\n\n\n2.4.3 Evaluate\n\nInterventions in public health should eventually have an impact. So if somebody was to launch a campaign for hygeinic cooking the impact could be measured in the campylobacter surveillance\n\n\n\n2.4.4 Describe\n\nSurveillance can serve as a basis for scientific research. The change of variants of a pathogen in relationship to vaccination is an example\n\n\n\n2.4.5 Inform\n\nIn public health long term decisions about resources are made by politicians. Surveillance systems can guide those decisions.",
+    "text": "2.4 Objectives\n\n\n\n\n\n\n\nObjective\nDescription\n\n\n\n\nALERT\nServes as an early warning system for impending public health emergencies\n\n\nACTION\nAllows case based measures, group based measures, medical measures, community measures\n\n\nEVALUATE\nDocuments the impact of an intervention, or track progress towards specified goals\n\n\nDESCRIBE\nMonitors and clarify the epidemiology of health problems\n\n\nINFORM\nAllows priorities to be set and to inform public health policy and strategies\n\n\n\n\n\n2.4.1 Objective: Alert\n\nDetect threats to human and animal health\n\n\n\n\n2.4.2 Objective: Action\n\nSurveillance systems should guide action.\nCase based: counselling/quarantine/isolation\nGroup based measures: masks/lockdown\nMedical measures: substitute antibiotic\nCommunity measures: voluntary masks\n\n\n\n\n2.4.3 Objective: Evaluate\n\nInterventions should have an impact.\nImpact could be measured in s surveillance system\n\n\n\n\n2.4.4 Objective: Describe\n\nDescriptions serves science\n\n\n\n\n2.4.5 Objective: Inform\n\nPriorities\nResources",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
     "objectID": "1_Overview/01_overview_background.html#examples",
     "href": "1_Overview/01_overview_background.html#examples",
-    "title": "2  What is surveillance?",
+    "title": "2  Intro",
     "section": "2.5 Examples",
-    "text": "2.5 Examples\n\n2.5.1 Campylobacter\n\n\n\nBless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/\n\n\n\n\n2.5.2 Rotavirus\n\n\n\nMarquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/\n\n\n\n\n2.5.3 SARS-CoV-2\n\n\n\nSummary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report",
+    "text": "2.5 Examples\n\n2.5.1 Campylobacter\n\n\n\nBless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/\n\n\n\n\n2.5.2 Rotavirus\n\n\n\nMarquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/\n\n\n\n\n2.5.3 SARS-CoV-2\n\n\n\nSummary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report\n\n\n\n\n\nPicture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”\nBless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/\nMarquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/\nSummary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
     "objectID": "1_Overview/01_overview_background.html#footnotes",
     "href": "1_Overview/01_overview_background.html#footnotes",
-    "title": "2  What is surveillance?",
+    "title": "2  Intro",
     "section": "",
     "text": "World Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)↩︎",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
     "objectID": "1_Overview/02_overview_steps.html",
     "href": "1_Overview/02_overview_steps.html",
-    "title": "3  Steps of a surveillance system",
+    "title": "3  Steps",
     "section": "",
-    "text": "3.1 1. Infection event",
+    "text": "3.1 Infection event",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps</span>"
     ]
   },
   {
     "objectID": "1_Overview/02_overview_steps.html#infection-event",
     "href": "1_Overview/02_overview_steps.html#infection-event",
-    "title": "3  Steps of a surveillance system",
+    "title": "3  Steps",
     "section": "",
-    "text": "The event that is monitored can vary\nA typical event is an instance of an infectious disease - a case\nStrictly speaking the event is not part of the surveillance system",
+    "text": "The event that is monitored can vary\nTypical event: a case",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps</span>"
     ]
   },
   {
     "objectID": "1_Overview/02_overview_steps.html#collection",
     "href": "1_Overview/02_overview_steps.html#collection",
-    "title": "3  Steps of a surveillance system",
-    "section": "3.2 2. Collection",
-    "text": "3.2 2. Collection\n\nEvents are collected usally by system with an agency being one of the main actors",
+    "title": "3  Steps",
+    "section": "3.2 Collection",
+    "text": "3.2 Collection\n\nEvents are collected by an agency",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps</span>"
     ]
   },
   {
     "objectID": "1_Overview/02_overview_steps.html#classification",
     "href": "1_Overview/02_overview_steps.html#classification",
-    "title": "3  Steps of a surveillance system",
-    "section": "3.3 3. Classification",
-    "text": "3.3 3. Classification\n\nThe events are classified (see case definition)\nBy classifing the events are turned into data",
+    "title": "3  Steps",
+    "section": "3.3 Classification",
+    "text": "3.3 Classification\n\nThe events are classified (see case definition)\nBy classifing the events are turned into data",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps</span>"
     ]
   },
   {
     "objectID": "1_Overview/02_overview_steps.html#data-processing",
     "href": "1_Overview/02_overview_steps.html#data-processing",
-    "title": "3  Steps of a surveillance system",
-    "section": "3.4 4. Data processing",
-    "text": "3.4 4. Data processing\n\nThe data is processed in a data system that stores and distributes the data\nAt this step data can be made as open data",
+    "title": "3  Steps",
+    "section": "3.4 Data processing",
+    "text": "3.4 Data processing\n\nData systems store and distribute data\nAt this step data can be made as open data",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps</span>"
     ]
   },
   {
     "objectID": "1_Overview/02_overview_steps.html#analysis",
     "href": "1_Overview/02_overview_steps.html#analysis",
-    "title": "3  Steps of a surveillance system",
-    "section": "3.5 5. Analysis",
-    "text": "3.5 5. Analysis\n\nThe data is analysed by public health experts\nThrough the analysis the data is turned into information",
+    "title": "3  Steps",
+    "section": "3.5 Analysis",
+    "text": "3.5 Analysis\n\nThe data is analysed by public health experts\nThe data is turned into information",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps</span>"
     ]
   },
   {
     "objectID": "1_Overview/02_overview_steps.html#communication",
     "href": "1_Overview/02_overview_steps.html#communication",
-    "title": "3  Steps of a surveillance system",
-    "section": "3.6 6. Communication",
-    "text": "3.6 6. Communication\n\nThe information is communicated to decision makers\nUsually done via reports\nVisualising information is important",
+    "title": "3  Steps",
+    "section": "3.6 Communication",
+    "text": "3.6 Communication\n\nThe information is communicated to decision makers\nUsually done via reports\nVisualising information is important",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps</span>"
     ]
   },
   {
     "objectID": "1_Overview/02_overview_steps.html#action",
     "href": "1_Overview/02_overview_steps.html#action",
-    "title": "3  Steps of a surveillance system",
-    "section": "3.7 7. Action",
-    "text": "3.7 7. Action\n\nDecision makers act upon the information",
+    "title": "3  Steps",
+    "section": "3.7 Action",
+    "text": "3.7 Action\n\nDecision makers act upon the information",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html",
     "href": "1_Overview/03_overview_types.html",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "",
     "text": "4.1 Case-based surveillance",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html#case-based-surveillance",
     "href": "1_Overview/03_overview_types.html#case-based-surveillance",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "",
     "text": "The typical surveillance system in infectious diseases\nThe event is that a person that gets infected or diseased\nSometimes its named: physician-based system or lab-based system\n\n\n\n\nAdapted from ECDC Handbook Data quality monitoring and surveillance system evaluation",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html#syndromic-surveillance",
     "href": "1_Overview/03_overview_types.html#syndromic-surveillance",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "4.2 Syndromic surveillance",
     "text": "4.2 Syndromic surveillance\n\nInstead of a specific disease its a syndrom (a group of diseases) that is monitored\nIs more sensitive and can find unkown diseases",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html#event-based-surveillance",
     "href": "1_Overview/03_overview_types.html#event-based-surveillance",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "4.3 Event-based surveillance",
     "text": "4.3 Event-based surveillance\n\nThis system detects unkown events\nIt can be a group of persons who talk every week what they found",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html#wastewater-surveillance",
     "href": "1_Overview/03_overview_types.html#wastewater-surveillance",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "4.4 Wastewater surveillance",
     "text": "4.4 Wastewater surveillance\n\nThis system detects pathogens in wastewater",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html#mortality-surveillance",
     "href": "1_Overview/03_overview_types.html#mortality-surveillance",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "4.5 Mortality surveillance",
     "text": "4.5 Mortality surveillance\n\nThis events detects deaths (and sometimes the cause of deaths)",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html#mass-gathering-surveillance",
     "href": "1_Overview/03_overview_types.html#mass-gathering-surveillance",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "4.6 Mass-gathering surveillance",
     "text": "4.6 Mass-gathering surveillance\n\nThis type of surveillance monitors one specific mass gathering and uses a variety of techniques",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html#actvie-vs.-passive-surveillance",
     "href": "1_Overview/03_overview_types.html#actvie-vs.-passive-surveillance",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "4.7 Actvie vs. passive surveillance",
     "text": "4.7 Actvie vs. passive surveillance\n\nSome systems actively look for cases\nSome systems are passive and collect secondary data",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
     "objectID": "1_Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance",
     "href": "1_Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance",
-    "title": "4  Types of surveillance systems",
+    "title": "4  Types",
     "section": "4.8 Sentinel vs. comprehensive surveillance",
     "text": "4.8 Sentinel vs. comprehensive surveillance\n\nSome systems focus on a fraction of the population under surveillance - a sentinel\nOther systems try to capture everything in a population",
     "crumbs": [
       "Overview of surveillance",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types</span>"
     ]
   },
   {
