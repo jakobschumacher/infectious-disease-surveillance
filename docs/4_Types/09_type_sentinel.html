@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Jakob Schumacher">
-<meta name="dcterms.date" content="2024-09-02">
 
-<title>Infectious disease surveillance</title>
+<title>Infectious disease surveillance - 26&nbsp; Sentinal vs comprehensive</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,24 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./1_Overview/01_overview_background.html" rel="next">
-<link href="./img/logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../5_Attributes/01_sensitvity.html" rel="next">
+<link href="../4_Types/08_type_activevspassive.html" rel="prev">
+<link href="../img/logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -74,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating fullcontent">
+<body class="nav-sidebar floating">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -83,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Infectious disease surveillance</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../4_Types/02_type_case.html">Types of surveillance</a></li><li class="breadcrumb-item"><a href="../4_Types/09_type_sentinel.html"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Sentinal vs comprehensive</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -98,20 +97,20 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Infectious disease surveillance</a> 
+      <a href="../">Infectious disease surveillance</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/jakobschumacher/infectious-disease-surveillance" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
     <div class="dropdown">
       <a href="" title="Download" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
       <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
-            <a class="dropdown-item sidebar-tools-main-item" href="./Infectious-disease-surveillance.pdf">
+            <a class="dropdown-item sidebar-tools-main-item" href="../Infectious-disease-surveillance.pdf">
               <i class="bi bi-bi-file-pdf pe-1"></i>
             Download PDF
             </a>
           </li>
           <li>
-            <a class="dropdown-item sidebar-tools-main-item" href="./Infectious-disease-surveillance.docx">
+            <a class="dropdown-item sidebar-tools-main-item" href="../Infectious-disease-surveillance.docx">
               <i class="bi bi-bi-file-word pe-1"></i>
             Download Docx
             </a>
@@ -130,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Infectious disease surveillance</span></span></a>
   </div>
 </li>
@@ -145,31 +144,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./1_Overview/01_overview_background.html" class="sidebar-item-text sidebar-link">
+  <a href="../1_Overview/01_overview_background.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">What is surveillance?</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./1_Overview/02_overview_steps.html" class="sidebar-item-text sidebar-link">
+  <a href="../1_Overview/02_overview_steps.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Steps of a surveillance system</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./1_Overview/03_overview_types.html" class="sidebar-item-text sidebar-link">
+  <a href="../1_Overview/03_overview_types.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Types of surveillance systems</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./1_Overview/04_overview_attributes.html" class="sidebar-item-text sidebar-link">
+  <a href="../1_Overview/04_overview_attributes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Attributes of surveillance systems</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./1_Overview/05_overview_evaluation.html" class="sidebar-item-text sidebar-link">
+  <a href="../1_Overview/05_overview_evaluation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Attributes of surveillance systems</span></span></a>
   </div>
 </li>
@@ -186,31 +185,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./2_Background/02_background_decisions.html" class="sidebar-item-text sidebar-link">
+  <a href="../2_Background/02_background_decisions.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Information for action</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./2_Background/03_background_definition.html" class="sidebar-item-text sidebar-link">
+  <a href="../2_Background/03_background_definition.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Definition of surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./2_Background/04_background_othersurveillance.html" class="sidebar-item-text sidebar-link">
+  <a href="../2_Background/04_background_othersurveillance.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Other forms of surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./2_Background/05_background_aims.html" class="sidebar-item-text sidebar-link">
+  <a href="../2_Background/05_background_aims.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Objectives of surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./2_Background/06_background_legal.html" class="sidebar-item-text sidebar-link">
+  <a href="../2_Background/06_background_legal.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Laws for surveillance</span></span></a>
   </div>
 </li>
@@ -227,43 +226,43 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./3_Steps/step1.html" class="sidebar-item-text sidebar-link">
+  <a href="../3_Steps/step1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Step 1: Infection Event</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./3_Steps/step2.html" class="sidebar-item-text sidebar-link">
+  <a href="../3_Steps/step2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Step 2: Collection</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./3_Steps/step3.html" class="sidebar-item-text sidebar-link">
+  <a href="../3_Steps/step3.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Step 3: Classification</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./3_Steps/step4.html" class="sidebar-item-text sidebar-link">
+  <a href="../3_Steps/step4.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Step 4: Data Processing</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./3_Steps/step5.html" class="sidebar-item-text sidebar-link">
+  <a href="../3_Steps/step5.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Step 5: Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./3_Steps/step6.html" class="sidebar-item-text sidebar-link">
+  <a href="../3_Steps/step6.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Step 6: Communication</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./3_Steps/step7.html" class="sidebar-item-text sidebar-link">
+  <a href="../3_Steps/step7.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Step 7: Public Health Measures</span></span></a>
   </div>
 </li>
@@ -280,49 +279,49 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Types/02_type_case.html" class="sidebar-item-text sidebar-link">
+  <a href="../4_Types/02_type_case.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Case based surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Types/03_type_syndromic.html" class="sidebar-item-text sidebar-link">
+  <a href="../4_Types/03_type_syndromic.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Syndromic Surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Types/04_type_event.html" class="sidebar-item-text sidebar-link">
+  <a href="../4_Types/04_type_event.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Event-Based Surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Types/05_type_wastewater.html" class="sidebar-item-text sidebar-link">
+  <a href="../4_Types/05_type_wastewater.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Wastewater</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Types/06_type_mortality.html" class="sidebar-item-text sidebar-link">
+  <a href="../4_Types/06_type_mortality.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Mortality surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Types/07_type_massgathering.html" class="sidebar-item-text sidebar-link">
+  <a href="../4_Types/07_type_massgathering.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Mass-Gathering Surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Types/08_type_activevspassive.html" class="sidebar-item-text sidebar-link">
+  <a href="../4_Types/08_type_activevspassive.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Active vs passive</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./4_Types/09_type_sentinel.html" class="sidebar-item-text sidebar-link">
+  <a href="../4_Types/09_type_sentinel.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Sentinal vs comprehensive</span></span></a>
   </div>
 </li>
@@ -339,55 +338,55 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/01_sensitvity.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/01_sensitvity.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Sensitivity and completeness</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/02_attributes_validity.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/02_attributes_validity.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Validity</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/03_attributes_timeliness.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/03_attributes_timeliness.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Timeliness</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/04_attributes_usefulness.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/04_attributes_usefulness.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Usefulness</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/05_attributes_representativeness.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/05_attributes_representativeness.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Representativeness</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/06_attributes_simplicity.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/06_attributes_simplicity.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Simplicity</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/07_attributes_flexibility.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/07_attributes_flexibility.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Flexibility</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/08_attributes_acceptability.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/08_attributes_acceptability.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Simplicity</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./5_Attributes/09_attributes_otherattributes.html" class="sidebar-item-text sidebar-link">
+  <a href="../5_Attributes/09_attributes_otherattributes.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Other attributes</span></span></a>
   </div>
 </li>
@@ -398,33 +397,22 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../4_Types/02_type_case.html">Types of surveillance</a></li><li class="breadcrumb-item"><a href="../4_Types/09_type_sentinel.html"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Sentinal vs comprehensive</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Infectious disease surveillance</h1>
-<p class="subtitle lead">Learn how infectious diseases are monitored.</p>
+<h1 class="title"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Sentinal vs comprehensive</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Jakob Schumacher </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">September 2, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -434,54 +422,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="img/epicurve.png" class="img-fluid"></p>
-<section id="whats-in-this-book" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="whats-in-this-book">Whats in this book</h2>
-<p>This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what elements a surveillance system is build of and how to asses the quality of surveillance systems. The books gives many examples</p>
-</section>
-<section id="who-should-read-this-book" class="level2" data-number="0.1">
-<h2 data-number="0.1" class="anchored" data-anchor-id="who-should-read-this-book"><span class="header-section-number">0.1</span> Who should read this book</h2>
-<p>The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to.</p>
-</section>
-<section id="learning-objectives" class="level2" data-number="0.2">
-<h2 data-number="0.2" class="anchored" data-anchor-id="learning-objectives"><span class="header-section-number">0.2</span> Learning objectives</h2>
-<ul>
-<li>Surveillance is information for action</li>
-<li>Learn how to define a surveillance system</li>
-<li>Get to know types of surveillance systems</li>
-<li>Learn the steps of a surveillance system</li>
-<li>Find resources about the evaluation</li>
-</ul>
-</section>
-<section id="qr-code" class="level2" data-number="0.3">
-<h2 data-number="0.3" class="anchored" data-anchor-id="qr-code"><span class="header-section-number">0.3</span> QR Code</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/qr_code.png" class="img-fluid figure-img"></p>
-<figcaption>QR-Code of the website</figcaption>
-</figure>
-</div>
-</section>
-<section id="who-writes-this-book" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="who-writes-this-book">Who writes this book</h2>
-<p>The contents of the book come form the “EPIET-World” - the european fellowship programm for applied epidemiology. So far the book is writtten by Jakob Schumacher but its based upon the work of many collegues who taught the subject beforehand.</p>
-</section>
-<section id="how-can-i-help-this-book" class="level2" data-number="0.4">
-<h2 data-number="0.4" class="anchored" data-anchor-id="how-can-i-help-this-book"><span class="header-section-number">0.4</span> How can i help this book:</h2>
-<p>You would like to help this book - great!</p>
-<ol type="1">
-<li>You can go to Github issues of this repository and say what can be improved</li>
-<li>You can clone, than write something yourself and then make a pull request.</li>
-</ol>
-</section>
-<section id="going-beyond-the-book" class="level2" data-number="0.5">
-<h2 data-number="0.5" class="anchored" data-anchor-id="going-beyond-the-book"><span class="header-section-number">0.5</span> Going beyond the book</h2>
-<ul>
-<li><a href="https://www.ecdc.europa.eu/en/publications-data/data-quality-monitoring-and-surveillance-system-evaluation-handbook-methods-and">ECDC Handbook: Data quality monitoring and surveillance system evaluation</a></li>
-</ul>
+<p>Sentinel surveillance is a system that does not monitor all individuals about whom conclusions are to be drawn but rather only a defined portion. The term “Sentinel,” meaning “watchman,” reflects this approach. A sentinel system saves costs and generally allows for more detailed information to be collected. The level of detail is often crucial for assessing epidemiological questions, such as evaluating the severity of a disease. For example, a few medical practices might be selected to collect detailed information on respiratory illnesses, including vaccination status, disease severity, and information on individuals without respiratory illnesses as a comparison group. These practices’ data can then be extrapolated to represent all medical practices. The alternative—examining all practices directly—is much more labor-intensive and risks lowering data quality because some information may be provided reluctantly.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -895,10 +838,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../4_Types/08_type_activevspassive.html" class="pagination-link" aria-label="Active vs passive">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Active vs passive</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./1_Overview/01_overview_background.html" class="pagination-link" aria-label="What is surveillance?">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">What is surveillance?</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../5_Attributes/01_sensitvity.html" class="pagination-link" aria-label="Sensitivity and completeness">
+        <span class="nav-page-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Sensitivity and completeness</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

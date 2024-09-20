@@ -4,959 +4,861 @@
     "href": "index.html",
     "title": "Infectious disease surveillance",
     "section": "",
-    "text": "Whats in this book: This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what elements a surveillance system is build of and how to asses the quality of surveillance systems. The books gives many examples\nWho should read this book: The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to.\nLearning objectives: - Surveillance is information for action - Learn how to define a surveillance system - Get to know types of surveillance systems - Learn the steps of a surveillance system - Find resources about the evaluation\n\n\n\nQR-Code of the website\n\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/"
+    "text": "Whats in this book\nThis book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what elements a surveillance system is build of and how to asses the quality of surveillance systems. The books gives many examples",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+    ]
   },
   {
-    "objectID": "7 Excercises/01_excercise_ncov.html",
-    "href": "7 Excercises/01_excercise_ncov.html",
-    "title": "Excercise NCov",
+    "objectID": "index.html#who-should-read-this-book",
+    "href": "index.html#who-should-read-this-book",
+    "title": "Infectious disease surveillance",
+    "section": "0.1 Who should read this book",
+    "text": "0.1 Who should read this book\nThe book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Infectious disease surveillance",
+    "section": "0.2 Learning objectives",
+    "text": "0.2 Learning objectives\n\nSurveillance is information for action\nLearn how to define a surveillance system\nGet to know types of surveillance systems\nLearn the steps of a surveillance system\nFind resources about the evaluation",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#qr-code",
+    "href": "index.html#qr-code",
+    "title": "Infectious disease surveillance",
+    "section": "0.3 QR Code",
+    "text": "0.3 QR Code\n\n\n\nQR-Code of the website",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#who-writes-this-book",
+    "href": "index.html#who-writes-this-book",
+    "title": "Infectious disease surveillance",
+    "section": "Who writes this book",
+    "text": "Who writes this book\nThe contents of the book come form the “EPIET-World” - the european fellowship programm for applied epidemiology. So far the book is writtten by Jakob Schumacher but its based upon the work of many collegues who taught the subject beforehand.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-can-i-help-this-book",
+    "href": "index.html#how-can-i-help-this-book",
+    "title": "Infectious disease surveillance",
+    "section": "0.4 How can i help this book:",
+    "text": "0.4 How can i help this book:\nYou would like to help this book - great!\n\nYou can go to Github issues of this repository and say what can be improved\nYou can clone, than write something yourself and then make a pull request.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#going-beyond-the-book",
+    "href": "index.html#going-beyond-the-book",
+    "title": "Infectious disease surveillance",
+    "section": "0.5 Going beyond the book",
+    "text": "0.5 Going beyond the book\n\nECDC Handbook: Data quality monitoring and surveillance system evaluation",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Infectious disease surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/01_overview_background.html",
+    "href": "1_Overview/01_overview_background.html",
+    "title": "2  What is surveillance?",
     "section": "",
-    "text": "Image from Mediawiki. Ma Xiaowei - China News Service - 27 January 2020. https://commons.wikimedia.org/wiki/File:%E9%A9%AC%E6%99%93%E4%BC%9F_2020.1.26.jpg\n\n\n\n3 Hospitals report an unusual high number of patients\n2 health care personal have died, one female, one not known\nSyndromic surveillance shows a sharp increase since two weeks\nThere are 132 more deaths than expected two weeks prior\nMore influenza cases than usual",
+    "text": "2.1 Information for action",
     "crumbs": [
-      "7 Excercises",
-      "Excercise NCov"
+      "Overview of surveillance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/09_attributes_otherattributes.html",
-    "href": "5 Attributes/09_attributes_otherattributes.html",
-    "title": "Other attributes",
+    "objectID": "1_Overview/01_overview_background.html#information-for-action",
+    "href": "1_Overview/01_overview_background.html#information-for-action",
+    "title": "2  What is surveillance?",
     "section": "",
-    "text": "Ability of the system to accommodate changes with little additional time, persons or allocated funds New event to follow-up New case definition New data about an event New sources of information",
+    "text": "On the 28th of October 2020 the German government based their decision to do a lockdown on the surveillance system\n\n\n\n\nPicture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”",
     "crumbs": [
-      "5 Attributes",
-      "Other attributes"
+      "Overview of surveillance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/09_attributes_otherattributes.html#stability",
-    "href": "5 Attributes/09_attributes_otherattributes.html#stability",
-    "title": "Other attributes",
+    "objectID": "1_Overview/01_overview_background.html#definition",
+    "href": "1_Overview/01_overview_background.html#definition",
+    "title": "2  What is surveillance?",
+    "section": "2.2 Definition",
+    "text": "2.2 Definition\n\nPublic health surveillance is the systematic ongoing collection, collation and analysis of data for public health purposes and the timely dissemination of public health information for assessment and public health response as necessary. 1",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/01_overview_background.html#other-surveillance-systems",
+    "href": "1_Overview/01_overview_background.html#other-surveillance-systems",
+    "title": "2  What is surveillance?",
+    "section": "2.3 Other surveillance systems",
+    "text": "2.3 Other surveillance systems\n\nNeighbourhood surveillance (People watching other people)\nRhizomatic surveillance (Unkown actors watching secretly)\nTop-down-surveillance (State actors watching their people)",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/01_overview_background.html#objectives",
+    "href": "1_Overview/01_overview_background.html#objectives",
+    "title": "2  What is surveillance?",
+    "section": "2.4 Objectives",
+    "text": "2.4 Objectives\n\n\n\n\n\n\n\nObjective\nDescription\n\n\n\n\nALERT\nServes as an early warning system for impending public health emergencies\n\n\nACTION\nAllows case based measures, group based measures, medical measures, community measures\n\n\nEVALUATE\nDocuments the impact of an intervention, or track progress towards specified goals\n\n\nDESCRIBE\nMonitors and clarify the epidemiology of health problems\n\n\nINFORM\nAllows priorities to be set and to inform public health policy and strategies\n\n\n\n\n2.4.1 Alert\n\nThere are surveillance systems that are build to detect threats to human and animal health.\nSurveillance systems that focus on this aspect usually have to be timely\n\n\n\n2.4.2 Action\n\nSurveillance systems are set up to open the possibilty to take action.\nCase based measures are measures like information of cases and contacts or quarantine or isolation\nGroup based measures are measures that affect a group of people. Examples are mask mandates\nMedical measures are measurements taken by health care personel. An example ist the substitution of an antibiotic drug with another because of a higher resistancy\nCommunity measures are measures taken by the people upon recieving information about an infectious disease. An example would be poeple starting to wear a mask if the SARS-CoV-2 incidence goes up\n\n\n\n2.4.3 Evaluate\n\nInterventions in public health should eventually have an impact. So if somebody was to launch a campaign for hygeinic cooking the impact could be measured in the campylobacter surveillance\n\n\n\n2.4.4 Describe\n\nSurveillance can serve as a basis for scientific research. The change of variants of a pathogen in relationship to vaccination is an example\n\n\n\n2.4.5 Inform\n\nIn public health long term decisions about resources are made by politicians. Surveillance systems can guide those decisions.",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/01_overview_background.html#examples",
+    "href": "1_Overview/01_overview_background.html#examples",
+    "title": "2  What is surveillance?",
+    "section": "2.5 Examples",
+    "text": "2.5 Examples\n\n2.5.1 Campylobacter\n\n\n\nBless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/\n\n\n\n\n2.5.2 Rotavirus\n\n\n\nMarquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/\n\n\n\n\n2.5.3 SARS-CoV-2\n\n\n\nSummary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/01_overview_background.html#footnotes",
+    "href": "1_Overview/01_overview_background.html#footnotes",
+    "title": "2  What is surveillance?",
     "section": "",
-    "text": "Ability of the system to accommodate changes with little additional time, persons or allocated funds New event to follow-up New case definition New data about an event New sources of information",
+    "text": "World Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)↩︎",
     "crumbs": [
-      "5 Attributes",
-      "Other attributes"
+      "Overview of surveillance",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>What is surveillance?</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/09_attributes_otherattributes.html#reliability",
-    "href": "5 Attributes/09_attributes_otherattributes.html#reliability",
-    "title": "Other attributes",
-    "section": "Reliability",
-    "text": "Reliability\nRefers to the ability to collect, manage, and provide data properly without failure",
-    "crumbs": [
-      "5 Attributes",
-      "Other attributes"
-    ]
-  },
-  {
-    "objectID": "5 Attributes/09_attributes_otherattributes.html#adequacy",
-    "href": "5 Attributes/09_attributes_otherattributes.html#adequacy",
-    "title": "Other attributes",
-    "section": "Adequacy",
-    "text": "Adequacy\nRefers to the ability of the surveillance system to address its objectives",
-    "crumbs": [
-      "5 Attributes",
-      "Other attributes"
-    ]
-  },
-  {
-    "objectID": "5 Attributes/07_attributes_flexibility.html",
-    "href": "5 Attributes/07_attributes_flexibility.html",
-    "title": "Flexibility",
+    "objectID": "1_Overview/02_overview_steps.html",
+    "href": "1_Overview/02_overview_steps.html",
+    "title": "3  Steps of a surveillance system",
     "section": "",
-    "text": "A flexible public health surveillance system can adapt to changing information needs or operating conditions with little additional time, personnel, or allocated funds. Flexible systems can accommodate, for example, new health- related events, changes in case definitions or technology, and variations in funding or reporting sources. In addition, systems that use standard data formats (e.g. in electronic data interchange) can be easily integrated with other systems and thus might be considered flexible [5].",
+    "text": "3.1 1. Infection event",
     "crumbs": [
-      "5 Attributes",
-      "Flexibility"
+      "Overview of surveillance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/07_attributes_flexibility.html#flexibility",
-    "href": "5 Attributes/07_attributes_flexibility.html#flexibility",
-    "title": "Flexibility",
+    "objectID": "1_Overview/02_overview_steps.html#infection-event",
+    "href": "1_Overview/02_overview_steps.html#infection-event",
+    "title": "3  Steps of a surveillance system",
     "section": "",
-    "text": "A flexible public health surveillance system can adapt to changing information needs or operating conditions with little additional time, personnel, or allocated funds. Flexible systems can accommodate, for example, new health- related events, changes in case definitions or technology, and variations in funding or reporting sources. In addition, systems that use standard data formats (e.g. in electronic data interchange) can be easily integrated with other systems and thus might be considered flexible [5].",
+    "text": "The event that is monitored can vary\nA typical event is an instance of an infectious disease - a case\nStrictly speaking the event is not part of the surveillance system",
     "crumbs": [
-      "5 Attributes",
-      "Flexibility"
+      "Overview of surveillance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/03_attributes_timeliness.html",
-    "href": "5 Attributes/03_attributes_timeliness.html",
-    "title": "Timeliness",
+    "objectID": "1_Overview/02_overview_steps.html#collection",
+    "href": "1_Overview/02_overview_steps.html#collection",
+    "title": "3  Steps of a surveillance system",
+    "section": "3.2 2. Collection",
+    "text": "3.2 2. Collection\n\nEvents are collected usally by system with an agency being one of the main actors",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/02_overview_steps.html#classification",
+    "href": "1_Overview/02_overview_steps.html#classification",
+    "title": "3  Steps of a surveillance system",
+    "section": "3.3 3. Classification",
+    "text": "3.3 3. Classification\n\nThe events are classified (see case definition)\nBy classifing the events are turned into data",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/02_overview_steps.html#data-processing",
+    "href": "1_Overview/02_overview_steps.html#data-processing",
+    "title": "3  Steps of a surveillance system",
+    "section": "3.4 4. Data processing",
+    "text": "3.4 4. Data processing\n\nThe data is processed in a data system that stores and distributes the data\nAt this step data can be made as open data",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/02_overview_steps.html#analysis",
+    "href": "1_Overview/02_overview_steps.html#analysis",
+    "title": "3  Steps of a surveillance system",
+    "section": "3.5 5. Analysis",
+    "text": "3.5 5. Analysis\n\nThe data is analysed by public health experts\nThrough the analysis the data is turned into information",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/02_overview_steps.html#communication",
+    "href": "1_Overview/02_overview_steps.html#communication",
+    "title": "3  Steps of a surveillance system",
+    "section": "3.6 6. Communication",
+    "text": "3.6 6. Communication\n\nThe information is communicated to decision makers\nUsually done via reports\nVisualising information is important",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/02_overview_steps.html#action",
+    "href": "1_Overview/02_overview_steps.html#action",
+    "title": "3  Steps of a surveillance system",
+    "section": "3.7 7. Action",
+    "text": "3.7 7. Action\n\nDecision makers act upon the information",
+    "crumbs": [
+      "Overview of surveillance",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Steps of a surveillance system</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/03_overview_types.html",
+    "href": "1_Overview/03_overview_types.html",
+    "title": "4  Types of surveillance systems",
     "section": "",
-    "text": "To what extent does the value in the surveillance system correspond to reality Closely realted to accuracy: how close do we come to reality",
+    "text": "4.1 Case-based surveillance",
     "crumbs": [
-      "5 Attributes",
-      "Timeliness"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/03_attributes_timeliness.html#internal-validtiy",
-    "href": "5 Attributes/03_attributes_timeliness.html#internal-validtiy",
-    "title": "Timeliness",
-    "section": "Internal validtiy",
-    "text": "Internal validtiy\n\nThe amount of coding errors",
-    "crumbs": [
-      "5 Attributes",
-      "Timeliness"
-    ]
-  },
-  {
-    "objectID": "5 Attributes/01_attributes_sensitvity.html#sensitivity",
-    "href": "5 Attributes/01_attributes_sensitvity.html#sensitivity",
-    "title": "Sensitivity and completeness",
-    "section": "Sensitivity",
-    "text": "Sensitivity\nWhat proportion of the true number of cases are counted\n\nHow to measure\n\nCompare to gold standard\n\n\n\nHow to improve\n\nImprove the detection\nChange case definition\n\n\n\nExample\n\nImagine a case based system\nPeople that don’t go do a physician wont get reported",
-    "crumbs": [
-      "5 Attributes",
-      "Sensitivity and completeness"
-    ]
-  },
-  {
-    "objectID": "5 Attributes/01_attributes_sensitvity.html#external-completeness",
-    "href": "5 Attributes/01_attributes_sensitvity.html#external-completeness",
-    "title": "Sensitivity and completeness",
-    "section": "External completeness",
-    "text": "External completeness\nWhat proportion of the true number of diagnosed cases are counted (‘sensitivity of reporting’)\n\nHow to measure\n\nCapture-recapture\n\n\n\nHow to improve\n\nMake notification obligatory\nGive incentives\nDo a sentinel system\n\n\n\nExample\n\nLets assume a mortality surveillance system\nDoctors are required to fill out death certificates\nThese death certificates are collected at a national level\nExternal completness means: of all deaths that are recognized by doctors how many get reported",
-    "crumbs": [
-      "5 Attributes",
-      "Sensitivity and completeness"
-    ]
-  },
-  {
-    "objectID": "5 Attributes/01_attributes_sensitvity.html#internal-completeness",
-    "href": "5 Attributes/01_attributes_sensitvity.html#internal-completeness",
-    "title": "Sensitivity and completeness",
-    "section": "Internal completeness",
-    "text": "Internal completeness\n\nHow complete is the information in our database\n\n\nHow to measure\n\nExpected value of completeness vs actual value of completeness\n\n\n\nHow to improve\n\nImprove the technical quality\nTeach\n\n\n\nExample\n\nLets assume a mortality surveillance system\nWe have ten records of deaths\nOne of the records misses the age\nThree of them miss the probable cause of death",
-    "crumbs": [
-      "5 Attributes",
-      "Sensitivity and completeness"
-    ]
-  },
-  {
-    "objectID": "4 Types/08_type_activevspassive.html",
-    "href": "4 Types/08_type_activevspassive.html",
-    "title": "Active vs passive",
+    "objectID": "1_Overview/03_overview_types.html#case-based-surveillance",
+    "href": "1_Overview/03_overview_types.html#case-based-surveillance",
+    "title": "4  Types of surveillance systems",
     "section": "",
-    "text": "Case based surveiallance systems can be divided whether they are active or passive. Many surveillancesystems have elements of both.",
+    "text": "The typical surveillance system in infectious diseases\nThe event is that a person that gets infected or diseased\nSometimes its named: physician-based system or lab-based system\n\n\n\n\nAdapted from ECDC Handbook Data quality monitoring and surveillance system evaluation",
     "crumbs": [
-      "4 Types",
-      "Active vs passive"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "4 Types/08_type_activevspassive.html#active-surveillance-system",
-    "href": "4 Types/08_type_activevspassive.html#active-surveillance-system",
-    "title": "Active vs passive",
-    "section": "Active surveillance system",
-    "text": "Active surveillance system\nAn active surveillance system involves a group of individuals who actively collect information for the surveillance system.\nAn example of an active surveillance system would if the staff of an organization goes door-to-door to gather information.",
+    "objectID": "1_Overview/03_overview_types.html#syndromic-surveillance",
+    "href": "1_Overview/03_overview_types.html#syndromic-surveillance",
+    "title": "4  Types of surveillance systems",
+    "section": "4.2 Syndromic surveillance",
+    "text": "4.2 Syndromic surveillance\n\nInstead of a specific disease its a syndrom (a group of diseases) that is monitored\nIs more sensitive and can find unkown diseases",
     "crumbs": [
-      "4 Types",
-      "Active vs passive"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "4 Types/08_type_activevspassive.html#passive-surveillance-system",
-    "href": "4 Types/08_type_activevspassive.html#passive-surveillance-system",
-    "title": "Active vs passive",
-    "section": "Passive surveillance system",
-    "text": "Passive surveillance system\nA passive surveillance system uses data collected for other purpose. Passive surveillance can be seen as secondary data analysis.\nAn example for a passive surveillance system could be a system that extracts data from a hospital database.",
+    "objectID": "1_Overview/03_overview_types.html#event-based-surveillance",
+    "href": "1_Overview/03_overview_types.html#event-based-surveillance",
+    "title": "4  Types of surveillance systems",
+    "section": "4.3 Event-based surveillance",
+    "text": "4.3 Event-based surveillance\n\nThis system detects unkown events\nIt can be a group of persons who talk every week what they found",
     "crumbs": [
-      "4 Types",
-      "Active vs passive"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "4 Types/06_type_mortality.html",
-    "href": "4 Types/06_type_mortality.html",
-    "title": "Mortality surveillance",
-    "section": "",
-    "text": "Mortality surveillance asses the number of deaths. One example would be the collection of",
+    "objectID": "1_Overview/03_overview_types.html#wastewater-surveillance",
+    "href": "1_Overview/03_overview_types.html#wastewater-surveillance",
+    "title": "4  Types of surveillance systems",
+    "section": "4.4 Wastewater surveillance",
+    "text": "4.4 Wastewater surveillance\n\nThis system detects pathogens in wastewater",
     "crumbs": [
-      "4 Types",
-      "Mortality surveillance"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "4 Types/04_type_event.html",
-    "href": "4 Types/04_type_event.html",
-    "title": "Event-Based Surveillance",
-    "section": "",
-    "text": "Event-based surveillance, better known by its English name, is somewhat different from the usual concept of surveillance because the events being monitored are not known in advance. Through a defined system, relevant events are actively sought. An example of such surveillance is an expert commission that regularly meets to collect potentially relevant events. These events could be news reports or rumors heard by the experts. The collected events are then evaluated, and the critical information is passed on.",
+    "objectID": "1_Overview/03_overview_types.html#mortality-surveillance",
+    "href": "1_Overview/03_overview_types.html#mortality-surveillance",
+    "title": "4  Types of surveillance systems",
+    "section": "4.5 Mortality surveillance",
+    "text": "4.5 Mortality surveillance\n\nThis events detects deaths (and sometimes the cause of deaths)",
     "crumbs": [
-      "4 Types",
-      "Event-Based Surveillance"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "4 Types/02_type_case.html",
-    "href": "4 Types/02_type_case.html",
-    "title": "Case based surveillance",
-    "section": "",
-    "text": "A case based surveillance system focuses on identifying instances of diseases. They are very typical around the world. Its usually physicians that need to notify the occurence of a disease (physician-based surveillance) or a laboratory (lab-based surveillance).\nA typical example is a system that requeires a physician to fill out a form when she or he finds a person that has a disease. The form is then send to a local public health agency",
+    "objectID": "1_Overview/03_overview_types.html#mass-gathering-surveillance",
+    "href": "1_Overview/03_overview_types.html#mass-gathering-surveillance",
+    "title": "4  Types of surveillance systems",
+    "section": "4.6 Mass-gathering surveillance",
+    "text": "4.6 Mass-gathering surveillance\n\nThis type of surveillance monitors one specific mass gathering and uses a variety of techniques",
     "crumbs": [
-      "4 Types",
-      "Case based surveillance"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "3 Steps/step6.html",
-    "href": "3 Steps/step6.html",
-    "title": "Step 6: Communication",
-    "section": "",
-    "text": "Communication is the dissemination of the obtained information in words, writing, and images. Communication consists of traditional elements such as press releases and press conferences or the preparation of reports. Communication now also includes social media and fact-checking. The presentation of data and information in dashboards also counts as communication. Last but not least, the graphical representation of information related to time, place, and person is part of this surveillance step. The communication of epidemiological information was a major focus towards the end of the pandemic and is an area with strong development potential. Almost worldwide, a significant portion of the population rejected the measures to combat the COVID-19 pandemic, thereby influencing the course of the pandemic.",
+    "objectID": "1_Overview/03_overview_types.html#actvie-vs.-passive-surveillance",
+    "href": "1_Overview/03_overview_types.html#actvie-vs.-passive-surveillance",
+    "title": "4  Types of surveillance systems",
+    "section": "4.7 Actvie vs. passive surveillance",
+    "text": "4.7 Actvie vs. passive surveillance\n\nSome systems actively look for cases\nSome systems are passive and collect secondary data",
     "crumbs": [
-      "3 Steps",
-      "Step 6: Communication"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "3 Steps/step4.html",
-    "href": "3 Steps/step4.html",
-    "title": "Step 4: Data Processing",
-    "section": "",
-    "text": "Data processing is seldom mentioned in classical surveillance literature, but it is a step that significantly improves surveillance systems. Many people at all levels are involved in data processing within surveillance systems. In the past, data was transmitted monthly by mail in surveillance systems, whereas today, data flow mostly occurs through interfaces between software programs and databases. The way data is transmitted affects data quality and, consequently, the evaluation of the data. Data processing also includes the application of scripts that prepare the data for subsequent evaluation. An example is automated outbreak detection. Here, data is analyzed using an algorithm or machine learning to determine whether there is a high probability of an outbreak. The resulting dataset can be made available as open data, a publication format that has increased significantly in recent times.",
+    "objectID": "1_Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance",
+    "href": "1_Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance",
+    "title": "4  Types of surveillance systems",
+    "section": "4.8 Sentinel vs. comprehensive surveillance",
+    "text": "4.8 Sentinel vs. comprehensive surveillance\n\nSome systems focus on a fraction of the population under surveillance - a sentinel\nOther systems try to capture everything in a population",
     "crumbs": [
-      "3 Steps",
-      "Step 4: Data Processing"
+      "Overview of surveillance",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Types of surveillance systems</span>"
     ]
   },
   {
-    "objectID": "3 Steps/step2.html",
-    "href": "3 Steps/step2.html",
-    "title": "Step 2: Collection",
-    "section": "",
-    "text": "Infection events are collected How exactly this collection takes place depends on the specific surveillance system. This may happen, for example, through a report from a doctor. An event can also be recorded through a commissioned laboratory examination, such as a PCR test in wastewater. Other recordings are made by health authorities, which investigate further cases after an initial report. There is also the use of other data sources not primarily collected for surveillance, such as illness reports to health insurance companies or death certificates from doctors. This step also often leads to the naming of a surveillance system: a physician-based system as opposed to a laboratory-based system, or secondary data surveillance.",
-    "crumbs": [
-      "3 Steps",
-      "Step 2: Collection"
-    ]
-  },
-  {
-    "objectID": "2 Background/06_background_legal.html",
-    "href": "2 Background/06_background_legal.html",
-    "title": "Laws for surveillance",
-    "section": "",
-    "text": "Surveillance is firmly anchored in national and international legal systems. The International Health Regulations—one of the few nearly globally applicable frameworks—include articles that require surveillance from states. These articles aim to prevent cross-border threats from infectious diseases. During the COVID-19 pandemic, the value of such international collaboration became evident. There are currently efforts to supplement the International Health Regulations with an International Treaty on Pandemic Prevention. Surveillance is also a component of the “Essential Public Health Operations.” The goal of this fundamental component is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.",
-    "crumbs": [
-      "2 Background",
-      "Laws for surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/04_background_othersurveillance.html",
-    "href": "2 Background/04_background_othersurveillance.html",
-    "title": "Other forms of surveillance",
-    "section": "",
-    "text": "Nearly all complex biological and technical systems have mechanisms to monitor and control the system’s condition. Many social systems also regularly analyze their current state. There are various terms for these status assessments: A scientific study is one form of status assessment, as is the police surveillance of a group or the evaluation of a project in the corporate sector. Surveillance is also a form of status assessment.",
-    "crumbs": [
-      "2 Background",
-      "Other forms of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/04_background_othersurveillance.html#neighbourhood-surveillance",
-    "href": "2 Background/04_background_othersurveillance.html#neighbourhood-surveillance",
-    "title": "Other forms of surveillance",
-    "section": "Neighbourhood surveillance",
-    "text": "Neighbourhood surveillance\nHumans are curious. If a person does something interesting and other people are around - they will most likely be watching. This oldest form of surveillance is still ongoing and an important part of nearly every culture. In the latest years this form of surveillance has gained lot of traction with people posting pictures online. People nowadays also have the ability to watch the agencies like the state or newspapers (bildblog.de watches the newspaper Bild). This form of surveillance is sometimes also called participatory surveillance - if you want to emphasize the empowerment of the people or bottom-up-surveillance to emphasize the opposition to top-down-surveillance. One rather negative example of a participatory surveillance is vividly depicted in the book and film the circle.",
-    "crumbs": [
-      "2 Background",
-      "Other forms of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/04_background_othersurveillance.html#rhizomatic-surveillnce",
-    "href": "2 Background/04_background_othersurveillance.html#rhizomatic-surveillnce",
-    "title": "Other forms of surveillance",
-    "section": "Rhizomatic surveillnce",
-    "text": "Rhizomatic surveillnce\nRhizomatic surveillance is named after the rhizome, the network of fungi within the earth. In this surveillance the data is collected covertly by unkown agents, as often happens on the internet. An example would is the surveillance that was conducted by Cambridge Analytica.",
-    "crumbs": [
-      "2 Background",
-      "Other forms of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/04_background_othersurveillance.html#top-down-surveillance",
-    "href": "2 Background/04_background_othersurveillance.html#top-down-surveillance",
-    "title": "Other forms of surveillance",
-    "section": "Top-down-surveillance",
-    "text": "Top-down-surveillance\nThe top-down-surveillance is the surveillance which we usually think of first when we hear the word surveillance. There is an agent usually a dominent one like the state who watches was its constituents do. This can take the form of an Panopticon, where one person can watch many different person and after which some prisons have been modeled. This form of surveillance often aims to achieve a specific behavior among those being monitored. Epidemiological surveillance belongs to this level of surveillance.\nYou can read more about these different types of surveillance in this article by Tieman et al. 1",
-    "crumbs": [
-      "2 Background",
-      "Other forms of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/04_background_othersurveillance.html#top-down-surveillance-1",
-    "href": "2 Background/04_background_othersurveillance.html#top-down-surveillance-1",
-    "title": "Other forms of surveillance",
-    "section": "Top-Down surveillance",
-    "text": "Top-Down surveillance\nThe top-down surveillance is the “classic” form of surveillance. An actor - usually someone with power - watches over other actors. The watcher can be a school teacher watching over a class of students, or a hospital watching its patients or the police setting up CCTVs in the streets to detect crimes. The example of Jails watching there inmates become a symbol of surveillance with Bethams Panopticum \nFoucault",
-    "crumbs": [
-      "2 Background",
-      "Other forms of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/04_background_othersurveillance.html#participatory-surveillance",
-    "href": "2 Background/04_background_othersurveillance.html#participatory-surveillance",
-    "title": "Other forms of surveillance",
-    "section": "Participatory surveillance",
-    "text": "Participatory surveillance\nParticipatory surveillance is the oldest form of surveillance. In its broadest sense it es people watching other people. Small Communities such as villages have a strong tendency to have a strong particpatory surveillance. Neighbors see and know everything what other neigbohrs are doing. This can be framed positively as in the saying: “it takes a village to raise a child” or negatively when people blaspheme other people. A neighborhoodwatch\nWith widespread availability of cameras and the possibility to communicate directly the perticipatory surveillance has gained a large momentum. The largely unsuccesfull Google glass project could have been an even larger driver of participatory surveillance. Now Surveillance becomes a tool that does not lie in the hands of a strong actor such as a state or less strong actors such as companies but in the hands of the individuals. This gives infectious disease specialists the opportunity to gather information from thos eindividuals as it is done in epidemic intelligence",
-    "crumbs": [
-      "2 Background",
-      "Other forms of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/04_background_othersurveillance.html#rhizomatic-surveillance",
-    "href": "2 Background/04_background_othersurveillance.html#rhizomatic-surveillance",
-    "title": "Other forms of surveillance",
-    "section": "Rhizomatic surveillance",
-    "text": "Rhizomatic surveillance\nRhizomatic surveillance is a term coined by Haggerty and Ericson [@Haggarty] (https://pubmed.ncbi.nlm.nih.gov/11140886/). The term comes from rhizom - the large underground network from Fungi. This form of surveillance shows similar characteristics of the rhisom: is is being not directly visible (being “underground”)), it is horizontal in contrast to the top-down surveillance (like the rhizom that does not follow the typical direction of plants growing upwards to the sun)) and the surveillance is a group of different actors instead of one single responsible body. The surveillance done by the big tech companies is a form a rhizomatic surveillance. Collecting millons of datapoints that are left behind by users in the internet can give valuable inside that can be turned into profit. The cambridge analytica scandal is an example of such a surveillance system. State actors are of course also capable of doing rhizomatic survaillance as could bee seen in the documents leaked to PRISM.",
-    "crumbs": [
-      "2 Background",
-      "Other forms of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/04_background_othersurveillance.html#footnotes",
-    "href": "2 Background/04_background_othersurveillance.html#footnotes",
-    "title": "Other forms of surveillance",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\n Timan, Tjerk and Galič, Maša and Koops, Bert-Jaap, Surveillance Theory and Its Implications for Law (December 1, 2017) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3098182↩︎",
-    "crumbs": [
-      "2 Background",
-      "Other forms of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/02_background_decisions.html",
-    "href": "2 Background/02_background_decisions.html",
-    "title": "Information for action",
+    "objectID": "2_Background/02_background_decisions.html",
+    "href": "2_Background/02_background_decisions.html",
+    "title": "7  Information for action",
     "section": "",
     "text": "On the 28th of October in 2020 German chancellor Angela Merkel and the head of the federal states stuck their heads together. They had to make tough decisions about measurements to mitigate the COVID-19 pandemic. We dont know exactly what they were talking about but we can be certain that they were making the decisions with graph in picture 1 in mind.\n\n\n\nPicture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”\n\n\nInfectious diseases are a threat to humanity: some have the ability to easily spread from one person to others persons and infecting all of mankind, some can be transmitted before the infectious persons knows that he is sick, some have no cure and a high fatality rate, some are able to spread long distances via air, water or food.\nTo combat infectious diseases mankind has developed numerous techniques throughout the ages. On very important tool that is a prerequisite to most count measures is infectious disease surveillance. Knowing what happens when and how is one of the cornerstonse of every response. And infectious disease surveillance does exactly that.",
     "crumbs": [
-      "2 Background",
-      "Information for action"
+      "What is surveillance?",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Information for action</span>"
     ]
   },
   {
-    "objectID": "1 Overview/03_overview_types.html",
-    "href": "1 Overview/03_overview_types.html",
-    "title": "Types of surveillance systems",
+    "objectID": "2_Background/03_background_definition.html#footnotes",
+    "href": "2_Background/03_background_definition.html#footnotes",
+    "title": "8  Definition of surveillance",
     "section": "",
-    "text": "Surveillance systems can be categorized\nThese categories are not mutually exclusive\nSome are well defined others more a convention\nThe name usually comes from the event that is monitored",
+    "text": "World Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)↩︎",
     "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
+      "What is surveillance?",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Definition of surveillance</span>"
     ]
   },
   {
-    "objectID": "1 Overview/03_overview_types.html#case-based-surveillance",
-    "href": "1 Overview/03_overview_types.html#case-based-surveillance",
-    "title": "Types of surveillance systems",
-    "section": "Case-based surveillance",
-    "text": "Case-based surveillance\n\nThe typical surveillance system in infectious diseases\nThe event is that a person that gets infected or diseased\nSometimes its named: physician-based system or lab-based system\n\n\n\n\nAdapted from ECDC Handbook Data quality monitoring and surveillance system evaluation",
-    "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
-    ]
-  },
-  {
-    "objectID": "1 Overview/03_overview_types.html#syndromic-surveillance",
-    "href": "1 Overview/03_overview_types.html#syndromic-surveillance",
-    "title": "Types of surveillance systems",
-    "section": "Syndromic surveillance",
-    "text": "Syndromic surveillance\n\nInstead of a specific disease its a syndrom (a group of diseases) that is monitored\nIs more sensitive and can find unkown diseases",
-    "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
-    ]
-  },
-  {
-    "objectID": "1 Overview/03_overview_types.html#event-based-surveillance",
-    "href": "1 Overview/03_overview_types.html#event-based-surveillance",
-    "title": "Types of surveillance systems",
-    "section": "Event-based surveillance",
-    "text": "Event-based surveillance\n\nThis system detects unkown events\nIt can be a group of persons who talk every week what they found",
-    "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
-    ]
-  },
-  {
-    "objectID": "1 Overview/03_overview_types.html#wastewater-surveillance",
-    "href": "1 Overview/03_overview_types.html#wastewater-surveillance",
-    "title": "Types of surveillance systems",
-    "section": "Wastewater surveillance",
-    "text": "Wastewater surveillance\n\nThis system detects pathogens in wastewater",
-    "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
-    ]
-  },
-  {
-    "objectID": "1 Overview/03_overview_types.html#mortality-surveillance",
-    "href": "1 Overview/03_overview_types.html#mortality-surveillance",
-    "title": "Types of surveillance systems",
-    "section": "Mortality surveillance",
-    "text": "Mortality surveillance\n\nThis events detects deaths (and sometimes the cause of deaths)",
-    "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
-    ]
-  },
-  {
-    "objectID": "1 Overview/03_overview_types.html#mass-gathering-surveillance",
-    "href": "1 Overview/03_overview_types.html#mass-gathering-surveillance",
-    "title": "Types of surveillance systems",
-    "section": "Mass-gathering surveillance",
-    "text": "Mass-gathering surveillance\n\nThis type of surveillance monitors one specific mass gathering and uses a variety of techniques",
-    "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
-    ]
-  },
-  {
-    "objectID": "1 Overview/03_overview_types.html#actvie-vs.-passive-surveillance",
-    "href": "1 Overview/03_overview_types.html#actvie-vs.-passive-surveillance",
-    "title": "Types of surveillance systems",
-    "section": "Actvie vs. passive surveillance",
-    "text": "Actvie vs. passive surveillance\n\nSome systems actively look for cases\nSome systems are passive and collect secondary data",
-    "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
-    ]
-  },
-  {
-    "objectID": "1 Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance",
-    "href": "1 Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance",
-    "title": "Types of surveillance systems",
-    "section": "Sentinel vs. comprehensive surveillance",
-    "text": "Sentinel vs. comprehensive surveillance\n\nSome systems focus on a fraction of the population under surveillance - a sentinel\nOther systems try to capture everything in a population",
-    "crumbs": [
-      "1 Overview",
-      "Types of surveillance systems"
-    ]
-  },
-  {
-    "objectID": "1 Overview/01_overview_background.html",
-    "href": "1 Overview/01_overview_background.html",
-    "title": "What is surveillance?",
+    "objectID": "2_Background/04_background_othersurveillance.html",
+    "href": "2_Background/04_background_othersurveillance.html",
+    "title": "9  Other forms of surveillance",
     "section": "",
-    "text": "On the 28th of October 2020 the German government based their decision to do a lockdown on the surveillance system",
+    "text": "9.1 Neighbourhood surveillance\nHumans are curious. If a person does something interesting and other people are around - they will most likely be watching. This oldest form of surveillance is still ongoing and an important part of nearly every culture. In the latest years this form of surveillance has gained lot of traction with people posting pictures online. People nowadays also have the ability to watch the agencies like the state or newspapers (bildblog.de watches the newspaper Bild). This form of surveillance is sometimes also called participatory surveillance - if you want to emphasize the empowerment of the people or bottom-up-surveillance to emphasize the opposition to top-down-surveillance. One rather negative example of a participatory surveillance is vividly depicted in the book and film the circle.",
     "crumbs": [
-      "1 Overview",
-      "What is surveillance?"
+      "What is surveillance?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other forms of surveillance</span>"
     ]
   },
   {
-    "objectID": "1 Overview/01_overview_background.html#information-for-action",
-    "href": "1 Overview/01_overview_background.html#information-for-action",
-    "title": "What is surveillance?",
+    "objectID": "2_Background/04_background_othersurveillance.html#rhizomatic-surveillnce",
+    "href": "2_Background/04_background_othersurveillance.html#rhizomatic-surveillnce",
+    "title": "9  Other forms of surveillance",
+    "section": "9.2 Rhizomatic surveillnce",
+    "text": "9.2 Rhizomatic surveillnce\nRhizomatic surveillance is named after the rhizome, the network of fungi within the earth. In this surveillance the data is collected covertly by unkown agents, as often happens on the internet. An example would is the surveillance that was conducted by Cambridge Analytica.",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other forms of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/04_background_othersurveillance.html#top-down-surveillance",
+    "href": "2_Background/04_background_othersurveillance.html#top-down-surveillance",
+    "title": "9  Other forms of surveillance",
+    "section": "9.3 Top-down-surveillance",
+    "text": "9.3 Top-down-surveillance\nThe top-down-surveillance is the surveillance which we usually think of first when we hear the word surveillance. There is an agent usually a dominent one like the state who watches was its constituents do. This can take the form of an Panopticon, where one person can watch many different person and after which some prisons have been modeled. This form of surveillance often aims to achieve a specific behavior among those being monitored. Epidemiological surveillance belongs to this level of surveillance.\nYou can read more about these different types of surveillance in this article by Tieman et al. 1",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other forms of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/04_background_othersurveillance.html#top-down-surveillance-1",
+    "href": "2_Background/04_background_othersurveillance.html#top-down-surveillance-1",
+    "title": "9  Other forms of surveillance",
+    "section": "9.4 Top-Down surveillance",
+    "text": "9.4 Top-Down surveillance\nThe top-down surveillance is the “classic” form of surveillance. An actor - usually someone with power - watches over other actors. The watcher can be a school teacher watching over a class of students, or a hospital watching its patients or the police setting up CCTVs in the streets to detect crimes. The example of Jails watching there inmates become a symbol of surveillance with Bethams Panopticum \nFoucault",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other forms of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/04_background_othersurveillance.html#participatory-surveillance",
+    "href": "2_Background/04_background_othersurveillance.html#participatory-surveillance",
+    "title": "9  Other forms of surveillance",
+    "section": "9.5 Participatory surveillance",
+    "text": "9.5 Participatory surveillance\nParticipatory surveillance is the oldest form of surveillance. In its broadest sense it es people watching other people. Small Communities such as villages have a strong tendency to have a strong particpatory surveillance. Neighbors see and know everything what other neigbohrs are doing. This can be framed positively as in the saying: “it takes a village to raise a child” or negatively when people blaspheme other people. A neighborhoodwatch\nWith widespread availability of cameras and the possibility to communicate directly the perticipatory surveillance has gained a large momentum. The largely unsuccesfull Google glass project could have been an even larger driver of participatory surveillance. Now Surveillance becomes a tool that does not lie in the hands of a strong actor such as a state or less strong actors such as companies but in the hands of the individuals. This gives infectious disease specialists the opportunity to gather information from thos eindividuals as it is done in epidemic intelligence",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other forms of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/04_background_othersurveillance.html#rhizomatic-surveillance",
+    "href": "2_Background/04_background_othersurveillance.html#rhizomatic-surveillance",
+    "title": "9  Other forms of surveillance",
+    "section": "9.6 Rhizomatic surveillance",
+    "text": "9.6 Rhizomatic surveillance\nRhizomatic surveillance is a term coined by Haggerty and Ericson [@Haggarty] (https://pubmed.ncbi.nlm.nih.gov/11140886/). The term comes from rhizom - the large underground network from Fungi. This form of surveillance shows similar characteristics of the rhisom: is is being not directly visible (being “underground”)), it is horizontal in contrast to the top-down surveillance (like the rhizom that does not follow the typical direction of plants growing upwards to the sun)) and the surveillance is a group of different actors instead of one single responsible body. The surveillance done by the big tech companies is a form a rhizomatic surveillance. Collecting millons of datapoints that are left behind by users in the internet can give valuable inside that can be turned into profit. The cambridge analytica scandal is an example of such a surveillance system. State actors are of course also capable of doing rhizomatic survaillance as could bee seen in the documents leaked to PRISM.",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other forms of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/04_background_othersurveillance.html#footnotes",
+    "href": "2_Background/04_background_othersurveillance.html#footnotes",
+    "title": "9  Other forms of surveillance",
     "section": "",
-    "text": "On the 28th of October 2020 the German government based their decision to do a lockdown on the surveillance system",
+    "text": "Timan, Tjerk and Galič, Maša and Koops, Bert-Jaap, Surveillance Theory and Its Implications for Law (December 1, 2017) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3098182↩︎",
     "crumbs": [
-      "1 Overview",
-      "What is surveillance?"
+      "What is surveillance?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other forms of surveillance</span>"
     ]
   },
   {
-    "objectID": "1 Overview/01_overview_background.html#definition",
-    "href": "1 Overview/01_overview_background.html#definition",
-    "title": "What is surveillance?",
-    "section": "Definition",
-    "text": "Definition\n\nPublic health surveillance is the systematic ongoing collection, collation and analysis of data for public health purposes and the timely dissemination of public health information for assessment and public health response as necessary. 1",
-    "crumbs": [
-      "1 Overview",
-      "What is surveillance?"
-    ]
-  },
-  {
-    "objectID": "1 Overview/01_overview_background.html#other-surveillance-systems",
-    "href": "1 Overview/01_overview_background.html#other-surveillance-systems",
-    "title": "What is surveillance?",
-    "section": "Other surveillance systems",
-    "text": "Other surveillance systems\n\nNeighbourhood surveillance (People watching other people)\nRhizomatic surveillance (Unkown actors watching secretly)\nTop-down-surveillance (State actors watching their people)",
-    "crumbs": [
-      "1 Overview",
-      "What is surveillance?"
-    ]
-  },
-  {
-    "objectID": "1 Overview/01_overview_background.html#objectives",
-    "href": "1 Overview/01_overview_background.html#objectives",
-    "title": "What is surveillance?",
-    "section": "Objectives",
-    "text": "Objectives\n\n\n\n\n\n\n\nObjective\nDescription\n\n\n\n\nALERT\nServes as an early warning system for impending public health emergencies\n\n\nACTION\nAllows case based measures, group based measures, medical measures, community measures\n\n\nEVALUATE\nDocuments the impact of an intervention, or track progress towards specified goals\n\n\nDESCRIBE\nMonitors and clarify the epidemiology of health problems\n\n\nINFORM\nAllows priorities to be set and to inform public health policy and strategies\n\n\n\n\nALERT\n\nThere are surveillance systems that are build to detect threats to human and animal health.\nSurveillance systems that focus on this aspect usually have to be timely\n\n\n\nACTION\n\nSurveillance systems are set up to open the possibilty to take action.\nCase based measures are measures like information of cases and contacts or quarantine or isolation\nGroup based measures are measures that affect a group of people. Examples are mask mandates\nMedical measures are measurements taken by health care personel. An example ist the substitution of an antibiotic drug with another because of a higher resistancy\nCommunity measures are measures taken by the people upon recieving information about an infectious disease. An example would be poeple starting to wear a mask if the SARS-CoV-2 incidence goes up\n\n\n\nEVALUATE\n\nInterventions in public health should eventually have an impact. So if somebody was to launch a campaign for hygeinic cooking the impact could be measured in the campylobacter surveillance\n\n\n\nDESCRIBE\n\nSurveillance can serve as a basis for scientific research. The change of variants of a pathogen in relationship to vaccination is an example\n\n\n\nINFORM\n\nIn public health long term decisions about resources are made by politicians. Surveillance systems can guide those decisions.",
-    "crumbs": [
-      "1 Overview",
-      "What is surveillance?"
-    ]
-  },
-  {
-    "objectID": "1 Overview/01_overview_background.html#examples",
-    "href": "1 Overview/01_overview_background.html#examples",
-    "title": "What is surveillance?",
-    "section": "Examples",
-    "text": "Examples\n\nCampylobacter\n\n\n\nBless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/\n\n\n\n\nRotavirus\n\n\n\nMarquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/\n\n\n\n\nSARS-CoV-2\n\n\n\nSummary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report",
-    "crumbs": [
-      "1 Overview",
-      "What is surveillance?"
-    ]
-  },
-  {
-    "objectID": "1 Overview/01_overview_background.html#footnotes",
-    "href": "1 Overview/01_overview_background.html#footnotes",
-    "title": "What is surveillance?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nWorld Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)↩︎",
-    "crumbs": [
-      "1 Overview",
-      "What is surveillance?"
-    ]
-  },
-  {
-    "objectID": "1 Overview/02_overview_steps.html",
-    "href": "1 Overview/02_overview_steps.html",
-    "title": "Steps of a surveillance system",
+    "objectID": "2_Background/05_background_aims.html",
+    "href": "2_Background/05_background_aims.html",
+    "title": "10  Objectives of surveillance",
     "section": "",
-    "text": "Steps of a surveillance system",
+    "text": "10.1 ALERT",
     "crumbs": [
-      "1 Overview",
-      "Steps of a surveillance system"
+      "What is surveillance?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Objectives of surveillance</span>"
     ]
   },
   {
-    "objectID": "1 Overview/02_overview_steps.html#infection-event",
-    "href": "1 Overview/02_overview_steps.html#infection-event",
-    "title": "Steps of a surveillance system",
-    "section": "1. Infection event",
-    "text": "1. Infection event\n\nThe event that is monitored can vary\nA typical event is an instance of an infectious disease - a case\nStrictly speaking the event is not part of the surveillance system",
-    "crumbs": [
-      "1 Overview",
-      "Steps of a surveillance system"
-    ]
-  },
-  {
-    "objectID": "1 Overview/02_overview_steps.html#collection",
-    "href": "1 Overview/02_overview_steps.html#collection",
-    "title": "Steps of a surveillance system",
-    "section": "2. Collection",
-    "text": "2. Collection\n\nEvents are collected usally by system with an agency being one of the main actors",
-    "crumbs": [
-      "1 Overview",
-      "Steps of a surveillance system"
-    ]
-  },
-  {
-    "objectID": "1 Overview/02_overview_steps.html#classification",
-    "href": "1 Overview/02_overview_steps.html#classification",
-    "title": "Steps of a surveillance system",
-    "section": "3. Classification",
-    "text": "3. Classification\n\nThe events are classified (see case definition)\nBy classifing the events are turned into data",
-    "crumbs": [
-      "1 Overview",
-      "Steps of a surveillance system"
-    ]
-  },
-  {
-    "objectID": "1 Overview/02_overview_steps.html#data-processing",
-    "href": "1 Overview/02_overview_steps.html#data-processing",
-    "title": "Steps of a surveillance system",
-    "section": "4. Data processing",
-    "text": "4. Data processing\n\nThe data is processed in a data system that stores and distributes the data\nAt this step data can be made as open data",
-    "crumbs": [
-      "1 Overview",
-      "Steps of a surveillance system"
-    ]
-  },
-  {
-    "objectID": "1 Overview/02_overview_steps.html#analysis",
-    "href": "1 Overview/02_overview_steps.html#analysis",
-    "title": "Steps of a surveillance system",
-    "section": "5. Analysis",
-    "text": "5. Analysis\n\nThe data is analysed by public health experts\nThrough the analysis the data is turned into information",
-    "crumbs": [
-      "1 Overview",
-      "Steps of a surveillance system"
-    ]
-  },
-  {
-    "objectID": "1 Overview/02_overview_steps.html#communication",
-    "href": "1 Overview/02_overview_steps.html#communication",
-    "title": "Steps of a surveillance system",
-    "section": "6. Communication",
-    "text": "6. Communication\n\nThe information is communicated to decision makers\nUsually done via reports\nVisualising information is important",
-    "crumbs": [
-      "1 Overview",
-      "Steps of a surveillance system"
-    ]
-  },
-  {
-    "objectID": "1 Overview/02_overview_steps.html#action",
-    "href": "1 Overview/02_overview_steps.html#action",
-    "title": "Steps of a surveillance system",
-    "section": "7. Action",
-    "text": "7. Action\n\nDecision makers act upon the information",
-    "crumbs": [
-      "1 Overview",
-      "Steps of a surveillance system"
-    ]
-  },
-  {
-    "objectID": "2 Background/03_background_definition.html",
-    "href": "2 Background/03_background_definition.html",
-    "title": "Definition of surveillance",
+    "objectID": "2_Background/05_background_aims.html#alert",
+    "href": "2_Background/05_background_aims.html#alert",
+    "title": "10  Objectives of surveillance",
     "section": "",
-    "text": "Public health surveillance is the systematic ongoing collection, collation and analysis of data for public health purposes and the timely dissemination of public health information for assessment and public health response as necessary. 1\nThe definition of public health surveillance is very informative. It gives us all important elements of a surveillance system.",
+    "text": "There are surveillance systems that are build to detect threats to human and animal health.\nSurveillance systems that focus on this aspect usually have to be timely",
     "crumbs": [
-      "2 Background",
-      "Definition of surveillance"
+      "What is surveillance?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Objectives of surveillance</span>"
     ]
   },
   {
-    "objectID": "2 Background/03_background_definition.html#footnotes",
-    "href": "2 Background/03_background_definition.html#footnotes",
-    "title": "Definition of surveillance",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nWorld Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)↩︎",
+    "objectID": "2_Background/05_background_aims.html#action",
+    "href": "2_Background/05_background_aims.html#action",
+    "title": "10  Objectives of surveillance",
+    "section": "10.2 ACTION",
+    "text": "10.2 ACTION\n\nSurveillance systems are set up to open the possibilty to take action.\nCase based measures are measures like information of cases and contacts or quarantine or isolation\nGroup based measures are measures that affect a group of people. Examples are mask mandates\nMedical measures are measurements taken by health care personel. An example ist the substitution of an antibiotic drug with another because of a higher resistancy\nCommunity measures are measures taken by the people upon recieving information about an infectious disease. An example would be poeple starting to wear a mask if the SARS-CoV-2 incidence goes up",
     "crumbs": [
-      "2 Background",
-      "Definition of surveillance"
+      "What is surveillance?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Objectives of surveillance</span>"
     ]
   },
   {
-    "objectID": "2 Background/05_background_aims.html",
-    "href": "2 Background/05_background_aims.html",
-    "title": "Objectives of surveillance",
+    "objectID": "2_Background/05_background_aims.html#evaluate",
+    "href": "2_Background/05_background_aims.html#evaluate",
+    "title": "10  Objectives of surveillance",
+    "section": "10.3 EVALUATE",
+    "text": "10.3 EVALUATE\n\nInterventions in public health should eventually have an impact. So if somebody was to launch a campaign for hygeinic cooking the impact could be measured in the campylobacter surveillance",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Objectives of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/05_background_aims.html#describe",
+    "href": "2_Background/05_background_aims.html#describe",
+    "title": "10  Objectives of surveillance",
+    "section": "10.4 DESCRIBE",
+    "text": "10.4 DESCRIBE\n\nSurveillance can serve as a basis for scientific research. The change of variants of a pathogen in relationship to vaccination is an example",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Objectives of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/05_background_aims.html#inform",
+    "href": "2_Background/05_background_aims.html#inform",
+    "title": "10  Objectives of surveillance",
+    "section": "10.5 INFORM",
+    "text": "10.5 INFORM\n\nIn public health long term decisions about resources are made by politicians. Surveillance systems can guide those decisions.",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Objectives of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/05_background_aims.html#example-objectives-of-eueea-surveillance",
+    "href": "2_Background/05_background_aims.html#example-objectives-of-eueea-surveillance",
+    "title": "10  Objectives of surveillance",
+    "section": "10.6 Example: Objectives of EU/EEA surveillance",
+    "text": "10.6 Example: Objectives of EU/EEA surveillance\n\nDetect and monitor any multinational infectious disease outbreaks with respect to source, time, population, and place in order to provide a rationale for public health action;\nMonitor trends in infectious diseases over time and across Member States to assess the present situation, respond to rises above warning thresholds and facilitate appropriate evidence-based action;\nContribute to the evaluation and monitoring of prevention and control programmes targeted at infectious diseases in order to provide the evidence for recommendations to strengthen and improve these programmes at the national and European level;\nIdentify population groups at risk and in need of targeted prevention measures;\nContribute to the awareness of and the assessment of the burden of infectious diseases on the population using such data as disease prevalence, complications, hospitalisation, and mortality; and\nGenerate hypotheses on (new) sources, modes of transmission and groups most at risk and identify needs for research and pilot projects",
+    "crumbs": [
+      "What is surveillance?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Objectives of surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/06_background_legal.html",
+    "href": "2_Background/06_background_legal.html",
+    "title": "11  Laws for surveillance",
     "section": "",
-    "text": "Objective\nDescription\n\n\n\n\nALERT\nServes as an early warning system for impending public health emergencies\n\n\nACTION\nAllows case based measures, group based measures, medical measures, community measures\n\n\nEVALUATE\nDocuments the impact of an intervention, or track progress towards specified goals\n\n\nDESCRIBE\nMonitors and clarify the epidemiology of health problems\n\n\nINFORM\nAllows priorities to be set and to inform public health policy and strategies",
+    "text": "Surveillance is firmly anchored in national and international legal systems. The International Health Regulations—one of the few nearly globally applicable frameworks—include articles that require surveillance from states. These articles aim to prevent cross-border threats from infectious diseases. During the COVID-19 pandemic, the value of such international collaboration became evident. There are currently efforts to supplement the International Health Regulations with an International Treaty on Pandemic Prevention. Surveillance is also a component of the “Essential Public Health Operations.” The goal of this fundamental component is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.",
     "crumbs": [
-      "2 Background",
-      "Objectives of surveillance"
+      "What is surveillance?",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Laws for surveillance</span>"
     ]
   },
   {
-    "objectID": "2 Background/05_background_aims.html#alert",
-    "href": "2 Background/05_background_aims.html#alert",
-    "title": "Objectives of surveillance",
-    "section": "ALERT",
-    "text": "ALERT\n\nThere are surveillance systems that are build to detect threats to human and animal health.\nSurveillance systems that focus on this aspect usually have to be timely",
-    "crumbs": [
-      "2 Background",
-      "Objectives of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/05_background_aims.html#action",
-    "href": "2 Background/05_background_aims.html#action",
-    "title": "Objectives of surveillance",
-    "section": "ACTION",
-    "text": "ACTION\n\nSurveillance systems are set up to open the possibilty to take action.\nCase based measures are measures like information of cases and contacts or quarantine or isolation\nGroup based measures are measures that affect a group of people. Examples are mask mandates\nMedical measures are measurements taken by health care personel. An example ist the substitution of an antibiotic drug with another because of a higher resistancy\nCommunity measures are measures taken by the people upon recieving information about an infectious disease. An example would be poeple starting to wear a mask if the SARS-CoV-2 incidence goes up",
-    "crumbs": [
-      "2 Background",
-      "Objectives of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/05_background_aims.html#evaluate",
-    "href": "2 Background/05_background_aims.html#evaluate",
-    "title": "Objectives of surveillance",
-    "section": "EVALUATE",
-    "text": "EVALUATE\n\nInterventions in public health should eventually have an impact. So if somebody was to launch a campaign for hygeinic cooking the impact could be measured in the campylobacter surveillance",
-    "crumbs": [
-      "2 Background",
-      "Objectives of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/05_background_aims.html#describe",
-    "href": "2 Background/05_background_aims.html#describe",
-    "title": "Objectives of surveillance",
-    "section": "DESCRIBE",
-    "text": "DESCRIBE\n\nSurveillance can serve as a basis for scientific research. The change of variants of a pathogen in relationship to vaccination is an example",
-    "crumbs": [
-      "2 Background",
-      "Objectives of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/05_background_aims.html#inform",
-    "href": "2 Background/05_background_aims.html#inform",
-    "title": "Objectives of surveillance",
-    "section": "INFORM",
-    "text": "INFORM\n\nIn public health long term decisions about resources are made by politicians. Surveillance systems can guide those decisions.",
-    "crumbs": [
-      "2 Background",
-      "Objectives of surveillance"
-    ]
-  },
-  {
-    "objectID": "2 Background/05_background_aims.html#example-objectives-of-eueea-surveillance",
-    "href": "2 Background/05_background_aims.html#example-objectives-of-eueea-surveillance",
-    "title": "Objectives of surveillance",
-    "section": "Example: Objectives of EU/EEA surveillance",
-    "text": "Example: Objectives of EU/EEA surveillance\n\nDetect and monitor any multinational infectious disease outbreaks with respect to source, time, population, and place in order to provide a rationale for public health action;\nMonitor trends in infectious diseases over time and across Member States to assess the present situation, respond to rises above warning thresholds and facilitate appropriate evidence-based action;\nContribute to the evaluation and monitoring of prevention and control programmes targeted at infectious diseases in order to provide the evidence for recommendations to strengthen and improve these programmes at the national and European level;\nIdentify population groups at risk and in need of targeted prevention measures;\nContribute to the awareness of and the assessment of the burden of infectious diseases on the population using such data as disease prevalence, complications, hospitalisation, and mortality; and\nGenerate hypotheses on (new) sources, modes of transmission and groups most at risk and identify needs for research and pilot projects",
-    "crumbs": [
-      "2 Background",
-      "Objectives of surveillance"
-    ]
-  },
-  {
-    "objectID": "3 Steps/step1.html",
-    "href": "3 Steps/step1.html",
-    "title": "Step 1: Infection Event",
+    "objectID": "3_Steps/step1.html",
+    "href": "3_Steps/step1.html",
+    "title": "12  Step 1: Infection Event",
     "section": "",
-    "text": "The infection-related events monitored in a surveillance system can be diverse. The choice of the specific event has a decisive impact on the entire system. Therefore, surveillance systems are often named after this event: Emergency room surveillance is one such example. The categorization of surveillance systems is also often based on the event being analyzed: For example, a system classified as “syndromic surveillance” is based on the monitoring of syndromes. A classic event that is monitored is the occurrence of an infectious disease in a person. However, there are many variations and other infection events that may be relevant: an available ICU bed, the colonization of a person by a pathogen, a physician’s ICD-10 classification of a patient, the discovery of a newspaper article about a disease outbreak, or the subjective assessment of a public health department employee that something poses a threat to the population.",
+    "text": "12.1 Alterantive Events\nEvents are something that wants to be monitored. In infectious disease surveillance it is typically an infection. But i can also be other events as well: lab confirmation of a pathogen, free intensiv care beds, hospiatalisation because of a disease, vaccinations, death of person, a contact between to persons. One important but sometimes difficult distinction is differing between infection and disease. A lab confirmation usually shows an infection, which means that we know, that a person has a infection but is not necessarily sick, whereas a confirmation by a physician usually means that a person is sick.\nWhat event is monitored depends on the aim of the surveillance system. It is useful to be precise about the event that wants to be monitored. This helps in the communication and in the quality assessment.",
     "crumbs": [
-      "3 Steps",
-      "Step 1: Infection Event"
+      "Steps of surveillance",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Step 1: Infection Event</span>"
     ]
   },
   {
-    "objectID": "3 Steps/step1.html#alterantive-events",
-    "href": "3 Steps/step1.html#alterantive-events",
-    "title": "Step 1: Infection Event",
-    "section": "Alterantive Events",
-    "text": "Alterantive Events\nEvents are something that wants to be monitored. In infectious disease surveillance it is typically an infection. But i can also be other events as well: lab confirmation of a pathogen, free intensiv care beds, hospiatalisation because of a disease, vaccinations, death of person, a contact between to persons. One important but sometimes difficult distinction is differing between infection and disease. A lab confirmation usually shows an infection, which means that we know, that a person has a infection but is not necessarily sick, whereas a confirmation by a physician usually means that a person is sick.\nWhat event is monitored depends on the aim of the surveillance system. It is useful to be precise about the event that wants to be monitored. This helps in the communication and in the quality assessment.",
+    "objectID": "3_Steps/step2.html",
+    "href": "3_Steps/step2.html",
+    "title": "13  Step 2: Collection",
+    "section": "",
+    "text": "Infection events are collected How exactly this collection takes place depends on the specific surveillance system. This may happen, for example, through a report from a doctor. An event can also be recorded through a commissioned laboratory examination, such as a PCR test in wastewater. Other recordings are made by health authorities, which investigate further cases after an initial report. There is also the use of other data sources not primarily collected for surveillance, such as illness reports to health insurance companies or death certificates from doctors. This step also often leads to the naming of a surveillance system: a physician-based system as opposed to a laboratory-based system, or secondary data surveillance.",
     "crumbs": [
-      "3 Steps",
-      "Step 1: Infection Event"
+      "Steps of surveillance",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Step 2: Collection</span>"
     ]
   },
   {
-    "objectID": "3 Steps/step3.html",
-    "href": "3 Steps/step3.html",
-    "title": "Step 3: Classification",
+    "objectID": "3_Steps/step3.html",
+    "href": "3_Steps/step3.html",
+    "title": "14  Step 3: Classification",
     "section": "",
     "text": "Classification means categorizing the recorded events. A person or software decides based on a definition how the event is included as a data point. Often, classification involves agreeing on what exactly counts as an event and what does not. This classification is often done using a so-called case definition. Classification is important because recorded events can be erroneous and should not be counted. Or there may not be enough information to decide whether a real event has occurred. Without classification, the events form an unclear collection with questionable significance. Classification is often a hidden part of the surveillance system or built into the system in a way that it is not recognized as such. For example, the application of case definitions in the reporting system is built into the reporting software. Even in seemingly trivial classifications, important definitions must be agreed upon: Does the death of a tourist with a foreign passport count as a death in the context of mortality surveillance?",
     "crumbs": [
-      "3 Steps",
-      "Step 3: Classification"
+      "Steps of surveillance",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Step 3: Classification</span>"
     ]
   },
   {
-    "objectID": "3 Steps/step5.html",
-    "href": "3 Steps/step5.html",
-    "title": "Step 5: Analysis",
+    "objectID": "3_Steps/step4.html",
+    "href": "3_Steps/step4.html",
+    "title": "15  Step 4: Data Processing",
+    "section": "",
+    "text": "Data processing is seldom mentioned in classical surveillance literature, but it is a step that significantly improves surveillance systems. Many people at all levels are involved in data processing within surveillance systems. In the past, data was transmitted monthly by mail in surveillance systems, whereas today, data flow mostly occurs through interfaces between software programs and databases. The way data is transmitted affects data quality and, consequently, the evaluation of the data. Data processing also includes the application of scripts that prepare the data for subsequent evaluation. An example is automated outbreak detection. Here, data is analyzed using an algorithm or machine learning to determine whether there is a high probability of an outbreak. The resulting dataset can be made available as open data, a publication format that has increased significantly in recent times.",
+    "crumbs": [
+      "Steps of surveillance",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Step 4: Data Processing</span>"
+    ]
+  },
+  {
+    "objectID": "3_Steps/step5.html",
+    "href": "3_Steps/step5.html",
+    "title": "16  Step 5: Analysis",
     "section": "",
     "text": "The assessment step consists of analyzing the data and subsequently drawing conclusions—in other words, converting the available data into information. In some cases, assessment is straightforward; for example, when a case of Ebola is reported in a returning traveler, it is clear that this is an important event that necessitates action. In other cases, assessment is highly complex and requires a lot of experience and exchange between the evaluators: Is a relative increase in a variant of SARS-CoV-2 a reason for action? This assessment step converts data into information, following the first two parts of the “data–information–knowledge–wisdom” pyramid. assessment is a subjective process and context-dependent. Knowledge of the limitations is particularly important for assessment. An increase in cases may seem like a clear event on paper but could be caused by intensified recording, making it less relevant and even a sign of relief, for example, if a comprehensive diagnostic of all hospital staff finds fewer cases than expected. The publication as open data means that the assessment is not only carried out by designated individuals but is open to everyone, enabling independent verification of this step in surveillance but also posing the risk of misinterpretation.",
     "crumbs": [
-      "3 Steps",
-      "Step 5: Analysis"
+      "Steps of surveillance",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Step 5: Analysis</span>"
     ]
   },
   {
-    "objectID": "3 Steps/step7.html",
-    "href": "3 Steps/step7.html",
-    "title": "Step 7: Public Health Measures",
+    "objectID": "3_Steps/step6.html",
+    "href": "3_Steps/step6.html",
+    "title": "17  Step 6: Communication",
+    "section": "",
+    "text": "Communication is the dissemination of the obtained information in words, writing, and images. Communication consists of traditional elements such as press releases and press conferences or the preparation of reports. Communication now also includes social media and fact-checking. The presentation of data and information in dashboards also counts as communication. Last but not least, the graphical representation of information related to time, place, and person is part of this surveillance step. The communication of epidemiological information was a major focus towards the end of the pandemic and is an area with strong development potential. Almost worldwide, a significant portion of the population rejected the measures to combat the COVID-19 pandemic, thereby influencing the course of the pandemic.",
+    "crumbs": [
+      "Steps of surveillance",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Step 6: Communication</span>"
+    ]
+  },
+  {
+    "objectID": "3_Steps/step7.html",
+    "href": "3_Steps/step7.html",
+    "title": "18  Step 7: Public Health Measures",
     "section": "",
     "text": "Measures are not strictly speaking a step of surveillance, but they are the goal towards which surveillance is directed. Public health measures are all deliberate efforts by commissioned actors aimed at preventing the further spread and generally minimizing the harm caused by infectious diseases. Measures are often legally defined, for example, in the Infection Protection Act. Measures can be divided into case-based measures and population-based measures. Case-based measures include, for example, informing an affected person about transmission routes or measures such as quarantine. Population-based measures are those that affect many people, for example, the population of a federal state.",
     "crumbs": [
-      "3 Steps",
-      "Step 7: Public Health Measures"
+      "Steps of surveillance",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Step 7: Public Health Measures</span>"
     ]
   },
   {
-    "objectID": "4 Types/03_type_syndromic.html",
-    "href": "4 Types/03_type_syndromic.html",
-    "title": "Syndromic Surveillance",
+    "objectID": "4_Types/02_type_case.html",
+    "href": "4_Types/02_type_case.html",
+    "title": "19  Case based surveillance",
+    "section": "",
+    "text": "A case based surveillance system focuses on identifying instances of diseases. They are very typical around the world. Its usually physicians that need to notify the occurence of a disease (physician-based surveillance) or a laboratory (lab-based surveillance).\nA typical example is a system that requeires a physician to fill out a form when she or he finds a person that has a disease. The form is then send to a local public health agency",
+    "crumbs": [
+      "Types of surveillance",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Case based surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/03_type_syndromic.html",
+    "href": "4_Types/03_type_syndromic.html",
+    "title": "20  Syndromic Surveillance",
     "section": "",
     "text": "Syndromic surveillance refers to surveillance systems where the relevant event is not a diagnosed disease but rather cases from a group of illnesses. For example, in syndromic surveillance, instead of tracking cases of SARS-CoV-2 infection, cases of acute respiratory illness are recorded. This approach makes the surveillance system more sensitive, capturing a broader spectrum of diseases. When a signal suggests a relevant event, such as an outbreak, further investigation can be conducted to identify the exact pathogen.",
     "crumbs": [
-      "4 Types",
-      "Syndromic Surveillance"
+      "Types of surveillance",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Syndromic Surveillance</span>"
     ]
   },
   {
-    "objectID": "4 Types/05_type_wastewater.html",
-    "href": "4 Types/05_type_wastewater.html",
-    "title": "Wastewater",
+    "objectID": "4_Types/04_type_event.html",
+    "href": "4_Types/04_type_event.html",
+    "title": "21  Event-Based Surveillance",
+    "section": "",
+    "text": "Event-based surveillance, better known by its English name, is somewhat different from the usual concept of surveillance because the events being monitored are not known in advance. Through a defined system, relevant events are actively sought. An example of such surveillance is an expert commission that regularly meets to collect potentially relevant events. These events could be news reports or rumors heard by the experts. The collected events are then evaluated, and the critical information is passed on.",
+    "crumbs": [
+      "Types of surveillance",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Event-Based Surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/05_type_wastewater.html",
+    "href": "4_Types/05_type_wastewater.html",
+    "title": "22  Wastewater",
     "section": "",
     "text": "Wastewatersurveillance is a system that measures indicators of diseases in wastewater. Pathogens can be excreted via stool, urine or washed into the drain during shower. These pathogens can be detected at a wastewatertrement plant.",
     "crumbs": [
-      "4 Types",
-      "Wastewater"
+      "Types of surveillance",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Wastewater</span>"
     ]
   },
   {
-    "objectID": "4 Types/07_type_massgathering.html",
-    "href": "4 Types/07_type_massgathering.html",
-    "title": "Mass-Gathering Surveillance",
+    "objectID": "4_Types/06_type_mortality.html",
+    "href": "4_Types/06_type_mortality.html",
+    "title": "23  Mortality surveillance",
+    "section": "",
+    "text": "Mortality surveillance asses the number of deaths. One example would be the collection of",
+    "crumbs": [
+      "Types of surveillance",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Mortality surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/07_type_massgathering.html",
+    "href": "4_Types/07_type_massgathering.html",
+    "title": "24  Mass-Gathering Surveillance",
     "section": "",
     "text": "Mass-gathering surveillance refers to surveillance systems set up for the duration of a special event. Typically, different components from other surveillance systems are employed. For instance, a separate surveillance system might be implemented during a European Football Championship.",
     "crumbs": [
-      "4 Types",
-      "Mass-Gathering Surveillance"
+      "Types of surveillance",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Mass-Gathering Surveillance</span>"
     ]
   },
   {
-    "objectID": "4 Types/09_type_sentinel.html",
-    "href": "4 Types/09_type_sentinel.html",
-    "title": "Sentinal vs comprehensive",
+    "objectID": "4_Types/08_type_activevspassive.html",
+    "href": "4_Types/08_type_activevspassive.html",
+    "title": "25  Active vs passive",
+    "section": "",
+    "text": "25.1 Active surveillance system\nAn active surveillance system involves a group of individuals who actively collect information for the surveillance system.\nAn example of an active surveillance system would if the staff of an organization goes door-to-door to gather information.",
+    "crumbs": [
+      "Types of surveillance",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Active vs passive</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/08_type_activevspassive.html#passive-surveillance-system",
+    "href": "4_Types/08_type_activevspassive.html#passive-surveillance-system",
+    "title": "25  Active vs passive",
+    "section": "25.2 Passive surveillance system",
+    "text": "25.2 Passive surveillance system\nA passive surveillance system uses data collected for other purpose. Passive surveillance can be seen as secondary data analysis.\nAn example for a passive surveillance system could be a system that extracts data from a hospital database.",
+    "crumbs": [
+      "Types of surveillance",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Active vs passive</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/09_type_sentinel.html",
+    "href": "4_Types/09_type_sentinel.html",
+    "title": "26  Sentinal vs comprehensive",
     "section": "",
     "text": "Sentinel surveillance is a system that does not monitor all individuals about whom conclusions are to be drawn but rather only a defined portion. The term “Sentinel,” meaning “watchman,” reflects this approach. A sentinel system saves costs and generally allows for more detailed information to be collected. The level of detail is often crucial for assessing epidemiological questions, such as evaluating the severity of a disease. For example, a few medical practices might be selected to collect detailed information on respiratory illnesses, including vaccination status, disease severity, and information on individuals without respiratory illnesses as a comparison group. These practices’ data can then be extrapolated to represent all medical practices. The alternative—examining all practices directly—is much more labor-intensive and risks lowering data quality because some information may be provided reluctantly.",
     "crumbs": [
-      "4 Types",
-      "Sentinal vs comprehensive"
+      "Types of surveillance",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Sentinal vs comprehensive</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/02_attributes_validity.html",
-    "href": "5 Attributes/02_attributes_validity.html",
-    "title": "Validity",
+    "objectID": "5_Attributes/01_sensitvity.html",
+    "href": "5_Attributes/01_sensitvity.html",
+    "title": "27  Sensitivity and completeness",
     "section": "",
-    "text": "To what extent does the value in the surveillance system correspond to reality Closely realted to accuracy: how close do we come to reality\n\n\n\nDifficult to measure\nCausal realation\n\n\n\n\n\nIf we want to record deaths by heatstroke\nSome physicians missclassify diseases",
+    "text": "27.1 Sensitivity\nWhat proportion of the true number of cases are counted",
     "crumbs": [
-      "5 Attributes",
-      "Validity"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Sensitivity and completeness</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/02_attributes_validity.html#external-validity",
-    "href": "5 Attributes/02_attributes_validity.html#external-validity",
-    "title": "Validity",
+    "objectID": "5_Attributes/01_sensitvity.html#sensitivity",
+    "href": "5_Attributes/01_sensitvity.html#sensitivity",
+    "title": "27  Sensitivity and completeness",
     "section": "",
-    "text": "To what extent does the value in the surveillance system correspond to reality Closely realted to accuracy: how close do we come to reality\n\n\n\nDifficult to measure\nCausal realation\n\n\n\n\n\nIf we want to record deaths by heatstroke\nSome physicians missclassify diseases",
+    "text": "27.1.1 How to measure\n\nCompare to gold standard\n\n\n\n27.1.2 How to improve\n\nImprove the detection\nChange case definition\n\n\n\n27.1.3 Example\n\nImagine a case based system\nPeople that don’t go do a physician wont get reported",
     "crumbs": [
-      "5 Attributes",
-      "Validity"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Sensitivity and completeness</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/02_attributes_validity.html#internal-validtiy",
-    "href": "5 Attributes/02_attributes_validity.html#internal-validtiy",
-    "title": "Validity",
-    "section": "Internal validtiy",
-    "text": "Internal validtiy\n\nThe amount of coding errors",
+    "objectID": "5_Attributes/01_sensitvity.html#external-completeness",
+    "href": "5_Attributes/01_sensitvity.html#external-completeness",
+    "title": "27  Sensitivity and completeness",
+    "section": "27.2 External completeness",
+    "text": "27.2 External completeness\nWhat proportion of the true number of diagnosed cases are counted (‘sensitivity of reporting’)\n\n27.2.1 How to measure\n\nCapture-recapture\n\n\n\n27.2.2 How to improve\n\nMake notification obligatory\nGive incentives\nDo a sentinel system\n\n\n\n27.2.3 Example\n\nLets assume a mortality surveillance system\nDoctors are required to fill out death certificates\nThese death certificates are collected at a national level\nExternal completness means: of all deaths that are recognized by doctors how many get reported",
     "crumbs": [
-      "5 Attributes",
-      "Validity"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Sensitivity and completeness</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/04_attributes_usefulness.html",
-    "href": "5 Attributes/04_attributes_usefulness.html",
-    "title": "Timeliness",
+    "objectID": "5_Attributes/01_sensitvity.html#internal-completeness",
+    "href": "5_Attributes/01_sensitvity.html#internal-completeness",
+    "title": "27  Sensitivity and completeness",
+    "section": "27.3 Internal completeness",
+    "text": "27.3 Internal completeness\n\nHow complete is the information in our database\n\n\n27.3.1 How to measure\n\nExpected value of completeness vs actual value of completeness\n\n\n\n27.3.2 How to improve\n\nImprove the technical quality\nTeach\n\n\n\n27.3.3 Example\n\nLets assume a mortality surveillance system\nWe have ten records of deaths\nOne of the records misses the age\nThree of them miss the probable cause of death",
+    "crumbs": [
+      "Attributes of surveillance",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Sensitivity and completeness</span>"
+    ]
+  },
+  {
+    "objectID": "5_Attributes/02_attributes_validity.html",
+    "href": "5_Attributes/02_attributes_validity.html",
+    "title": "28  Validity",
     "section": "",
-    "text": "To what extent does the value in the surveillance system correspond to reality Closely realted to accuracy: how close do we come to reality",
+    "text": "28.1 External validity\nTo what extent does the value in the surveillance system correspond to reality Closely realted to accuracy: how close do we come to reality",
     "crumbs": [
-      "5 Attributes",
-      "Timeliness"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Validity</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/04_attributes_usefulness.html#internal-validtiy",
-    "href": "5 Attributes/04_attributes_usefulness.html#internal-validtiy",
-    "title": "Timeliness",
-    "section": "Internal validtiy",
-    "text": "Internal validtiy\n\nThe amount of coding errors",
+    "objectID": "5_Attributes/02_attributes_validity.html#external-validity",
+    "href": "5_Attributes/02_attributes_validity.html#external-validity",
+    "title": "28  Validity",
+    "section": "",
+    "text": "28.1.1 How to measure\n\nDifficult to measure\nCausal realation\n\n\n\n28.1.2 Examples\n\nIf we want to record deaths by heatstroke\nSome physicians missclassify diseases",
     "crumbs": [
-      "5 Attributes",
-      "Timeliness"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Validity</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/06_attributes_simplicity.html",
-    "href": "5 Attributes/06_attributes_simplicity.html",
-    "title": "Simplicity",
+    "objectID": "5_Attributes/02_attributes_validity.html#internal-validtiy",
+    "href": "5_Attributes/02_attributes_validity.html#internal-validtiy",
+    "title": "28  Validity",
+    "section": "28.2 Internal validtiy",
+    "text": "28.2 Internal validtiy\n\nThe amount of coding errors",
+    "crumbs": [
+      "Attributes of surveillance",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Validity</span>"
+    ]
+  },
+  {
+    "objectID": "5_Attributes/03_attributes_timeliness.html",
+    "href": "5_Attributes/03_attributes_timeliness.html",
+    "title": "29  Timeliness",
+    "section": "",
+    "text": "29.0.1 How to measure",
+    "crumbs": [
+      "Attributes of surveillance",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Timeliness</span>"
+    ]
+  },
+  {
+    "objectID": "5_Attributes/03_attributes_timeliness.html#internal-validtiy",
+    "href": "5_Attributes/03_attributes_timeliness.html#internal-validtiy",
+    "title": "29  Timeliness",
+    "section": "29.1 Internal validtiy",
+    "text": "29.1 Internal validtiy\n\nThe amount of coding errors",
+    "crumbs": [
+      "Attributes of surveillance",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Timeliness</span>"
+    ]
+  },
+  {
+    "objectID": "5_Attributes/06_attributes_simplicity.html",
+    "href": "5_Attributes/06_attributes_simplicity.html",
+    "title": "32  Simplicity",
     "section": "",
     "text": "The simplicity of a public health surveillance system refers to both its structure and ease of operation. Surveillance systems should be as simple as possible while still meeting their objectives [5].",
     "crumbs": [
-      "5 Attributes",
-      "Simplicity"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Simplicity</span>"
     ]
   },
   {
-    "objectID": "5 Attributes/08_attributes_acceptability.html",
-    "href": "5 Attributes/08_attributes_acceptability.html",
-    "title": "Simplicity",
+    "objectID": "5_Attributes/07_attributes_flexibility.html",
+    "href": "5_Attributes/07_attributes_flexibility.html",
+    "title": "33  Flexibility",
+    "section": "",
+    "text": "33.1 Flexibility\nA flexible public health surveillance system can adapt to changing information needs or operating conditions with little additional time, personnel, or allocated funds. Flexible systems can accommodate, for example, new health- related events, changes in case definitions or technology, and variations in funding or reporting sources. In addition, systems that use standard data formats (e.g. in electronic data interchange) can be easily integrated with other systems and thus might be considered flexible [5].",
+    "crumbs": [
+      "Attributes of surveillance",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>Flexibility</span>"
+    ]
+  },
+  {
+    "objectID": "5_Attributes/08_attributes_acceptability.html",
+    "href": "5_Attributes/08_attributes_acceptability.html",
+    "title": "34  Simplicity",
     "section": "",
     "text": "The simplicity of a public health surveillance system refers to both its structure and ease of operation. Surveillance systems should be as simple as possible while still meeting their objectives [5].",
     "crumbs": [
-      "5 Attributes",
-      "Simplicity"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Simplicity</span>"
     ]
   },
   {
-    "objectID": "6 Evaluation/background_evaluation.html",
-    "href": "6 Evaluation/background_evaluation.html",
-    "title": "Evaluation",
+    "objectID": "5_Attributes/09_attributes_otherattributes.html",
+    "href": "5_Attributes/09_attributes_otherattributes.html",
+    "title": "35  Other attributes",
     "section": "",
-    "text": "Step 1. Plan the evaluation (why evaluate, find attributes to evaluate, engage stakeholders, find team, evaluation protocol) Step 2. Describe the system (objectives, events, case definitions, population under surveillance, geography, data flow, interventions) Step 3. Perform the evaluation (depends on attributes) Step 4. Develop an action plan (give interventions)",
+    "text": "35.1 Stability\nAbility of the system to accommodate changes with little additional time, persons or allocated funds New event to follow-up New case definition New data about an event New sources of information",
     "crumbs": [
-      "6 Evaluation",
-      "Evaluation"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>Other attributes</span>"
     ]
   },
   {
-    "objectID": "6 Evaluation/background_evaluation.html#steps-for-an-evaluation",
-    "href": "6 Evaluation/background_evaluation.html#steps-for-an-evaluation",
-    "title": "Evaluation",
-    "section": "",
-    "text": "Step 1. Plan the evaluation (why evaluate, find attributes to evaluate, engage stakeholders, find team, evaluation protocol) Step 2. Describe the system (objectives, events, case definitions, population under surveillance, geography, data flow, interventions) Step 3. Perform the evaluation (depends on attributes) Step 4. Develop an action plan (give interventions)",
+    "objectID": "5_Attributes/09_attributes_otherattributes.html#reliability",
+    "href": "5_Attributes/09_attributes_otherattributes.html#reliability",
+    "title": "35  Other attributes",
+    "section": "35.2 Reliability",
+    "text": "35.2 Reliability\nRefers to the ability to collect, manage, and provide data properly without failure",
     "crumbs": [
-      "6 Evaluation",
-      "Evaluation"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>Other attributes</span>"
     ]
   },
   {
-    "objectID": "6 Evaluation/background_evaluation.html#handbooks-for-evaluation",
-    "href": "6 Evaluation/background_evaluation.html#handbooks-for-evaluation",
-    "title": "Evaluation",
-    "section": "Handbooks for evaluation",
-    "text": "Handbooks for evaluation\n\nECDC",
+    "objectID": "5_Attributes/09_attributes_otherattributes.html#adequacy",
+    "href": "5_Attributes/09_attributes_otherattributes.html#adequacy",
+    "title": "35  Other attributes",
+    "section": "35.3 Adequacy",
+    "text": "35.3 Adequacy\nRefers to the ability of the surveillance system to address its objectives",
     "crumbs": [
-      "6 Evaluation",
-      "Evaluation"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About this book",
-    "section": "",
-    "text": "The contents of the book come form the “EPIET-World” - the european fellowship programm for applied epidemiology. So far the book is writtten by Jakob Schumacher but its based upon the work of many collegues who taught the subject beforehand.",
-    "crumbs": [
-      "About this book"
-    ]
-  },
-  {
-    "objectID": "about.html#who-writes-this-book",
-    "href": "about.html#who-writes-this-book",
-    "title": "About this book",
-    "section": "",
-    "text": "The contents of the book come form the “EPIET-World” - the european fellowship programm for applied epidemiology. So far the book is writtten by Jakob Schumacher but its based upon the work of many collegues who taught the subject beforehand.",
-    "crumbs": [
-      "About this book"
-    ]
-  },
-  {
-    "objectID": "about.html#how-can-i-help-this-book",
-    "href": "about.html#how-can-i-help-this-book",
-    "title": "About this book",
-    "section": "How can i help this book:",
-    "text": "How can i help this book:\nYou would like to help this book - great!\n\nYou can go to Github issues of this repository and say what can be improved\nYou can clone, than write something yourself and then make a pull request.",
-    "crumbs": [
-      "About this book"
-    ]
-  },
-  {
-    "objectID": "about.html#going-beyond-the-book",
-    "href": "about.html#going-beyond-the-book",
-    "title": "About this book",
-    "section": "Going beyond the book",
-    "text": "Going beyond the book\n\nECDC Handbook: Data quality monitoring and surveillance system evaluation",
-    "crumbs": [
-      "About this book"
+      "Attributes of surveillance",
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>Other attributes</span>"
     ]
   }
 ]
