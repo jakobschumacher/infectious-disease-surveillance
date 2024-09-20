@@ -1,0 +1,57 @@
+---
+title: "Sensitivity and completeness"
+---
+
+
+![](../img/attributes_sensitivity.jpg)
+
+
+## Sensitivity
+What proportion of the true number of cases are counted
+
+### How to measure
+- Compare to gold standard
+
+### How to improve
+- Improve the detection
+- Change case definition
+
+### Example
+- Imagine a case based system
+- People that don’t go do a physician wont get reported
+
+
+## External completeness
+What proportion of the true number of diagnosed cases are counted ('sensitivity of reporting’)
+
+### How to measure
+- Capture-recapture
+
+### How to improve
+- Make notification obligatory
+- Give incentives
+- Do a sentinel system
+
+
+### Example
+- Lets assume a mortality surveillance system
+- Doctors are required to fill out death certificates
+- These death certificates are collected at a national level
+- External completness means: of all deaths that are recognized by doctors how many get reported
+
+## Internal completeness
+- How complete is the information in our database
+
+### How to measure
+- Expected value of completeness vs actual value of completeness
+
+### How to improve
+- Improve the technical quality
+- Teach
+
+### Example
+- Lets assume a mortality surveillance system
+- We have ten records of deaths
+- One of the records misses the age
+- Three of them miss the probable cause of death
+

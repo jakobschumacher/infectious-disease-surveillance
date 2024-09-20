@@ -1,0 +1,54 @@
+
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/
+
+
+The German infectious disease reporting system, governed by the Infection Protection Act (IfSG), is the backbone of epidemiological surveillance in Germany. It has developed historically and was already present in the Imperial Epidemic Act of 1900. For example, it stated: “Any case of illness and any death from leprosy, cholera (Asian), typhus, yellow fever, plague (Oriental bubonic plague), smallpox […] must be reported immediately to the competent police authority.” The current reporting system was established in 2000 with the creation of the Infection Protection Act. The reporting system is legally regulated in Sections 6 to 11 of the Act, which have been amended multiple times, usually in response to acute events such as the HUS epidemic in 2011.
+
+The events (Step 1) monitored are typically the occurrence of infectious diseases. However, the reporting system encompasses various reporting obligations and multiple reporting channels. It can therefore be viewed as a collection of related but essentially different surveillance systems. A significant component of the reporting system is the obligation for physicians, pathologists, and other professionals to report. The event captured in this context is the suspicion of a disease, the diagnosis of the disease, or the death from a defined number of infectious diseases that can be medically diagnosed, such as measles, polio, or HUS. Another relevant component is the obligation for laboratories to report. The monitored event is a laboratory finding indicative of an acute infection. This laboratory reporting obligation applies to a wide range of infectious diseases. In addition to the physician and laboratory reporting obligations, there are other components, such as non-nominal reporting obligations for the laboratory detection of certain pathogens like HIV, which follow a separate reporting pathway.
+
+The capture of physician and laboratory reports (Step 2) is usually carried out through the reporting process and investigations by the health authorities. For many years, the method of reporting was not standardized and was typically done via fax. In the last decade, the German Electronic Reporting and Information System (DEMIS) has been developed, primarily digitizing the reporting process from the reporter to the health authority. This method of reporting is now legally required for many reporting channels under the Infection Protection Act. The way health authorities conduct investigations is not prescribed, although there are, of course, restrictions due to privacy rights. A common investigation involves a phone call from the health authority and an infection control interview with the affected individuals. The reporting system is thus a hybrid system of passive and active surveillance. It is passive because the monitored events do not exist solely because of the reporting system. For instance, in most cases, a laboratory test is performed for clinical reasons, not for epidemiological reasons. It is active because health authorities actively investigate and contact the affected individuals. Investigation is a central part of the job profile for public health inspectors.
+
+The classification (Step 3) within the reporting system is performed by the health authority, assisted by the respective reporting software. After entering the collected data, the software indicates whether the event matches the defined criteria. These definitions are twofold: first, there is a definition for events that must be reported to the state authority and the RKI ("reporting definition"), and second, there is a definition for cases officially counted in the RKI statistics ("reference definition"). Establishing these definitions is crucial for ensuring comparability and identifying increases or decreases in the number of cases. At the start of the COVID-19 pandemic, the Chinese government changed the case definition of COVID-19, leading to an artificial spike in the statistics. Case definitions can be sensitive, aiming to capture as many cases as possible, or specific, aiming to include only a small number of false-positive cases. Case definitions exist not only for a surveillance system but are also often established separately for outbreaks. Additionally, case definitions are not necessarily the standard for implementing measures. For example, in a suspected case of hemorrhagic fever, action does not need to wait until a case definition is met.
+
+Data management (Step 4) takes place after classification. The reporting system has significantly benefited from more professional data management. Before the introduction of electronic reporting software, data was transmitted laboriously and prone to errors via mail or fax. With increasing digitization and the reduction of media disruptions, data management has become increasingly precise and faster. The most well-known reporting software, SurvNet, from the Robert Koch Institute (RKI), sets the standards for transmission from the health authority to the state authority and from there to the RKI. Data management is carried out in databases operated by the RKI. This process includes quality assurance and data preparation for the subsequent evaluation step. The preparation also involves automated signal detection, identifying and appropriately displaying potential outbreaks.
+
+The evaluation (Step 5) of the reporting system’s data occurs at all three levels: municipal, state, and federal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# project:
+#   type: website
+#   output-dir: docs
+#
+# website:
+#   title: "Infectious disease surveillance"
+#   page-navigation: true
+#   favicon: "img/logo.png"
+#   sidebar:
+#     logo: "img/logo.png"
+#     style: "floating"
+#     collapse-level: 1
+#     search: true
+#     contents: auto
+#
+# format:
+#   html:
+#     theme: cosmo
+#     css: styles.css
+#     toc: true

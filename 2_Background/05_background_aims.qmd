@@ -1,0 +1,45 @@
+---
+title: "Objectives of surveillance"
+---
+
+
+|Objective|Description|
+|---|---|
+|ALERT|Serves as an early warning system for impending public health emergencies|
+|ACTION|Allows case based measures, group based measures, medical measures, community measures|
+|EVALUATE|Documents the impact of an intervention, or track progress towards specified goals|
+|DESCRIBE|Monitors and clarify the epidemiology of health problems|
+|INFORM|Allows priorities to be set and to inform public health policy and strategies|
+
+
+## ALERT
+- There are surveillance systems that are build to detect threats to human and animal health. 
+- Surveillance systems that focus on this aspect usually have to be timely
+
+## ACTION
+- Surveillance systems are set up to open the possibilty to take action. 
+- Case based measures are measures like information of cases and contacts or quarantine or isolation
+- Group based measures are measures that affect a group of people. Examples are mask mandates
+- Medical measures are measurements taken by health care personel. An example ist the substitution of an antibiotic drug with another because of a higher resistancy
+- Community measures are measures taken by the people upon recieving information about an infectious disease. An example would be poeple starting to wear a mask if the SARS-CoV-2 incidence goes up
+
+## EVALUATE
+- Interventions in public health should eventually have an impact. So if somebody was to launch a campaign for hygeinic cooking the impact could be measured in the campylobacter surveillance
+
+## DESCRIBE
+- Surveillance can serve as a basis for scientific research. The change of variants of a pathogen in relationship to vaccination is an example
+
+## INFORM
+- In public health long term decisions about resources are made by politicians. Surveillance systems can guide those decisions.
+
+
+
+## Example: Objectives of EU/EEA surveillance
+- Detect and monitor any multinational infectious disease outbreaks with respect to source, time, population, and place in order to provide a rationale for public health action;
+- Monitor trends in infectious diseases over time and across Member States to assess the present situation, respond to rises above warning thresholds and facilitate appropriate evidence-based action;
+- Contribute to the evaluation and monitoring of prevention and control programmes targeted at infectious diseases in order to provide the evidence for recommendations to strengthen and improve these programmes at the national and European level;
+- Identify population groups at risk and in need of targeted prevention measures;
+- Contribute to the awareness of and the assessment of the burden of infectious diseases on the population using such data as disease prevalence, complications, hospitalisation, and mortality; and
+- Generate hypotheses on (new) sources, modes of transmission and groups most at risk and identify needs for research and pilot projects
+
+

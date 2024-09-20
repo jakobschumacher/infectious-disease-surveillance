@@ -1,0 +1,20 @@
+---
+title: "Timeliness"
+---
+
+![](../img/attributes_timeliness.jpg)
+
+To what extent does the value in the surveillance system correspond to reality
+Closely realted to accuracy: how close do we come to reality
+
+### How to measure
+- Difficult to measure
+- Causal realation
+
+### Examples
+- If we want to record deaths by heatstroke
+- Some physicians missclassify diseases
+
+## Internal validtiy
+- The amount of coding errors
+

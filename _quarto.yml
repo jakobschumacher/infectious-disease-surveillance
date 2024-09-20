@@ -1,58 +1,72 @@
 project:
-  type: website
-  output-dir: docs
+  type: book
 
-website:
+book:
   title: "Infectious disease surveillance"
+  subtitle: "Learn how infectious diseases are monitored"
+  author: "Jakob Schumacher"
+  date: "20/11/2024"
+  favicon: img/logo.png
+  site-url: https://jakobschumacher.github.io/infectious-disease-surveillance/
+  repo-url: https://github.com/jakobschumacher/infectious-disease-surveillance
   page-navigation: true
-  navbar:
-    right:
-      - about.qmd
-  sidebar:
-    logo: "img/booklogo.jpg"
-    style: "floating"
-    search: true
-    contents:
-      - href: index.qmd
-        text: Home
-      - section: "What is surveillance?"
-        contents:
-          - background_decisions.qmd
-          - background_othersurveillance.qmd
-          - background_definition.qmd
-          - background_aims.qmd
-          - background_evaluation.qmd
-      - section: "Steps"
-        href: steps.qmd
-        contents:
-          - step1.qmd
-          - step2.qmd
-          - step3.qmd
-          - step4.qmd
-          - step5.qmd
-          - step6.qmd
-          - step7.qmd
-      - section: "Types"
-        href: types.qmd
-        contents:
-          - type_case.qmd
-          - type_syndromic.qmd
-          - type_event.qmd
-          - type_activevspassive.qmd
-          - type_sentinel.qmd
-          - type_massgathering.qmd
-          - type_wastewater.qmd
-      - section: "Attributes"
-        href: attributes.qmd
-        contents:
-          - dataquality.qmd
-          - evaluations.qmd
+  edition: 1
+  downloads:
+    - pdf
+    - docx
+  chapters:
+  - index.qmd
+  - part: Overview of surveillance
+    chapters:
+      - 1_Overview/01_overview_background.qmd
+      - 1_Overview/02_overview_steps.qmd
+      - 1_Overview/03_overview_types.qmd
+      - 1_Overview/04_overview_attributes.qmd
+      - 1_Overview/05_overview_evaluation.qmd
+  - part: What is surveillance?
+    chapters:
+      - 2_Background/02_background_decisions.qmd
+      - 2_Background/03_background_definition.qmd
+      - 2_Background/04_background_othersurveillance.qmd
+      - 2_Background/05_background_aims.qmd
+      - 2_Background/06_background_legal.qmd
+  - part: Steps of surveillance
+    chapters:
+      - 3_Steps/step1.qmd
+      - 3_Steps/step2.qmd
+      - 3_Steps/step3.qmd
+      - 3_Steps/step4.qmd
+      - 3_Steps/step5.qmd
+      - 3_Steps/step6.qmd
+      - 3_Steps/step7.qmd
+  - part: Types of surveillance
+    chapters:
+      - 4_Types/02_type_case.qmd
+      - 4_Types/03_type_syndromic.qmd
+      - 4_Types/04_type_event.qmd
+      - 4_Types/05_type_wastewater.qmd
+      - 4_Types/06_type_mortality.qmd
+      - 4_Types/07_type_massgathering.qmd
+      - 4_Types/08_type_activevspassive.qmd
+      - 4_Types/09_type_sentinel.qmd
+  - part: Attributes of surveillance
+    chapters:
+      - 5_Attributes/01_sensitvity.qmd
+      - 5_Attributes/02_attributes_validity.qmd
+      - 5_Attributes/03_attributes_timeliness.qmd
+      - 5_Attributes/04_attributes_usefulness.qmd
+      - 5_Attributes/05_attributes_representativeness.qmd
+      - 5_Attributes/06_attributes_simplicity.qmd
+      - 5_Attributes/07_attributes_flexibility.qmd
+      - 5_Attributes/08_attributes_acceptability.qmd
+      - 5_Attributes/09_attributes_otherattributes.qmd
 
 format:
   html:
     theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
+    colors:
+      primary: "#69ae23"
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: img/logo.png

@@ -1,7 +1,0 @@
----
-title: "Step 5: Assessment"
----
-
-The assessment step consists of analyzing the data and subsequently drawing conclusions—in other words, converting the available data into information. In some cases, assessment is straightforward; for example, when a case of Ebola is reported in a returning traveler, it is clear that this is an important event that necessitates action. In other cases, assessment is highly complex and requires a lot of experience and exchange between the evaluators: Is a relative increase in a variant of SARS-CoV-2 a reason for action? This assessment step converts data into information, following the first two parts of the "data–information–knowledge–wisdom" pyramid. assessment is a subjective process and context-dependent. Knowledge of the limitations is particularly important for assessment. An increase in cases may seem like a clear event on paper but could be caused by intensified recording, making it less relevant and even a sign of relief, for example, if a comprehensive diagnostic of all hospital staff finds fewer cases than expected. The publication as open data means that the assessment is not only carried out by designated individuals but is open to everyone, enabling independent verification of this step in surveillance but also posing the risk of misinterpretation.
-
-
