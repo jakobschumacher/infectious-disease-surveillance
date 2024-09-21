@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/index.html</loc>
-    <lastmod>2024-09-20T14:42:18.779Z</lastmod>
+    <lastmod>2024-09-20T15:18:01.840Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/1_Overview/01_overview_background.html</loc>
@@ -14,15 +14,15 @@
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/1_Overview/03_overview_types.html</loc>
-    <lastmod>2024-09-20T15:06:28.029Z</lastmod>
+    <lastmod>2024-09-20T15:08:49.269Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/1_Overview/04_overview_attributes.html</loc>
-    <lastmod>2024-09-20T15:12:12.155Z</lastmod>
+    <lastmod>2024-09-20T18:54:23.299Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/1_Overview/05_overview_evaluation.html</loc>
-    <lastmod>2024-09-20T14:12:22.547Z</lastmod>
+    <lastmod>2024-09-20T15:13:13.174Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/2_Background/02_background_decisions.html</loc>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/5_Attributes/01_sensitvity.html</loc>
-    <lastmod>2024-09-20T08:16:12.921Z</lastmod>
+    <lastmod>2024-09-20T18:54:31.362Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/5_Attributes/02_attributes_validity.html</loc>
@@ -139,5 +139,13 @@
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/5_Attributes/09_attributes_otherattributes.html</loc>
     <lastmod>2024-09-20T08:58:15.366Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/Infectious-disease-surveillance.pdf</loc>
+    <lastmod>2024-09-20T18:55:51.863Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/Infectious-disease-surveillance.epub</loc>
+    <lastmod>2024-09-20T18:55:54.763Z</lastmod>
   </url>
 </urlset>

@@ -1,10 +1,13 @@
 ---
-title: "Sensitivity and completeness"
+title: "Sensitivity"
 ---
 
 
-![](../img/attributes_sensitivity.jpg)
 
+## Underestimation
+Underestimation = unerascertainment + underreporting
+
+![](../img/attributes_sensitivity.jpg)
 
 ## Sensitivity
 What proportion of the true number of cases are counted

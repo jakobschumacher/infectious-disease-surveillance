@@ -4,3 +4,20 @@ toc: false
 ---
 
 ![](../img/overview_choice.jpg)
+
+## Describe a surveillance system
+- Legal framework 
+- Objectives of a surveillance system
+- Public health actions for prevention and control
+- Which information does the surveillance provide to inform these actions?
+- Population under surveillance	
+- Geographic coverage	
+- Events under surveillance 
+-	Type of surveillance	
+- System’s indicators? 
+- Notification of cases		
+- Format of case notification	
+- Format of reporting	
+- Hierarchy levels in reporting	
+- Who are the system’s participants/data providers
+-	Who are the recipients/users of the system data 

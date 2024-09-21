@@ -1,6 +1,66 @@
 ---
 title: "Attributes"
 toc: false
+lightbox: true
 ---
+
+- Surveillance systems have attributes
+- The definitions vary a lot
+- This book follows ECDCs Handbook
+- Other notable definitions: European medicines agency 
+- Closely related is data quality (which is completeness and validity) 
+
+## Underestimation
+![Attributes around underestimation](../img/attributes_sensitivity.jpg)
+
+### Sensitivity
+- __Definition:__ _Proportion of cases in a population that are reported. Underascertainment and underreporting_
+- __How to measure:__ Compare to gold standard, capture-recapture
+
+### Positive predictive value
+- __Definition:__ _proportion of real reported cases, divided by the total number of reported_
+- __How to measure:__ Case-follow up
+
+### Internal completeness
+- __Definition:__ _the number of completed data fields out of the total number of data fields_
+- __How to measure:__ Analyse the data
+
+### External completeness
+- __Definition:__ _whether the data reflect the true number of reported cases - 'sensitivity of reporting'_ This corresponds to underreporting
+- __How to measure:__ Capture-recapture
+
+## Validity
+
+### Internal validity
+- __Definition:__ _extent of errors within the system - 'errors in reporting'_
+- __How to measure:__ Analyse the reporting system
+
+### External validity
+- __Definition:__ _whether the information recorded about the cases is correct_ 
+- __How to measure:__ Test against a gold standard
+
+
+## Timeliness
+- __Definition:__ _speed between steps in a public health surveillance system_
+- __How to measure:__ Analyse database
+
+## Usefulness
+- __Defintion:__ _contribution to the prevention and control of infectious diseases_
+- __How to measure:__ Survey
+
+## Representativeness
+_ __Defintion:__ _accuracy of describing the occurrence of a health-related event across time, place, person__
+- __How to measure:__ Population covered by surveillance divided by the total number
+
+## Simplicity
+
+
+## Flexibility
+
+
+## Acceptability
+
+
+## Balancing attributes
 
 ![](../img/overview_choice.jpg)

@@ -61,3 +61,6 @@ toc: false
 ## Sentinel vs. comprehensive surveillance
 - Some systems focus on a fraction of the population under surveillance - a sentinel
 - Other systems try to capture everything in a population
+
+## Mandatory vs. voluntary
+- Reporting can be made mandatory or it can be voluntary

@@ -11,6 +11,11 @@ This book is about infectious disease surveillance. It explains what surveillanc
 
 ## Who should read this book{.unnumbered}
 The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
+## How to read this book{.unnumbered}
+The book consists of two parts
+
+1. Presentation: This is meant for presenting
+2. Detailed part: This highlights the cont
 
 ## Learning objectives{.unnumbered}
 - Surveillance is information for action
