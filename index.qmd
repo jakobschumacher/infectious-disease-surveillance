@@ -7,11 +7,8 @@ toc: false
 ---
 
 ## Whats in this book{.unnumbered}
-This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what elements a surveillance system is build of and how to asses the quality of surveillance systems. The books gives many examples
+This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what elements a surveillance system is build of and how to asses the quality of surveillance systems. The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
 
-## Who should read this book{.unnumbered}
-The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
-## How to read this book{.unnumbered}
 The book consists of two parts
 
 1. Presentation: This is meant for presenting
@@ -25,10 +22,9 @@ The book consists of two parts
 - Find resources about the evaluation
 
 ## Who writes this book{.unnumbered}
-The contents of the book come form the "EPIET-World" - the european fellowship programm for applied epidemiology. So far the book is writtten by Jakob Schumacher but its based upon the work of many collegues who taught the subject beforehand.
+The contents of the book come form the "EPIET-World" - the european fellowship programm for applied epidemiology. Most content of the book is writtten by Jakob Schumacher, but its based upon the work of many collegues who taught the subject beforehand.
 
-## How can i help this book{.unnumbered}
-You would like to help this book - great! 
+You would like to help this book - great! Here is how to do that:
 
 1. You can go to Github issues of this repository and say what can be improved 
 2. You can clone, than write something yourself and then make a pull request.

@@ -5,6 +5,11 @@ toc: false
 
 ![](../img/overview_choice.jpg)
 
+## Indicators of a surveillance system
+- Number of cases
+- Incidence
+- Percentage of people hospitalised
+
 ## Describe a surveillance system
 - Legal framework 
 - Objectives of a surveillance system

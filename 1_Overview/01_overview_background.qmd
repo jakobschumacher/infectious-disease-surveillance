@@ -4,22 +4,11 @@ toc: false
 lightbox: true
 ---
 
-## Scenario
-- 28th of October 2020 
-- German government decided a lockdown 
-- Basis: the surveillance system
-- Surveillance is information for action
-
-![Picture taken from "Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020"](../img/corona_okt_2020_germany.png)
-
-<br><br><br>
-
-
 ## Definition
->  Public health surveillance is the __systematic__ __ongoing__ __collection__, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.
+>  Public health surveillance is the __systematic__ and __ongoing__ collection, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.
 ^[World Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)]
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 
 ## Other surveillance systems
@@ -27,63 +16,42 @@ lightbox: true
 2. Rhizomatic surveillance (Unkown actors watching secretly)
 3. Top-down-surveillance (State actors watching their people)
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 
 ## Objectives
 
 |Objective|Description|
 |---|---|
-|ALERT|Serves as an early warning system for impending public health emergencies|
-|ACTION|Allows case based measures, group based measures, medical measures, community measures|
-|EVALUATE|Documents the impact of an intervention, or track progress towards specified goals|
-|DESCRIBE|Monitors and clarify the epidemiology of health problems|
-|INFORM|Allows priorities to be set and to inform public health policy and strategies|
+|Action for cases| guidance/quarantine/isolation |
+|Action for groups| lockdown/school closings |
+|Action for medical professionals| substitute antibiotic in response to antibiotic resistance |
+|Action for the comminity| mask, voluntary social distancing |
+|Detect and alert|Serves as an early warning system for impending public health emergencies|
+|Evaluate|Documents the impact of an intervention, or track progress towards specified goals|
+|Describe|Monitors and clarify the epidemiology of health problems|
+|Inform|Allows priorities to be set and to inform public health policy and strategies|
 
-<br><br><br>
-
-### Objective: Alert
-- Detect threats to human and animal health
-
-
-<br><br><br>
-
-### Objective: Action
-- Surveillance systems should guide action. 
-- Case based: counselling/quarantine/isolation
-- Group based measures: masks/lockdown
-- Medical measures: substitute antibiotic 
-- Community measures: voluntary masks
-
-<br><br><br>
-
-
-### Objective: Evaluate
-- Interventions should have an impact. 
-- Impact could be measured in s surveillance system
-
-<br><br><br>
-
-
-### Objective: Describe
-- Descriptions serves science
-
-<br><br><br>
-
-
-### Objective: Inform
-- Priorities
-- Resources
-
-<br><br><br>
+<br><br><br><br><br><br>
 
 ## Examples
+
+### Decision to lockdown on 28th of October 2020, Germany 
+
+![Picture taken from ["Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020"](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Okt_2020/2020-10-21-de.pdf?__blob=publicationFile)](../img/corona_okt_2020_germany.png)
+
+<br><br><br><br><br><br>
+
 ### Campylobacter
-![Bless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 https://pubmed.ncbi.nlm.nih.gov/28693589/ ](../img/background_campy.png)
+![Bless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 [https://pubmed.ncbi.nlm.nih.gov/28693589/](https://pubmed.ncbi.nlm.nih.gov/28693589/) ](../img/background_campy.png)
+
+<br><br><br><br><br><br>
 
 ### Rotavirus
-![Marquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction https://pubmed.ncbi.nlm.nih.gov/32187139/](../img/background_rota.png)
+![Marquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction [https://pubmed.ncbi.nlm.nih.gov/32187139/](https://pubmed.ncbi.nlm.nih.gov/32187139/)](../img/background_rota.png)
+
+<br><br><br><br><br><br>
 
 ### SARS-CoV-2
-![Summary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report](../img/background_sarscov2.png)
+![Summary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. [https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report](https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report)](../img/background_sarscov2.png)
 

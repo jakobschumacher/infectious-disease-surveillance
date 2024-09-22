@@ -7,7 +7,7 @@ Case based surveiallance systems can be divided whether they are active or passi
 ## Active surveillance system
 An active surveillance system involves a group of individuals who actively collect information for the surveillance system. 
 
-An example of an active surveillance system would if the staff of an organization goes door-to-door to gather information. 
+An example of an active surveillance system would if the staff of an agency goes door-to-door to gather information. 
 
 ## Passive surveillance system
 A passive surveillance system uses data collected for other purpose. Passive surveillance can be seen as secondary data analysis. 

@@ -1,6 +1,7 @@
 ---
 title: "Types"
 toc: false
+lightbox: true
 ---
 
 - Surveillance systems can be categorized 
@@ -58,9 +59,15 @@ toc: false
 - Some systems actively look for cases 
 - Some systems are passive and collect secondary data
 
+<br><br><br>
+
+
 ## Sentinel vs. comprehensive surveillance
 - Some systems focus on a fraction of the population under surveillance - a sentinel
 - Other systems try to capture everything in a population
+
+<br><br><br>
+
 
 ## Mandatory vs. voluntary
 - Reporting can be made mandatory or it can be voluntary

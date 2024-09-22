@@ -32,7 +32,7 @@ book:
       - 2_Background/02_background_decisions.qmd
       - 2_Background/03_background_definition.qmd
       - 2_Background/04_background_othersurveillance.qmd
-      - 2_Background/05_background_aims.qmd
+      - 2_Background/05_background_objectives.qmd
       - 2_Background/06_background_legal.qmd
   - part: Steps of surveillance
     chapters:
@@ -68,6 +68,7 @@ book:
 format:
   html:
     theme: "styles.scss"
+    number-section: false
 
   pdf:
     documentclass: scrreprt

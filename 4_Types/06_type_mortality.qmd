@@ -2,4 +2,4 @@
 title: "Mortality surveillance"
 ---
 
-Mortality surveillance asses the number of deaths. One example would be the collection of 
+Mortality surveillance asses the number of deaths. One example would be the collection of deaths certificates by physicians. They are legally required to fill out a form after a person dies. These forms are collected by specific agencies and the number of deaths or the reasons for death can be analysed by public health experts. 

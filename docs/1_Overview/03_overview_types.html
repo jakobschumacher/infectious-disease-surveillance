@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -206,14 +209,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../2_Background/05_background_aims.html" class="sidebar-item-text sidebar-link">
+  <a href="../2_Background/05_background_objectives.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Objectives of surveillance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../2_Background/06_background_legal.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Laws for surveillance</span></span></a>
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Laws and recommendations for surveillance</span></span></a>
   </div>
 </li>
       </ul>
@@ -439,7 +442,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../img/types_scope.jpg" class="img-fluid figure-img"></p>
+<p><a href="../img/types_scope.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Adapted from ECDC Handbook Data quality monitoring and surveillance system evaluation"><img src="../img/types_scope.jpg" class="img-fluid figure-img" alt="Adapted from ECDC Handbook Data quality monitoring and surveillance system evaluation"></a></p>
 <figcaption>Adapted from ECDC Handbook Data quality monitoring and surveillance system evaluation</figcaption>
 </figure>
 </div>
@@ -488,6 +491,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Some systems actively look for cases</li>
 <li>Some systems are passive and collect secondary data</li>
 </ul>
+<p><br><br><br></p>
 </section>
 <section id="sentinel-vs.-comprehensive-surveillance" class="level2" data-number="4.8">
 <h2 data-number="4.8" class="anchored" data-anchor-id="sentinel-vs.-comprehensive-surveillance"><span class="header-section-number">4.8</span> Sentinel vs.&nbsp;comprehensive surveillance</h2>
@@ -495,8 +499,18 @@ ul.task-list li input[type="checkbox"] {
 <li>Some systems focus on a fraction of the population under surveillance - a sentinel</li>
 <li>Other systems try to capture everything in a population</li>
 </ul>
+<p><br><br><br></p>
+</section>
+<section id="mandatory-vs.-voluntary" class="level2" data-number="4.9">
+<h2 data-number="4.9" class="anchored" data-anchor-id="mandatory-vs.-voluntary"><span class="header-section-number">4.9</span> Mandatory vs.&nbsp;voluntary</h2>
+<ul>
+<li>Reporting can be made mandatory or it can be voluntary</li>
+</ul>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Adapted from ECDC Handbook Data quality monitoring and surveillance system evaluation</span>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -922,6 +936,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","loop":false,"descPosition":"bottom","openEffect":"zoom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
