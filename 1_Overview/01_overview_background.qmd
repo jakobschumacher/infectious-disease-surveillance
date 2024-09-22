@@ -1,8 +1,4 @@
----
-title: "Intro"
-toc: false
-lightbox: true
----
+# Bakcground {.unnumbered}
 
 ## Definition
 >  Public health surveillance is the __systematic__ and __ongoing__ collection, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.

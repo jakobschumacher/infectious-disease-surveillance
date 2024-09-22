@@ -1,8 +1,4 @@
----
-title: "Steps"
-toc: false
-ligthbox: true
----
+# Steps  {.unnumbered}
 
 ![Steps of a surveillance system](../img/steps_scheme.png)
 

@@ -1,18 +1,10 @@
----
-title: "About the book"
-subtitle: "Learn how infectious diseases are monitored. "
-author: "Jakob Schumacher"
-date: "02 September 2024"
-toc: false
----
-
-## Whats in this book{.unnumbered}
-This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what elements a surveillance system is build of and how to asses the quality of surveillance systems. The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
+# About the book {.unnumbered}
+This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what the steps of a surveillance systems are and how to asses the quality of surveillance systems. The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
 
 The book consists of two parts
 
-1. Presentation: This is meant for presenting
-2. Detailed part: This highlights the cont
+1. Introduction: This is meant for presenting the contents of the book
+2. Book: This includes the contents of the book and is intended for self-studying
 
 ## Learning objectives{.unnumbered}
 - Surveillance is information for action
@@ -29,6 +21,14 @@ You would like to help this book - great! Here is how to do that:
 1. You can go to Github issues of this repository and say what can be improved 
 2. You can clone, than write something yourself and then make a pull request.
 
-## Learn more{.unnumbered}
+This book wouldnt have been possible without:
+- The EPIET/EUPHEM/FETP community and the EAN Network
+- The communities and companies that produce Git, Github, Posit, Rstudio, R, Markdown
+- The Wikipedia-Community - the best source for creative commons pictures
+- The Bing AI Image creator
+
+## Helpful ressources{.unnumbered}
 - [ECDC Handbook: Data quality monitoring and surveillance system evaluation](https://www.ecdc.europa.eu/en/publications-data/data-quality-monitoring-and-surveillance-system-evaluation-handbook-methods-and)
+
+
 

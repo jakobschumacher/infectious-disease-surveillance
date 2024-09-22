@@ -1,8 +1,4 @@
----
-title: "Attributes"
-toc: false
-lightbox: true
----
+# Attributes  {.unnumbered}
 
 - Surveillance systems have attributes
 - The definitions vary a lot
