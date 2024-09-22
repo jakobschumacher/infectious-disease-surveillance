@@ -17,7 +17,6 @@ book:
     logo: img/logo.png
   downloads:
     - pdf
-    - docx
   chapters:
   - index.qmd
   - part: Presentation
@@ -53,17 +52,17 @@ book:
       - 4_Types/07_type_massgathering.qmd
       - 4_Types/08_type_activevspassive.qmd
       - 4_Types/09_type_sentinel.qmd
-  - part: Attributes of surveillance
-    chapters:
-      - 5_Attributes/01_sensitvity.qmd
-      - 5_Attributes/02_attributes_validity.qmd
-      - 5_Attributes/03_attributes_timeliness.qmd
-      - 5_Attributes/04_attributes_usefulness.qmd
-      - 5_Attributes/05_attributes_representativeness.qmd
-      - 5_Attributes/06_attributes_simplicity.qmd
-      - 5_Attributes/07_attributes_flexibility.qmd
-      - 5_Attributes/08_attributes_acceptability.qmd
-      - 5_Attributes/09_attributes_otherattributes.qmd
+  # - part: Attributes of surveillance
+  #   chapters:
+  #     - 5_Attributes/01_sensitvity.qmd
+  #     - 5_Attributes/02_attributes_validity.qmd
+  #     - 5_Attributes/03_attributes_timeliness.qmd
+  #     - 5_Attributes/04_attributes_usefulness.qmd
+  #     - 5_Attributes/05_attributes_representativeness.qmd
+  #     - 5_Attributes/06_attributes_simplicity.qmd
+  #     - 5_Attributes/07_attributes_flexibility.qmd
+  #     - 5_Attributes/08_attributes_acceptability.qmd
+  #     - 5_Attributes/09_attributes_otherattributes.qmd
 
 format:
   html:

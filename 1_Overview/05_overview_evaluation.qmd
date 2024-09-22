@@ -3,12 +3,6 @@ title: "Evaluation"
 toc: false
 ---
 
-![](../img/overview_choice.jpg)
-
-## Indicators of a surveillance system
-- Number of cases
-- Incidence
-- Percentage of people hospitalised
 
 ## Describe a surveillance system
 - Legal framework 
@@ -19,10 +13,42 @@ toc: false
 - Geographic coverage	
 - Events under surveillance 
 -	Type of surveillance	
-- System’s indicators? 
+- System’s indicators (e.g. Number of cases, Incidence, Percentage of people hospitalised)
 - Notification of cases		
 - Format of case notification	
 - Format of reporting	
 - Hierarchy levels in reporting	
 - Who are the system’s participants/data providers
 -	Who are the recipients/users of the system data 
+
+
+
+## Plan the evaluation
+
+### What triggers the evaluation?
+
+Typical triggers are:
+
+- Missed outbreak
+- Increased disease importance
+- Cost saving
+
+### Choose an evaluation type and resources
+
+- Do a light, medium or full evaluation.
+- Depends on the triggers
+- Depends on the attributes to monitor
+
+
+### Engage stakeholders
+
+- Surveillance systems are complex and need input 
+
+## Perform the evaluation
+How the evaluation is done depends on the attributes
+
+
+
+## Propose an action plan
+- An evaluation is objective oriented 
+- It should focus on improving the system

@@ -6,8 +6,8 @@ lightbox: true
 
 - Surveillance systems have attributes
 - The definitions vary a lot
-- This book follows ECDCs Handbook
-- Other notable definitions: European medicines agency 
+- This book follows [ECDC Handbook Data quality monitoring and surveillance system evaluation](https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/Data-quality-monitoring-surveillance-system-evaluation-Sept-2014.pdf)
+- Other notable definitions: [Data Quality Framework for EU medicines regulation by the European medicines agency](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/data-quality-framework-eu-medicines-regulation_en.pdf) 
 - Closely related is data quality (which is completeness and validity) 
 
 ## Underestimation
@@ -31,6 +31,8 @@ lightbox: true
 
 ## Validity
 
+![Representaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator](../img/attributes_validity.jpg)
+
 ### Internal validity
 - __Definition:__ _extent of errors within the system - 'errors in reporting'_
 - __How to measure:__ Analyse the reporting system
@@ -41,26 +43,36 @@ lightbox: true
 
 
 ## Timeliness
+
+![Vocabulary of different time measurements](../img/attributes_timeliness.jpg)
+
 - __Definition:__ _speed between steps in a public health surveillance system_
 - __How to measure:__ Analyse database
 
 ## Usefulness
+![Representaion of usefulness. What can you do with the information? Image done by bing image creator](../img/attributes_usefullness.jpg)
+
 - __Defintion:__ _contribution to the prevention and control of infectious diseases_
 - __How to measure:__ Survey
 
 ## Representativeness
-_ __Defintion:__ _accuracy of describing the occurrence of a health-related event across time, place, person__
+- __Defintion:__ _accuracy of describing the occurrence of a health-related event across time, place, person__
 - __How to measure:__ Population covered by surveillance divided by the total number
 
 ## Simplicity
+- __Definition:__ _refers to both its structure and ease of operation._
+- __How to measure:__ Survey 
 
 
 ## Flexibility
+- __Definition:__ _the amount of adaptibility to changing information needs_
+- __How to measure:__ Survey
 
 
 ## Acceptability
+- __Definition:__ _Acceptability is the willingness of persons and organisations to participate_
+- __How to measure:__ Survey
 
 
 ## Balancing attributes
-
 ![](../img/overview_choice.jpg)

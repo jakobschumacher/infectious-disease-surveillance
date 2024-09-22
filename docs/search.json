@@ -340,7 +340,7 @@
     "href": "1_Overview/04_overview_attributes.html#validity",
     "title": "5  Attributes",
     "section": "5.2 Validity",
-    "text": "5.2 Validity\n\n5.2.1 Internal validity\n\nDefinition: extent of errors within the system - ‘errors in reporting’\nHow to measure: Analyse the reporting system\n\n\n\n5.2.2 External validity\n\nDefinition: whether the information recorded about the cases is correct\nHow to measure: Test against a gold standard",
+    "text": "5.2 Validity\n\n\n\nRepresentaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator\n\n\n\n5.2.1 Internal validity\n\nDefinition: extent of errors within the system - ‘errors in reporting’\nHow to measure: Analyse the reporting system\n\n\n\n5.2.2 External validity\n\nDefinition: whether the information recorded about the cases is correct\nHow to measure: Test against a gold standard",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Attributes</span>"
@@ -351,7 +351,7 @@
     "href": "1_Overview/04_overview_attributes.html#timeliness",
     "title": "5  Attributes",
     "section": "5.3 Timeliness",
-    "text": "5.3 Timeliness\n\nDefinition: speed between steps in a public health surveillance system\nHow to measure: Analyse database",
+    "text": "5.3 Timeliness\n\n\n\nVocabulary of different time measurements\n\n\n\nDefinition: speed between steps in a public health surveillance system\nHow to measure: Analyse database",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Attributes</span>"
@@ -362,7 +362,7 @@
     "href": "1_Overview/04_overview_attributes.html#usefulness",
     "title": "5  Attributes",
     "section": "5.4 Usefulness",
-    "text": "5.4 Usefulness\n\nDefintion: contribution to the prevention and control of infectious diseases\nHow to measure: Survey",
+    "text": "5.4 Usefulness\n\n\n\nRepresentaion of usefulness. What can you do with the information? Image done by bing image creator\n\n\n\nDefintion: contribution to the prevention and control of infectious diseases\nHow to measure: Survey",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Attributes</span>"
@@ -373,7 +373,7 @@
     "href": "1_Overview/04_overview_attributes.html#representativeness",
     "title": "5  Attributes",
     "section": "5.5 Representativeness",
-    "text": "5.5 Representativeness\n_ Defintion: _accuracy of describing the occurrence of a health-related event across time, place, person__ - How to measure: Population covered by surveillance divided by the total number",
+    "text": "5.5 Representativeness\n\nDefintion: _accuracy of describing the occurrence of a health-related event across time, place, person__\nHow to measure: Population covered by surveillance divided by the total number",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Attributes</span>"
@@ -384,7 +384,7 @@
     "href": "1_Overview/04_overview_attributes.html#simplicity",
     "title": "5  Attributes",
     "section": "5.6 Simplicity",
-    "text": "5.6 Simplicity",
+    "text": "5.6 Simplicity\n\nDefinition: refers to both its structure and ease of operation.\nHow to measure: Survey",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Attributes</span>"
@@ -395,7 +395,7 @@
     "href": "1_Overview/04_overview_attributes.html#flexibility",
     "title": "5  Attributes",
     "section": "5.7 Flexibility",
-    "text": "5.7 Flexibility",
+    "text": "5.7 Flexibility\n\nDefinition: the amount of adaptibility to changing information needs\nHow to measure: Survey",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Attributes</span>"
@@ -406,7 +406,7 @@
     "href": "1_Overview/04_overview_attributes.html#acceptability",
     "title": "5  Attributes",
     "section": "5.8 Acceptability",
-    "text": "5.8 Acceptability",
+    "text": "5.8 Acceptability\n\nDefinition: Acceptability is the willingness of persons and organisations to participate\nHow to measure: Survey",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Attributes</span>"
@@ -417,7 +417,7 @@
     "href": "1_Overview/04_overview_attributes.html#balancing-attributes",
     "title": "5  Attributes",
     "section": "5.9 Balancing attributes",
-    "text": "5.9 Balancing attributes\n\n\n\n\nAttributes around underestimation",
+    "text": "5.9 Balancing attributes\n\n\n\n\nAttributes around underestimation\nRepresentaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator\nVocabulary of different time measurements\nRepresentaion of usefulness. What can you do with the information? Image done by bing image creator",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Attributes</span>"
@@ -428,18 +428,7 @@
     "href": "1_Overview/05_overview_evaluation.html",
     "title": "6  Evaluation",
     "section": "",
-    "text": "6.1 Indicators of a surveillance system",
-    "crumbs": [
-      "Presentation",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Evaluation</span>"
-    ]
-  },
-  {
-    "objectID": "1_Overview/05_overview_evaluation.html#indicators-of-a-surveillance-system",
-    "href": "1_Overview/05_overview_evaluation.html#indicators-of-a-surveillance-system",
-    "title": "6  Evaluation",
-    "section": "",
-    "text": "Number of cases\nIncidence\nPercentage of people hospitalised",
+    "text": "6.1 Describe a surveillance system",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Evaluation</span>"
@@ -449,8 +438,41 @@
     "objectID": "1_Overview/05_overview_evaluation.html#describe-a-surveillance-system",
     "href": "1_Overview/05_overview_evaluation.html#describe-a-surveillance-system",
     "title": "6  Evaluation",
-    "section": "6.2 Describe a surveillance system",
-    "text": "6.2 Describe a surveillance system\n\nLegal framework\nObjectives of a surveillance system\nPublic health actions for prevention and control\nWhich information does the surveillance provide to inform these actions?\nPopulation under surveillance\nGeographic coverage\n\nEvents under surveillance\nType of surveillance\n\nSystem’s indicators?\nNotification of cases\n\nFormat of case notification\n\nFormat of reporting\n\nHierarchy levels in reporting\nWho are the system’s participants/data providers\nWho are the recipients/users of the system data",
+    "section": "",
+    "text": "Legal framework\nObjectives of a surveillance system\nPublic health actions for prevention and control\nWhich information does the surveillance provide to inform these actions?\nPopulation under surveillance\nGeographic coverage\n\nEvents under surveillance\nType of surveillance\n\nSystem’s indicators (e.g. Number of cases, Incidence, Percentage of people hospitalised)\nNotification of cases\n\nFormat of case notification\n\nFormat of reporting\n\nHierarchy levels in reporting\nWho are the system’s participants/data providers\nWho are the recipients/users of the system data",
+    "crumbs": [
+      "Presentation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/05_overview_evaluation.html#plan-the-evaluation",
+    "href": "1_Overview/05_overview_evaluation.html#plan-the-evaluation",
+    "title": "6  Evaluation",
+    "section": "6.2 Plan the evaluation",
+    "text": "6.2 Plan the evaluation\n\n6.2.1 What triggers the evaluation?\nTypical triggers are:\n\nMissed outbreak\nIncreased disease importance\nCost saving\n\n\n\n6.2.2 Choose an evaluation type and resources\n\nDo a light, medium or full evaluation.\nDepends on the triggers\nDepends on the attributes to monitor\n\n\n\n6.2.3 Engage stakeholders\n\nSurveillance systems are complex and need input",
+    "crumbs": [
+      "Presentation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/05_overview_evaluation.html#perform-the-evaluation",
+    "href": "1_Overview/05_overview_evaluation.html#perform-the-evaluation",
+    "title": "6  Evaluation",
+    "section": "6.3 Perform the evaluation",
+    "text": "6.3 Perform the evaluation\nHow the evaluation is done depends on the attributes",
+    "crumbs": [
+      "Presentation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Evaluation</span>"
+    ]
+  },
+  {
+    "objectID": "1_Overview/05_overview_evaluation.html#propose-an-action-plan",
+    "href": "1_Overview/05_overview_evaluation.html#propose-an-action-plan",
+    "title": "6  Evaluation",
+    "section": "6.4 Propose an action plan",
+    "text": "6.4 Propose an action plan\n\nAn evaluation is objective oriented\nIt should focus on improving the system",
     "crumbs": [
       "Presentation",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Evaluation</span>"
@@ -850,171 +872,6 @@
     "crumbs": [
       "Types of surveillance",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Sentinal vs comprehensive</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/01_sensitvity.html",
-    "href": "5_Attributes/01_sensitvity.html",
-    "title": "27  Sensitivity",
-    "section": "",
-    "text": "27.1 Underestimation\nUnderestimation = unerascertainment + underreporting",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Sensitivity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/01_sensitvity.html#sensitivity",
-    "href": "5_Attributes/01_sensitvity.html#sensitivity",
-    "title": "27  Sensitivity",
-    "section": "27.2 Sensitivity",
-    "text": "27.2 Sensitivity\nWhat proportion of the true number of cases are counted\n\n27.2.1 How to measure\n\nCompare to gold standard\n\n\n\n27.2.2 How to improve\n\nImprove the detection\nChange case definition\n\n\n\n27.2.3 Example\n\nImagine a case based system\nPeople that don’t go do a physician wont get reported",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Sensitivity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/01_sensitvity.html#external-completeness",
-    "href": "5_Attributes/01_sensitvity.html#external-completeness",
-    "title": "27  Sensitivity",
-    "section": "27.3 External completeness",
-    "text": "27.3 External completeness\nWhat proportion of the true number of diagnosed cases are counted (‘sensitivity of reporting’)\n\n27.3.1 How to measure\n\nCapture-recapture\n\n\n\n27.3.2 How to improve\n\nMake notification obligatory\nGive incentives\nDo a sentinel system\n\n\n\n27.3.3 Example\n\nLets assume a mortality surveillance system\nDoctors are required to fill out death certificates\nThese death certificates are collected at a national level\nExternal completness means: of all deaths that are recognized by doctors how many get reported",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Sensitivity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/01_sensitvity.html#internal-completeness",
-    "href": "5_Attributes/01_sensitvity.html#internal-completeness",
-    "title": "27  Sensitivity",
-    "section": "27.4 Internal completeness",
-    "text": "27.4 Internal completeness\n\nHow complete is the information in our database\n\n\n27.4.1 How to measure\n\nExpected value of completeness vs actual value of completeness\n\n\n\n27.4.2 How to improve\n\nImprove the technical quality\nTeach\n\n\n\n27.4.3 Example\n\nLets assume a mortality surveillance system\nWe have ten records of deaths\nOne of the records misses the age\nThree of them miss the probable cause of death",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Sensitivity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/02_attributes_validity.html",
-    "href": "5_Attributes/02_attributes_validity.html",
-    "title": "28  Validity",
-    "section": "",
-    "text": "28.1 External validity\nTo what extent does the value in the surveillance system correspond to reality Closely realted to accuracy: how close do we come to reality",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Validity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/02_attributes_validity.html#external-validity",
-    "href": "5_Attributes/02_attributes_validity.html#external-validity",
-    "title": "28  Validity",
-    "section": "",
-    "text": "28.1.1 How to measure\n\nDifficult to measure\nCausal realation\n\n\n\n28.1.2 Examples\n\nIf we want to record deaths by heatstroke\nSome physicians missclassify diseases",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Validity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/02_attributes_validity.html#internal-validtiy",
-    "href": "5_Attributes/02_attributes_validity.html#internal-validtiy",
-    "title": "28  Validity",
-    "section": "28.2 Internal validtiy",
-    "text": "28.2 Internal validtiy\n\nThe amount of coding errors",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Validity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/03_attributes_timeliness.html",
-    "href": "5_Attributes/03_attributes_timeliness.html",
-    "title": "29  Timeliness",
-    "section": "",
-    "text": "29.0.1 How to measure",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Timeliness</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/03_attributes_timeliness.html#internal-validtiy",
-    "href": "5_Attributes/03_attributes_timeliness.html#internal-validtiy",
-    "title": "29  Timeliness",
-    "section": "29.1 Internal validtiy",
-    "text": "29.1 Internal validtiy\n\nThe amount of coding errors",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Timeliness</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/06_attributes_simplicity.html",
-    "href": "5_Attributes/06_attributes_simplicity.html",
-    "title": "32  Simplicity",
-    "section": "",
-    "text": "The simplicity of a public health surveillance system refers to both its structure and ease of operation. Surveillance systems should be as simple as possible while still meeting their objectives [5].",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Simplicity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/07_attributes_flexibility.html",
-    "href": "5_Attributes/07_attributes_flexibility.html",
-    "title": "33  Flexibility",
-    "section": "",
-    "text": "33.1 Flexibility\nA flexible public health surveillance system can adapt to changing information needs or operating conditions with little additional time, personnel, or allocated funds. Flexible systems can accommodate, for example, new health- related events, changes in case definitions or technology, and variations in funding or reporting sources. In addition, systems that use standard data formats (e.g. in electronic data interchange) can be easily integrated with other systems and thus might be considered flexible [5].",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>Flexibility</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/08_attributes_acceptability.html",
-    "href": "5_Attributes/08_attributes_acceptability.html",
-    "title": "34  Simplicity",
-    "section": "",
-    "text": "The simplicity of a public health surveillance system refers to both its structure and ease of operation. Surveillance systems should be as simple as possible while still meeting their objectives [5].",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Simplicity</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/09_attributes_otherattributes.html",
-    "href": "5_Attributes/09_attributes_otherattributes.html",
-    "title": "35  Other attributes",
-    "section": "",
-    "text": "35.1 Stability\nAbility of the system to accommodate changes with little additional time, persons or allocated funds New event to follow-up New case definition New data about an event New sources of information",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>Other attributes</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/09_attributes_otherattributes.html#reliability",
-    "href": "5_Attributes/09_attributes_otherattributes.html#reliability",
-    "title": "35  Other attributes",
-    "section": "35.2 Reliability",
-    "text": "35.2 Reliability\nRefers to the ability to collect, manage, and provide data properly without failure",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>Other attributes</span>"
-    ]
-  },
-  {
-    "objectID": "5_Attributes/09_attributes_otherattributes.html#adequacy",
-    "href": "5_Attributes/09_attributes_otherattributes.html#adequacy",
-    "title": "35  Other attributes",
-    "section": "35.3 Adequacy",
-    "text": "35.3 Adequacy\nRefers to the ability of the surveillance system to address its objectives",
-    "crumbs": [
-      "Attributes of surveillance",
-      "<span class='chapter-number'>35</span>  <span class='chapter-title'>Other attributes</span>"
     ]
   }
 ]
