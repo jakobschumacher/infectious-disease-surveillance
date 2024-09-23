@@ -1,8 +1,8 @@
-# Bakcground {.unnumbered}
+# Background {.unnumbered}
 
 ## Definition
 >  Public health surveillance is the __systematic__ and __ongoing__ collection, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.
-^[World Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)]
+^[[World Health Assembly 2005](https://apps.who.int/gb/ebwha/pdf_files/WHA58-REC1/english/A58_2005_REC1-en.pdf) (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)]
 
 <br><br><br><br><br><br>
 
@@ -38,16 +38,9 @@
 
 <br><br><br><br><br><br>
 
-### Campylobacter
-![Bless, Schmutz, Mäusezahl: The recurrent campylobacteriosis epidemic over Christmas and New Year in European countries, 2006-2014 [https://pubmed.ncbi.nlm.nih.gov/28693589/](https://pubmed.ncbi.nlm.nih.gov/28693589/) ](../img/background_campy.png)
-
-<br><br><br><br><br><br>
 
 ### Rotavirus
 ![Marquis, Koch: Impact of Routine Rotavirus Vaccination in Germany: Evaluation Five Years After Its Introduction [https://pubmed.ncbi.nlm.nih.gov/32187139/](https://pubmed.ncbi.nlm.nih.gov/32187139/)](../img/background_rota.png)
 
 <br><br><br><br><br><br>
-
-### SARS-CoV-2
-![Summary of epidemiological indicators: current values as of 23 October 2022 and observed trend compared to the previous week. [https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report](https://www.ecdc.europa.eu/en/covid-19/surveillance/weekly-surveillance-report)](../img/background_sarscov2.png)
 
