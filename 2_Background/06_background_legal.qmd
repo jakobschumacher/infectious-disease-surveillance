@@ -1,7 +1,55 @@
 ---
-title: "Laws and recommendations for surveillance"
+title: "International regulations"
 ---
 
-Surveillance is firmly anchored in national and international legal systems. The International Health Regulations—one of the few nearly globally applicable frameworks—include articles that require surveillance from states. These articles aim to prevent cross-border threats from infectious diseases. During the COVID-19 pandemic, the value of such international collaboration became evident. There are currently efforts to supplement the International Health Regulations with an International Treaty on Pandemic Prevention. 
+## International health regulations
 
-Surveillance is also a component of the “Essential Public Health Operations.” The goal of this fundamental component is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.
+Surveillance is firmly anchored in national and international legal systems. The [International Health Regulations](https://www.who.int/health-topics/international-health-regulations) (IHR) is a legally binding regulation for 196 countries. The IHR includes articles that require surveillance from the countries. The aim is to prevent cross-border threats from infectious diseases. 
+
+During the COVID-19 pandemic, the value of such international collaboration became evident. 
+New amendments of the IHR were adopted on the first of June 2024. It will come into place in 2025/2026. 
+
+![Contents of the IHR. Graph by Nadine Zeitlmann](../img/background_ihr.png)
+
+### Important contents of the IHR
+- The IHR defines a Public Health Emergency of International Concern (PHEIC). It is defined as an extraordinary event which is determined to constitute a public health risk to other states and potentially requires a coordinated international response
+- A PHEIC is declared by the Director General of WHO
+- Notification accoring to Article 6 Annex 2: Sate Parties to notify WHO withing 24 hours about events within their terriory wich can consitute a PHEIC
+- Article 8: State Parties can  seek consultation from WHO
+- Article 10: WHO can request State Parties to verify an event and offer to collaborate on this event. States are obliged to give information within 24h
+- [Annex 2](https://iris.who.int/bitstream/handle/10665/246107/9789241580496-eng.pdf?sequence=1): Decision tool for deciding if an event should be notified. It consists of a flowchart with 4 questions. There are [helpful ressources to learn how to use the annex 2](https://www.who.int/publications/m/item/annex-2-of-the-international-health-regulations-(2005))
+- The IHR Monitoring and Evaluation Framework provides an overview of approaches to review implementation of country core public health capacities under the IHR (2005)
+- The [Monitoring and evaluation framework](https://www.who.int/emergencies/operations/international-health-regulations-monitoring-evaluation-framework) describes mandatory and voluntary approaches 
+  - IHR State Party Self-Assessment annual report (mandatory)
+  - simulation exercises (voluntary) 
+  - after action reviews (voluntary)
+  - joint external evaluation (voluntary)
+
+### History of PHEICS
+- 2009: H1N1 Pandemic
+- 2014: Resourgence of Polio
+- 2014: Ebola Westafrica
+- 2016: Zika
+- 2019: KIVU Ebola
+- 2020: SARS-CoV-2
+- 2022: Clade II Mpox
+- 2024: Clade I Mpox
+
+## EU Regulation 2022/2371
+- The EU has its own regulation on infectious diseases 
+- Regulation on serious cross-border threats to health
+- Content: 
+  - Establishing a health security committee
+  - reference laboratory networks
+  - surveillance
+  - network for substances of human origin
+- Mandatory events to notify in the Early warning and response system (EWRS)
+  - unusual or unexpected, may cause significant morbidity or mortality in humans, may grow rapidly in scale, 
+  - may exceed national response capacity;
+  - may affect more than one Member State; and
+  - may require a coordinated response at Union level
+  - Anything they notified to WHO via Annex 2
+
+
+## Essential public health operations
+Surveillance is also a component of the [Essential Public Health Operations](https://who-sandbox.squiz.cloud/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations). The essential public health regulations are a tool of WHO Europe and defines central tasks for public health institutes. The goal of this [surveillance component](https://who-sandbox.squiz.cloud/en/health-topics/Health-systems/public-health-services/policy/the-10-essential-public-health-operations/epho1-surveillance-of-population-health-and-wellbeing) is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.

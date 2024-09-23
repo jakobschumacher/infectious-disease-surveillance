@@ -658,12 +658,45 @@
   {
     "objectID": "2_Background/06_background_legal.html",
     "href": "2_Background/06_background_legal.html",
-    "title": "5  Laws and recommendations for surveillance",
+    "title": "5  International regulations",
     "section": "",
-    "text": "Surveillance is firmly anchored in national and international legal systems. The International Health Regulations—one of the few nearly globally applicable frameworks—include articles that require surveillance from states. These articles aim to prevent cross-border threats from infectious diseases. During the COVID-19 pandemic, the value of such international collaboration became evident. There are currently efforts to supplement the International Health Regulations with an International Treaty on Pandemic Prevention.\nSurveillance is also a component of the “Essential Public Health Operations.” The goal of this fundamental component is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.",
+    "text": "5.1 International health regulations\nSurveillance is firmly anchored in national and international legal systems. The International Health Regulations (IHR) is a legally binding regulation for 196 countries. The IHR includes articles that require surveillance from the countries. The aim is to prevent cross-border threats from infectious diseases.\nDuring the COVID-19 pandemic, the value of such international collaboration became evident. New amendments of the IHR were adopted on the first of June 2024. It will come into place in 2025/2026.",
     "crumbs": [
       "BOOK",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Laws and recommendations for surveillance</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>International regulations</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/06_background_legal.html#international-health-regulations",
+    "href": "2_Background/06_background_legal.html#international-health-regulations",
+    "title": "5  International regulations",
+    "section": "",
+    "text": "Contents of the IHR. Graph by Nadine Zeitlmann\n\n\n\n5.1.1 Important contents of the IHR\n\nThe IHR defines a Public Health Emergency of International Concern (PHEIC). It is defined as an extraordinary event which is determined to constitute a public health risk to other states and potentially requires a coordinated international response\nA PHEIC is declared by the Director General of WHO\nNotification accoring to Article 6 Annex 2: Sate Parties to notify WHO withing 24 hours about events within their terriory wich can consitute a PHEIC\nArticle 8: State Parties can seek consultation from WHO\nArticle 10: WHO can request State Parties to verify an event and offer to collaborate on this event. States are obliged to give information within 24h\nAnnex 2: Decision tool for deciding if an event should be notified. It consists of a flowchart with 4 questions. There are helpful ressources to learn how to use the annex 2\nThe IHR Monitoring and Evaluation Framework provides an overview of approaches to review implementation of country core public health capacities under the IHR (2005)\nThe Monitoring and evaluation framework describes mandatory and voluntary approaches\n\nIHR State Party Self-Assessment annual report (mandatory)\nsimulation exercises (voluntary)\nafter action reviews (voluntary)\njoint external evaluation (voluntary)\n\n\n\n\n5.1.2 History of PHEICS\n\n2009: H1N1 Pandemic\n2014: Resourgence of Polio\n2014: Ebola Westafrica\n2016: Zika\n2019: KIVU Ebola\n2020: SARS-CoV-2\n2022: Clade II Mpox\n2024: Clade I Mpox",
+    "crumbs": [
+      "BOOK",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>International regulations</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/06_background_legal.html#eu-regulation-20222371",
+    "href": "2_Background/06_background_legal.html#eu-regulation-20222371",
+    "title": "5  International regulations",
+    "section": "5.2 EU Regulation 2022/2371",
+    "text": "5.2 EU Regulation 2022/2371\n\nThe EU has its own regulation on infectious diseases\nRegulation on serious cross-border threats to health\nContent:\n\nEstablishing a health security committee\nreference laboratory networks\nsurveillance\nnetwork for substances of human origin\n\nMandatory events to notify in the Early warning and response system (EWRS)\n\nunusual or unexpected, may cause significant morbidity or mortality in humans, may grow rapidly in scale,\nmay exceed national response capacity;\nmay affect more than one Member State; and\nmay require a coordinated response at Union level\nAnything they notified to WHO via Annex 2",
+    "crumbs": [
+      "BOOK",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>International regulations</span>"
+    ]
+  },
+  {
+    "objectID": "2_Background/06_background_legal.html#essential-public-health-operations",
+    "href": "2_Background/06_background_legal.html#essential-public-health-operations",
+    "title": "5  International regulations",
+    "section": "5.3 Essential public health operations",
+    "text": "5.3 Essential public health operations\nSurveillance is also a component of the Essential Public Health Operations. The essential public health regulations are a tool of WHO Europe and defines central tasks for public health institutes. The goal of this surveillance component is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.\n\n\n\nContents of the IHR. Graph by Nadine Zeitlmann",
+    "crumbs": [
+      "BOOK",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>International regulations</span>"
     ]
   },
   {
@@ -774,17 +807,6 @@
     "crumbs": [
       "BOOK",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Case based surveillance</span>"
-    ]
-  },
-  {
-    "objectID": "4_Types/03_type_syndromic.html",
-    "href": "4_Types/03_type_syndromic.html",
-    "title": "14  Syndromic Surveillance",
-    "section": "",
-    "text": "Syndromic surveillance refers to surveillance systems where the relevant event is not a diagnosed disease but rather cases from a group of illnesses. For example, in syndromic surveillance, instead of tracking cases of SARS-CoV-2 infection, cases of acute respiratory illness are recorded. This approach makes the surveillance system more sensitive, capturing a broader spectrum of diseases. When a signal suggests a relevant event, such as an outbreak, further investigation can be conducted to identify the exact pathogen.",
-    "crumbs": [
-      "BOOK",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Syndromic Surveillance</span>"
     ]
   },
   {

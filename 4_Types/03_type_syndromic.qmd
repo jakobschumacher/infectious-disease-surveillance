@@ -1,6 +1,33 @@
 ---
 title: "Syndromic Surveillance"
+draft: true
 ---
 
-Syndromic surveillance refers to surveillance systems where the relevant event is not a diagnosed disease but rather cases from a group of illnesses. For example, in syndromic surveillance, instead of tracking cases of SARS-CoV-2 infection, cases of acute respiratory illness are recorded. This approach makes the surveillance system more sensitive, capturing a broader spectrum of diseases. When a signal suggests a relevant event, such as an outbreak, further investigation can be conducted to identify the exact pathogen.
+Syndromic surveillance refers to surveillance systems where the relevant event is not a diagnosed disease but rather cases from a group of illnesses. So threats can be detected if if there is no specific diagnosis yet. Syndromic surveillance can use many different events that indicate a syndrom. 
+
+Typical events:
+
+- Physician office visits
+- ICD-10 Codes of Hospitals
+- Self assessment of people
+- Information seeking
+- Prescriptions
+- Absenteeism
+
+
+Advantages:
+
+- can detect unkown or lesser-known diseases
+- syndromic systems can be very fast
+- can often be acquired automatically because it often works well with classification systems like ICD-10 codes
+
+Disadvantages
+
+- Syndromic surveillance is usually a sentinel system and not comprehensive
+- Difficult to interpret during high activities of several similar diseases
+- Calculating incidence and prevalence is usually biased because the denominator is not clear
+
+
+Examples: 
+For example, in syndromic surveillance, instead of tracking cases of SARS-CoV-2 infection, cases of acute respiratory illness are recorded. This approach makes the surveillance system more sensitive, capturing a broader spectrum of diseases. When a signal suggests a relevant event, such as an outbreak, further investigation can be conducted to identify the exact pathogen.
 
