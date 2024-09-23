@@ -9,7 +9,7 @@ Surveillance is firmly anchored in national and international legal systems. The
 During the COVID-19 pandemic, the value of such international collaboration became evident. 
 New amendments of the IHR were adopted on the first of June 2024. It will come into place in 2025/2026. 
 
-![Contents of the IHR. Graph by Nadine Zeitlmann](../img/background_ihr.png)
+![Contents of the IHR. Graph by ÖGD-Kontaktstelle RKI](../img/background_ihr.png)
 
 ### Important contents of the IHR
 - The IHR defines a Public Health Emergency of International Concern (PHEIC). It is defined as an extraordinary event which is determined to constitute a public health risk to other states and potentially requires a coordinated international response
