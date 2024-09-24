@@ -4,68 +4,44 @@ subtitle: How can we characterise a surveillance system?
 format: revealjs
 ---
 
-# Attributes  {.unnumbered}
-
+## About attributes
 - Attributes are characteristics or properties of a system
 - The definitions vary a lot
 - This book follows [ECDC Handbook Data quality monitoring and surveillance system evaluation](https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/Data-quality-monitoring-surveillance-system-evaluation-Sept-2014.pdf)
 - Closely related is data quality (which is completeness and validity) 
 
 
-<br><br><br>
-
-
 ## The underestimation pyramid
 
-::: {.panel-tabset}
+![Underestimation pyramid](../img/attributes_underestimation_pyramid.png){.nostretch fig-align="center" width="800px"}
 
-## General
-
-![Underestimation pyramid]()
-
-## Norovirus
+## Underestimation pyramid Norovirus
 ![Underestimation pyramid](../img/attributes_underestimation_pyramid_noro.png)
 
-## Ebola
+## Underestimation pyramid Ebola
 ![Underestimation pyramid](../img/attributes_underestimation_pyramid_ebola.png)
 
 
-:::
-
-
-<br><br><br>
 
 
 ## Definitions around underestimation
 ![Attributes around underestimation](../img/attributes_sensitivity.jpg)
 
 
-<br><br><br>
 
 
-### Sensitivity
+## Sensitivity
 - __Definition:__ _Proportion of cases in a population that are reported. Underascertainment and underreporting_
 - __How to measure:__ Compare to gold standard, capture-recapture
 
-
-<br><br><br>
-
-
-
-### Internal completeness
+## Internal completeness
 - __Definition:__ _the number of completed data fields out of the total number of data fields_
 - __How to measure:__ Analyse the data
 
 
-<br><br><br>
-
-
-### External completeness
+## External completeness
 - __Definition:__ _whether the data reflect the true number of reported cases - 'sensitivity of reporting'_ This corresponds to underreporting
 - __How to measure:__ Capture-recapture
-
-
-<br><br><br>
 
 
 ## Validity
@@ -73,24 +49,14 @@ format: revealjs
 ![Representaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator](../img/attributes_validity.jpg)
 
 
-<br><br><br>
-
-
-### Internal validity
+## Internal validity
 - __Definition:__ _extent of errors within the system - 'errors in reporting'_
 - __How to measure:__ Analyse the reporting system
 
 
-<br><br><br>
-
-
-### External validity
+## External validity
 - __Definition:__ _whether the information recorded about the cases is correct_ 
 - __How to measure:__ Test against a gold standard
-
-
-<br><br><br>
-
 
 
 ## Timeliness
@@ -101,9 +67,6 @@ format: revealjs
 - __How to measure:__ Analyse database
 
 
-<br><br><br>
-
-
 ## Usefulness
 ![Representaion of usefulness. What can you do with the information? Image done by bing image creator](../img/attributes_usefullness.jpg)
 
@@ -111,15 +74,9 @@ format: revealjs
 - __How to measure:__ Survey
 
 
-<br><br><br>
-
-
 ## Representativeness
 - __Defintion:__ _accuracy of describing the occurrence of a health-related event across time, place, person_
 - __How to measure:__ Population covered by surveillance divided by the total number
-
-
-<br><br><br>
 
 
 ## Simplicity
@@ -127,23 +84,11 @@ format: revealjs
 - __How to measure:__ Survey 
 
 
-<br><br><br>
-
-
 ## Flexibility
 - __Definition:__ _the amount of adaptibility to changing information needs_
 - __How to measure:__ Survey
 
-
-
-<br><br><br>
-
-
 ## Acceptability
 - __Definition:__ _Acceptability is the willingness of persons and organisations to participate_
 - __How to measure:__ Survey
-
-
-<br><br><br>
-
 

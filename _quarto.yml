@@ -22,16 +22,15 @@ book:
     - epub
   chapters:
   - index.qmd
-  - part: INTRODUCTION
+  - preface.qmd
+  - presentations.qmd
+  - part: Presentations
     chapters:
       - 1_Overview/01_overview_background.qmd
-      - 1_Overview/02_overview_steps.qmd
       - 1_Overview/03_overview_types.qmd
-      - 1_Overview/04_overview_attributes.qmd
       - 1_Overview/05_overview_evaluation.qmd
   - part: BOOK
     chapters:
-      - 2_Background/02_background_decisions.qmd
       - 2_Background/03_background_definition.qmd
       - 2_Background/04_background_othersurveillance.qmd
       - 2_Background/05_background_objectives.qmd

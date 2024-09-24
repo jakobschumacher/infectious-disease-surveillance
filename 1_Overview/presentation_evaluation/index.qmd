@@ -1,0 +1,48 @@
+---
+title: "Evaluation of a surveillance system"
+subtitle: How can we measure a surveillance system? 
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: false
+    preview-links: auto
+    logo: ../../img/logo.png
+    footer: infectious-disease-surveillance 
+---
+
+
+## Steps of an evaluation
+1. Understand the trigger
+1. Plan the evaluation
+1. Perform the evaluation
+1. Propose an action plan
+
+
+
+## Typical triggers for an evaluation?
+- Missed outbreak
+- Increased disease importance
+- Occurrence of new public health event
+- Cost saving
+- Requirement to evaluate (IHR)
+- New technology
+
+## What attributes should be monitored?
+- Depends on the trigger
+- Many attributes are costly
+- Keep the balance of attributes in mind
+![](../img/overview_choice.jpg)
+
+## Perform the evaluation
+1. Start with a evaluation protocol
+1. Describe the system
+1. Engage stakeholders
+1. Set up a team
+1. Look at each attribute in its own way
+
+## Evaluation protocol
+
+
+## Propose an action plan
+- An evaluation is objective oriented 
+- It should focus on improving the system
