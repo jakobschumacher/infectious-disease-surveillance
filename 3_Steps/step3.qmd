@@ -3,9 +3,9 @@ title: "Step 3: Case defintions"
 ---
 
 
-Classification means categorizing the recorded events. Sometimes the word "collation" is used for this step. A person or software decides based on a definition how the event is included as a value in the data. Often, classification involves agreeing on what exactly counts as an event and what does not. Classification is important because recorded events can be erroneous and should not be counted. Or there may not be enough information to decide whether a real event has occurred. Without classification, the events form an unclear collection with questionable significance. Classification is often a hidden part of the surveillance system or built into the system in a way that it is not recognized as such. For example, the application of case definitions in the reporting system is built into the reporting software. Even in seemingly trivial classifications, important definitions must be agreed upon: Does the death of a tourist with a foreign passport count as a death in the context of mortality surveillance?
+Classification means categorizing the recorded events - this is usally done with case definitions. Sometimes the word "collation" is used for this step, for example in the WHO definition of surveillance. Classification means a person or software decides based on a definition how the event is included as a value in the data. Often, classification involves agreeing on what exactly counts as an event and what does not. Classification is important because recorded events can be erroneous and should not be counted. Or there may not be enough information to decide whether a real event has occurred. Without classification, the events form an unclear collection with questionable significance. Classification is often a hidden part of the surveillance system or built into the system in a way that it is not recognized as such. For example, the application of case definitions in the reporting system is built into the reporting software. Even in seemingly trivial classifications, important definitions must be agreed upon: In a mortality surveillance deaths are counted. But does the death of a tourist with a foreign passport count as a death in the surveillance system?
 
-Classification is usually done with case definitions.
+Classification is a specific step in a surveillance system. This is a simplification of reality, because there are classifications done at many parts in the surveillance system. 
 
 ## Definition of case definition
 Case Definitions = A set of uniform criteria used to define a disease, health event or condition for public health surveillance (infectious and non-infectious diseases)
@@ -37,6 +37,7 @@ Case Definitions = A set of uniform criteria used to define a disease, health ev
 
 ## Categories for case definitions
 There can be different categories for case definitions
+
 - Only clinically confirmed case
 - Clinically confirmed case with epidemiological link
 - Clinically and laboratory confirmed case

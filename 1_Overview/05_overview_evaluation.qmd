@@ -1,22 +1,8 @@
+--- 
+subititle: How to measure surveillance systems
+---
+
 # Evaluation  {.unnumbered}
-
-## Describe a surveillance system
-- Legal framework 
-- Objectives of a surveillance system
-- Public health actions for prevention and control
-- Which information does the surveillance provide to inform these actions?
-- Population under surveillance	
-- Geographic coverage	
-- Events under surveillance 
--	Type of surveillance	
-- System’s indicators (e.g. Number of cases, Incidence, Percentage of people hospitalised)
-- Notification of cases		
-- Format of case notification	
-- Format of reporting	
-- Hierarchy levels in reporting	
-- Who are the system’s participants/data providers
--	Who are the recipients/users of the system data 
-
 
 
 ## Plan the evaluation
@@ -27,24 +13,41 @@ Typical triggers are:
 
 - Missed outbreak
 - Increased disease importance
+- Occurrence of new public health event
 - Cost saving
+- Requirement to evaluate (IHR)
+- New technology
 
-### Choose an evaluation type and resources
+<br><br><br>
 
-- Do a light, medium or full evaluation.
-- Depends on the triggers
-- Depends on the attributes to monitor
+### What attributes should be monitored?
+- Depends on the trigger
+- Many attributes are costly
+- Keep the balance of attributes in mind
+![](../img/overview_choice.jpg)
 
 
-### Engage stakeholders
-
-- Surveillance systems are complex and need input 
+<br><br><br>
 
 ## Perform the evaluation
-How the evaluation is done depends on the attributes
+
+1. Start with a evaluation protocol
+1. Describe the system
+1. Engate stakeholders
+1. Set up a team
+1. Look at each attribute in its own way
+
+<br><br><br>
 
 
+
+
+
+<br><br><br>
 
 ## Propose an action plan
+
 - An evaluation is objective oriented 
 - It should focus on improving the system
+
+<br><br><br>

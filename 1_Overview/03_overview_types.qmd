@@ -47,6 +47,7 @@
 
 ## Mass-gathering surveillance
 - Surveys one specific mass gathering 
+- Usually consists of several other surveillance systems that are enhanced ("enhanced surveillance")  
 
 <br><br><br>
 
@@ -58,7 +59,7 @@
 <br><br><br>
 
 
-## Sentinel vs. comprehensive surveillance
+## Sentinel vs. comprehensive surveillance (or exhaustive or extensive)
 - Some systems focus on a fraction of the population under surveillance - a sentinel
 - Other systems try to capture everything in a population
 
@@ -67,3 +68,8 @@
 
 ## Mandatory vs. voluntary
 - Reporting can be made mandatory or it can be voluntary
+
+
+<br><br><br>
+
+

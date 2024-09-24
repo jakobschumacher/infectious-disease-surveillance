@@ -264,7 +264,7 @@
     "href": "1_Overview/03_overview_types.html#mass-gathering-surveillance",
     "title": "Types",
     "section": "Mass-gathering surveillance",
-    "text": "Mass-gathering surveillance\n\nSurveys one specific mass gathering",
+    "text": "Mass-gathering surveillance\n\nSurveys one specific mass gathering\nUsually consists of several other surveillance systems that are enhanced (“enhanced surveillance”)",
     "crumbs": [
       "INTRODUCTION",
       "Types"
@@ -282,11 +282,11 @@
     ]
   },
   {
-    "objectID": "1_Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance",
-    "href": "1_Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance",
+    "objectID": "1_Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance-or-exhaustive-or-extensive",
+    "href": "1_Overview/03_overview_types.html#sentinel-vs.-comprehensive-surveillance-or-exhaustive-or-extensive",
     "title": "Types",
-    "section": "Sentinel vs. comprehensive surveillance",
-    "text": "Sentinel vs. comprehensive surveillance\n\nSome systems focus on a fraction of the population under surveillance - a sentinel\nOther systems try to capture everything in a population",
+    "section": "Sentinel vs. comprehensive surveillance (or exhaustive or extensive)",
+    "text": "Sentinel vs. comprehensive surveillance (or exhaustive or extensive)\n\nSome systems focus on a fraction of the population under surveillance - a sentinel\nOther systems try to capture everything in a population",
     "crumbs": [
       "INTRODUCTION",
       "Types"
@@ -297,7 +297,7 @@
     "href": "1_Overview/03_overview_types.html#mandatory-vs.-voluntary",
     "title": "Types",
     "section": "Mandatory vs. voluntary",
-    "text": "Mandatory vs. voluntary\n\nReporting can be made mandatory or it can be voluntary\n\n\n\n\nAdapted from ECDC Handbook Data quality monitoring and surveillance system evaluation",
+    "text": "Mandatory vs. voluntary\n\nReporting can be made mandatory or it can be voluntary\n\n\n\n\n\nAdapted from ECDC Handbook Data quality monitoring and surveillance system evaluation",
     "crumbs": [
       "INTRODUCTION",
       "Types"
@@ -306,100 +306,111 @@
   {
     "objectID": "1_Overview/04_overview_attributes.html",
     "href": "1_Overview/04_overview_attributes.html",
-    "title": "Attributes",
+    "title": "What are attributes",
     "section": "",
-    "text": "Underestimation",
+    "text": "The underestimation pyramid",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
     ]
   },
   {
-    "objectID": "1_Overview/04_overview_attributes.html#underestimation",
-    "href": "1_Overview/04_overview_attributes.html#underestimation",
-    "title": "Attributes",
+    "objectID": "1_Overview/04_overview_attributes.html#the-underestimation-pyramid",
+    "href": "1_Overview/04_overview_attributes.html#the-underestimation-pyramid",
+    "title": "What are attributes",
     "section": "",
-    "text": "Attributes around underestimation\n\n\n\nSensitivity\n\nDefinition: Proportion of cases in a population that are reported. Underascertainment and underreporting\nHow to measure: Compare to gold standard, capture-recapture\n\n\n\nPositive predictive value\n\nDefinition: proportion of real reported cases, divided by the total number of reported\nHow to measure: Case-follow up\n\n\n\nInternal completeness\n\nDefinition: the number of completed data fields out of the total number of data fields\nHow to measure: Analyse the data\n\n\n\nExternal completeness\n\nDefinition: whether the data reflect the true number of reported cases - ‘sensitivity of reporting’ This corresponds to underreporting\nHow to measure: Capture-recapture",
+    "text": "GeneralNorovirusEbola\n\n\n\n\n\nUnderestimation pyramid\n\n\n\n\n\n\n\nUnderestimation pyramid\n\n\n\n\n\n\n\nUnderestimation pyramid",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
+    ]
+  },
+  {
+    "objectID": "1_Overview/04_overview_attributes.html#definitions-around-underestimation",
+    "href": "1_Overview/04_overview_attributes.html#definitions-around-underestimation",
+    "title": "What are attributes",
+    "section": "Definitions around underestimation",
+    "text": "Definitions around underestimation\n\n\n\nAttributes around underestimation\n\n\n\n\nSensitivity\n\nDefinition: Proportion of cases in a population that are reported. Underascertainment and underreporting\nHow to measure: Compare to gold standard, capture-recapture\n\n\n\n\nInternal completeness\n\nDefinition: the number of completed data fields out of the total number of data fields\nHow to measure: Analyse the data\n\n\n\n\nExternal completeness\n\nDefinition: whether the data reflect the true number of reported cases - ‘sensitivity of reporting’ This corresponds to underreporting\nHow to measure: Capture-recapture",
+    "crumbs": [
+      "INTRODUCTION",
+      "What are attributes"
     ]
   },
   {
     "objectID": "1_Overview/04_overview_attributes.html#validity",
     "href": "1_Overview/04_overview_attributes.html#validity",
-    "title": "Attributes",
+    "title": "What are attributes",
     "section": "Validity",
-    "text": "Validity\n\n\n\nRepresentaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator\n\n\n\nInternal validity\n\nDefinition: extent of errors within the system - ‘errors in reporting’\nHow to measure: Analyse the reporting system\n\n\n\nExternal validity\n\nDefinition: whether the information recorded about the cases is correct\nHow to measure: Test against a gold standard",
+    "text": "Validity\n\n\n\nRepresentaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator\n\n\n\n\nInternal validity\n\nDefinition: extent of errors within the system - ‘errors in reporting’\nHow to measure: Analyse the reporting system\n\n\n\n\nExternal validity\n\nDefinition: whether the information recorded about the cases is correct\nHow to measure: Test against a gold standard",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
     ]
   },
   {
     "objectID": "1_Overview/04_overview_attributes.html#timeliness",
     "href": "1_Overview/04_overview_attributes.html#timeliness",
-    "title": "Attributes",
+    "title": "What are attributes",
     "section": "Timeliness",
     "text": "Timeliness\n\n\n\nVocabulary of different time measurements\n\n\n\nDefinition: speed between steps in a public health surveillance system\nHow to measure: Analyse database",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
     ]
   },
   {
     "objectID": "1_Overview/04_overview_attributes.html#usefulness",
     "href": "1_Overview/04_overview_attributes.html#usefulness",
-    "title": "Attributes",
+    "title": "What are attributes",
     "section": "Usefulness",
     "text": "Usefulness\n\n\n\nRepresentaion of usefulness. What can you do with the information? Image done by bing image creator\n\n\n\nDefintion: contribution to the prevention and control of infectious diseases\nHow to measure: Survey",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
     ]
   },
   {
     "objectID": "1_Overview/04_overview_attributes.html#representativeness",
     "href": "1_Overview/04_overview_attributes.html#representativeness",
-    "title": "Attributes",
+    "title": "What are attributes",
     "section": "Representativeness",
-    "text": "Representativeness\n\nDefintion: _accuracy of describing the occurrence of a health-related event across time, place, person__\nHow to measure: Population covered by surveillance divided by the total number",
+    "text": "Representativeness\n\nDefintion: accuracy of describing the occurrence of a health-related event across time, place, person\nHow to measure: Population covered by surveillance divided by the total number",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
     ]
   },
   {
     "objectID": "1_Overview/04_overview_attributes.html#simplicity",
     "href": "1_Overview/04_overview_attributes.html#simplicity",
-    "title": "Attributes",
+    "title": "What are attributes",
     "section": "Simplicity",
     "text": "Simplicity\n\nDefinition: refers to both its structure and ease of operation.\nHow to measure: Survey",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
     ]
   },
   {
     "objectID": "1_Overview/04_overview_attributes.html#flexibility",
     "href": "1_Overview/04_overview_attributes.html#flexibility",
-    "title": "Attributes",
+    "title": "What are attributes",
     "section": "Flexibility",
     "text": "Flexibility\n\nDefinition: the amount of adaptibility to changing information needs\nHow to measure: Survey",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
     ]
   },
   {
     "objectID": "1_Overview/04_overview_attributes.html#acceptability",
     "href": "1_Overview/04_overview_attributes.html#acceptability",
-    "title": "Attributes",
+    "title": "What are attributes",
     "section": "Acceptability",
-    "text": "Acceptability\n\nDefinition: Acceptability is the willingness of persons and organisations to participate\nHow to measure: Survey",
+    "text": "Acceptability\n\nDefinition: Acceptability is the willingness of persons and organisations to participate\nHow to measure: Survey\n\n\n\n\n\nUnderestimation pyramid\nUnderestimation pyramid\nUnderestimation pyramid\nAttributes around underestimation\nRepresentaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator\nVocabulary of different time measurements\nRepresentaion of usefulness. What can you do with the information? Image done by bing image creator",
     "crumbs": [
       "INTRODUCTION",
-      "Attributes"
+      "What are attributes"
     ]
   },
   {
@@ -407,7 +418,7 @@
     "href": "1_Overview/04_overview_attributes.html#balancing-attributes",
     "title": "Attributes",
     "section": "Balancing attributes",
-    "text": "Balancing attributes\n\n\n\n\nAttributes around underestimation\nRepresentaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator\nVocabulary of different time measurements\nRepresentaion of usefulness. What can you do with the information? Image done by bing image creator",
+    "text": "Balancing attributes\n\n\n\n\nUnderestimation pyramid\nUnderestimation pyramid\nUnderestimation pyramid\nAttributes around underestimation\nRepresentaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator\nVocabulary of different time measurements\nRepresentaion of usefulness. What can you do with the information? Image done by bing image creator",
     "crumbs": [
       "INTRODUCTION",
       "Attributes"
@@ -418,7 +429,7 @@
     "href": "1_Overview/05_overview_evaluation.html",
     "title": "Evaluation",
     "section": "",
-    "text": "Describe a surveillance system",
+    "text": "Plan the evaluation",
     "crumbs": [
       "INTRODUCTION",
       "Evaluation"
@@ -439,8 +450,8 @@
     "objectID": "1_Overview/05_overview_evaluation.html#plan-the-evaluation",
     "href": "1_Overview/05_overview_evaluation.html#plan-the-evaluation",
     "title": "Evaluation",
-    "section": "Plan the evaluation",
-    "text": "Plan the evaluation\n\nWhat triggers the evaluation?\nTypical triggers are:\n\nMissed outbreak\nIncreased disease importance\nCost saving\n\n\n\nChoose an evaluation type and resources\n\nDo a light, medium or full evaluation.\nDepends on the triggers\nDepends on the attributes to monitor\n\n\n\nEngage stakeholders\n\nSurveillance systems are complex and need input",
+    "section": "",
+    "text": "What triggers the evaluation?\nTypical triggers are:\n\nMissed outbreak\nIncreased disease importance\nOccurrence of new public health event\nCost saving\nRequirement to evaluate (IHR)\nNew technology\n\n\n\n\nWhat attributes should be monitored?\n\nDepends on the trigger\nMany attributes are costly\nKeep the balance of attributes in mind",
     "crumbs": [
       "INTRODUCTION",
       "Evaluation"
@@ -451,7 +462,7 @@
     "href": "1_Overview/05_overview_evaluation.html#perform-the-evaluation",
     "title": "Evaluation",
     "section": "Perform the evaluation",
-    "text": "Perform the evaluation\nHow the evaluation is done depends on the attributes",
+    "text": "Perform the evaluation\n\nStart with a evaluation protocol\nDescribe the system\nEngate stakeholders\nSet up a team\nLook at each attribute in its own way",
     "crumbs": [
       "INTRODUCTION",
       "Evaluation"
@@ -759,7 +770,7 @@
     "href": "3_Steps/step3.html#categories-for-case-definitions",
     "title": "8  Step 3: Case defintions",
     "section": "8.4 Categories for case definitions",
-    "text": "8.4 Categories for case definitions\nThere can be different categories for case definitions - Only clinically confirmed case - Clinically confirmed case with epidemiological link - Clinically and laboratory confirmed case - Laboratory confirmed with clinical criteria not met - Laboratory confirmed with unknown clinical criteria",
+    "text": "8.4 Categories for case definitions\nThere can be different categories for case definitions\n\nOnly clinically confirmed case\nClinically confirmed case with epidemiological link\nClinically and laboratory confirmed case\nLaboratory confirmed with clinical criteria not met\nLaboratory confirmed with unknown clinical criteria",
     "crumbs": [
       "BOOK",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Step 3: Case defintions</span>"
@@ -902,7 +913,29 @@
     "href": "4_Types/07_type_massgathering.html",
     "title": "18  Mass-Gathering Surveillance",
     "section": "",
-    "text": "Mass-gathering surveillance refers to surveillance systems set up for the duration of a special event. Typically, different components from other surveillance systems are employed. For instance, a separate surveillance system might be implemented during a European Football Championship.",
+    "text": "18.1 Additional reading",
+    "crumbs": [
+      "BOOK",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Mass-Gathering Surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/07_type_massgathering.html#additional-reading",
+    "href": "4_Types/07_type_massgathering.html#additional-reading",
+    "title": "18  Mass-Gathering Surveillance",
+    "section": "",
+    "text": "Mass gathering events and communicable diseases - Considerations for public health authorities https://www.ecdc.europa.eu/sites/default/files/documents/Mass-gathering-events-and-communicable-diseases-June-2024.pdf",
+    "crumbs": [
+      "BOOK",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Mass-Gathering Surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/07_type_massgathering.html#footnotes",
+    "href": "4_Types/07_type_massgathering.html#footnotes",
+    "title": "18  Mass-Gathering Surveillance",
+    "section": "",
+    "text": "WHO Definition of mass-gathering. https://www.who.int/news-room/questions-and-answers/item/what-is-who-s-role-in-mass-gatherings↩︎",
     "crumbs": [
       "BOOK",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Mass-Gathering Surveillance</span>"

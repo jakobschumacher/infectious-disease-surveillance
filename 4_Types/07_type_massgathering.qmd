@@ -2,5 +2,13 @@
 title: "Mass-Gathering Surveillance"
 ---
 
-Mass-gathering surveillance refers to surveillance systems set up for the duration of a special event. Typically, different components from other surveillance systems are employed. For instance, a separate surveillance system might be implemented during a European Football Championship.
+Mass-gathering surveillance refers to surveillance systems that are set up for the duration of a special event. A mass-gathering is a planned or spontaneous event where the number of people attending could strain the planning and response resources of the community or country hosting the event^[WHO Definition of mass-gathering. https://www.who.int/news-room/questions-and-answers/item/what-is-who-s-role-in-mass-gatherings]
 
+Mass-gatherings can be a threat to public health because any large group of people poses the risk of the spread of an infectious disease. Such events are also accomapnied by many small food vendors, that have limited facilites. As many mass-gathering usually go along with lots of international attention and the attention of media, there is usually a political pressure. 
+
+Typically, different components from other surveillance systems are employed. For instance, a separate surveillance system might be implemented during a European Football Championship. 
+
+
+
+## Additional reading
+- Mass gathering events and communicable diseases - Considerations for public health authorities [https://www.ecdc.europa.eu/sites/default/files/documents/Mass-gathering-events-and-communicable-diseases-June-2024.pdf](https://www.ecdc.europa.eu/sites/default/files/documents/Mass-gathering-events-and-communicable-diseases-June-2024.pdf)
