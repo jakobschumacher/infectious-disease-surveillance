@@ -1,0 +1,40 @@
+---
+title: "Introduction"
+subtitle: What happens in a surveillance system? 
+format:
+  revealjs: 
+    slide-number: true
+    embed-resources: true
+---
+
+## Definition
+>  Public health surveillance is the __systematic__ and __ongoing__ collection, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.
+^[[World Health Assembly 2005](https://apps.who.int/gb/ebwha/pdf_files/WHA58-REC1/english/A58_2005_REC1-en.pdf) (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)]
+
+
+
+## Other surveillance systems
+1. Neighbourhood surveillance (People watching other people)
+2. Rhizomatic surveillance (Unkown actors watching secretly)
+3. Top-down-surveillance (State actors watching their people)
+
+
+
+## Objectives
+
+|Objective|Description|
+|---|---|
+|Action for cases| guidance/quarantine/isolation |
+|Action for groups| lockdown/school closings |
+|Action for medical professionals| substitute antibiotic in response to antibiotic resistance |
+|Action for the comminity| mask, voluntary social distancing |
+|Detect and alert|Serves as an early warning system for impending public health emergencies|
+|Evaluate|Documents the impact of an intervention, or track progress towards specified goals|
+|Describe|Monitors and clarify the epidemiology of health problems|
+|Inform|Allows priorities to be set and to inform public health policy and strategies|
+
+
+
+## Example: Decision to lockdown on 28th of October 2020, Germany 
+
+![Picture taken from ["Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020"](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Okt_2020/2020-10-21-de.pdf?__blob=publicationFile)](../img/corona_okt_2020_germany.png)

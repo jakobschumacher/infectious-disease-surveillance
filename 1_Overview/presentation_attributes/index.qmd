@@ -1,15 +1,7 @@
 ---
 title: "Attributes of a surveillance system"
 subtitle: How can we characterise a surveillance system? 
-format:
-  revealjs: 
-    slide-number: true
-    # embed-resources: true
-    chalkboard: false
-    preview-links: auto
-    logo: ../../img/logo.png
-    css: styles.css
-    footer: infectious-disease-surveillance 
+format: revealjs
 ---
 
 ## About attributes
@@ -21,7 +13,7 @@ format:
 
 ## The underestimation pyramid
 
-![Underestimation pyramid](../../img/attributes_underestimation_pyramid.png){.nostretch fig-align="center" width="800px"}
+![Underestimation pyramid](../../img/attributes_underestimation_pyramid.png)
 
 ## Underestimation pyramid Norovirus
 ![Underestimation pyramid](../../img/attributes_underestimation_pyramid_noro.png)
@@ -30,15 +22,13 @@ format:
 ![Underestimation pyramid](../../img/attributes_underestimation_pyramid_ebola.png)
 
 
-
-
-## Definitions around underestimation
-![Attributes around underestimation](../../img/attributes_sensitivity.jpg)
-
-
+## Underestimation = unerreporting + underascertainment
+![Underestimation = unerreporting + underascertainment](../../img/attributes_underestimation_pyramid_underestimation.png)
 
 
 ## Sensitivity
+![Sensitivy measures underestimation](../../img/attributes_underestimation_pyramid_sensitivity.png)
+
 - __Definition:__ _Proportion of cases in a population that are reported. Underascertainment and underreporting_
 - __How to measure:__ Compare to gold standard, capture-recapture
 

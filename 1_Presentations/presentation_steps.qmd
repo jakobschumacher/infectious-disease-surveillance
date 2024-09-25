@@ -1,0 +1,45 @@
+---
+title: "Steps"
+subtitle: What happens in a surveillance system? 
+format:
+  revealjs: 
+    slide-number: true
+    embed-resources: true
+---
+
+## Overview
+![Steps of a surveillance system](../../img/steps_scheme.png)
+
+
+## Infection event (Step 1)
+- The event that is monitored can vary
+- Typical event: a case
+
+
+## Collection (Step 2)
+- Events are collected by an agency
+
+
+## Classification (Step 3)
+- The events are classified (see case definition)
+- By classifing the events are turned into data
+
+
+## Data processing (Step 4)
+- Data systems store and distribute data
+- At this step data can be made as open data
+
+
+## Analysis (Step 5)
+- The data is analysed by public health experts
+- The data is turned into information
+
+## Communication  (Step 6)
+- The information is communicated to decision makers
+- Usually done via reports 
+- Visualising information is important
+
+## Action (Step 7)
+- Decision makers act upon the information 
+
+

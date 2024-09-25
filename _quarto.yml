@@ -8,14 +8,14 @@ book:
   author: "Jakob Schumacher"
   license: "CC BY"
   page-footer:
-    right: "Version: 1.0.0 - September 2024"
+    right: "Version: 1.1 - September 2024"
   favicon: img/logo.png
   site-url: https://jakobschumacher.github.io/infectious-disease-surveillance/
   repo-url: https://github.com/jakobschumacher/infectious-disease-surveillance
   repo-actions: [edit, issue]
   page-navigation: true
   sidebar:
-    collapse-level: 1
+    collapse-level: 2
     logo: img/logo.png
   downloads:
     - pdf
@@ -24,18 +24,18 @@ book:
   - index.qmd
   - preface.qmd
   - presentations.qmd
-  - part: Presentations
+  - part: Introduction
     chapters:
-      - 1_Overview/01_overview_background.qmd
-      - 1_Overview/03_overview_types.qmd
-      - 1_Overview/05_overview_evaluation.qmd
-  - part: BOOK
+      - text: Definition
+        href: 2_Background/03_background_definition.qmd
+      - text: Domain
+        href: 2_Background/04_background_othersurveillance.qmd
+      - text: Objectives
+        href: 2_Background/05_background_objectives.qmd
+      - text: Int. Regulations
+        href: 2_Background/06_background_legal.qmd
+  - part: Steps
     chapters:
-      - 2_Background/03_background_definition.qmd
-      - 2_Background/04_background_othersurveillance.qmd
-      - 2_Background/05_background_objectives.qmd
-      - 2_Background/06_background_legal.qmd
-      - text: "---"
       - 3_Steps/step1.qmd
       - 3_Steps/step2.qmd
       - 3_Steps/step3.qmd
@@ -43,7 +43,8 @@ book:
       - 3_Steps/step5.qmd
       - 3_Steps/step6.qmd
       - 3_Steps/step7.qmd
-      - text: "---"
+  - part: Types
+    chapters:
       - 4_Types/02_type_case.qmd
       - 4_Types/03_type_syndromic.qmd
       - 4_Types/04_type_event.qmd
@@ -66,11 +67,9 @@ book:
 
 format:
   html:
-    theme: "styles.scss"
     toc: false
     lightbox: true
     modified-date: last-modified
-
   pdf:
     documentclass: scrreprt
   epub:

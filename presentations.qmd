@@ -5,54 +5,57 @@ subtitle: Generel presentations about infectious disease surveillance in english
 # Presentations {.unnumbered}
 
 
+## Introduction to surveillance systems
+
+|Target|Description|
+|---|---|
+|[Presentation](1_Presentations/presentation_introduction.html)|The link to the presentation|
+|Content|This presentation gives an overview of how to evaluate a surveillance system. |
+|Time|15 Minutes|
+|Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
+|Learning objectives|Learn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor|
+
+
 ## Steps of surveillance systems
 
 |Target|Description|
 |---|---|
-|Content|This presentation shos the steps of a surveillance system thus giving a breakdown of the different components. |
-|Time|10 Minutes|
+|[Presentation](1_Presentations/presentation_steps.html)|The link to the presentation|
+|Content|This presentation gives an overview of how to evaluate a surveillance system. |
+|Time|15 Minutes|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
-|Learning objectives|Learn the steps of a surveillance systems and the connection to the definition|
-```{=html}
-<iframe class="slide-deck" src="1_Overview/presentation_steps/"  width="750" height="420"></iframe>
-```
+|Learning objectives|Learn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor|
 
 ## Types of surveillance systems
 
 |Target|Description|
 |---|---|
-|Content|Surveillance system can be categorized into different types. This presentations explains the most important ones |
-|Time|10 Minutes|
+|[Presentation](1_Presentations/presentation_types.html)|The link to the presentation|
+|Content|This presentation gives an overview of how to evaluate a surveillance system. |
+|Time|15 Minutes|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
-|Learning objectives|Be able to describe different types of surveillance systems|
-```{=html}
-<iframe class="slide-deck" src="1_Overview/presentation_types/"  width="750" height="420"></iframe>
-```
+|Learning objectives|Learn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor|
 
 
 ## Attributes of surveillance systems
 
 |Target|Description|
 |---|---|
+|[Presentation](1_Presentations/presentation_attributes.html)|The link to the presentation|
 |Content|This presentation covers the attributes of a surveillance system. It covers underestimation, validty, timeliness and other attributes |
 |Time|20 Minutes|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
 |Learning objectives|Be able to describe characteristics of a surveillance system|
-```{=html}
-<iframe class="slide-deck" src="1_Overview/presentation_attributes/"  width="750" height="420"></iframe>
-```
 
 
 ## Evaluation of surveillance systems
 
 |Target|Description|
 |---|---|
+|[Presentation](1_Presentations/presentation_evaluation.html)|The link to the presentation|
 |Content|This presentation gives an overview of how to evaluate a surveillance system. |
 |Time|15 Minutes|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
 |Learning objectives|Learn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor|
 
-```{=html}
-<iframe class="slide-deck" src="1_Overview/presentation_evaluation/"  width="750" height="420"></iframe>
-```
 
