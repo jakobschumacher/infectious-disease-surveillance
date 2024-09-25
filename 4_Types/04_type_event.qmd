@@ -1,6 +1,53 @@
 ---
-title: "Event-Based Surveillance"
+title: "Event based surveillance"
+subtitle: "How do we find public health threats that we did not anticipate?"
 ---
 
-Event-based surveillance, better known by its English name, is somewhat different from the usual concept of surveillance because the events being monitored are not known in advance. Through a defined system, relevant events are actively sought. An example of such surveillance is an expert commission that regularly meets to collect potentially relevant events. These events could be news reports or rumors heard by the experts. The collected events are then evaluated, and the critical information is passed on.
+Event based surveillance is a defined system that rapidly detects events that might be a threat to public health. These events could be news reports, rumors, social media or informations by other surveillance systems. The collected events are then analysed, assessed and the relevent information is disseminated. The goal of an event based surveillance system is to provide an early warning system and detect previously unkown or generally threats, that are not detected by indicator based surveillance systems.
 
+
+## Steps of event based surveillance
+
+
+## Terminology
+### Event based vs. indicator based surveillance
+The termin indicator based surveillance is opposite to event based surveillance. Indicator based means that there are predifined indicators that are monitored, for example a syndromic or case-based surveillance system. When you look closely the line becomes somwhat blurred because event based surveillance can also incooperate indicator based surveillance.
+
+|Characteristic|Indicator based surveillance|Event based surveillance|
+|---|---|--|
+|Process|Routine, Systematic, Pre-defined pathways and indicators|Formalized, Ad hoc and in real time, Flexible|
+|Data|Organized data with predefined variables, Trusted and reliable, often health-care sector based|Not organized or predefined (variable), Reliability to be assessed|
+|Sources|Formal sources (usually one sector)|All sources (Meida/Internet, Communication, Indicator based surveillance)| 
+: Characteristics of indicator and event based surveillance {.striped .hover tbl-colwidths="[16,42,42]"}
+
+ 
+### Epidemic intelligence
+Event based surveillance and epidemic intelligence are often used as synonyms. But some argue that epidemic intelligence is broader than event based surveillance to emphasize the fact that it also uses indicator based surveillance and encompasses the verification, assessment and investigation steps^[https://www.eurosurveillance.org/content/10.2807/esm.11.12.00665-en]. But as the usage of indicator based surveillance and steps of verification, assessment and investigation also falls within the definition of event based surveillance or surveillance in general, there is no need to use the term epidemic intelligence.  
+
+
+
+## Strengths and weaknesses
+Strengths:  
+- Can detect unkown or not-thought of public health threats
+- Is usually fast
+- Has a formalised way of assessing risks
+
+Weakness:
+- Large subjective component 
+- Does not give reliable statistical measurements (e.g. trends)
+
+
+::: {.callout}
+__Definition:__ Event-based surveillance is the organized and rapid capture of information about events that are a potential risk to public health^[https://iris.who.int/bitstream/handle/10665/207737/9789290613213_eng.pdf?sequence=1]
+::: 
+
+## Sources of event based surveillance
+
+![Graph adapted from the ECDC Fellowship programme](../img/types_event_sources.png)
+
+##
+An example of such surveillance is an expert commission that regularly meets to collect potentially relevant events. 
+
+
+## Resources
+- [Norzin T, Ghiasbeglou H, Patricio M, Romanova S, Zaghlool A, Tanguay F, Zhao L. Event-based surveillance: Providing early warning for communicable disease threats. Can Commun Dis Rep. 2023 Feb 1;49(1):29-34. PMID: 38090144](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10712973/)

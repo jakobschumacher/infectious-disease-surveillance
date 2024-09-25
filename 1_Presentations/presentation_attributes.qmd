@@ -10,7 +10,7 @@ format:
 - Attributes are characteristics or properties of a system
 - The definitions vary a lot
 - This book follows [ECDC Handbook Data quality monitoring and surveillance system evaluation](https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/Data-quality-monitoring-surveillance-system-evaluation-Sept-2014.pdf)
-- Closely related is data quality (which is completeness and validity) 
+
 
 
 ## Underestimation pyramid
@@ -56,7 +56,7 @@ format:
 
 ## Timeliness
 
-![Vocabulary of different time measurements](../img/attributes_timeliness.jpg)
+![Vocabulary of different time measurements](../img/attributes_timeliness.png)
 
 
 ## Timeliness
@@ -71,10 +71,13 @@ format:
 - __Defintion:__ _contribution to the prevention and control of infectious diseases_
 - __How to measure:__ Survey
 
-
 ## Representativeness
+|  |  |
+|:--|--:|
+|![[AWeith - Mediawiki](https://en.wikipedia.org/wiki/Iceberg#/media/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg)](../img/attributes_iceberg_small.jpg)|![[Linnaea Mallette - publicdomainpictures.net](https://www.publicdomainpictures.net/en/free-download.php?image=boulder&id=348919)](../img/attributes_boulder_small.jpg)|
+
 - __Defintion:__ _accuracy of describing the occurrence of a health-related event across time, place, person_
-- __How to measure:__ Population covered by surveillance divided by the total number
+- __How to measure:__ Population covered by surveillance divided by the total number, careful thinking
 
 
 ## Simplicity
@@ -90,3 +93,5 @@ format:
 - __Definition:__ _Acceptability is the willingness of persons and organisations to participate_
 - __How to measure:__ Survey
 
+## What is data quality?
+- The handbook defines data quality as completeness and validity 

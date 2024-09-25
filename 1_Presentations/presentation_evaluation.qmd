@@ -7,16 +7,17 @@ format:
     embed-resources: true
 ---
 
-
 ## Steps of an evaluation
-1. Understand the trigger
 1. Plan the evaluation
+   a. Understand the trigger
+   a. Engage stakeholders
+   a. Decide on attributes
 1. Perform the evaluation
+   a. Start with a evaluation protocol
+   a. Look at each attribute in its own way
 1. Propose an action plan
 
-
-
-## Typical triggers for an evaluation?
+## Typical triggers (1a)
 - Missed outbreak
 - Increased disease importance
 - Occurrence of new public health event
@@ -24,22 +25,29 @@ format:
 - Requirement to evaluate (IHR)
 - New technology
 
-## What attributes should be monitored?
+## Engage the stakeholders (1b)
+- Surveillance is a group effort
+- Not like a science project
+
+## Choose attributes (1c)
 - Depends on the trigger
 - Many attributes are costly
-- Keep the balance of attributes in mind
+
+## Balance of attributes (1c)
 ![](../img/overview_choice.jpg)
 
-## Perform the evaluation
-1. Start with a evaluation protocol
-1. Describe the system
-1. Engage stakeholders
-1. Set up a team
-1. Look at each attribute in its own way
+## Evaluation protocol (2a)
+- Its similar to a study protocol
+- Important for coordination
+- Important part: Describe the system
 
-## Evaluation protocol
+## Evaluate attributes (2b)
+- Sensitivity: Get gold standard
+- External completness: Capture-Recapture
+- Internal completeness: Data analysis
+- Timeliness: Data analysis
+- Usefulness: Survey
 
-
-## Propose an action plan
+## Propose an action plan (3)
 - An evaluation is objective oriented 
 - It should focus on improving the system

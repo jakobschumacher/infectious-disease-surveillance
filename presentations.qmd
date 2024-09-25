@@ -1,61 +1,60 @@
 ---
-subtitle: Generel presentations about infectious disease surveillance in english 
+subtitle: Generel presentations about infectious disease surveillance 
 ---
 
 # Presentations {.unnumbered}
 
-
 ## Introduction to surveillance systems
-
 |Target|Description|
 |---|---|
 |[Presentation](1_Presentations/presentation_introduction.html)|The link to the presentation|
-|Content|This presentation gives an overview of how to evaluate a surveillance system. |
+|Content|This presentation gives an introduction to surveillance system. How it is defined, how it falls in the domain of general surveillance, what its objectives are |
 |Time|15 Minutes|
+|Language|English|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
-|Learning objectives|Learn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor|
+|Learning objectives|(1) Know the important parts of the definition (2) Understand the domain surveillance (3) Know the objectives|
 
 
 ## Steps of surveillance systems
-
 |Target|Description|
 |---|---|
 |[Presentation](1_Presentations/presentation_steps.html)|The link to the presentation|
-|Content|This presentation gives an overview of how to evaluate a surveillance system. |
-|Time|15 Minutes|
+|Content|This presentation gives an overview of the steps of an surveillance system. |
+|Time|10 Minutes|
+|Language|English|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
-|Learning objectives|Learn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor|
+|Learning objectives| (1) Understand that the definition of surveillance includes most steps (2) The steps are: Events, Collection, Classification, Data management, Analysis, Communication, Action|
 
 ## Types of surveillance systems
-
 |Target|Description|
 |---|---|
 |[Presentation](1_Presentations/presentation_types.html)|The link to the presentation|
-|Content|This presentation gives an overview of how to evaluate a surveillance system. |
-|Time|15 Minutes|
+|Content|This presentation gives an overview of the types of surveillance system e.g. case based, syndromic, event based, wastewater, active vs passive |
+|Time|20 Minutes|
+|Language|English|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
-|Learning objectives|Learn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor|
+|Learning objectives| (1) Understand that different overlapping types of surveillance system exist (2) Know what case based surveillance is (3) Know what syndromic surveillance is (4) Know what event based surveillance is |
 
-
-## Attributes of surveillance systems
-
+ 
+## Attributes of surveillance systems  
 |Target|Description|
 |---|---|
 |[Presentation](1_Presentations/presentation_attributes.html)|The link to the presentation|
 |Content|This presentation covers the attributes of a surveillance system. It covers underestimation, validty, timeliness and other attributes |
 |Time|20 Minutes|
+|Language|English|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
-|Learning objectives|Be able to describe characteristics of a surveillance system|
+|Learning objectives| (1) Be able to describe characteristics of a surveillance system (2) Understand underestimation (3) Understand validity (4) Understand timeliness (5) Know that there are many attributes often with unclear defintions|
 
 
 ## Evaluation of surveillance systems
-
 |Target|Description|
 |---|---|
 |[Presentation](1_Presentations/presentation_evaluation.html)|The link to the presentation|
 |Content|This presentation gives an overview of how to evaluate a surveillance system. |
-|Time|15 Minutes|
+|Time|10 Minutes|
+|Language|English|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
-|Learning objectives|Learn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor|
+|Learning objectives| (1) Learn the steps of an evaluation (2) need to adapt the evaluation to the trigger and the attributes (3) Surveillance is a team effort|
 
 

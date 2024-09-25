@@ -64,7 +64,7 @@
     "href": "presentations.html#introduction-to-surveillance-systems",
     "title": "Presentations",
     "section": "",
-    "text": "Target\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation gives an overview of how to evaluate a surveillance system.\n\n\nTime\n15 Minutes\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\nLearn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor",
+    "text": "Target\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation gives an introduction to surveillance system. How it is defined, how it falls in the domain of general surveillance, what its objectives are\n\n\nTime\n15 Minutes\n\n\nLanguage\nEnglish\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\n(1) Know the important parts of the definition (2) Understand the domain surveillance (3) Know the objectives",
     "crumbs": [
       "Presentations"
     ]
@@ -74,7 +74,7 @@
     "href": "presentations.html#steps-of-surveillance-systems",
     "title": "Presentations",
     "section": "Steps of surveillance systems",
-    "text": "Steps of surveillance systems\n\n\n\nTarget\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation gives an overview of how to evaluate a surveillance system.\n\n\nTime\n15 Minutes\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\nLearn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor",
+    "text": "Steps of surveillance systems\n\n\n\nTarget\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation gives an overview of the steps of an surveillance system.\n\n\nTime\n10 Minutes\n\n\nLanguage\nEnglish\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\n(1) Understand that the definition of surveillance includes most steps (2) The steps are: Events, Collection, Classification, Data management, Analysis, Communication, Action",
     "crumbs": [
       "Presentations"
     ]
@@ -84,7 +84,7 @@
     "href": "presentations.html#types-of-surveillance-systems",
     "title": "Presentations",
     "section": "Types of surveillance systems",
-    "text": "Types of surveillance systems\n\n\n\nTarget\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation gives an overview of how to evaluate a surveillance system.\n\n\nTime\n15 Minutes\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\nLearn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor",
+    "text": "Types of surveillance systems\n\n\n\nTarget\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation gives an overview of the types of surveillance system e.g. case based, syndromic, event based, wastewater, active vs passive\n\n\nTime\n20 Minutes\n\n\nLanguage\nEnglish\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\n(1) Understand that different overlapping types of surveillance system exist (2) Know what case based surveillance is (3) Know what syndromic surveillance is (4) Know what event based surveillance is",
     "crumbs": [
       "Presentations"
     ]
@@ -94,7 +94,7 @@
     "href": "presentations.html#attributes-of-surveillance-systems",
     "title": "Presentations",
     "section": "Attributes of surveillance systems",
-    "text": "Attributes of surveillance systems\n\n\n\nTarget\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation covers the attributes of a surveillance system. It covers underestimation, validty, timeliness and other attributes\n\n\nTime\n20 Minutes\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\nBe able to describe characteristics of a surveillance system",
+    "text": "Attributes of surveillance systems\n\n\n\nTarget\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation covers the attributes of a surveillance system. It covers underestimation, validty, timeliness and other attributes\n\n\nTime\n20 Minutes\n\n\nLanguage\nEnglish\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\n(1) Be able to describe characteristics of a surveillance system (2) Understand underestimation (3) Understand validity (4) Understand timeliness (5) Know that there are many attributes often with unclear defintions",
     "crumbs": [
       "Presentations"
     ]
@@ -104,7 +104,7 @@
     "href": "presentations.html#evaluation-of-surveillance-systems",
     "title": "Presentations",
     "section": "Evaluation of surveillance systems",
-    "text": "Evaluation of surveillance systems\n\n\n\nTarget\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation gives an overview of how to evaluate a surveillance system.\n\n\nTime\n15 Minutes\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\nLearn the steps of an evaluation and that you need to adapt the evaluation to the trigger and the attributes you want to monitor",
+    "text": "Evaluation of surveillance systems\n\n\n\nTarget\nDescription\n\n\n\n\nPresentation\nThe link to the presentation\n\n\nContent\nThis presentation gives an overview of how to evaluate a surveillance system.\n\n\nTime\n10 Minutes\n\n\nLanguage\nEnglish\n\n\nIntended audience\nYoung professionals, Fellows of the European programme for intervention epidemiology\n\n\nLearning objectives\n(1) Learn the steps of an evaluation (2) need to adapt the evaluation to the trigger and the attributes (3) Surveillance is a team effort",
     "crumbs": [
       "Presentations"
     ]
@@ -497,12 +497,78 @@
   {
     "objectID": "4_Types/04_type_event.html",
     "href": "4_Types/04_type_event.html",
-    "title": "14  Event-Based Surveillance",
+    "title": "14  Event based surveillance",
     "section": "",
-    "text": "Event-based surveillance, better known by its English name, is somewhat different from the usual concept of surveillance because the events being monitored are not known in advance. Through a defined system, relevant events are actively sought. An example of such surveillance is an expert commission that regularly meets to collect potentially relevant events. These events could be news reports or rumors heard by the experts. The collected events are then evaluated, and the critical information is passed on.",
+    "text": "14.1 Steps of event based surveillance",
     "crumbs": [
       "Types",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event-Based Surveillance</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/04_type_event.html#terminology",
+    "href": "4_Types/04_type_event.html#terminology",
+    "title": "14  Event based surveillance",
+    "section": "14.2 Terminology",
+    "text": "14.2 Terminology\n\n14.2.1 Event based vs. indicator based surveillance\nThe termin indicator based surveillance is opposite to event based surveillance. Indicator based means that there are predifined indicators that are monitored, for example a syndromic or case-based surveillance system. When you look closely the line becomes somwhat blurred because event based surveillance can also incooperate indicator based surveillance.\n\nCharacteristics of indicator and event based surveillance\n\n\n\n\n\n\n\nCharacteristic\nIndicator based surveillance\nEvent based surveillance\n\n\n\n\nProcess\nRoutine, Systematic, Pre-defined pathways and indicators\nFormalized, Ad hoc and in real time, Flexible\n\n\nData\nOrganized data with predefined variables, Trusted and reliable, often health-care sector based\nNot organized or predefined (variable), Reliability to be assessed\n\n\nSources\nFormal sources (usually one sector)\nAll sources (Meida/Internet, Communication, Indicator based surveillance)\n\n\n\n\n\n14.2.2 Epidemic intelligence\nEvent based surveillance and epidemic intelligence are often used as synonyms. But some argue that epidemic intelligence is broader than event based surveillance to emphasize the fact that it also uses indicator based surveillance and encompasses the verification, assessment and investigation steps1. But as the usage of indicator based surveillance and steps of verification, assessment and investigation also falls within the definition of event based surveillance or surveillance in general, there is no need to use the term epidemic intelligence.",
+    "crumbs": [
+      "Types",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/04_type_event.html#strengths-and-weaknesses",
+    "href": "4_Types/04_type_event.html#strengths-and-weaknesses",
+    "title": "14  Event based surveillance",
+    "section": "14.3 Strengths and weaknesses",
+    "text": "14.3 Strengths and weaknesses\nStrengths:\n- Can detect unkown or not-thought of public health threats - Is usually fast - Has a formalised way of assessing risks\nWeakness: - Large subjective component - Does not give reliable statistical measurements (e.g. trends)\n\n\n\n\n\n\nDefinition: Event-based surveillance is the organized and rapid capture of information about events that are a potential risk to public health2",
+    "crumbs": [
+      "Types",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/04_type_event.html#sources-of-event-based-surveillance",
+    "href": "4_Types/04_type_event.html#sources-of-event-based-surveillance",
+    "title": "14  Event based surveillance",
+    "section": "14.4 Sources of event based surveillance",
+    "text": "14.4 Sources of event based surveillance\n\n\n\nGraph adapted from the ECDC Fellowship programme",
+    "crumbs": [
+      "Types",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/04_type_event.html#section",
+    "href": "4_Types/04_type_event.html#section",
+    "title": "14  Event based surveillance",
+    "section": "14.5 ",
+    "text": "14.5 \nAn example of such surveillance is an expert commission that regularly meets to collect potentially relevant events.",
+    "crumbs": [
+      "Types",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/04_type_event.html#resources",
+    "href": "4_Types/04_type_event.html#resources",
+    "title": "14  Event based surveillance",
+    "section": "14.6 Resources",
+    "text": "14.6 Resources\n\nNorzin T, Ghiasbeglou H, Patricio M, Romanova S, Zaghlool A, Tanguay F, Zhao L. Event-based surveillance: Providing early warning for communicable disease threats. Can Commun Dis Rep. 2023 Feb 1;49(1):29-34. PMID: 38090144\n\n\n\n\nGraph adapted from the ECDC Fellowship programme",
+    "crumbs": [
+      "Types",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
+    ]
+  },
+  {
+    "objectID": "4_Types/04_type_event.html#footnotes",
+    "href": "4_Types/04_type_event.html#footnotes",
+    "title": "14  Event based surveillance",
+    "section": "",
+    "text": "https://www.eurosurveillance.org/content/10.2807/esm.11.12.00665-en↩︎\nhttps://iris.who.int/bitstream/handle/10665/207737/9789290613213_eng.pdf?sequence=1↩︎",
+    "crumbs": [
+      "Types",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
     ]
   },
   {
