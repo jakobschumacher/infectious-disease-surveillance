@@ -1,5 +1,6 @@
 ---
-title: "Other forms of surveillance"
+title: Other forms of surveillance
+subtitle: What is the larger picture of surveillance?
 ---
 
 Nearly all complex biological and technical systems have mechanisms to monitor and control the system's condition. Many social systems also regularly analyze their current state. There are various terms for these status assessments: A scientific study is one form of status assessment, as is the police surveillance of a group or the evaluation of a project in the corporate sector. Surveillance is also a form of status assessment.

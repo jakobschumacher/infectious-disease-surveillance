@@ -7,96 +7,93 @@ editor: visual
 
 Why should this event be under surveillance?
 
-- High frequency
-- High severity
-- High socioeconomic costs
+-   High frequency
+-   High severity
+-   High socioeconomic costs
 
 What preventions or control measures will be implemented?
 
 ## Objectives of surveillance
-- Implement public health measures to prevent furhter spread
-- Assessment of health conditions
-- Establis public health priorities
-- Allocate resource
-- Evaluate disease programmes
+
+-   Implement public health measures to prevent furhter spread
+-   Assessment of health conditions
+-   Establis public health priorities
+-   Allocate resource
+-   Evaluate disease programmes
 
 ## Example: Zika virus infection
-- Zika is a disease that is a threat to public health see [Factcheet of the ECDC](https://www.ecdc.europa.eu/en/zika-virus-infection/facts/factsheet)
-- There are no vaccines or treatment available 
-- Objectives of a zika virus infection
+
+-   Zika is a disease that is a threat to public health see [Factcheet of the ECDC](https://www.ecdc.europa.eu/en/zika-virus-infection/facts/factsheet)
+-   There are no vaccines or treatment available
+-   Objectives of a zika virus infection
 
 ## Indicators
-- Quantifiable characteristics of an object of interest, e.g. counts, proportions, ratios or rates
-- Type of indicator
-  - Epidemiological
-  - Intervention (vaccine coverage=
-  - Performance (timo from onset)
-  - Disease determinant (travvelerls from endemic country)
-  - System quality (rporting site completeness)
-  - Data quality 
-  
+
+-   Quantifiable characteristics of an object of interest, e.g. counts, proportions, ratios or rates
+-   Type of indicator
+    -   Epidemiological
+    -   Intervention (vaccine coverage=
+    -   Performance (timo from onset)
+    -   Disease determinant (travvelerls from endemic country)
+    -   System quality (rporting site completeness)
+    -   Data quality
+
 ## Selection of indicators
-- What objective requires which indicator?
-- What information is available?
-  - Aggregated versus cae-based
-  - Variables/data
-  - Numerators and denominators
-  - Threshold
-- Are indicators already available?
+
+-   What objective requires which indicator?
+-   What information is available?
+    -   Aggregated versus cae-based
+    -   Variables/data
+    -   Numerators and denominators
+    -   Threshold
+-   Are indicators already available?
 
 ## Example for developing an indicator
 
-
-|---|---|
-|Objective|To monitor trends of salmonellosis|
-|Indicator|Yearly incidence rate of salmonellosis per 100.000 Inhabitants|
-|Numberator and denominator|N cases of salmonellosis and |
-|Data||
-|Threshold||
-
+\|---\|---\| \|Objective\|To monitor trends of salmonellosis\| \|Indicator\|Yearly incidence rate of salmonellosis per 100.000 Inhabitants\| \|Numberator and denominator\|N cases of salmonellosis and \| \|Data\|\| \|Threshold\|\|
 
 ## Case definitions
 
-
 ## Surveillance system design
 
-- How is the data collected?
-- What is the population under surveillance?
-- What is the geographical coverage?
-- What ist the frequency of data reporting?
-
+-   How is the data collected?
+-   What is the population under surveillance?
+-   What is the geographical coverage?
+-   What ist the frequency of data reporting?
 
 ## Surveillance protocol
 
 ## Data provides, data sources and transmission
-Data providers: e.g. Health professionals, GPs and hospitals, laboratories, health insurance, poison centres, veterinarians, local authorities
-- Data sources: Administrative like death cerificates, hospital systems; Medical like patient records, prescirptions; Biological data: virology, becteriology; Environmental
+
+Data providers: e.g. Health professionals, GPs and hospitals, laboratories, health insurance, poison centres, veterinarians, local authorities - Data sources: Administrative like death cerificates, hospital systems; Medical like patient records, prescirptions; Biological data: virology, becteriology; Environmental
 
 ## Data collection
-- Minimal dataset
-- Specific
-- Defined
-- Data quality
-- Data dictionary
-- Use of standards, terminologies and international classification systems
+
+-   Minimal dataset
+-   Specific
+-   Defined
+-   Data quality
+-   Data dictionary
+-   Use of standards, terminologies and international classification systems
 
 ## Data security and confidentiality
-- Data encryption
-- Data retention policies
-- Data sharing agreements
-- Data protection impact assessments
-- [General data protection regulation EU 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
+
+-   Data encryption
+-   Data retention policies
+-   Data sharing agreements
+-   Data protection impact assessments
+-   [General data protection regulation EU 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
 
 ## Dissemination of the data
-- Systematic and regular feedback
-  - For data providers, stakeholders, decision makers
-  - For other profressionals, public, media
-- Adapted
-  - to thosw who need to know
-  - to the urgency of the situation
-- Format
+
+-   Systematic and regular feedback
+    -   For data providers, stakeholders, decision makers
+    -   For other profressionals, public, media
+-   Adapted
+    -   to thosw who need to know
+    -   to the urgency of the situation
+-   Format
 
 ## Monitoring data quality
 
-
-## Public health surveillance loop 
+## Public health surveillance loop

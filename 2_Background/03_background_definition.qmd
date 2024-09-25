@@ -1,14 +1,16 @@
 ---
-title: "Definition of surveillance"
+title: Definition of surveillance
+subtitle: What exactly is surveillance?
 ---
 
-
+## Definition
 >  Public health surveillance is the systematic ongoing collection, collation and analysis of data for public health purposes and the timely dissemination of public health information for assessment and public health response as necessary.
 ^[World Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)]
 
+## Motto of public health surveillance
+Surveillance is information for action
 
-
-
+## Elements of public health surveillance
 The definition of public health surveillance is very informative. It gives us all important elements of a surveillance system. 
 
 |Element|Explanation|
@@ -16,7 +18,8 @@ The definition of public health surveillance is very informative. It gives us al
 |systematic|surveillance is a planned undertaking that works with clear definitions|
 |ongoing|surveillance is planned for a longer time (usually). This is in contrast to a scientific study|
 |collection|Events are collected and stored in datasystems|
-|analysis|The data is analysed and turned into information|
+|analysis|Indicators are calculated and the data is parsed according to time, place and person|
+|assessment|Evaluate the indicators and find meaning|
 |timely| Focus on speed because this is needed for measures| 
 |dissemination|Visualisation and reporting of the information|
 |assessment and public health response|The information guides public health responses|
