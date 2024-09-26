@@ -2,5 +2,29 @@
 title: "Step 2: Collection"
 ---
 
-Infection events are collected and collated. How exactly this collection takes place depends on the type of surveillance system. This may happen, for example, through a report from a doctor. An event can also be recorded through a commissioned laboratory examination, such as a PCR test in wastewater. Other recordings are made by health authorities, which investigate further cases after an initial report. There is also the use of other data sources not primarily collected for surveillance, such as illness reports to health insurance companies or death certificates from doctors. This step also often leads to the naming of a surveillance system: a physician-based system as opposed to a laboratory-based system, or secondary data surveillance. 
+## Introduction  
+The collection of an infectious disease Event form the foundation of any effective surveillance. The specific methods of collection can vary widely depending on the type of surveillance system. The collection is usually done by an public health agency or a commisioned insitution. The method of data collection often influences the naming of surveillance systems.
+
+A collection processes can be based on any comminication form like: Phone calls, serial interface, Reports on paper, Fax or E-Mail, direct investigation. In recent years many efforts have been put into establishing a fully seamless electronic system via electronic interfaces. 
+
+The collection process can be described as active or passive. Where active means that the public health agency actively collect reports, whereas passive means, that public health agency recieve reports and dont directly interfere in the reporting. Many collection methods contain both, e.g. reports are sent in by a lab (passive) but in relevant cases the agency reaches out to get more information about a specific case (active)  
+
+If there are several events that are looked at, that are collected via different methods the term: "enhanced" or "intensivied" are used, especially in a mass-gathering surveillance. If collection methods by  veteniary or food-safety agencies are included the term "integrated" or "one-health" is applied.  
+
+## Common Collection Methods
+- Physicians report diagnosed cases to health authorities.
+- Laboratories report cases that are analysed for clinical purposes to public health agencies
+- Laboratories report cases that are analyses specifically for public health puropses like sequencing data to public health agencies
+- Laboratories report other lab results like PCR-tests in wastewater
+- A pulic health agency follows-up on an initial reports.
+- Health insurance claims and ICD-10 Codes are collected via a software interface
+- A public health agency gets access to a database of death records
+- Public health workers go around households in a crisis situation and 
+- Hospital representatives fill out an online form about the number of free intensive care beds
+- A specific group uses a software that screens the internet for potential public health threats
+- Blood prodocuts are analysed for infectious disease
+
+
+
+
 

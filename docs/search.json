@@ -378,7 +378,40 @@
     "href": "3_Steps/step1.html",
     "title": "5  Step 1: Infection Event",
     "section": "",
-    "text": "The infection-related events monitored in a surveillance system can be diverse. The term objects of a surveillance is sometimes used insted of event. The choice of the specific event has a decisive impact on the entire system. What event is monitored depends on the aim of the surveillance system. It is useful to be precise about the event that wants to be monitored. This helps in the communication and in the quality assessment.\nSurveillance systems are often named after the event that is monitored: Emergency room surveillance is one such example. Also the categorization of surveillance systems depends on the event being analyzed: For example, a system classified as “syndromic surveillance” is based on the monitoring of syndromes.\nA classic event that is monitored is the occurrence of an infectious disease in a person. However, there are many variations and other infection events that may be relevant:\n\nan available ICU bed\nthe colonization of a person by a pathogen\na physician’s ICD-10 classification of a patient\nthe discovery of a newspaper article about a disease outbreak\nthe subjective assessment of a public health department employee that something poses a threat to the population.\n\nOne important but sometimes difficult distinction is differing between infection and disease. A lab confirmation usually shows an infection, which means that we know, that a person has a infection but is not necessarily sick, whereas a confirmation by a physician usually means that a person is sick.",
+    "text": "5.1 Naming and Categorization\nSurveillance systems are often named after the events they monitor. For example:",
+    "crumbs": [
+      "Steps",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Step 1: Infection Event</span>"
+    ]
+  },
+  {
+    "objectID": "3_Steps/step1.html#naming-and-categorization",
+    "href": "3_Steps/step1.html#naming-and-categorization",
+    "title": "5  Step 1: Infection Event",
+    "section": "",
+    "text": "Emergency department surveillance (Emergency department visits)\nSyndromic surveillance (based on monitoring syndromes)\nLab-based surveillance system (Reports by labs)\nMeidasurveillance (Screening of media articles)",
+    "crumbs": [
+      "Steps",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Step 1: Infection Event</span>"
+    ]
+  },
+  {
+    "objectID": "3_Steps/step1.html#typical-events-in-infectious-disease-surveillance",
+    "href": "3_Steps/step1.html#typical-events-in-infectious-disease-surveillance",
+    "title": "5  Step 1: Infection Event",
+    "section": "5.2 Typical events in infectious disease surveillance",
+    "text": "5.2 Typical events in infectious disease surveillance\n\nThe occurence of an infectious disease\nThe occurence of an infection (infected person who is not necessarily diseased)\nAn available ICU bed\nSelf reports by people that they fell sick\nThe colonization of a person by a pathogen\nA physician’s ICD-10 classification of a patient\nThe discovery of a newspaper article about a disease outbreak\nThe subjective assessment of a public health department employee that something poses a threat to the population.\nA social media signal detected by a software",
+    "crumbs": [
+      "Steps",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Step 1: Infection Event</span>"
+    ]
+  },
+  {
+    "objectID": "3_Steps/step1.html#the-choice-of-event",
+    "href": "3_Steps/step1.html#the-choice-of-event",
+    "title": "5  Step 1: Infection Event",
+    "section": "5.3 The choice of event",
+    "text": "5.3 The choice of event\nThe choice of an event for a surveillance system depends on the Objective of the surveillance system.\n\nIf a case-based intervention is intended the event that is monitored should be able to provide contact information of a case\nIf only goup-based intervention is inteded a trend is needed which can be acquired by wastewater\nWhen the objective of a surveillance system is to monitor hospital capacity for resource allocation decisions, the events tracked should focus on specific indicators of hospital capacity and utilization like bed occupancy of staff coverage.",
     "crumbs": [
       "Steps",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Step 1: Infection Event</span>"
@@ -389,7 +422,18 @@
     "href": "3_Steps/step2.html",
     "title": "6  Step 2: Collection",
     "section": "",
-    "text": "Infection events are collected and collated. How exactly this collection takes place depends on the type of surveillance system. This may happen, for example, through a report from a doctor. An event can also be recorded through a commissioned laboratory examination, such as a PCR test in wastewater. Other recordings are made by health authorities, which investigate further cases after an initial report. There is also the use of other data sources not primarily collected for surveillance, such as illness reports to health insurance companies or death certificates from doctors. This step also often leads to the naming of a surveillance system: a physician-based system as opposed to a laboratory-based system, or secondary data surveillance.",
+    "text": "6.1 Introduction\nThe collection of an infectious disease Event form the foundation of any effective surveillance. The specific methods of collection can vary widely depending on the type of surveillance system. The collection is usually done by an public health agency or a commisioned insitution. The method of data collection often influences the naming of surveillance systems.\nA collection processes can be based on any comminication form like: Phone calls, serial interface, Reports on paper, Fax or E-Mail, direct investigation. In recent years many efforts have been put into establishing a fully seamless electronic system via electronic interfaces.\nThe collection process can be described as active or passive. Where active means that the public health agency actively collect reports, whereas passive means, that public health agency recieve reports and dont directly interfere in the reporting. Many collection methods contain both, e.g. reports are sent in by a lab (passive) but in relevant cases the agency reaches out to get more information about a specific case (active)\nIf there are several events that are looked at, that are collected via different methods the term: “enhanced” or “intensivied” are used, especially in a mass-gathering surveillance. If collection methods by veteniary or food-safety agencies are included the term “integrated” or “one-health” is applied.",
+    "crumbs": [
+      "Steps",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Step 2: Collection</span>"
+    ]
+  },
+  {
+    "objectID": "3_Steps/step2.html#common-collection-methods",
+    "href": "3_Steps/step2.html#common-collection-methods",
+    "title": "6  Step 2: Collection",
+    "section": "6.2 Common Collection Methods",
+    "text": "6.2 Common Collection Methods\n\nPhysicians report diagnosed cases to health authorities.\nLaboratories report cases that are analysed for clinical purposes to public health agencies\nLaboratories report cases that are analyses specifically for public health puropses like sequencing data to public health agencies\nLaboratories report other lab results like PCR-tests in wastewater\nA pulic health agency follows-up on an initial reports.\nHealth insurance claims and ICD-10 Codes are collected via a software interface\nA public health agency gets access to a database of death records\nPublic health workers go around households in a crisis situation and\nHospital representatives fill out an online form about the number of free intensive care beds\nA specific group uses a software that screens the internet for potential public health threats\nBlood prodocuts are analysed for infectious disease",
     "crumbs": [
       "Steps",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Step 2: Collection</span>"
@@ -398,67 +442,67 @@
   {
     "objectID": "3_Steps/step3.html",
     "href": "3_Steps/step3.html",
-    "title": "7  Step 3: Case defintions",
+    "title": "7  Step 3: Classification",
     "section": "",
-    "text": "7.1 Definition of case definition\nCase Definitions = A set of uniform criteria used to define a disease, health event or condition for public health surveillance (infectious and non-infectious diseases)",
+    "text": "7.1 What is classification\nClassification means categorizing the recorded events into two or more groups. Sometimes the word “collation” is used for this step, for example in the WHO definition of surveillance. Classification means a person or software applies a set of uniform criteria to define a disease, health event or condition for infectious disease surveillance. The classification is based on the specific objective. Usually the word “applying a case definition” is used to describe this process. But it is better to use more specific words and use the word “case definition” for the general concept. Classification is often a hidden part of the surveillance system or built into the system in a way that it is not recognized as such. For example, the application of reporting definition is built into the reporting software.",
     "crumbs": [
       "Steps",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Case defintions</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Classification</span>"
+    ]
+  },
+  {
+    "objectID": "3_Steps/step3.html#typical-definitions",
+    "href": "3_Steps/step3.html#typical-definitions",
+    "title": "7  Step 3: Classification",
+    "section": "7.2 Typical Definitions",
+    "text": "7.2 Typical Definitions\n\n\n\n\n\n\n\nDefinition\nDescription\n\n\n\n\nReference definition\nA reference definition is used for official reporting (e.g. national yearly reporting)\n\n\nCase-finding definition\nA case-finding definition is applied for an the search of cases in an outbreak\n\n\nNotification definition\nA notification definition is applied by physisicans or labs whether they should notify a diseases person\n\n\nReporting definition\nA reporting definition is applied by local public health agencies before reporting a case to a state or national level\n\n\nIntervention definition\nA intervention definition is applied when to act upon an information\n\n\nECDC case definition\nThe ECDC case definitions are used for the reports of ECDC\n\n\nOutbreak-study definition\nAn outbreak study definition is used for a cohort or case-study\n\n\nSuspected case definition\nThis definition is used in an outbreak response\n\n\nProbable case definition\nThis definition is used in an outbreak response\n\n\nConfimed case definition\nThis definition is used in an outbreak response\n\n\nContact definition\nThis definition is used in an outbreak response\n\n\nClinical definition\nA clinical definition is applied when someone in the medical systems uses his or her knowledge whether this constitutes a disease\n\n\nICD-10 definition\nA medical classification system that is especiall used for the reimbursment of physicians\n\n\nInfected person\nSomebody who inoculated a pathogen, that subsequently replicates within the body\n\n\nDiseased person\nSomebody with an infection with any kind of symptoms that are caused by the infection process.\n\n\n\nExample for the application of definitions along the surveillance steps of a case-based surveillance system.\n\n\n\n\n\n\nA person inoculates hepatitis B virus and the pathogen subsequently replicates in the body of the person (Fullfilling the infection definition). He then develops symptoms (therby fullfilling the diseased person definition) and he seeks the help of a doctor who gives him treatment (apllying a clinical definition) and enters the data into his software for reimbursment (applying the ICD-10 defintion). The physician notifies the local public health agency because the law requires to notify all diseased patients with acute hepatitis B (the notification definition). The local public health agency then decides to act (implicitly applying an intervention definition). They ensue an outbreak investigation and look for cases and contacts (applying case finding definitions or contact definitions). The local public health agency enters the data into their notification software that applies an algorithm and identifies that this event should be reported to the state and national agencies (reporting definition). The national agency reports the case in their official report (applying the referen definition). The software scripts in the national agency find that the event should be reported to ECDC (applying the ECDC case definition)",
+    "crumbs": [
+      "Steps",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Classification</span>"
     ]
   },
   {
     "objectID": "3_Steps/step3.html#rationale",
     "href": "3_Steps/step3.html#rationale",
-    "title": "7  Step 3: Case defintions",
-    "section": "7.2 Rationale",
-    "text": "7.2 Rationale\n\nCase definitions are used by epidemiologists / public health authorities\nCase definitions ≠ no clinical definition, such as e.g. ICD-10 codes\nEnable public health officials to classify and count cases consistently across reporting jurisdictions (avoids comparing “apples to oranges’’)",
+    "title": "7  Step 3: Classification",
+    "section": "7.3 Rationale",
+    "text": "7.3 Rationale\nDefinitions enable public health officials to classify and count cases consistently for example across reporting jurisdictions. This avoids comparing “apples to oranges”. Classification is important because recorded events can be erroneous and should not be counted. Or there may not be enough information to decide whether a real event has occurred. Without classification, the events form an unclear collection with questionable significance. Even in seemingly trivial classifications, important definitions must be agreed upon: In a mortality surveillance deaths are counted. But does the death of a tourist with a foreign passport count as a death in the surveillance system?",
     "crumbs": [
       "Steps",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Case defintions</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Classification</span>"
     ]
   },
   {
-    "objectID": "3_Steps/step3.html#components-of-case-definitions",
-    "href": "3_Steps/step3.html#components-of-case-definitions",
-    "title": "7  Step 3: Case defintions",
-    "section": "7.3 Components of case definitions",
-    "text": "7.3 Components of case definitions\n\n\n\n\n\n\n\nComponent\nExplanation\n\n\n\n\nTime\nThe timeframe in which a disease is looked at (in surveillance systems this is often missing)\n\n\nPlace\nWhere a disease is looked at. E.g. a region\n\n\nPerson\nWho is looked at. It can be everybody in a certain region or it can be only a specific group in an outbreak session\n\n\nClinical\nInclude common and relevant signs and symptoms of the disease under surveillance Form either individually or in combination a clear or indicative picture of the disease\n\n\nlaboratory\nIncludes a list with methods used to confirm the pathogen Usually: One of the laboratory methods on the list is sufficient for confirmation of a disease\n\n\nEpidemiological criteria\nAre met when an epidemiological link is established Depending on: Incubation period of the disease Transmission Routes (person-to-person, contaminated food, …) Endemicity of the disease in the country\n\n\n\n\n7.3.1 Example for a clinical part of a case defintion\n\n\n\nCase definition for Q-Fever by the european center for disease control\n\n\n\n\n7.3.2 Example for a laboratory part of a case defintion\n\n\n\nCase definition for avian flu by the european center for disease control\n\n\n\n\n7.3.3 Example for an epidemiological part of a case defintion\n\n\n\nCase definition for zika by the european center for disease control",
+    "objectID": "3_Steps/step3.html#components-of-definitions",
+    "href": "3_Steps/step3.html#components-of-definitions",
+    "title": "7  Step 3: Classification",
+    "section": "7.4 Components of definitions",
+    "text": "7.4 Components of definitions\nTypical definitions in the field of infectious diseases include some or all of the following components\n\n\n\n\n\n\n\nComponent\nExplanation\n\n\n\n\nTime\nThe timeframe in which a disease is looked at (in surveillance systems this is often missing)\n\n\nPlace\nWhere a disease is looked at. E.g. a region\n\n\nPerson\nWho is looked at. It can be everybody in a certain region or it can be only a specific group in an outbreak session\n\n\nClinical\nInclude common and relevant signs and symptoms of the disease under surveillance Form either individually or in combination a clear or indicative picture of the disease\n\n\nlaboratory\nIncludes a list with methods used to confirm the pathogen Usually: One of the laboratory methods on the list is sufficient for confirmation of a disease\n\n\nEpidemiological criteria\nAre met when an epidemiological link is established Depending on: Incubation period of the disease Transmission Routes (person-to-person, contaminated food, …) Endemicity of the disease in the country\n\n\n\n\n7.4.1 Example for a clinical part of a case defintion\n\n\n\nCase definition for Q-Fever by the european center for disease control\n\n\n\n\n7.4.2 Example for a laboratory part of a case defintion\n\n\n\nCase definition for avian flu by the european center for disease control\n\n\n\n\n7.4.3 Example for an epidemiological part of a case defintion\n\n\n\nCase definition for zika by the european center for disease control",
     "crumbs": [
       "Steps",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Case defintions</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Classification</span>"
     ]
   },
   {
-    "objectID": "3_Steps/step3.html#categories-for-case-definitions",
-    "href": "3_Steps/step3.html#categories-for-case-definitions",
-    "title": "7  Step 3: Case defintions",
-    "section": "7.4 Categories for case definitions",
-    "text": "7.4 Categories for case definitions\nThere can be different categories for case definitions\n\nOnly clinically confirmed case\nClinically confirmed case with epidemiological link\nClinically and laboratory confirmed case\nLaboratory confirmed with clinical criteria not met\nLaboratory confirmed with unknown clinical criteria",
+    "objectID": "3_Steps/step3.html#specificity-and-sensitvity",
+    "href": "3_Steps/step3.html#specificity-and-sensitvity",
+    "title": "7  Step 3: Classification",
+    "section": "7.5 Specificity and sensitvity",
+    "text": "7.5 Specificity and sensitvity\n\nA definition can be",
     "crumbs": [
       "Steps",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Case defintions</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Classification</span>"
     ]
   },
   {
-    "objectID": "3_Steps/step3.html#case-classification-with-the-help-of-case-definitions",
-    "href": "3_Steps/step3.html#case-classification-with-the-help-of-case-definitions",
-    "title": "7  Step 3: Case defintions",
-    "section": "7.5 Case classification with the help of case definitions",
-    "text": "7.5 Case classification with the help of case definitions",
+    "objectID": "3_Steps/step3.html#creating-you-own-definitions",
+    "href": "3_Steps/step3.html#creating-you-own-definitions",
+    "title": "7  Step 3: Classification",
+    "section": "7.6 Creating you own definitions",
+    "text": "7.6 Creating you own definitions\n\nIdentify the objectives of the surveillance system\nInvolve a multi-sectoral team (e.g. physicians, reference laboratories, epidemiologists,…)\nBalance between sensitivity and specificity when collecting / reporting\nDefine important and frequently used terms (e.g. fever)\nUse a standardised format and structure for all case definitions\nPlan the implementation of the case definitions (e.g. communicate, train, evaluate)\n\n\n\n\nCase definition for Q-Fever by the european center for disease control\nCase definition for avian flu by the european center for disease control\nCase definition for zika by the european center for disease control",
     "crumbs": [
       "Steps",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Case defintions</span>"
-    ]
-  },
-  {
-    "objectID": "3_Steps/step3.html#tips-for-developing-case-definitions",
-    "href": "3_Steps/step3.html#tips-for-developing-case-definitions",
-    "title": "7  Step 3: Case defintions",
-    "section": "7.6 Tips for developing case definitions",
-    "text": "7.6 Tips for developing case definitions\n\nIdentify the objectives of the surveillance system\nInvolve a multi-sectoral team (e.g. physicians, reference laboratories, epidemiologists,…)\nBalance between sensitivity and specificity when collecting / reporting\nDefine important and frequently used terms (e.g. fever)\nUse a standardised format and structure for all case definitions\nPlan the implementation of the case definitions (e.g. communicate, train, evaluate)\n\n\n\n\nCase definition for Q-Fever by the european center for disease control\nCase definition for avian flu by the european center for disease control\nCase definition for zika by the european center for disease control",
-    "crumbs": [
-      "Steps",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Case defintions</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Step 3: Classification</span>"
     ]
   },
   {

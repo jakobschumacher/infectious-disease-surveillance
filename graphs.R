@@ -1,57 +1,56 @@
 
-#
-# library(plotly)
-# library(dplyr)
-# library(RColorBrewer)
-#
-#
-# steps <- c("1<br>Event",
-#            "2<br>Collect",
-#            "3<br>Classify",
-#            "4<br>Data",
-#            "5<br>Analyse",
-#            "6<br>Communicate",
-#            "7<br>Act")
-#
-# hoverinfo <- c("Step 1<br>Event",
-#                "Step 2<br>Collection",
-#                "Step 3<br>Classification",
-#                "Step 4<br>Data management",
-#                "Step 5<br>Analysis",
-#                "Step 6<br>Communication",
-#                "Step 7<br>Action")
-#
-# size <- rep(1, 7)
-# colors <- c("#A6CEE3", "#1F78B4", "#B2DF8A", "#33A02C", "#FB9A99", "#E31A1C", "#FDBF6F")
-# graphdata <- tibble(steps, hoverinfo, size)
-#
-#
-#
-# # Create plot
-# graphdata |>
-#   plot_ly(labels = ~steps,
-#           values = ~size,
-#           text = ~steps,
-#           marker = list(colors = colors),  # Use custom color palette
-#           textinfo = 'label',              # Show labels inside pie
-#           textfont = list(size = 18),      # Increase label text size
-#           hoverinfo = 'text',
-#           hovertext = hoverinfo,
-#           hoverlabel = list(font = list(size = 20),  # Increase hover text size
-#                             namelength = -1,
-#                             padding = list(l = 30, r = 30, t = 30, b = 30))) |>
-#   add_pie(hole = 0.6) |>
-#   layout(showlegend = F,
-#          xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
-#          yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
-#          # Set rotation so "Event" is at the top
-#          piecolorway = colors
-#   )
-#
-#
-#
-#
-#
+
+library(plotly)
+library(dplyr)
+
+
+steps <- c("1<br>Event",
+           "2<br>Collect",
+           "3<br>Classify",
+           "4<br>Data",
+           "5<br>Analyse",
+           "6<br>Communicate",
+           "7<br>Act")
+
+hoverinfo <- c("Step 1<br>Event",
+               "Step 2<br>Collection",
+               "Step 3<br>Classification",
+               "Step 4<br>Data management",
+               "Step 5<br>Analysis",
+               "Step 6<br>Communication",
+               "Step 7<br>Action")
+
+size <- rep(1, 7)
+colors <- c("#A6CEE3", "#1F78B4", "#B2DF8A", "#33A02C", "#FB9A99", "#E31A1C", "#FDBF6F")
+graphdata <- tibble(steps, hoverinfo, size)
+
+
+
+# Create plot
+graphdata |>
+  plot_ly(labels = ~steps,
+          values = ~size,
+          text = ~steps,
+          marker = list(colors = colors),  # Use custom color palette
+          textinfo = 'label',              # Show labels inside pie
+          textfont = list(size = 18),      # Increase label text size
+          hoverinfo = 'text',
+          hovertext = hoverinfo,
+          hoverlabel = list(font = list(size = 20),  # Increase hover text size
+                            namelength = -1,
+                            padding = list(l = 30, r = 30, t = 30, b = 30))) |>
+  add_pie(hole = 0.6) |>
+  layout(showlegend = F,
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         # Set rotation so "Event" is at the top
+         piecolorway = colors
+  )
+
+
+
+
+
 
 
 

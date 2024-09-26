@@ -1,0 +1,27 @@
+Event: |
+  An event of a surveillance system is the object that is monitored. It is sometimes als reffered to as "object of surveillance". See [Step 1](3_Steps/step1.qmd) for details.
+
+Objective: |
+  Case-based action, Group-based actio, Medical decisions, Citizen decisions, Political decisions, Scientific advances, Intervention evaluation
+
+
+Physician-based-system: |
+  Rely primarily on reports from healthcare providers.
+
+Laboratory-based-system: |
+  Center around diagnostic test results.
+
+Secondary-data-surveillance: |
+  Utilizes existing data sources not originally collected for surveillance purposes.
+
+Integrated-system: |
+  Combine multiple data sources for a comprehensive approach.
+
+Enhanced-surveillance: |
+  Improving other surveillance systems for
+
+Active system: |
+  A surveillance system that involves that
+
+"Passive system": |
+  A surveillance system where the public health agency recieve reports and dont directly interfere in the reporting.
