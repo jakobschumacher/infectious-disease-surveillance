@@ -61,7 +61,7 @@ format:
 
 ## Timeliness
 
-- __Definition:__ _speed between steps in a public health surveillance system_
+- __Definition:__ _speed of a public health surveillance system_
 - __How to measure:__ Analyse database
 
 

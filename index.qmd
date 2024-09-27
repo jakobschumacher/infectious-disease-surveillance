@@ -1,16 +1,19 @@
 # About the book {.unnumbered}
-This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what the steps of a surveillance systems are and how to asses the quality of surveillance systems. The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
+This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what the stages of a surveillance systems are and how to asses the quality of surveillance systems. The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
 
-The book consists of two parts
 
-1. Introduction: This is meant for presenting the contents of the book
-2. Book: This includes the contents of the book and is intended for self-studying
+:::{.callout-warning}
+This book is work in progress and currently not in an acceptable state. Please return to this book to check for updates.
+
+[jakobschumacher.github.com/infectious-disaese-surveillance](https://jakobschumacher.github.com/infectious-disaese-surveillance)
+::: 
+
 
 ## Learning objectives{.unnumbered}
 - Surveillance is information for action
 - Learn how to define a surveillance system
 - Get to know types of surveillance systems
-- Learn the steps of a surveillance system
+- Learn the stages of a surveillance system
 - Find resources about the evaluation
 
 ## Who writes this book{.unnumbered}

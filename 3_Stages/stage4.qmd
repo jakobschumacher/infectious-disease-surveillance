@@ -1,0 +1,80 @@
+---
+title: "Data Processing (Stage 4)"
+---
+
+Data processing is seldom mentioned in classical surveillance literature, but it is a stage that significantly improves surveillance systems. Many people at all levels are involved in data processing within surveillance systems. In the past, data was transmitted monthly by mail in surveillance systems, whereas today, data flow mostly occurs through interfaces between software programs and databases. The way data is transmitted affects data quality and, consequently, the evaluation of the data. Data processing also includes the application of scripts that prepare the data for subsequent evaluation. An example is automated outbreak detection. Here, data is analyzed using an algorithm or machine learning to determine whether there is a high probability of an outbreak. The resulting dataset can be made available as open data, a publication format that has increased significantly in recent times.
+
+## Typical ways of data processing
+- Questionnaires on paper
+- Software interface between laboratory information system and public health notification software
+- Accessing a database via an API
+- Querying persons with a survey app
+- Keeping information in a large excel sheet
+
+
+## Comparing characteristics of manual vs electronic data processing
+|Characteristic|Manual|Electronic|
+|---|---|---|
+|Ease|Easy|Complicated|
+|Internal validity|Low|High|
+|Speed|slow|fast|
+|Scalability|low|high|
+|Setup costs|low|high|
+|Operational costs|high|low|
+|Accepatbility|low|high|
+|Understandability|high|low|
+
+
+
+
+## Problems of data processing
+
+### Dependence on the user interface of software
+
+
+
+### Dependence on classification systems in manual systems
+
+
+
+### Dependence on classification systems in automatic systems
+- SnowMed
+- FIHR
+
+
+### Single point of truth
+
+
+
+### Errors in data handling by the software
+- Excel changes specific values to dates automatically
+- Excel sheets have only a certain number of rows
+
+
+
+
+
+## Open Data and Public Engagement
+Recent trends in data publication have expanded assessment beyond designated experts:
+
+Advantages:
+
+Enables independent verification
+Increases transparency
+Potentially leads to novel insights
+
+
+Challenges:
+
+Risk of misinterpretation by non-experts
+Necessitates clear communication of data limitations and context
+
+
+
+
+Control group must be
+- representative of exposures in the source population
+- be identifiable as cases
+- habe same exclusion and restctition criteria as cases
+
+

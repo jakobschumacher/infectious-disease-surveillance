@@ -27,22 +27,29 @@ book:
   - part: Introduction
     chapters:
       - text: Definition
-        href: 2_Background/03_background_definition.qmd
+        href: 2_Introduction/03_background_definition.qmd
       - text: Domain
-        href: 2_Background/04_background_othersurveillance.qmd
+        href: 2_Introduction/04_background_othersurveillance.qmd
       - text: Objectives
-        href: 2_Background/05_background_objectives.qmd
+        href: 2_Introduction/05_background_objectives.qmd
       - text: Int. Regulations
-        href: 2_Background/06_background_legal.qmd
-  - part: Steps
+        href: 2_Introduction/06_background_legal.qmd
+  - part: Stages
     chapters:
-      - 3_Steps/step1.qmd
-      - 3_Steps/step2.qmd
-      - 3_Steps/step3.qmd
-      - 3_Steps/step4.qmd
-      - 3_Steps/step5.qmd
-      - 3_Steps/step6.qmd
-      - 3_Steps/step7.qmd
+      - text: Event (1)
+        href: 3_Stages/stage1.qmd
+      - text: Collection (2)
+        href: 3_Stages/stage2.qmd
+      - text: Classification (3)
+        href: 3_Stages/stage3.qmd
+      - text: Data processing (4)
+        href: 3_Stages/stage4.qmd
+      - text: Analysis (5)
+        href: 3_Stages/stage5.qmd
+      - text: Communication (6)
+        href: 3_Stages/stage6.qmd
+      - text: Action (7)
+        href: 3_Stages/stage7.qmd
   - part: Types
     chapters:
       - 4_Types/02_type_case.qmd
@@ -67,7 +74,7 @@ book:
 
 format:
   html:
-    toc: false
+    callout-appearance: simple
     lightbox: true
     modified-date: last-modified
   pdf:

@@ -15,15 +15,15 @@ subtitle: Generel presentations about infectious disease surveillance
 |Learning objectives|(1) Know the important parts of the definition (2) Understand the domain surveillance (3) Know the objectives|
 
 
-## Steps of surveillance systems
+## Stages of surveillance systems
 |Target|Description|
 |---|---|
-|[Presentation](1_Presentations/presentation_steps.html)|The link to the presentation|
-|Content|This presentation gives an overview of the steps of an surveillance system. |
+|[Presentation](1_Presentations/presentation_stages.html)|The link to the presentation|
+|Content|This presentation gives an overview of the stages of an surveillance system. |
 |Time|10 Minutes|
 |Language|English|
 |Intended audience|Young professionals, Fellows of the European programme for intervention epidemiology| 
-|Learning objectives| (1) Understand that the definition of surveillance includes most steps (2) The steps are: Events, Collection, Classification, Data management, Analysis, Communication, Action|
+|Learning objectives| (1) Understand that the definition of surveillance includes most stages (2) The stages are: Events, Collection, Classification, Data management, Analysis, Communication, Action|
 
 ## Types of surveillance systems
 |Target|Description|

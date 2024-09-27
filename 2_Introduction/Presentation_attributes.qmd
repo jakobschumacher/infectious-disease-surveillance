@@ -1,10 +1,7 @@
 ---
-title: "Types of a surveillance system"
+title: "Attributes of a surveillance system"
 subtitle: How can we characterise a surveillance system? 
-format:
-  revealjs: 
-    slide-number: true
-    embed-resources: true
+format: revealjs
 ---
 
 ## About attributes
@@ -16,19 +13,19 @@ format:
 
 ## The underestimation pyramid
 
-![Underestimation pyramid](../../img/attributes_underestimation_pyramid.png){.nostretch fig-align="center" width="800px"}
+![Underestimation pyramid](../img/attributes_underestimation_pyramid.png){.nostretch fig-align="center" width="800px"}
 
 ## Underestimation pyramid Norovirus
-![Underestimation pyramid](../../img/attributes_underestimation_pyramid_noro.png)
+![Underestimation pyramid](../img/attributes_underestimation_pyramid_noro.png)
 
 ## Underestimation pyramid Ebola
-![Underestimation pyramid](../../img/attributes_underestimation_pyramid_ebola.png)
+![Underestimation pyramid](../img/attributes_underestimation_pyramid_ebola.png)
 
 
 
 
 ## Definitions around underestimation
-![Attributes around underestimation](../../img/attributes_sensitivity.jpg)
+![Attributes around underestimation](../img/attributes_sensitivity.jpg)
 
 
 
@@ -49,7 +46,7 @@ format:
 
 ## Validity
 
-![Representaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator](../../img/attributes_validity.jpg)
+![Representaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator](../img/attributes_validity.jpg)
 
 
 ## Internal validity
@@ -64,17 +61,14 @@ format:
 
 ## Timeliness
 
-![Vocabulary of different time measurements](../../img/attributes_timeliness.jpg)
-
-
-## Timeliness
+![Vocabulary of different time measurements](../img/attributes_timeliness.jpg)
 
 - __Definition:__ _speed of a public health surveillance system_
 - __How to measure:__ Analyse database
 
 
 ## Usefulness
-![Representaion of usefulness. What can you do with the information? Image done by bing image creator](../../img/attributes_usefullness.jpg)
+![Representaion of usefulness. What can you do with the information? Image done by bing image creator](../img/attributes_usefullness.jpg)
 
 - __Defintion:__ _contribution to the prevention and control of infectious diseases_
 - __How to measure:__ Survey

@@ -8,7 +8,7 @@ __Warning: This is not ready__
 Event based surveillance is a defined system that rapidly detects events that might be a threat to public health. These events could be news reports, rumors, social media or informations by other surveillance systems. The collected events are then analysed, assessed and the relevent information is disseminated. The goal of an event based surveillance system is to provide an early warning system and detect previously unkown or generally threats, that are not detected by indicator based surveillance systems.
 
 
-## Steps of event based surveillance
+## Stages of event based surveillance
 
 
 ## Terminology
