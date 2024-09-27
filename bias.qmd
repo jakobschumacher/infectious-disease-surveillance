@@ -1,0 +1,151 @@
+---
+title: "Bias"
+---
+
+
+## Definition of bias
+Definition: Any systematic error in the design or implementation of an epidemiological study resulting in a conclusion which is different from the truth 
+
+Any systematic error in design, conduct or analysis of study that results in mistaken estimate of an exposure’s effect on risk of disease
+
+- Unlike chance and confounding it cannot be quantified
+- It can be minimized with the design and methodology of a study
+- The effect of bias will be an estimate that is either above or below the true value, depending on the direction of the systematic error
+
+## Believe an estimated effect
+
+::: {.panel-tabset}
+
+
+## Bias
+![xkcd.com Randall Munroe -  CC BY-NC 2.5](https://imgs.xkcd.com/comics/cohort_and_age_effects.png)
+
+## Chance
+![Error of generalising to the population from a sample](img/bias_sampling.png)
+
+## Confounding
+Confounding is a factor that influence both the cause and the effect of a causal relation 
+
+```{r, echo=FALSE, warning=FALSE, error=FALSE, message=FALSE}
+library(ggplot2)
+library(ggdag)
+ggplot2::theme_set(ggdag::theme_dag())
+
+plot_dag <- ggdag::dagify(
+  finger ~ smoking,
+  cancer ~ smoking,
+  exposure = "finger",
+  outcome = "cancer",
+  labels = c(
+    "finger" = "Having yellow fingers",
+    "cancer" = "Lung Cancer",
+    "smoking" = "Smoking"
+  )
+) %>%
+  ggdag::tidy_dagitty(layout = "tree")
+ 
+ggdag::ggdag(plot_dag, text = FALSE, use_labels = "label")
+
+
+```
+
+Barrett M (2024). ggdag: Analyze and Create Elegant Directed Acyclic Graphs. R package version 0.2.13.9000, https://r-causal.github.io/ggdag/, https://github.com/r-causal/ggdag. 
+
+
+:::
+
+## Selection bias vs information bias
+
+|Selection bias|Information bias|
+|--|--|
+|Systematic error in the selection of participants|Systematic error in the measurement of the exposure or outcome during data collection|
+|Are the study participants the right people?|Have study participants been assigned to the right category? Is the information that we have about them correct / true?|
+
+## Selection bias
+Systematic error in the selection of participants
+
+
+### Example for selection bias
+- Aim: to assess mortality over 90 days in people with a positive SARS-CoV-2 infection
+- Target population: People living in Stockholm with a positive SARS-CoV-2 infection 
+- Who could you recruit? Examples:
+   - Everyone with a positive test result recorded on the national health service database
+   - People hospitalized for COVID-19 complications
+   - Patients in a GP office with self-reported symptoms
+
+
+::: {.panel-tabset}
+
+### Who to choose
+![](img/bias_selectionbias_example1a.png)
+
+### What you get
+![](img/bias_selectionbias_example1b.png)
+
+:::
+
+
+### Different kinds of selection bias
+- Sampling bias (more likely to be selected in a sample)
+- Ascertainment bias (referal, admission, diagnostic)
+- Participation bias (self-selection, non-responste, loss to follow up, survival, health worker)
+
+
+
+## Information bias
+Occurs when there are systematic differences in the way data on exposure or outcome are obtained from the various study groups 
+
+### Missclassification
+|Non-differential|differential|
+|---|---|
+|Random error|Systematic error|
+|Misclassification of the exposure is EQUAL between cases & controls|Misclassification of the exposure DIFFERS between cases & controls|
+|Misclassification of the outcome EQUAL  between exposed & non-exposed|Misclassification of the outcome DIFFERS between exposed & non-exposed|
+|Weakens the measure of association|Weakens the measure of association|
+
+### Different kinds of information bias
+- Reporting bias (recall bias, prevarication, social desireability, instrument bias)
+- Observer bias (interviewer bias, )
+
+
+## How to deal with bias
+
+### Where to deal with bias
+- Careful consideration is needed in the design of the study
+- Aim to prevent bias at the protocol stage
+- It is not possible to correct for bias at the analysis stage
+
+### If bias is present
+- Account for it when interpretating results
+- Discuss if the magnitude of the association was likely to be overestimated or underestimated
+
+
+### Minimising bias
+
+::: {.panel-tabset}
+## Selection Bias
+- Clearly define the study population
+- Make explicit case, control, and exposure definitions
+Take cases and controls from the same population (same possibility of exposure)
+- Select controls from more than one source (eg hospital and community controls)
+- For cohort studies, select exposed and non-exposed without knowing their disease status
+- Use techniques to maintain follow-up
+
+## Information bias
+- Standardise measurement instruments
+- Questionnaires + trained staff (validation/closed questions)
+- Administer instruments equally to:
+	 - cases/controls
+	 - exposed/unexposed 
+::: 
+
+
+## Conclusion
+- It is very difficult to reduce bias in observational studies
+- Do not try to hide the bias
+- Discuss the bias as a limitation and always consider in which direction it may have changed the associations 
+
+
+## Reading more about bias
+- [Althubaiti A. Information bias in health research: definition, pitfalls, and adjustment methods. J Multidiscip Healthc. 2016 May 4;9:211-7. doi: 10.2147/JMDH.S104807. PMID: 27217764; ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4862344/)
+- [Barrett M (2024) Common Structures of Bias](https://r-causal.github.io/ggdag/articles/bias-structures.html)
