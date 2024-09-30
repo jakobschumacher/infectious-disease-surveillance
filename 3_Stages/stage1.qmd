@@ -2,7 +2,11 @@
 title: "Infection Event (Stage 1)"
 ---
 
-Surveillance systems monitor a wide range of infection-related events. The choice of events to monitor in a surveillance system is a critical decision that shapes the system's in many ways. Understanding the event is essential for understanding a surveillance system.
+Surveillance systems monitor a wide range of infection-related events. Understanding the event is essential for understanding a surveillance system.The choice of events to monitor in a surveillance system is a critical decision that shapes the system's in many ways. The choice depends on the Objective of the surveillance system. 
+
+- If a case-based intervention is intended the event that is monitored should be able to provide contact information of a case
+- If only goup-based intervention is inteded only a trend is needed which can be acquired by simpler systems
+- When the objective of a surveillance system is to monitor hospital capacity for resource allocation decisions, the events tracked should focus on specific indicators of hospital capacity and utilization like bed occupancy of staff coverage.
 
 ## Naming and Categorization
 Surveillance systems are often named after the events they monitor. For example:
@@ -23,9 +27,4 @@ Surveillance systems are often named after the events they monitor. For example:
 - The subjective assessment of a public health department employee that something poses a threat to the population.
 - A social media signal detected by a software  
 
-## The choice of event
-The choice of an event for a surveillance system depends on the Objective of the surveillance system. 
 
-- If a case-based intervention is intended the event that is monitored should be able to provide contact information of a case
-- If only goup-based intervention is inteded a trend is needed which can be acquired by wastewater
-- When the objective of a surveillance system is to monitor hospital capacity for resource allocation decisions, the events tracked should focus on specific indicators of hospital capacity and utilization like bed occupancy of staff coverage.

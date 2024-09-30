@@ -30,8 +30,7 @@ Data processing is seldom mentioned in classical surveillance literature, but it
 ## Problems of data processing
 
 ### Dependence on the user interface of software
-
-
+The interface of the software that is used influences the data. If the variables that need to be entered are placed on different spots and described differently than one can expect different results
 
 ### Dependence on classification systems in manual systems
 

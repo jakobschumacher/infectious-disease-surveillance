@@ -6,11 +6,7 @@ The collection of an infectious disease Event form the foundation of any effecti
 
 A collection processes can be based on any comminication form like: Phone calls, serial interface, Reports on paper, Fax or E-Mail, direct investigation. In recent years many efforts have been put into establishing a fully seamless electronic system via electronic interfaces. 
 
-The collection process can be described as active or passive. Where active means that the public health agency actively collect reports, whereas passive means, that public health agency recieve reports and dont directly interfere in the reporting. Many collection methods contain both, e.g. reports are sent in by a lab (passive) but in relevant cases the agency reaches out to get more information about a specific case (active)  
-
-If there are several events that are looked at, that are collected via different methods the term: "enhanced" or "intensivied" are used, especially in a mass-gathering surveillance. If collection methods by  veteniary or food-safety agencies are included the term "integrated" or "one-health" is applied.  
-
-## Common Collection Methods
+## Typical collection methods
 - Physicians report diagnosed cases to health authorities.
 - Laboratories report cases that are analysed for clinical purposes to public health agencies
 - Laboratories report cases that are analyses specifically for public health puropses like sequencing data to public health agencies
@@ -22,6 +18,24 @@ If there are several events that are looked at, that are collected via different
 - Hospital representatives fill out an online form about the number of free intensive care beds
 - A specific group uses a software that screens the internet for potential public health threats
 - Blood prodocuts are analysed for infectious disease
+
+## Active vs. passive
+The collection process can be described as active or passive. Where active means that the public health agency actively collect reports, whereas passive means, that public health agency recieve reports and dont directly interfere in the reporting. Many collection methods contain both, e.g. reports are sent in by a lab (passive) but in relevant cases the agency reaches out to get more information about a specific case (active)  
+
+|Characteristic|Active|Passive|
+|---|---|---|
+|Ease|Complicated|Easy|
+|Speed|slow|fast|
+|Scalability|low|high|
+|Operational costs|high|low|
+|External validity|high|low|
+
+## Enhanced and intensived
+If there are several events that are looked at, that are collected via different methods the term: "enhanced" or "intensivied" are used, especially in a mass-gathering surveillance. 
+
+## Integreated and one-health
+If collection methods by  veteniary or food-safety agencies are included the term "integrated" or "one-health" is applied.  
+
 
 
 
