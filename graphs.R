@@ -2,9 +2,12 @@
 
 library(plotly)
 library(dplyr)
+create_plot_stages()
 
 
-steps <- c("1<br>Event",
+create_plot_stages <- function(){
+
+stage <- c("1<br>Event",
            "2<br>Collect",
            "3<br>Classify",
            "4<br>Data",
@@ -12,47 +15,62 @@ steps <- c("1<br>Event",
            "6<br>Communicate",
            "7<br>Act")
 
-hoverinfo <- c("Step 1<br>Event",
-               "Step 2<br>Collection",
-               "Step 3<br>Classification",
-               "Step 4<br>Data management",
-               "Step 5<br>Analysis",
-               "Step 6<br>Communication",
-               "Step 7<br>Action")
+hoverinfo <- c(
+  "Stage 1: Infectious disease \nEvents ",
+  "Stage 2: Collection of \nevents",
+  "Stage 3: Classification \nof collected information",
+  "Stage 4: Data management \nand processing",
+  "Stage 5: Analysis and \nassessment of data",
+  "Stage 6: Communication of\n findings",
+  "Stage 7: Action based on \nsurveillance information"
+)
 
 size <- rep(1, 7)
-colors <- c("#A6CEE3", "#1F78B4", "#B2DF8A", "#33A02C", "#FB9A99", "#E31A1C", "#FDBF6F")
-graphdata <- tibble(steps, hoverinfo, size)
+colors <- c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+graphdata <- tibble(stage, hoverinfo, size)
 
 
 
 # Create plot
-graphdata |>
-  plot_ly(labels = ~steps,
+plot_stages <- graphdata |>
+  plot_ly(labels = ~stage,
           values = ~size,
-          text = ~steps,
-          marker = list(colors = colors),  # Use custom color palette
-          textinfo = 'label',              # Show labels inside pie
-          textfont = list(size = 18),      # Increase label text size
+          text = ~stage,
+          pull = 0.02,
+          marker = list(
+            colors = colors,
+            line = list(color = "#2C3E50", width = 2)  # Add white border around slices
+          ),
           hoverinfo = 'text',
+          textinfo = 'label',              # Show labels inside pie
+          textfont = list(
+            family = 'Arial, sans-serif',
+            size = 20,
+            color = "#2C3E50"  # Darker color for contrast
+          ),
+          insidetextorientation = 'horizontal',  # Ensure the text is easier to read
+          # textposition = 'outside',
           hovertext = hoverinfo,
           hoverlabel = list(font = list(size = 20),  # Increase hover text size
                             namelength = -1,
                             padding = list(l = 30, r = 30, t = 30, b = 30))) |>
-  add_pie(hole = 0.6) |>
+  add_pie(hole = 0.6, direction = "clockwise", rotation = -25) |>
   layout(showlegend = F,
          xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
-         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
-         # Set rotation so "Event" is at the top
-         piecolorway = colors
-  )
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE) )  |>
+  layout(
+    margin = list(l = 50, r = 50, t = 50, b = 50),
+    annotations = list(
+      list(
+        text = "Stages of \nSurveillance",  # Adjust text to describe the pie chart
+        x = 0.5,
+        y = 0.5,
+        font = list(size = 28),
+        showarrow = FALSE
+      ))
+    )
 
-
-
-
-
-
-
+}
 
 
 

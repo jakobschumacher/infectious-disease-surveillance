@@ -1,5 +1,0 @@
----
-title: "Simplicity"
----
-The simplicity of a public health surveillance system refers to both its structure and ease of operation. Surveillance
-systems should be as simple as possible while still meeting their objectives [5].
