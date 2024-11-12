@@ -1,27 +1,26 @@
 ---
 title: Definition of surveillance
-subtitle: What exactly is surveillance?
+subtitle: Surveillance is information for action!
 ---
 
-## Definition
->  Public health surveillance is the systematic ongoing collection, collation and analysis of data for public health purposes and the timely dissemination of public health information for assessment and public health response as necessary.
-^[World Health Assembly 2005 (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)]
+The motto of public health surveillance ist information for action. This is also the shortest definition of surveillance but does not capture all elements. A history of the definitions can be found in the Article [The Past, Present, and Future of Public Health Surveillance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/table/tab5/) by Bernard Choi. The most influential definition is from Alexander Langumir that set out the path for the future definitions. > 
 
-
-> Surveillance is information for action
+## Definition of Public health surveillance by WHO
+>  Public health surveillance is an ongoing, systematic collection, analysis and interpretation of health-related data essential to the planning, implementation, and evaluation of public health practice.
+^[World Health Organisation 2005 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/table/tab5/]
 
 ## Important parts of the definition
 The definition of public health surveillance is very informative. It gives us all important elements of a surveillance system. 
 
 |Element|Explanation|
 |---|---|
-|systematic|surveillance is a planned undertaking that works with clear definitions|
 |ongoing|surveillance is planned for a longer time (usually). This is in contrast to a scientific study or a survey|
+|systematic|surveillance is a planned undertaking that works with clear definitions|
 |collection|Events are collected and stored in datasystems|
 |analysis|Indicators are calculated and the data is parsed according to time, place and person|
-|assessment|Evaluate the indicators and find meaning|
-|timely| Focus on speed because this is needed for measures| 
-|dissemination|Visualisation and reporting of the information|
-|assessment and public health response|The information guides public health responses|
+|interpretation|Assessment of the indicators and sense making|
+|implementation of public health practice|The information guides public health responses|
 : Elements of the public health surveillance definition {.striped .hover tbl-colwidths="[25,75]"}
 
+## Infectious disease surveillance
+The infectious disease surveillance is that part of public health surveillance that is concerned with the surveillance of infectious diseases. 

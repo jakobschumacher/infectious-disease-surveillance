@@ -4,6 +4,18 @@ subtitle: Generel presentations about infectious disease surveillance
 
 # Presentations {.unnumbered}
 
+
+## Einführung 
+|Target|Description|
+|---|---|
+|[Presentation](1_Presentations/presentation_einfuehrung.html)|The link to the presentation|
+|Content|This presentation gives an introduction to surveillance system. How it is defined, how it falls in the domain of general surveillance, what its objectives are |
+|Time|90 Minutes|
+|Language|German|
+|Intended audience|Ärztinnen und Ärzte in Weiterbildung zum Facharzt für öffentliches Gesundheitswesen.| 
+|Learning objectives|(1) Surveillance ist wichtiger denn je (2) "Daten für Taten" (3) Schritte der Surveillance (4) Surveillance muss durchdefiniert werden|
+
+
 ## Introduction to surveillance systems
 |Target|Description|
 |---|---|

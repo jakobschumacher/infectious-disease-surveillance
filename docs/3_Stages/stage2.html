@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Infectious disease surveillance - 6&nbsp; Collection (Stage 2)</title>
+<title>Infectious disease surveillance - 5&nbsp; Infection Event (Stage 2)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,6 +69,24 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="../site_libs/plotly-binding-4.10.4/plotly.js"></script>
+
+<script src="../site_libs/typedarray-0.1/typedarray.min.js"></script>
+
+<script src="../site_libs/jquery-3.5.1/jquery.min.js"></script>
+
+<link href="../site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet">
+
+<script src="../site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
+
+<link href="../site_libs/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css" rel="stylesheet">
+
+<script src="../site_libs/plotly-main-2.11.1/plotly-latest.min.js"></script>
+
 
 
 </head>
@@ -82,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage2.html"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (2)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage2.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (2)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -171,14 +189,8 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../2_Introduction/05_background_objectives.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Objectives</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="../2_Introduction/06_background_legal.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Int. Regulations</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Int. Regulations</span></span></a>
   </div>
 </li>
       </ul>
@@ -195,43 +207,49 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (1)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Objectives (1)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage2.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (2)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (2)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (3)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (3)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (4)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (4)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Analysis (5)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (5)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage6.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (6)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Analysis (6)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage7.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (7)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (7)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../3_Stages/stage8.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (8)</span></span></a>
   </div>
 </li>
       </ul>
@@ -295,6 +313,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
@@ -305,16 +329,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#common-collection-methods" id="toc-common-collection-methods" class="nav-link active" data-scroll-target="#common-collection-methods"><span class="header-section-number">6.1</span> Common Collection Methods</a></li>
+  <li><a href="#naming-and-categorization" id="toc-naming-and-categorization" class="nav-link active" data-scroll-target="#naming-and-categorization"><span class="header-section-number">5.1</span> Naming and Categorization</a></li>
+  <li><a href="#typical-events-in-infectious-disease-surveillance" id="toc-typical-events-in-infectious-disease-surveillance" class="nav-link" data-scroll-target="#typical-events-in-infectious-disease-surveillance"><span class="header-section-number">5.2</span> Typical events in infectious disease surveillance</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/edit/main/3_Stages/stage2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage2.html"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (2)</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage2.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (2)</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (Stage 2)</span></h1>
+<h1 class="title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Infection Event (Stage 2)</span></h1>
+<p class="subtitle lead">Choosing the right event is crucial and depends on the objectives</p>
 </div>
 
 
@@ -331,24 +357,40 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The collection of an infectious disease Event form the foundation of any effective surveillance. The specific methods of collection can vary widely depending on the type of surveillance system. The collection is usually done by an public health agency or a commisioned insitution. The method of data collection often influences the naming of surveillance systems.</p>
-<p>A collection processes can be based on any comminication form like: Phone calls, serial interface, Reports on paper, Fax or E-Mail, direct investigation. In recent years many efforts have been put into establishing a fully seamless electronic system via electronic interfaces.</p>
-<p>The collection process can be described as active or passive. Where active means that the public health agency actively collect reports, whereas passive means, that public health agency recieve reports and dont directly interfere in the reporting. Many collection methods contain both, e.g.&nbsp;reports are sent in by a lab (passive) but in relevant cases the agency reaches out to get more information about a specific case (active)</p>
-<p>If there are several events that are looked at, that are collected via different methods the term: “enhanced” or “intensivied” are used, especially in a mass-gathering surveillance. If collection methods by veteniary or food-safety agencies are included the term “integrated” or “one-health” is applied.</p>
-<section id="common-collection-methods" class="level2" data-number="6.1">
-<h2 data-number="6.1" class="anchored" data-anchor-id="common-collection-methods"><span class="header-section-number">6.1</span> Common Collection Methods</h2>
+<div class="cell">
+<div class="cell-output-display">
+<div class="plotly html-widget html-fill-item" id="htmlwidget-43d40f2016f882f52a0e" style="width:100%;height:487px;"></div>
+<script type="application/json" data-for="htmlwidget-43d40f2016f882f52a0e">{"x":{"visdat":{"43d8671f4c77":["function () ","plotlyVisDat"]},"cur_data":"43d8671f4c77","attrs":{"43d8671f4c77":{"labels":{},"values":{},"text":{},"pull":0.02,"marker":{"colors":["#e3e3e3","#d95f02","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3"]},"hoverinfo":"text","textinfo":"label","textfont":{"family":"Arial, sans-serif","size":20,"color":"#fff"},"insidetextorientation":"horizontal","hovertext":["Stage 1: Objectives ","Stage 2: Infectious disease <br />Events ","Stage 3: Collection of <br />events","Stage 4: Classification <br />of collected information","Stage 5: Data management <br />and processing","Stage 6: Analysis and <br />assessment of data","Stage 7: Communication of<br /> findings","Stage 8: Action based on <br />surveillance information"],"hoverlabel":{"font":{"size":20},"namelength":-1,"padding":{"l":30,"r":30,"t":30,"b":30}},"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie","hole":0.59999999999999998,"direction":"clockwise","rotation":-25,"inherit":true}},"layout":{"margin":{"b":50,"l":50,"t":50,"r":50},"showlegend":false,"xaxis":{"showgrid":false,"zeroline":false,"showticklabels":false},"yaxis":{"showgrid":false,"zeroline":false,"showticklabels":false},"annotations":[{"text":"Stages of <br />Surveillance","x":0.5,"y":0.5,"font":{"size":28},"showarrow":false}],"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["1<br>Objectives","2<br>Event","3<br>Collect","4<br>Classify","5<br>Data","6<br>Analyse","7<br>Communicate","8<br>Act"],"values":[1,1,1,1,1,1,1,1],"text":["1<br>Objectives","2<br>Event","3<br>Collect","4<br>Classify","5<br>Data","6<br>Analyse","7<br>Communicate","8<br>Act"],"pull":[0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02],"marker":{"color":"rgba(31,119,180,1)","colors":["#e3e3e3","#d95f02","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3"],"line":{"color":"rgba(255,255,255,1)"}},"hoverinfo":["text","text","text","text","text","text","text","text"],"textinfo":"label","textfont":{"family":"Arial, sans-serif","size":20,"color":"#fff"},"insidetextorientation":"horizontal","hovertext":["Stage 1: Objectives ","Stage 2: Infectious disease <br />Events ","Stage 3: Collection of <br />events","Stage 4: Classification <br />of collected information","Stage 5: Data management <br />and processing","Stage 6: Analysis and <br />assessment of data","Stage 7: Communication of<br /> findings","Stage 8: Action based on <br />surveillance information"],"hoverlabel":{"font":{"size":20},"namelength":-1,"padding":{"l":30,"r":30,"t":30,"b":30}},"type":"pie","hole":0.59999999999999998,"direction":"clockwise","rotation":-25,"frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<p>Surveillance systems monitor a wide range of infection-related events. Understanding the event is essential for understanding a surveillance system.The choice of events to monitor in a surveillance system is a critical decision that shapes the system’s in many ways. The choice depends on the Objective of the surveillance system.</p>
 <ul>
-<li>Physicians report diagnosed cases to health authorities.</li>
-<li>Laboratories report cases that are analysed for clinical purposes to public health agencies</li>
-<li>Laboratories report cases that are analyses specifically for public health puropses like sequencing data to public health agencies</li>
-<li>Laboratories report other lab results like PCR-tests in wastewater</li>
-<li>A pulic health agency follows-up on an initial reports.</li>
-<li>Health insurance claims and ICD-10 Codes are collected via a software interface</li>
-<li>A public health agency gets access to a database of death records</li>
-<li>Public health workers go around households in a crisis situation and</li>
-<li>Hospital representatives fill out an online form about the number of free intensive care beds</li>
-<li>A specific group uses a software that screens the internet for potential public health threats</li>
-<li>Blood prodocuts are analysed for infectious disease</li>
+<li>If a case-based intervention is intended the event that is monitored should be able to provide contact information of a case</li>
+<li>If only goup-based intervention is inteded only a trend is needed which can be acquired by simpler systems</li>
+<li>When the objective of a surveillance system is to monitor hospital capacity for resource allocation decisions, the events tracked should focus on specific indicators of hospital capacity and utilization like bed occupancy of staff coverage.</li>
+</ul>
+<section id="naming-and-categorization" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="naming-and-categorization"><span class="header-section-number">5.1</span> Naming and Categorization</h2>
+<p>Surveillance systems are often named after the events they monitor. For example:</p>
+<ul>
+<li>Emergency department surveillance (Emergency department visits)</li>
+<li>Syndromic surveillance (based on monitoring syndromes)</li>
+<li>Lab-based surveillance system (Reports by labs)</li>
+<li>Meidasurveillance (Screening of media articles)</li>
+</ul>
+</section>
+<section id="typical-events-in-infectious-disease-surveillance" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="typical-events-in-infectious-disease-surveillance"><span class="header-section-number">5.2</span> Typical events in infectious disease surveillance</h2>
+<ul>
+<li>The occurence of an infectious disease</li>
+<li>The occurence of an infection (infected person who is not necessarily diseased)</li>
+<li>An available ICU bed</li>
+<li>Self reports by people that they fell sick</li>
+<li>The colonization of a person by a pathogen</li>
+<li>A physician’s ICD-10 classification of a patient</li>
+<li>The discovery of a newspaper article about a disease outbreak</li>
+<li>The subjective assessment of a public health department employee that something poses a threat to the population.</li>
+<li>A social media signal detected by a software</li>
 </ul>
 
 
@@ -766,13 +808,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../3_Stages/stage1.html" class="pagination-link" aria-label="Event (1)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (1)</span></span>
+      <a href="../3_Stages/stage1.html" class="pagination-link" aria-label="Objectives (1)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Objectives (1)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../3_Stages/stage3.html" class="pagination-link" aria-label="Classification (3)">
-        <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (3)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../3_Stages/stage3.html" class="pagination-link" aria-label="Collection (3)">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (3)</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

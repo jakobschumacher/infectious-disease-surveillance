@@ -2,94 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/index.html</loc>
-    <lastmod>2024-09-27T12:52:52.203Z</lastmod>
+    <lastmod>2024-10-10T12:18:06.060Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/preface.html</loc>
-    <lastmod>2024-09-24T18:19:45.832Z</lastmod>
+    <lastmod>2024-10-10T11:03:28.757Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/presentations.html</loc>
-    <lastmod>2024-09-27T12:27:39.644Z</lastmod>
+    <lastmod>2024-11-11T10:22:07.553Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/2_Introduction/03_background_definition.html</loc>
-    <lastmod>2024-09-27T07:53:31.313Z</lastmod>
+    <lastmod>2024-10-10T14:37:52.653Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/2_Introduction/04_background_othersurveillance.html</loc>
-    <lastmod>2024-09-25T09:30:31.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/2_Introduction/05_background_objectives.html</loc>
-    <lastmod>2024-09-25T09:31:00.901Z</lastmod>
+    <lastmod>2024-10-10T11:03:23.919Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/2_Introduction/06_background_legal.html</loc>
-    <lastmod>2024-09-25T09:31:21.722Z</lastmod>
+    <lastmod>2024-10-10T11:03:23.934Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/3_Stages/stage1.html</loc>
-    <lastmod>2024-09-27T12:35:44.772Z</lastmod>
+    <lastmod>2024-10-10T12:04:19.058Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/3_Stages/stage2.html</loc>
-    <lastmod>2024-09-27T12:47:43.403Z</lastmod>
+    <lastmod>2024-10-10T12:04:15.262Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/3_Stages/stage3.html</loc>
-    <lastmod>2024-09-27T12:50:15.447Z</lastmod>
+    <lastmod>2024-10-10T12:04:14.686Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/3_Stages/stage4.html</loc>
-    <lastmod>2024-09-27T12:36:25.491Z</lastmod>
+    <lastmod>2024-10-10T12:04:14.181Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/3_Stages/stage5.html</loc>
-    <lastmod>2024-09-27T12:47:09.905Z</lastmod>
+    <lastmod>2024-10-10T12:04:13.581Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/3_Stages/stage6.html</loc>
-    <lastmod>2024-09-27T12:36:22.377Z</lastmod>
+    <lastmod>2024-10-10T12:04:12.961Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/3_Stages/stage7.html</loc>
-    <lastmod>2024-09-27T12:36:35.910Z</lastmod>
+    <lastmod>2024-10-10T12:04:11.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/3_Stages/stage8.html</loc>
+    <lastmod>2024-10-10T12:04:10.075Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/4_Types/02_type_case.html</loc>
-    <lastmod>2024-09-27T12:20:38.397Z</lastmod>
+    <lastmod>2024-10-10T14:50:51.692Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/4_Types/04_type_event.html</loc>
-    <lastmod>2024-09-27T12:27:39.300Z</lastmod>
+    <lastmod>2024-10-10T11:03:25.641Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/4_Types/05_type_wastewater.html</loc>
-    <lastmod>2024-09-30T15:34:14.307Z</lastmod>
+    <lastmod>2024-10-10T13:32:43.893Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/4_Types/06_type_mortality.html</loc>
-    <lastmod>2024-09-22T08:29:46.377Z</lastmod>
+    <lastmod>2024-10-10T11:03:25.672Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/4_Types/07_type_massgathering.html</loc>
-    <lastmod>2024-09-24T06:06:25.545Z</lastmod>
+    <lastmod>2024-10-10T11:03:25.680Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/4_Types/08_type_activevspassive.html</loc>
-    <lastmod>2024-09-22T08:29:43.582Z</lastmod>
+    <lastmod>2024-10-10T11:03:25.688Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/4_Types/09_type_sentinel.html</loc>
-    <lastmod>2024-09-22T08:29:44.470Z</lastmod>
+    <lastmod>2024-10-10T11:03:25.697Z</lastmod>
   </url>
   <url>
-    <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/Infectious-disease-surveillance.pdf</loc>
-    <lastmod>2024-09-30T15:35:33.805Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/Infectious-disease-surveillance.epub</loc>
-    <lastmod>2024-09-30T15:35:36.179Z</lastmod>
+    <loc>https://jakobschumacher.github.io/infectious-disease-surveillance/about.html</loc>
+    <lastmod>2024-10-10T14:37:55.452Z</lastmod>
   </url>
 </urlset>

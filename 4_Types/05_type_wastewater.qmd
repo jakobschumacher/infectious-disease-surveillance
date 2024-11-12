@@ -3,3 +3,4 @@ title: "Wastewater"
 ---
 
 Wastewatersurveillance is a system that measures indicators of diseases in wastewater. Pathogens can be excreted via stool, urine or washed into the drain during shower. These pathogens can be detected at a wastewatertrement plant. 
+

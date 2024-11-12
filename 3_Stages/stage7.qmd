@@ -1,5 +1,22 @@
 ---
-title: "Public Health Measures (Stage 7)"
+title: "Communication (Stage 7)"
+subtitle: Communication in a complex world is difficult
 ---
 
-Measures are the goal towards which surveillance is directed. Public health measures are all deliberate efforts by commissioned actors aimed at preventing the further spread and generally minimizing the harm caused by infectious diseases. Measures are often legally defined, for example, in the Infection Protection Act. Measures can be divided into case-based measures and population-based measures. Case-based measures include, for example, informing an affected person about transmission routes or measures such as quarantine. Population-based measures are those that affect many people, for example, the population of a federal state.
+
+```{r}
+source("../graphs.R")
+create_surveillance_plot(highlight = "Stage 7")
+```
+
+
+Communication is the dissemination of the obtained information in words, writing, and images. Communication consists of traditional elements such as press releases and press conferences or the preparation of reports. Communication now also includes social media and fact-checking. The presentation of data and information in dashboards also counts as communication.
+
+## Graphical
+the graphical representation of information is often done in terms of time, place, and person 
+
+
+
+
+The communication of epidemiological information was a major focus towards the end of the pandemic and is an area with strong development potential. Almost worldwide, a significant portion of the population rejected the measures to combat the COVID-19 pandemic, thereby influencing the course of the pandemic.
+

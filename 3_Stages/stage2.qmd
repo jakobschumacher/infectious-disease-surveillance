@@ -1,43 +1,37 @@
 ---
-title: "Collection (Stage 2)"
+title: "Infection Event (Stage 2)"
+subtitle: Choosing the right event is crucial and depends on the objectives
 ---
 
-The collection of an infectious disease Event form the foundation of any effective surveillance. The specific methods of collection can vary widely depending on the type of surveillance system. The collection is usually done by an public health agency or a commisioned insitution. The method of data collection often influences the naming of surveillance systems.
-
-A collection processes can be based on any comminication form like: Phone calls, serial interface, Reports on paper, Fax or E-Mail, direct investigation. In recent years many efforts have been put into establishing a fully seamless electronic system via electronic interfaces. 
-
-## Typical collection methods
-- Physicians report diagnosed cases to health authorities.
-- Laboratories report cases that are analysed for clinical purposes to public health agencies
-- Laboratories report cases that are analyses specifically for public health puropses like sequencing data to public health agencies
-- Laboratories report other lab results like PCR-tests in wastewater
-- A pulic health agency follows-up on an initial reports.
-- Health insurance claims and ICD-10 Codes are collected via a software interface
-- A public health agency gets access to a database of death records
-- Public health workers go around households in a crisis situation and 
-- Hospital representatives fill out an online form about the number of free intensive care beds
-- A specific group uses a software that screens the internet for potential public health threats
-- Blood prodocuts are analysed for infectious disease
-
-## Active vs. passive
-The collection process can be described as active or passive. Where active means that the public health agency actively collect reports, whereas passive means, that public health agency recieve reports and dont directly interfere in the reporting. Many collection methods contain both, e.g. reports are sent in by a lab (passive) but in relevant cases the agency reaches out to get more information about a specific case (active)  
-
-|Characteristic|Active|Passive|
-|---|---|---|
-|Ease|Complicated|Easy|
-|Speed|slow|fast|
-|Scalability|low|high|
-|Operational costs|high|low|
-|External validity|high|low|
-
-## Enhanced and intensived
-If there are several events that are looked at, that are collected via different methods the term: "enhanced" or "intensivied" are used, especially in a mass-gathering surveillance. 
-
-## Integreated and one-health
-If collection methods by  veteniary or food-safety agencies are included the term "integrated" or "one-health" is applied.  
+```{r}
+source("../graphs.R")
+create_surveillance_plot(highlight = "Stage 2")
+```
 
 
+Surveillance systems monitor a wide range of infection-related events. Understanding the event is essential for understanding a surveillance system.The choice of events to monitor in a surveillance system is a critical decision that shapes the system's in many ways. The choice depends on the Objective of the surveillance system. 
 
+- If a case-based intervention is intended the event that is monitored should be able to provide contact information of a case
+- If only goup-based intervention is inteded only a trend is needed which can be acquired by simpler systems
+- When the objective of a surveillance system is to monitor hospital capacity for resource allocation decisions, the events tracked should focus on specific indicators of hospital capacity and utilization like bed occupancy of staff coverage.
 
+## Naming and Categorization
+Surveillance systems are often named after the events they monitor. For example:
+
+- Emergency department surveillance (Emergency department visits)
+- Syndromic surveillance (based on monitoring syndromes)
+- Lab-based surveillance system (Reports by labs)
+- Meidasurveillance (Screening of media articles)
+
+## Typical events in infectious disease surveillance  
+- The occurence of an infectious disease
+- The occurence of an infection (infected person who is not necessarily diseased)
+- An available ICU bed
+- Self reports by people that they fell sick
+- The colonization of a person by a pathogen
+- A physician's ICD-10 classification of a patient
+- The discovery of a newspaper article about a disease outbreak
+- The subjective assessment of a public health department employee that something poses a threat to the population.
+- A social media signal detected by a software  
 
 

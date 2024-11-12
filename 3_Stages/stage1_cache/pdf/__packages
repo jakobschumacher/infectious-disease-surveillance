@@ -1,0 +1,14 @@
+base
+methods
+usethis
+devtools
+datasets
+utils
+grDevices
+graphics
+stats
+ggplot2
+plotly
+dplyr
+tibble
+DiagrammeR

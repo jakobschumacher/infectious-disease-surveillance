@@ -1,133 +1,90 @@
 
+pacman::p_load(plotly, dplyr)
 
 library(plotly)
-library(dplyr)
-create_plot_stages()
+library(tibble)
 
+create_surveillance_plot <- function(highlight = "Stage 1") {
 
-create_plot_stages <- function(){
+  stage <- c("1<br>Objectives",
+             "2<br>Event",
+             "3<br>Collect",
+             "4<br>Classify",
+             "5<br>Data",
+             "6<br>Analyse",
+             "7<br>Communicate",
+             "8<br>Act")
 
-stage <- c("1<br>Event",
-           "2<br>Collect",
-           "3<br>Classify",
-           "4<br>Data",
-           "5<br>Analyse",
-           "6<br>Communicate",
-           "7<br>Act")
+  hoverinfo <- c(
+    "Stage 1: Objectives ",
+    "Stage 2: Infectious disease \nEvents ",
+    "Stage 3: Collection of \nevents",
+    "Stage 4: Classification \nof collected information",
+    "Stage 5: Data management \nand processing",
+    "Stage 6: Analysis and \nassessment of data",
+    "Stage 7: Communication of\n findings",
+    "Stage 8: Action based on \nsurveillance information"
+  )
 
-hoverinfo <- c(
-  "Stage 1: Infectious disease \nEvents ",
-  "Stage 2: Collection of \nevents",
-  "Stage 3: Classification \nof collected information",
-  "Stage 4: Data management \nand processing",
-  "Stage 5: Analysis and \nassessment of data",
-  "Stage 6: Communication of\n findings",
-  "Stage 7: Action based on \nsurveillance information"
-)
+  # Size and base colors for the stages
+  size <- rep(1, 8)
+  base_colors <- c('#1b9e77','#d95f02','#7570b3','#e7298a','#66a61e','#e6ab02','#a6761d','#666666')
+  grey_color <- "#e3e3e3"  # Color to grey out other stages
 
-size <- rep(1, 7)
-colors <- c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
-graphdata <- tibble(stage, hoverinfo, size)
+  # Matching the highlight argument to stage index
+  stage_map <- c("Stage 1", "Stage 2", "Stage 3", "Stage 4", "Stage 5", "Stage 6", "Stage 7", "Stage 8")
 
+  colors <- if (highlight == "none") {
+    base_colors
+  } else {
+    ifelse(stage_map == highlight, base_colors, grey_color)
+  }
 
+  # Create plot
+  graphdata <- tibble(stage, hoverinfo, size)
 
-# Create plot
-plot_stages <- graphdata |>
-  plot_ly(labels = ~stage,
-          values = ~size,
-          text = ~stage,
-          pull = 0.02,
-          marker = list(
-            colors = colors,
-            line = list(color = "#2C3E50", width = 2)  # Add white border around slices
-          ),
-          hoverinfo = 'text',
-          textinfo = 'label',              # Show labels inside pie
-          textfont = list(
-            family = 'Arial, sans-serif',
-            size = 20,
-            color = "#2C3E50"  # Darker color for contrast
-          ),
-          insidetextorientation = 'horizontal',  # Ensure the text is easier to read
-          # textposition = 'outside',
-          hovertext = hoverinfo,
-          hoverlabel = list(font = list(size = 20),  # Increase hover text size
-                            namelength = -1,
-                            padding = list(l = 30, r = 30, t = 30, b = 30))) |>
-  add_pie(hole = 0.6, direction = "clockwise", rotation = -25) |>
-  layout(showlegend = F,
-         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
-         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE) )  |>
-  layout(
-    margin = list(l = 50, r = 50, t = 50, b = 50),
-    annotations = list(
-      list(
-        text = "Stages of \nSurveillance",  # Adjust text to describe the pie chart
-        x = 0.5,
-        y = 0.5,
-        font = list(size = 28),
-        showarrow = FALSE
-      ))
+  plot_stages <- graphdata |>
+    plot_ly(labels = ~stage,
+            values = ~size,
+            text = ~stage,
+            pull = 0.02,
+            marker = list(
+              colors = colors
+              # line = list(color = "#c0c0c0", width = 2)  # White border around slices
+            ),
+            hoverinfo = 'text',
+            textinfo = 'label',              # Show labels inside pie
+            textfont = list(
+              family = 'Arial, sans-serif',
+              size = 20,
+              color = "#fff"  # Darker color for contrast
+            ),
+            insidetextorientation = 'horizontal',  # Ensure the text is easier to read
+            hovertext = hoverinfo,
+            hoverlabel = list(font = list(size = 20),  # Increase hover text size
+                              namelength = -1,
+                              padding = list(l = 30, r = 30, t = 30, b = 30))) |>
+    add_pie(hole = 0.6, direction = "clockwise", rotation = -25) |>
+    layout(showlegend = F,
+           xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+           yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))  |>
+    layout(
+      margin = list(l = 50, r = 50, t = 50, b = 50),
+      annotations = list(
+        list(
+          text = "Stages of \nSurveillance",  # Adjust text to describe the pie chart
+          x = 0.5,
+          y = 0.5,
+          font = list(size = 28),
+          showarrow = FALSE
+        ))
     )
 
+  return(plot_stages)
 }
 
-
-
-#
-#
-#
-# # Load package
-# # devtools::install_github("mattflor/chorddiag")
-# library(chorddiag)
-#
-# # Create dummy data
-# m <- matrix(
-#   c(
-#     0, 0, 0, 0, 100,
-#     0, 0, 0, 0, 100,
-#     0, 0, 0, 0, 100,
-#     0, 0, 0, 0, 100,
-#     0, 0, 0, 0, 100
-#   ),
-#   byrow = TRUE,
-#   nrow = 5, ncol = 5
-# )
-#
-# # A vector of 4 colors for 4 groups
-# haircolors <- c("black", "blonde", "brown", "red", "green")
-# dimnames(m) <- list(
-#   have = haircolors,
-#   prefer = haircolors
-# )
-# groupColors <- c("#000000", "#FFDD89", "#957244", "#F26223", "#215344")
-#
-# # Build the chord diagram:
-# p <- chorddiag(m, groupColors = groupColors, groupnamePadding = 20)
-# p
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# save the widget
-# library(htmlwidgets)
-# saveWidget(p, file=paste0( getwd(), "/HtmlWidget/chord_interactive.html"))
-
-
-
-
+# Test the function with a highlight
+create_surveillance_plot(highlight = "none")
 
 
 
@@ -143,42 +100,43 @@ plot_stages <- graphdata |>
 #
 #
 #
-# library(DiagrammeR)
-#
-# a_graph <-  create_graph() %>%
-#   add_node(label = "Infektionsereignis (1)") %>%
-#   add_node(labe = "Erfassung (2)") %>%
-#   add_node(label = "Klassifikation (3)") %>%
-#   add_node(label = "Datenverarbeitung (4)") %>%
-#   add_node(label = "Bewertung (5)") %>%
-#   add_node(label = "Kommunikation (6)") %>%
-#   add_node(label = "Entscheidung (7)", type = "rect") %>%
-#   add_edge(from = 1, to = 2) |>
-#   add_edge(from = 2, to = 3) |>
-#   add_edge(from = 3, to = 4) |>
-#   add_edge(from = 4, to = 5) |>
-#   add_edge(from = 5, to = 6) |>
-#   add_edge(from = 6, to = 7) |>
-#   add_edge(from = 7, to = 1) |>
-#   set_node_attrs(node_attr = "shape", value = "rectangle") |>
-#   set_node_attrs(node_attr = "style", value = "rounded,filled") %>%
-#   set_node_attrs(node_attr = "color", value = "lightblue") |>
-#   set_node_attrs(node_attr = "width", value = 1.4)
-#
-# render_graph(a_graph, layout = "circle")
-#
-# a_graph <-  create_graph() %>%
-#   add_node(labe = "Events") %>%
-#   add_node(label = "Classification") %>%
-#   add_node(label = "Assessment") %>%
-#   add_node(label = "Decision") %>%
-#   add_edge(from = 1, to = 2) |>
-#   add_edge(from = 2, to = 3) |>
-#   add_edge(from = 3, to = 4) |>
-#   add_edge(from = 4, to = 1)
-#
-#
-# render_graph(a_graph, layout = "nicely")
+library(DiagrammeR)
+library(dplyr)
+
+a_graph <-  create_graph() %>%
+  add_node(label = "Infektionsereignis (1)") %>%
+  add_node(labe = "Erfassung (2)") %>%
+  add_node(label = "Klassifikation (3)") %>%
+  add_node(label = "Datenverarbeitung (4)") %>%
+  add_node(label = "Bewertung (5)") %>%
+  add_node(label = "Kommunikation (6)") %>%
+  add_node(label = "Entscheidung (7)", type = "rect") %>%
+  add_edge(from = 1, to = 2) |>
+  add_edge(from = 2, to = 3) |>
+  add_edge(from = 3, to = 4) |>
+  add_edge(from = 4, to = 5) |>
+  add_edge(from = 5, to = 6) |>
+  add_edge(from = 6, to = 7) |>
+  add_edge(from = 7, to = 1) |>
+  set_node_attrs(node_attr = "shape", value = "rectangle") |>
+  set_node_attrs(node_attr = "style", value = "rounded,filled") %>%
+  set_node_attrs(node_attr = "color", value = "lightblue") |>
+  set_node_attrs(node_attr = "width", value = 1.4)
+
+render_graph(a_graph, layout = "circle")
+
+a_graph <-  create_graph() %>%
+  add_node(labe = "Events") %>%
+  add_node(label = "Classification") %>%
+  add_node(label = "Assessment") %>%
+  add_node(label = "Decision") %>%
+  add_edge(from = 1, to = 2) |>
+  add_edge(from = 2, to = 3) |>
+  add_edge(from = 3, to = 4) |>
+  add_edge(from = 4, to = 1)
+
+
+render_graph(a_graph, layout = "nicely")
 #
 #
 # Surveillance systems

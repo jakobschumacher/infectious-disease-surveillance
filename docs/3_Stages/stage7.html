@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Infectious disease surveillance - 11&nbsp; Public Health Measures (Stage 7)</title>
+<title>Infectious disease surveillance - 10&nbsp; Communication (Stage 7)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../4_Types/02_type_case.html" rel="next">
+<link href="../3_Stages/stage8.html" rel="next">
 <link href="../3_Stages/stage6.html" rel="prev">
 <link href="../img/logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
@@ -69,6 +69,24 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="../site_libs/plotly-binding-4.10.4/plotly.js"></script>
+
+<script src="../site_libs/typedarray-0.1/typedarray.min.js"></script>
+
+<script src="../site_libs/jquery-3.5.1/jquery.min.js"></script>
+
+<link href="../site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet">
+
+<script src="../site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
+
+<link href="../site_libs/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css" rel="stylesheet">
+
+<script src="../site_libs/plotly-main-2.11.1/plotly-latest.min.js"></script>
+
 
 
 </head>
@@ -82,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage7.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (7)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage7.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (7)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -171,14 +189,8 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../2_Introduction/05_background_objectives.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Objectives</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="../2_Introduction/06_background_legal.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Int. Regulations</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Int. Regulations</span></span></a>
   </div>
 </li>
       </ul>
@@ -195,43 +207,49 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (1)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Objectives (1)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (2)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (2)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (3)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (3)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (4)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (4)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Analysis (5)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (5)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage6.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (6)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Analysis (6)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage7.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (7)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (7)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../3_Stages/stage8.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (8)</span></span></a>
   </div>
 </li>
       </ul>
@@ -295,20 +313,33 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#graphical" id="toc-graphical" class="nav-link active" data-scroll-target="#graphical"><span class="header-section-number">10.1</span> Graphical</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/edit/main/3_Stages/stage7.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage7.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (7)</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage7.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (7)</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Public Health Measures (Stage 7)</span></h1>
+<h1 class="title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (Stage 7)</span></h1>
+<p class="subtitle lead">Communication in a complex world is difficult</p>
 </div>
 
 
@@ -325,9 +356,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Measures are the goal towards which surveillance is directed. Public health measures are all deliberate efforts by commissioned actors aimed at preventing the further spread and generally minimizing the harm caused by infectious diseases. Measures are often legally defined, for example, in the Infection Protection Act. Measures can be divided into case-based measures and population-based measures. Case-based measures include, for example, informing an affected person about transmission routes or measures such as quarantine. Population-based measures are those that affect many people, for example, the population of a federal state.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="plotly html-widget html-fill-item" id="htmlwidget-994f24084043fc659c3b" style="width:100%;height:487px;"></div>
+<script type="application/json" data-for="htmlwidget-994f24084043fc659c3b">{"x":{"visdat":{"1f7479eb4e4d":["function () ","plotlyVisDat"]},"cur_data":"1f7479eb4e4d","attrs":{"1f7479eb4e4d":{"labels":{},"values":{},"text":{},"pull":0.02,"marker":{"colors":["#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#a6761d","#e3e3e3"]},"hoverinfo":"text","textinfo":"label","textfont":{"family":"Arial, sans-serif","size":20,"color":"#fff"},"insidetextorientation":"horizontal","hovertext":["Stage 1: Objectives ","Stage 2: Infectious disease <br />Events ","Stage 3: Collection of <br />events","Stage 4: Classification <br />of collected information","Stage 5: Data management <br />and processing","Stage 6: Analysis and <br />assessment of data","Stage 7: Communication of<br /> findings","Stage 8: Action based on <br />surveillance information"],"hoverlabel":{"font":{"size":20},"namelength":-1,"padding":{"l":30,"r":30,"t":30,"b":30}},"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie","hole":0.59999999999999998,"direction":"clockwise","rotation":-25,"inherit":true}},"layout":{"margin":{"b":50,"l":50,"t":50,"r":50},"showlegend":false,"xaxis":{"showgrid":false,"zeroline":false,"showticklabels":false},"yaxis":{"showgrid":false,"zeroline":false,"showticklabels":false},"annotations":[{"text":"Stages of <br />Surveillance","x":0.5,"y":0.5,"font":{"size":28},"showarrow":false}],"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["1<br>Objectives","2<br>Event","3<br>Collect","4<br>Classify","5<br>Data","6<br>Analyse","7<br>Communicate","8<br>Act"],"values":[1,1,1,1,1,1,1,1],"text":["1<br>Objectives","2<br>Event","3<br>Collect","4<br>Classify","5<br>Data","6<br>Analyse","7<br>Communicate","8<br>Act"],"pull":[0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02],"marker":{"color":"rgba(31,119,180,1)","colors":["#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3","#a6761d","#e3e3e3"],"line":{"color":"rgba(255,255,255,1)"}},"hoverinfo":["text","text","text","text","text","text","text","text"],"textinfo":"label","textfont":{"family":"Arial, sans-serif","size":20,"color":"#fff"},"insidetextorientation":"horizontal","hovertext":["Stage 1: Objectives ","Stage 2: Infectious disease <br />Events ","Stage 3: Collection of <br />events","Stage 4: Classification <br />of collected information","Stage 5: Data management <br />and processing","Stage 6: Analysis and <br />assessment of data","Stage 7: Communication of<br /> findings","Stage 8: Action based on <br />surveillance information"],"hoverlabel":{"font":{"size":20},"namelength":-1,"padding":{"l":30,"r":30,"t":30,"b":30}},"type":"pie","hole":0.59999999999999998,"direction":"clockwise","rotation":-25,"frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<p>Communication is the dissemination of the obtained information in words, writing, and images. Communication consists of traditional elements such as press releases and press conferences or the preparation of reports. Communication now also includes social media and fact-checking. The presentation of data and information in dashboards also counts as communication.</p>
+<section id="graphical" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="graphical"><span class="header-section-number">10.1</span> Graphical</h2>
+<p>the graphical representation of information is often done in terms of time, place, and person</p>
+<p>The communication of epidemiological information was a major focus towards the end of the pandemic and is an area with strong development potential. Almost worldwide, a significant portion of the population rejected the measures to combat the COVID-19 pandemic, thereby influencing the course of the pandemic.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -741,13 +783,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../3_Stages/stage6.html" class="pagination-link" aria-label="Communication (6)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (6)</span></span>
+      <a href="../3_Stages/stage6.html" class="pagination-link" aria-label="Analysis (6)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Analysis (6)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../4_Types/02_type_case.html" class="pagination-link" aria-label="Case based surveillance">
-        <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Case based surveillance</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../3_Stages/stage8.html" class="pagination-link" aria-label="Action (8)">
+        <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (8)</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -759,7 +801,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/edit/main/3_Stages/stage7.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/edit/main/3_Stages/stage7.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>Version: 1.1 - September 2024</p>
 </div>

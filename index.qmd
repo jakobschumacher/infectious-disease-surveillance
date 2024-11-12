@@ -1,13 +1,11 @@
-# About the book {.unnumbered}
-This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what the stages of a surveillance systems are and how to asses the quality of surveillance systems. The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. It would be good to have some prior knowledge, but you dont need to. 
-
-
 :::{.callout-warning}
 This book is work in progress and currently not in an acceptable state. Please return to this book to check for updates.
 
 [jakobschumacher.github.com/infectious-disaese-surveillance](https://jakobschumacher.github.com/infectious-disaese-surveillance)
 ::: 
 
+# About the book {.unnumbered}
+This book is about infectious disease surveillance. It explains what surveillance ist, how it is related with other similiar concepts, what the stages of a surveillance systems are and how to asses the quality of surveillance systems. The book is written for infectious disease experts in Europe, but can be used by anybody interested in the topic. 
 
 ## Learning objectives{.unnumbered}
 - Surveillance is information for action
@@ -17,18 +15,17 @@ This book is work in progress and currently not in an acceptable state. Please r
 - Find resources about the evaluation
 
 ## Who writes this book{.unnumbered}
-The contents of the book come form the "EPIET-World" - the european fellowship programm for applied epidemiology. Most content of the book is writtten by Jakob Schumacher, but its based upon the work of many collegues who taught the subject beforehand.
+The contents of the book come mainly form the "EPIET-World" - the european fellowship programm for applied epidemiology. Most content of the book is writtten by Jakob Schumacher, but its based upon the work of many collegues who taught the subject beforehand. The book does not represent the opinion of the insitutions that the author is affiliated. It does also not represent the opinion of the ECDC.  Training section. 
+
+Read more about the background in the ![About section](about.qmd)
 
 You would like to help this book - great! Here is how to do that:
 
 1. You can go to Github issues of this repository and say what can be improved 
 2. You can clone, than write something yourself and then make a pull request.
 
-This book wouldnt have been possible without:
-- The EPIET/EUPHEM/FETP community and the EAN Network
-- The communities and companies that produce Git, Github, Posit, Rstudio, R, Markdown
-- The Wikipedia-Community - the best source for creative commons pictures
-- The Bing AI Image creator
+
+
 
 ## Helpful ressources{.unnumbered}
 - [ECDC Handbook: Data quality monitoring and surveillance system evaluation](https://www.ecdc.europa.eu/en/publications-data/data-quality-monitoring-and-surveillance-system-evaluation-handbook-methods-and)

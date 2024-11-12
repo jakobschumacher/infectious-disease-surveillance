@@ -22,7 +22,8 @@ book:
     - epub
   chapters:
   - index.qmd
-  - preface.qmd
+  - text: Preface
+    href: preface.qmd
   - presentations.qmd
   - part: Introduction
     chapters:
@@ -30,26 +31,26 @@ book:
         href: 2_Introduction/03_background_definition.qmd
       - text: Domain
         href: 2_Introduction/04_background_othersurveillance.qmd
-      - text: Objectives
-        href: 2_Introduction/05_background_objectives.qmd
       - text: Int. Regulations
         href: 2_Introduction/06_background_legal.qmd
   - part: Stages
     chapters:
-      - text: Event (1)
+      - text: Objectives (1)
         href: 3_Stages/stage1.qmd
-      - text: Collection (2)
+      - text: Event (2)
         href: 3_Stages/stage2.qmd
-      - text: Classification (3)
+      - text: Collection (3)
         href: 3_Stages/stage3.qmd
-      - text: Data processing (4)
+      - text: Classification (4)
         href: 3_Stages/stage4.qmd
-      - text: Analysis (5)
+      - text: Data processing (5)
         href: 3_Stages/stage5.qmd
-      - text: Communication (6)
+      - text: Analysis (6)
         href: 3_Stages/stage6.qmd
-      - text: Action (7)
+      - text: Communication (7)
         href: 3_Stages/stage7.qmd
+      - text: Action (8)
+        href: 3_Stages/stage8.qmd
   - part: Types
     chapters:
       - 4_Types/02_type_case.qmd
@@ -71,13 +72,21 @@ book:
   #     - 5_Attributes/07_attributes_flexibility.qmd
   #     - 5_Attributes/08_attributes_acceptability.qmd
   #     - 5_Attributes/09_attributes_otherattributes.qmd
+  - about.qmd
 
 format:
   html:
     callout-appearance: simple
     lightbox: true
     modified-date: last-modified
+    fig-width: 8
+    fig-height: 6
+    echo: false
   pdf:
     documentclass: scrreprt
   epub:
     cover-image: img/logo.png
+
+execute:
+  freeze: auto
+  cache: true

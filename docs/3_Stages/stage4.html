@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Infectious disease surveillance - 8&nbsp; Data Processing (Stage 4)</title>
+<title>Infectious disease surveillance - 7&nbsp; Classification (Stage 4)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -69,6 +72,24 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="../site_libs/plotly-binding-4.10.4/plotly.js"></script>
+
+<script src="../site_libs/typedarray-0.1/typedarray.min.js"></script>
+
+<script src="../site_libs/jquery-3.5.1/jquery.min.js"></script>
+
+<link href="../site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet">
+
+<script src="../site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
+
+<link href="../site_libs/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css" rel="stylesheet">
+
+<script src="../site_libs/plotly-main-2.11.1/plotly-latest.min.js"></script>
+
 
 
 </head>
@@ -82,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage4.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (4)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage4.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (4)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -171,14 +192,8 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../2_Introduction/05_background_objectives.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Objectives</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="../2_Introduction/06_background_legal.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Int. Regulations</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Int. Regulations</span></span></a>
   </div>
 </li>
       </ul>
@@ -195,43 +210,49 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (1)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Objectives (1)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (2)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event (2)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (3)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (3)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage4.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (4)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (4)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Analysis (5)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (5)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage6.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (6)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Analysis (6)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../3_Stages/stage7.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (7)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Communication (7)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../3_Stages/stage8.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Action (8)</span></span></a>
   </div>
 </li>
       </ul>
@@ -295,6 +316,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../about.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
@@ -305,26 +332,28 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#typical-ways-of-data-processing" id="toc-typical-ways-of-data-processing" class="nav-link active" data-scroll-target="#typical-ways-of-data-processing"><span class="header-section-number">8.1</span> Typical ways of data processing</a></li>
-  <li><a href="#comparing-characteristics-of-manual-vs-electronic-data-processing" id="toc-comparing-characteristics-of-manual-vs-electronic-data-processing" class="nav-link" data-scroll-target="#comparing-characteristics-of-manual-vs-electronic-data-processing"><span class="header-section-number">8.2</span> Comparing characteristics of manual vs electronic data processing</a></li>
-  <li><a href="#problems-of-data-processing" id="toc-problems-of-data-processing" class="nav-link" data-scroll-target="#problems-of-data-processing"><span class="header-section-number">8.3</span> Problems of data processing</a>
+  <li><a href="#typical-classification-definitions" id="toc-typical-classification-definitions" class="nav-link active" data-scroll-target="#typical-classification-definitions"><span class="header-section-number">7.1</span> Typical classification definitions</a>
   <ul class="collapse">
-  <li><a href="#dependence-on-the-user-interface-of-software" id="toc-dependence-on-the-user-interface-of-software" class="nav-link" data-scroll-target="#dependence-on-the-user-interface-of-software"><span class="header-section-number">8.3.1</span> Dependence on the user interface of software</a></li>
-  <li><a href="#dependence-on-classification-systems-in-manual-systems" id="toc-dependence-on-classification-systems-in-manual-systems" class="nav-link" data-scroll-target="#dependence-on-classification-systems-in-manual-systems"><span class="header-section-number">8.3.2</span> Dependence on classification systems in manual systems</a></li>
-  <li><a href="#dependence-on-classification-systems-in-automatic-systems" id="toc-dependence-on-classification-systems-in-automatic-systems" class="nav-link" data-scroll-target="#dependence-on-classification-systems-in-automatic-systems"><span class="header-section-number">8.3.3</span> Dependence on classification systems in automatic systems</a></li>
-  <li><a href="#single-point-of-truth" id="toc-single-point-of-truth" class="nav-link" data-scroll-target="#single-point-of-truth"><span class="header-section-number">8.3.4</span> Single point of truth</a></li>
-  <li><a href="#errors-in-data-handling-by-the-software" id="toc-errors-in-data-handling-by-the-software" class="nav-link" data-scroll-target="#errors-in-data-handling-by-the-software"><span class="header-section-number">8.3.5</span> Errors in data handling by the software</a></li>
+  <li><a href="#example-of-the-different-usages-of-definitions" id="toc-example-of-the-different-usages-of-definitions" class="nav-link" data-scroll-target="#example-of-the-different-usages-of-definitions"><span class="header-section-number">7.1.1</span> Example of the different usages of definitions</a></li>
   </ul></li>
-  <li><a href="#open-data-and-public-engagement" id="toc-open-data-and-public-engagement" class="nav-link" data-scroll-target="#open-data-and-public-engagement"><span class="header-section-number">8.4</span> Open Data and Public Engagement</a></li>
+  <li><a href="#components-of-definitions" id="toc-components-of-definitions" class="nav-link" data-scroll-target="#components-of-definitions"><span class="header-section-number">7.2</span> Components of definitions</a>
+  <ul class="collapse">
+  <li><a href="#example-for-a-clinical-part-of-a-case-defintion" id="toc-example-for-a-clinical-part-of-a-case-defintion" class="nav-link" data-scroll-target="#example-for-a-clinical-part-of-a-case-defintion"><span class="header-section-number">7.2.1</span> Example for a clinical part of a case defintion</a></li>
+  <li><a href="#example-for-a-laboratory-part-of-a-case-defintion" id="toc-example-for-a-laboratory-part-of-a-case-defintion" class="nav-link" data-scroll-target="#example-for-a-laboratory-part-of-a-case-defintion"><span class="header-section-number">7.2.2</span> Example for a laboratory part of a case defintion</a></li>
+  <li><a href="#example-for-an-epidemiological-part-of-a-case-defintion" id="toc-example-for-an-epidemiological-part-of-a-case-defintion" class="nav-link" data-scroll-target="#example-for-an-epidemiological-part-of-a-case-defintion"><span class="header-section-number">7.2.3</span> Example for an epidemiological part of a case defintion</a></li>
+  </ul></li>
+  <li><a href="#specificity-and-sensitvity" id="toc-specificity-and-sensitvity" class="nav-link" data-scroll-target="#specificity-and-sensitvity"><span class="header-section-number">7.3</span> Specificity and sensitvity</a></li>
+  <li><a href="#creating-you-own-definitions" id="toc-creating-you-own-definitions" class="nav-link" data-scroll-target="#creating-you-own-definitions"><span class="header-section-number">7.4</span> Creating you own definitions</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/edit/main/3_Stages/stage4.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jakobschumacher/infectious-disease-surveillance/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage4.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (4)</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../3_Stages/stage1.html">Stages</a></li><li class="breadcrumb-item"><a href="../3_Stages/stage4.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (4)</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data Processing (Stage 4)</span></h1>
+<h1 class="title"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (Stage 4)</span></h1>
+<p class="subtitle lead">Clear definitions are crucial and avoids creating rubbish</p>
 </div>
 
 
@@ -341,107 +370,201 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Data processing is seldom mentioned in classical surveillance literature, but it is a stage that significantly improves surveillance systems. Many people at all levels are involved in data processing within surveillance systems. In the past, data was transmitted monthly by mail in surveillance systems, whereas today, data flow mostly occurs through interfaces between software programs and databases. The way data is transmitted affects data quality and, consequently, the evaluation of the data. Data processing also includes the application of scripts that prepare the data for subsequent evaluation. An example is automated outbreak detection. Here, data is analyzed using an algorithm or machine learning to determine whether there is a high probability of an outbreak. The resulting dataset can be made available as open data, a publication format that has increased significantly in recent times.</p>
-<section id="typical-ways-of-data-processing" class="level2" data-number="8.1">
-<h2 data-number="8.1" class="anchored" data-anchor-id="typical-ways-of-data-processing"><span class="header-section-number">8.1</span> Typical ways of data processing</h2>
-<ul>
-<li>Questionnaires on paper</li>
-<li>Software interface between laboratory information system and public health notification software</li>
-<li>Accessing a database via an API</li>
-<li>Querying persons with a survey app</li>
-<li>Keeping information in a large excel sheet</li>
-</ul>
-</section>
-<section id="comparing-characteristics-of-manual-vs-electronic-data-processing" class="level2" data-number="8.2">
-<h2 data-number="8.2" class="anchored" data-anchor-id="comparing-characteristics-of-manual-vs-electronic-data-processing"><span class="header-section-number">8.2</span> Comparing characteristics of manual vs electronic data processing</h2>
-<table class="table">
+<div class="cell">
+<div class="cell-output-display">
+<div class="plotly html-widget html-fill-item" id="htmlwidget-8d194af895b80d48c390" style="width:100%;height:487px;"></div>
+<script type="application/json" data-for="htmlwidget-8d194af895b80d48c390">{"x":{"visdat":{"17fc695667f5":["function () ","plotlyVisDat"]},"cur_data":"17fc695667f5","attrs":{"17fc695667f5":{"labels":{},"values":{},"text":{},"pull":0.02,"marker":{"colors":["#e3e3e3","#e3e3e3","#e3e3e3","#e7298a","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3"]},"hoverinfo":"text","textinfo":"label","textfont":{"family":"Arial, sans-serif","size":20,"color":"#fff"},"insidetextorientation":"horizontal","hovertext":["Stage 1: Objectives ","Stage 2: Infectious disease <br />Events ","Stage 3: Collection of <br />events","Stage 4: Classification <br />of collected information","Stage 5: Data management <br />and processing","Stage 6: Analysis and <br />assessment of data","Stage 7: Communication of<br /> findings","Stage 8: Action based on <br />surveillance information"],"hoverlabel":{"font":{"size":20},"namelength":-1,"padding":{"l":30,"r":30,"t":30,"b":30}},"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie","hole":0.59999999999999998,"direction":"clockwise","rotation":-25,"inherit":true}},"layout":{"margin":{"b":50,"l":50,"t":50,"r":50},"showlegend":false,"xaxis":{"showgrid":false,"zeroline":false,"showticklabels":false},"yaxis":{"showgrid":false,"zeroline":false,"showticklabels":false},"annotations":[{"text":"Stages of <br />Surveillance","x":0.5,"y":0.5,"font":{"size":28},"showarrow":false}],"hovermode":"closest"},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["1<br>Objectives","2<br>Event","3<br>Collect","4<br>Classify","5<br>Data","6<br>Analyse","7<br>Communicate","8<br>Act"],"values":[1,1,1,1,1,1,1,1],"text":["1<br>Objectives","2<br>Event","3<br>Collect","4<br>Classify","5<br>Data","6<br>Analyse","7<br>Communicate","8<br>Act"],"pull":[0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02],"marker":{"color":"rgba(31,119,180,1)","colors":["#e3e3e3","#e3e3e3","#e3e3e3","#e7298a","#e3e3e3","#e3e3e3","#e3e3e3","#e3e3e3"],"line":{"color":"rgba(255,255,255,1)"}},"hoverinfo":["text","text","text","text","text","text","text","text"],"textinfo":"label","textfont":{"family":"Arial, sans-serif","size":20,"color":"#fff"},"insidetextorientation":"horizontal","hovertext":["Stage 1: Objectives ","Stage 2: Infectious disease <br />Events ","Stage 3: Collection of <br />events","Stage 4: Classification <br />of collected information","Stage 5: Data management <br />and processing","Stage 6: Analysis and <br />assessment of data","Stage 7: Communication of<br /> findings","Stage 8: Action based on <br />surveillance information"],"hoverlabel":{"font":{"size":20},"namelength":-1,"padding":{"l":30,"r":30,"t":30,"b":30}},"type":"pie","hole":0.59999999999999998,"direction":"clockwise","rotation":-25,"frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<div class="callout callout-style-simple callout-warning">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>The content of this chapter is the personal opionon of the author. This is escpecially true for the discouragment of the usage of the word case definition__</p>
+</div>
+</div>
+</div>
+<p>Classification means categorizing the recorded events into two or more groups. Sometimes the word “collation” is used for this stage, for example in the WHO definition of surveillance. Classification means a person or software applies a set of uniform criteria to define a disease, health event or condition for infectious disease surveillance. The classification is based on the specific objective.<br>
+Usually the word “applying a case definition” is used to describe this process. But it is better to use more specific words and use the word “case definition” for the general concept. Classification is often a hidden part of the surveillance system or built into the system in a way that it is not recognized as such. For example, the application of reporting definition is built into the reporting software.<br>
+Definitions enable public health officials to classify and count cases consistently for example across reporting jurisdictions. This avoids comparing “apples to oranges”. Classification is important because recorded events can be erroneous and should not be counted. Or there may not be enough information to decide whether a real event has occurred. Without classification, the events form an unclear collection with questionable significance. Even in seemingly trivial classifications, important definitions must be agreed upon: In a mortality surveillance deaths are counted. But does the death of a tourist with a foreign passport count as a death in the surveillance system?</p>
+<section id="typical-classification-definitions" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="typical-classification-definitions"><span class="header-section-number">7.1</span> Typical classification definitions</h2>
+<table class="table-striped table-hover table">
+<caption>Typical definitions used in surveillance systems</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 75%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Characteristic</th>
-<th>Manual</th>
-<th>Electronic</th>
+<th>Definition</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Ease</td>
-<td>Easy</td>
-<td>Complicated</td>
+<td><strong>Reference definition</strong></td>
+<td>A reference definition is used for official reporting (e.g.&nbsp;national yearly reporting)</td>
 </tr>
 <tr class="even">
-<td>Internal validity</td>
-<td>Low</td>
-<td>High</td>
+<td><strong>Case-finding definition</strong></td>
+<td>A case-finding definition is applied for an the search of cases in an outbreak</td>
 </tr>
 <tr class="odd">
-<td>Speed</td>
-<td>slow</td>
-<td>fast</td>
+<td><strong>Notification definition</strong></td>
+<td>A notification definition is applied by physisicans or labs whether they should notify a diseases person</td>
 </tr>
 <tr class="even">
-<td>Scalability</td>
-<td>low</td>
-<td>high</td>
+<td><strong>Reporting definition</strong></td>
+<td>A reporting definition is applied by local public health agencies before reporting a case to a state or national level</td>
 </tr>
 <tr class="odd">
-<td>Setup costs</td>
-<td>low</td>
-<td>high</td>
+<td><strong>Intervention definition</strong></td>
+<td>A intervention definition is applied when to act upon an information</td>
 </tr>
 <tr class="even">
-<td>Operational costs</td>
-<td>high</td>
-<td>low</td>
+<td><strong>ECDC case definition</strong></td>
+<td>The ECDC case definitions are used for the reports of ECDC</td>
 </tr>
 <tr class="odd">
-<td>Accepatbility</td>
-<td>low</td>
-<td>high</td>
+<td><strong>Outbreak-study definition</strong></td>
+<td>An outbreak study definition is used for a cohort or case-study</td>
 </tr>
 <tr class="even">
-<td>Understandability</td>
-<td>high</td>
-<td>low</td>
+<td><strong>Suspected case definition</strong></td>
+<td>This definition is used in an outbreak response</td>
+</tr>
+<tr class="odd">
+<td><strong>Probable case definition</strong></td>
+<td>This definition is used in an outbreak response</td>
+</tr>
+<tr class="even">
+<td><strong>Confimed case definition</strong></td>
+<td>This definition is used in an outbreak response</td>
+</tr>
+<tr class="odd">
+<td><strong>Contact definition</strong></td>
+<td>This definition is used in an outbreak response</td>
+</tr>
+<tr class="even">
+<td><strong>Clinical definition</strong></td>
+<td>A clinical definition is applied when someone in the medical systems uses his or her knowledge whether this constitutes a disease</td>
+</tr>
+<tr class="odd">
+<td><strong>ICD-10 definition</strong></td>
+<td>A medical classification system that is especiall used for the reimbursment of physicians</td>
+</tr>
+<tr class="even">
+<td><strong>Infected person</strong></td>
+<td>Somebody who inoculated a pathogen, that subsequently replicates within the body</td>
+</tr>
+<tr class="odd">
+<td><strong>Diseased person</strong></td>
+<td>Somebody with an infection with any kind of symptoms that are caused by the infection process.</td>
 </tr>
 </tbody>
 </table>
+<p>Example for the application of definitions along the surveillance stages of a case-based surveillance system.</p>
+<section id="example-of-the-different-usages-of-definitions" class="level3" data-number="7.1.1">
+<h3 data-number="7.1.1" class="anchored" data-anchor-id="example-of-the-different-usages-of-definitions"><span class="header-section-number">7.1.1</span> Example of the different usages of definitions</h3>
+<p>A person inoculates hepatitis B virus and the pathogen subsequently replicates in the body of the person (Fullfilling the infection definition). He then develops symptoms (therby fullfilling the diseased person definition) and he seeks the help of a doctor who gives him treatment (apllying a clinical definition) and enters the data into his software for reimbursment (applying the ICD-10 defintion). The physician notifies the local public health agency because the law requires to notify all diseased patients with acute hepatitis B (the notification definition). The local public health agency then decides to act (implicitly applying an intervention definition). They ensue an outbreak investigation and look for cases and contacts (applying case finding definitions or contact definitions). The local public health agency enters the data into their notification software that applies an algorithm and identifies that this event should be reported to the state and national agencies (reporting definition). The national agency reports the case in their official report (applying the referen definition). The software scripts in the national agency find that the event should be reported to ECDC (applying the ECDC case definition)</p>
 </section>
-<section id="problems-of-data-processing" class="level2" data-number="8.3">
-<h2 data-number="8.3" class="anchored" data-anchor-id="problems-of-data-processing"><span class="header-section-number">8.3</span> Problems of data processing</h2>
-<section id="dependence-on-the-user-interface-of-software" class="level3" data-number="8.3.1">
-<h3 data-number="8.3.1" class="anchored" data-anchor-id="dependence-on-the-user-interface-of-software"><span class="header-section-number">8.3.1</span> Dependence on the user interface of software</h3>
 </section>
-<section id="dependence-on-classification-systems-in-manual-systems" class="level3" data-number="8.3.2">
-<h3 data-number="8.3.2" class="anchored" data-anchor-id="dependence-on-classification-systems-in-manual-systems"><span class="header-section-number">8.3.2</span> Dependence on classification systems in manual systems</h3>
+<section id="components-of-definitions" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="components-of-definitions"><span class="header-section-number">7.2</span> Components of definitions</h2>
+<p>Typical definitions in the field of infectious diseases include some or all of the following components</p>
+<table class="table-striped table-hover table">
+<caption>Components of definitions</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 75%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Component</th>
+<th>Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Time</td>
+<td>The timeframe in which a disease is looked at (in surveillance systems this is often missing)</td>
+</tr>
+<tr class="even">
+<td>Place</td>
+<td>Where a disease is looked at. E.g. a region</td>
+</tr>
+<tr class="odd">
+<td>Person</td>
+<td>Who is looked at. It can be everybody in a certain region or it can be only a specific group in an outbreak session</td>
+</tr>
+<tr class="even">
+<td>Clinical</td>
+<td>Include common and relevant signs and symptoms of the disease under surveillance Form either individually or in combination a clear or indicative picture of the disease</td>
+</tr>
+<tr class="odd">
+<td>laboratory</td>
+<td>Includes a list with methods used to confirm the pathogen Usually: One of the laboratory methods on the list is sufficient for confirmation of a disease</td>
+</tr>
+<tr class="even">
+<td>Epidemiological criteria</td>
+<td>Are met when an epidemiological link is established Depending on: Incubation period of the disease Transmission Routes (person-to-person, contaminated food, …) Endemicity of the disease in the country</td>
+</tr>
+</tbody>
+</table>
+<section id="example-for-a-clinical-part-of-a-case-defintion" class="level3" data-number="7.2.1">
+<h3 data-number="7.2.1" class="anchored" data-anchor-id="example-for-a-clinical-part-of-a-case-defintion"><span class="header-section-number">7.2.1</span> Example for a clinical part of a case defintion</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../img/stages_casedefinitions_qfever.png" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Case definition for Q-Fever by the european center for disease control"><img src="../img/stages_casedefinitions_qfever.png" class="img-fluid figure-img" alt="Case definition for Q-Fever by the european center for disease control"></a></p>
+<figcaption>Case definition for Q-Fever by the european center for disease control</figcaption>
+</figure>
+</div>
 </section>
-<section id="dependence-on-classification-systems-in-automatic-systems" class="level3" data-number="8.3.3">
-<h3 data-number="8.3.3" class="anchored" data-anchor-id="dependence-on-classification-systems-in-automatic-systems"><span class="header-section-number">8.3.3</span> Dependence on classification systems in automatic systems</h3>
+<section id="example-for-a-laboratory-part-of-a-case-defintion" class="level3" data-number="7.2.2">
+<h3 data-number="7.2.2" class="anchored" data-anchor-id="example-for-a-laboratory-part-of-a-case-defintion"><span class="header-section-number">7.2.2</span> Example for a laboratory part of a case defintion</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../img/stages_casedefinitions_avian.png" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="quarto-lightbox-gallery-2" title="Case definition for avian flu by the european center for disease control"><img src="../img/stages_casedefinitions_avian.png" class="img-fluid figure-img" alt="Case definition for avian flu by the european center for disease control"></a></p>
+<figcaption>Case definition for avian flu by the european center for disease control</figcaption>
+</figure>
+</div>
+</section>
+<section id="example-for-an-epidemiological-part-of-a-case-defintion" class="level3" data-number="7.2.3">
+<h3 data-number="7.2.3" class="anchored" data-anchor-id="example-for-an-epidemiological-part-of-a-case-defintion"><span class="header-section-number">7.2.3</span> Example for an epidemiological part of a case defintion</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../img/stages_casedefinitions_zika.png" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="quarto-lightbox-gallery-3" title="Case definition for zika by the european center for disease control"><img src="../img/stages_casedefinitions_zika.png" class="img-fluid figure-img" alt="Case definition for zika by the european center for disease control"></a></p>
+<figcaption>Case definition for zika by the european center for disease control</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="specificity-and-sensitvity" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="specificity-and-sensitvity"><span class="header-section-number">7.3</span> Specificity and sensitvity</h2>
 <ul>
-<li>SnowMed</li>
-<li>FIHR</li>
+<li>A definition can be sensitive or specific. Sensitive means that more events are captured but likely this will increase the number of wrongly identified events. Specific means that less events are captured but the number of wrongly identified events is lower.</li>
 </ul>
 </section>
-<section id="single-point-of-truth" class="level3" data-number="8.3.4">
-<h3 data-number="8.3.4" class="anchored" data-anchor-id="single-point-of-truth"><span class="header-section-number">8.3.4</span> Single point of truth</h3>
-</section>
-<section id="errors-in-data-handling-by-the-software" class="level3" data-number="8.3.5">
-<h3 data-number="8.3.5" class="anchored" data-anchor-id="errors-in-data-handling-by-the-software"><span class="header-section-number">8.3.5</span> Errors in data handling by the software</h3>
+<section id="creating-you-own-definitions" class="level2" data-number="7.4">
+<h2 data-number="7.4" class="anchored" data-anchor-id="creating-you-own-definitions"><span class="header-section-number">7.4</span> Creating you own definitions</h2>
 <ul>
-<li>Excel changes specific values to dates automatically</li>
-<li>Excel sheets have only a certain number of rows</li>
+<li>Identify the objectives of the surveillance system</li>
+<li>Involve a multi-sectoral team (e.g.&nbsp;physicians, reference laboratories, epidemiologists,…)</li>
+<li>Balance between sensitivity and specificity when collecting / reporting</li>
+<li>Define important and frequently used terms (e.g.&nbsp;fever)</li>
+<li>Use a standardised format and structure for all case definitions</li>
+<li>Plan the implementation of the case definitions (e.g.&nbsp;communicate, train, evaluate)</li>
 </ul>
-</section>
-</section>
-<section id="open-data-and-public-engagement" class="level2" data-number="8.4">
-<h2 data-number="8.4" class="anchored" data-anchor-id="open-data-and-public-engagement"><span class="header-section-number">8.4</span> Open Data and Public Engagement</h2>
-<p>Recent trends in data publication have expanded assessment beyond designated experts:</p>
-<p>Advantages:</p>
-<p>Enables independent verification Increases transparency Potentially leads to novel insights</p>
-<p>Challenges:</p>
-<p>Risk of misinterpretation by non-experts Necessitates clear communication of data limitations and context</p>
-<p>Control group must be - representative of exposures in the source population - be identifiable as cases - habe same exclusion and restctition criteria as cases</p>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Case definition for Q-Fever by the european center for disease control</span>
+<span class="glightbox-desc lightbox-desc-2">Case definition for avian flu by the european center for disease control</span>
+<span class="glightbox-desc lightbox-desc-3">Case definition for zika by the european center for disease control</span>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -856,13 +979,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../3_Stages/stage3.html" class="pagination-link" aria-label="Classification (3)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Classification (3)</span></span>
+      <a href="../3_Stages/stage3.html" class="pagination-link" aria-label="Collection (3)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Collection (3)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../3_Stages/stage5.html" class="pagination-link" aria-label="Analysis (5)">
-        <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Analysis (5)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../3_Stages/stage5.html" class="pagination-link" aria-label="Data processing (5)">
+        <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Data processing (5)</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -880,6 +1003,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","descPosition":"bottom","loop":false,"closeEffect":"zoom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 

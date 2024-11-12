@@ -1,0 +1,82 @@
+---
+title: "Surveillance Systeme"
+subtitle: Wozu dient Surveillance? Wie erfolgt Surveillance? 
+author: Jakob Schumacher
+format: 
+  revealjs:
+    embed-resources: true
+title-slide-attributes: 
+  data-background-image: ../img/logo.png
+  data-background-size: 10%
+  data-background-position: 98% 2%  
+---
+
+
+## Das sollen Sie mitnehmen
+- Surveillance ist wichtiger denn je
+- Surveillance heißt: "Daten für Taten"
+- Schritte: 
+- Surveillance muss durchdefiniert werden
+
+## Was ist die Wahrheit?
+Neuer CDC-Präsident: "Covid-19 greift bestimmte Rassen unverhältnismäßig stark an. Die Menschen, die am meisten immun sind, sind aschkenasische Juden und Chinesen“
+
+
+## Einbettung in andere Surveillance
+- Gesellschaftliche Surveillance
+- Rhizomatische Surveillance
+- Top-Down Surveillance
+
+## Definition
+>  Public health surveillance is the __systematic__ and __ongoing__ collection, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.
+
+## Surveilance Schritte
+```{r}
+#| fig-width: 12
+#| fig-height: 7
+#| fig-align: center
+source("../graphs.R")
+create_surveillance_plot()
+
+```
+
+## Wichtige Typen von Surveillance
+
+
+## Attribute eines Surveillancesystems
+
+
+## Untererfassungspyramide
+
+![Underestimation pyramid](../img/attributes_underestimation_pyramid.png)
+
+## Untererfassungspyramide Norovirus
+![Underestimation pyramid](../img/attributes_underestimation_pyramid_noro.png)
+
+## Untererfassungspyramide Ebola
+![Underestimation pyramid](../img/attributes_underestimation_pyramid_ebola.png)
+
+
+## Vailidität
+
+![Representaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator](../img/attributes_validity.jpg)
+
+
+## Repräsentativität
+|  |  |
+|:--|--:|
+|![[AWeith - Mediawiki](https://en.wikipedia.org/wiki/Iceberg#/media/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg)](../img/attributes_iceberg_small.jpg)|![[Linnaea Mallette - publicdomainpictures.net](https://www.publicdomainpictures.net/en/free-download.php?image=boulder&id=348919)](../img/attributes_boulder_small.jpg)|
+
+
+## Timeliness
+
+![Vocabulary of different time measurements](../img/attributes_timeliness.png)
+
+
+## Usefulness
+![Representaion of usefulness. What can you do with the information? Image done by bing image creator](../img/attributes_usefullness.jpg)
+
+- __Defintion:__ _contribution to the prevention and control of infectious diseases_
+- __How to measure:__ Survey
+
+

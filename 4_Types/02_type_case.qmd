@@ -2,16 +2,41 @@
 title: "Case based surveillance"
 ---
 
-A case based surveillance system focuses on identifying instances of diseases. They are very typical around the world. Its usually physicians that need to notify the occurence of a disease (physician-based surveillance) or a laboratory (lab-based surveillance). 
 
-A typical example is a system that requeires a physician to fill out a form when she or he finds a person that has a disease. The form is then send to a local public health agency where the event is collected and classified. The data is entered into a software and then analysed by public health experts
+:::: {layout="[ 20, 80 ]"}
+
+::: {#first-column}
+![](../img/icons/indicator_based_surveillance.jpg)
+
+:::
+
+::: {#second-column}
+A case-based surveillance system focuses on identifying persons that have been diagnosed with an infectious diseases. A person diagnosed with a disease is called a case if the appropriate definition is fullfilled [See the classification stage](../stages/stage4.qmd). Case-based surveillance is the most important type of infectious diesase surveillance.  
+:::
+
+::::
+## Terminology
+A case-based surveillance system is also called an indicator-based surveillance^[The surveillance of communicable diseases in the European Union – a long-term strategy (2008-2013) https://www.eurosurveillance.org/images/dynamic/EE/V13N26/art18912.pdf]  It is called indicator to convey that the focus lies on the compilation of indicators. The term case-based surveillance is - in the eyes of the author of this book - more accurate as it puts the focus on the event under surveillance which distinguishes it from other types of surveillance systems. Other surveillance systems also compile indicators e.g. the viral load in wastewatersurveillance. 
+The CDC usually describes the concept as a case surveillance but less frequently also as a notification-based surveillance system^[https://www.cdc.gov/nndss/about/index.html].
+This type is sometimes refferd to as physician-based surveillance or lab-based surveillance when physicians or labs are the main provider of information.
 
 
-
-## A typical scope of a case based surveillance system
+## Process of a case-based surveillance system
+As case-based surveillance is normally mandated by law, the objectives are often laid down during the legislative process. A typical process is that a physician is required to fill out a form when she or he finds a person that has a disease. The form is then send to a local public health agency where the event is collected and classified. The local public health agency takes appropriate measures and enters the data into a software. This data is transferred to regional or national levels where experts analyse the data for the reporting and supraregional measures. 
 
 ![Scope of a case based surveillance system. Adapted from ECDC Handbook Data quality monitoring and surveillance system evaluation](../img/types_scope.jpg)
 
+## Strengths and weaknesses
+Strengths:  
+- measures one central event in infectious diseases directly 
+- allows case-based measures
+- allows collecting detailed information e.g. on exposure or demographics
+- usually allows the measurment of the severity of a disease (e.g. hospitalisation)
+
+Weaknesses:  
+- usually goes along with a strong selection bias, especially in disease with a many asymptomatic cases
+- expensive
+- depends on a reliable health system
 
 ## Example of a case based surveillance system
 The German infectious disease reporting system is governed by the Infection Protection Act (IfSG). It is the backbone of epidemiological surveillance in Germany. It has developed historically and has its roots in the Imperial Epidemic Act of 1900. This act hat for example the following regulation: _“Any case of illness and any death from leprosy, cholera (Asian), typhus, yellow fever, plague (Oriental bubonic plague), smallpox […] must be reported immediately to the competent police authority.”_ The current reporting system was established in 2000 with the creation of the Infection Protection Act. The reporting system is legally regulated in Sections 6 to 11 of the Act, which have been amended multiple times, usually in response to acute events such as the HUS epidemic in 2011.
