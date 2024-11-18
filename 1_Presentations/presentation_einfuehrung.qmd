@@ -7,14 +7,12 @@ format:
     embed-resources: true
     slide-number: true
     show-slide-number: print
-    revealjs-plugins:
-     - fullscreen
-title-slide-attributes: 
-  data-background-image: ../img/logo.png
-  data-background-size: 10%
-  data-background-position: 98% 2%  
+    logo: "../img/logo.png"
 ---
 
+
+## Vortrag als Webseite
+![](../img/presentations_qr_einfuehrung.png)
 
 ## Das sollen Sie mitnehmen
 - Surveillance ist wichtiger denn je
@@ -28,7 +26,7 @@ title-slide-attributes:
 
 
 ## Was ist die Wahrheit?
-Möglicher CDC-Präsident: _"Covid-19 greift bestimmte Rassen unverhältnismäßig stark an. Die Menschen, die am meisten immun sind, sind aschkenasische Juden und Chinesen“_
+Designierter Gesundheitsminister USA: _"Covid-19 greift bestimmte Rassen unverhältnismäßig stark an. Die Menschen, die am meisten immun sind, sind aschkenasische Juden und Chinesen“_
 
 ![](../img/hand-person-female-finger-sitting-conversation-804575-pxhere.com.jpg)
 
@@ -61,16 +59,8 @@ In aller Kürze:
 
 # Schritte 
 
-##  {fullscreen=true}
+## {background-image="../img/surveillance_plots/surveillance_de_none.png" background-repeat="cover" background-size="1000px" }
 
-```{r surveillanceschritte}
-#| fig-align: center
-#| out.width: 100%
-#| fig.width: 17
-#| fig.height: 9
-source("../graphs.R")
-create_surveillance_plot(highlight = "none", output_type = "ggplot", language = "de")
-```
 
 
 # Typen
@@ -79,7 +69,7 @@ create_surveillance_plot(highlight = "none", output_type = "ggplot", language = 
 - Indicator-basierte Surveillance
 - Event-basierte Surveillance
 - Syndromische Surveillance
-- Aktiv vs. Passiv
+- Abwassersurveillance
 - Sentinal vs. Gesamt
 - Reservoir Surveillance
 - Risikofaktor Surveillance
@@ -100,6 +90,17 @@ create_surveillance_plot(highlight = "none", output_type = "ggplot", language = 
 - Erfasst Verhaltensweisen, die assoziiert sind mit Erkrankung
 - Diverse Gruppe von Surveillancesystemen
 - Bsp: Grippeweb
+
+## Abwassersurveillance
+- Abwasser wird untersucht auf Erreger
+- Bsp: AMELAG -
+
+# Beispiel
+
+## Beispiel: Deutsches Meldesystem
+
+![](../img/german_notificationssystem.png)
+
 
 # Attribute
 
@@ -125,10 +126,11 @@ create_surveillance_plot(highlight = "none", output_type = "ggplot", language = 
 
 
 ::: footer
- Image done by bing image creator
+ Bing image creator
 ::: 
 
 ## Repräsentativität
+
 |  |  |
 |:--|--:|
 |![](../img/attributes_iceberg_small.jpg)|![](../img/attributes_boulder_small.jpg)|
@@ -137,6 +139,7 @@ Wie viel ist unter der Oberfläche bei einem Eisberg oder bei einem Felsbrocken?
 
 ::: footer
 [Iceberg - AWeith - Mediawiki](https://en.wikipedia.org/wiki/Iceberg#/media/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg) - [Boulder - Linnaea Mallette - publicdomainpictures.net](https://www.publicdomainpictures.net/en/free-download.php?image=boulder&id=348919)
+:::
 
 ## Timeliness
 
@@ -144,28 +147,60 @@ Wie viel ist unter der Oberfläche bei einem Eisberg oder bei einem Felsbrocken?
 
 
 ## Nützlichkeit
+
 ![Wie nützlich ist die Surveillance](../img/attributes_usefullness.jpg)
 
 
 ::: footer
-Image done by bing image creator
+ Bing image creator
 :::
 
 
-## Beispiel: Deutsches Meldesystem
-![](../img/german_notificationssystem.png)
+# Beispiele
 
 ## Beispiel: Epilag
+
+
+
+::: {.column width="40%"}
 ![](../img/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg)
+:::
+
+::: {.column width="60%"}
+
+* Länder und RKI haben eine wöchentliche Telefonkonferenz
+* Bericht über aktuelle Ereignisse
+* Keine Indikatoren
+:::
+
+
 
 ::: footer
-[Christina @ wocintechchat.com](https://unsplash.com/de/@wocintechchat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Bild: Christina auf wocintechchat.com](https://unsplash.com/de/@wocintechchat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 :::
       
 
 ## Beispiel: Grippeweb
+
+::: {.column width="40%"}
 ![](../img/anomaly-16aIvW0lxOk-unsplash.jpg)
+:::
+
+::: {.column width="60%"}
+
+* Personen geben wöchentlich Auskunft
+* Erfassung von Tests
+* Abstriche
+:::
+
 
 ::: footer
-[Anomaly - Usplash](https://unsplash.com/de/@anomaly?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[Bild: Anomaly auf Usplash.com](https://unsplash.com/de/@anomaly?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 ::: 
+
+## Aufgabe
+* Schizophrenie
+* Impfablehnung
+* Zahnstatus
+* Angriffe auf SpDi-Mitarbeitende
+* Giftstoffe
