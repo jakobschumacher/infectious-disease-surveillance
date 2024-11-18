@@ -1,0 +1,19 @@
+{
+  "hash": "c2204f0f4bae29c52fd3d1c1581104cd",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Collection (Stage 3)\"\nsubtitle: With the collection method you will introduce the most important bias\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](stage3_files/figure-pdf/unnamed-chunk-1-1.pdf)\n:::\n:::\n\n\n\n\n\n\n\n\n\n\nThe collection of an infectious disease Event form the foundation of any effective surveillance. The specific methods of collection can vary widely depending on the type of surveillance system. The collection is usually done by an public health agency or a commisioned insitution. The method of data collection often influences the naming of surveillance systems.\n\nA collection processes can be based on any comminication form like: Phone calls, serial interface, Reports on paper, Fax or E-Mail, direct investigation. In recent years many efforts have been put into establishing a fully seamless electronic system via electronic interfaces. \n\n## Typical collection methods\n- Physicians report diagnosed cases to health authorities.\n- Laboratories report cases that are analysed for clinical purposes to public health agencies\n- Laboratories report cases that are analyses specifically for public health puropses like sequencing data to public health agencies\n- Laboratories report other lab results like PCR-tests in wastewater\n- A pulic health agency follows-up on an initial reports.\n- Health insurance claims and ICD-10 Codes are collected via a software interface\n- A public health agency gets access to a database of death records\n- Public health workers go around households in a crisis situation and \n- Hospital representatives fill out an online form about the number of free intensive care beds\n- A specific group uses a software that screens the internet for potential public health threats\n- Blood prodocuts are analysed for infectious disease\n\n## Active vs. passive\nThe collection process can be described as active or passive. Where active means that the public health agency actively collect reports, whereas passive means, that public health agency recieve reports and dont directly interfere in the reporting. Many collection methods contain both, e.g. reports are sent in by a lab (passive) but in relevant cases the agency reaches out to get more information about a specific case (active)  \n\n|Characteristic|Active|Passive|\n|---|---|---|\n|Ease|Complicated|Easy|\n|Speed|slow|fast|\n|Scalability|low|high|\n|Operational costs|high|low|\n|External validity|high|low|\n\n## Enhanced and intensived\nIf there are several events that are looked at, that are collected via different methods the term: \"enhanced\" or \"intensivied\" are used, especially in a mass-gathering surveillance. \n\n## Integreated and one-health\nIf collection methods by  veteniary or food-safety agencies are included the term \"integrated\" or \"one-health\" is applied.  \n\n\n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

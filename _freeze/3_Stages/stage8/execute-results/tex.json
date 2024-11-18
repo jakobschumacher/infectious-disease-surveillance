@@ -1,0 +1,19 @@
+{
+  "hash": "62cf73713908666be8665869fbd84ebe",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Public Health Measures (Stage 8)\"\nsubtitle: This is what its all about.\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](stage8_files/figure-pdf/unnamed-chunk-1-1.pdf)\n:::\n:::\n\n\n\n\n\n\n\n\n\nMeasures are the goal towards which surveillance is directed. Public health measures are all deliberate efforts by commissioned actors aimed at preventing the further spread and generally minimizing the harm caused by infectious diseases. Measures are often legally defined. Measures can be divided into case-based measures and population-based measures. Case-based measures include, for example, informing an affected person about transmission routes or measures such as quarantine. Population-based measures are those that affect many people, for example, the population of a federal state.\n\n\n\nTypical interventions taken are:  \n- guidance: The local public gives the case or his contact persons guidance on what to do and how to behave\n- mandate: The local public health official could order a case or a contact person to do something. This could be quarantine for example\n- information: the local public health agency informs everybody who needs to know about this public health event\n \n\n\n\nTypical population based interventions are:\n- Boiling water before drinking\n- Requiring to wear masks\n- Closing schools\n- Giving advice\n\n\n\nTypical interventions are:\n- change in calculated antibitotic therapy (so before information about resistance of the specific pathogen is available) according to a higher resistancy in an area\n- change in immunization strategies\n\n\nTypical interventions are:\n- Wearing masks\n- Washing handy frequently\n- Not using public transport\n- Avoiding specific groups\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

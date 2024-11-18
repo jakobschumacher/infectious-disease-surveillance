@@ -3,19 +3,10 @@ title: "Classification (Stage 4)"
 subtitle: Clear definitions are crucial and avoids creating rubbish
 ---
 
-::: {.content-visible when-format="html"}
-```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
-source("../graphs.R")
-create_surveillance_plot(highlight = "Stage 4", output_type = "plotly", language = "en")
-```
-:::
-
-::: {.content-visible when-format="pdf"}
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
 source("../graphs.R")
 create_surveillance_plot(highlight = "Stage 4", output_type = "ggplot", language = "en")
 ```
-:::
 
 ::: {.callout-warning}
 The content of this chapter is the personal opionon of the author. This is escpecially true for the discouragment of the usage of the word case definition__

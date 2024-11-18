@@ -4,19 +4,10 @@ subtitle: Communication in a complex world is difficult
 ---
 
 
-::: {.content-visible when-format="html"}
-```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
-source("../graphs.R")
-create_surveillance_plot(highlight = "Stage 7", output_type = "plotly", language = "en")
-```
-:::
-
-::: {.content-visible when-format="pdf"}
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
 source("../graphs.R")
 create_surveillance_plot(highlight = "Stage 7", output_type = "ggplot", language = "en")
 ```
-:::
 
 
 Communication is the dissemination of the obtained information in words, writing, and images. Communication consists of traditional elements such as press releases and press conferences or the preparation of reports. Communication now also includes social media and fact-checking. The presentation of data and information in dashboards also counts as communication.

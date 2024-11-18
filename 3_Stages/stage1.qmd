@@ -1,22 +1,12 @@
 ---
 title: Objectives of surveillance (Stage 1)
-subtitle: If you are clear about your objectives everythin will be easier.
+subtitle: If you are clear about your objectives everything will be easier.
 ---
 
-
-
-```{r, content-visible when-format="html", echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
-source("../graphs.R")
-create_surveillance_plot(highlight = "Stage 1", output_type = "plotly", language = "en")
-```
-
-
-::: {.content-visible when-format="pdf"}
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
 source("../graphs.R")
 create_surveillance_plot(highlight = "Stage 1", output_type = "ggplot", language = "en")
 ```
-:::
 
 
 The objectives of a surveillance system are the reasons why a surveillance systems is set into place. The overall objective of infectious disease surveillance is described nicely in the German infection protection act: 

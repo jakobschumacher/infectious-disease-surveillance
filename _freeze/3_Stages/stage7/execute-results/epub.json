@@ -1,0 +1,19 @@
+{
+  "hash": "72aca22d80aafae5f0d5bd0ec316f759",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Communication (Stage 7)\"\nsubtitle: Communication in a complex world is difficult\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](stage7_files/figure-epub/unnamed-chunk-1-1.png)\n:::\n:::\n\n\n\n\n\n\n\n\n\nCommunication is the dissemination of the obtained information in words, writing, and images. Communication consists of traditional elements such as press releases and press conferences or the preparation of reports. Communication now also includes social media and fact-checking. The presentation of data and information in dashboards also counts as communication.\n\n## Graphical\nthe graphical representation of information is often done in terms of time, place, and person \n\n\n\n\nThe communication of epidemiological information was a major focus towards the end of the pandemic and is an area with strong development potential. Almost worldwide, a significant portion of the population rejected the measures to combat the COVID-19 pandemic, thereby influencing the course of the pandemic.\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

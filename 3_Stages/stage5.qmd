@@ -4,19 +4,10 @@ subtitle: The data processing is where you spend your time in infectious disease
 ---
 
 
-::: {.content-visible when-format="html"}
-```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
-source("../graphs.R")
-create_surveillance_plot(highlight = "Stage 5", output_type = "plotly", language = "en")
-```
-:::
-
-::: {.content-visible when-format="pdf"}
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
 source("../graphs.R")
 create_surveillance_plot(highlight = "Stage 5", output_type = "ggplot", language = "en")
 ```
-:::
 
 
 
