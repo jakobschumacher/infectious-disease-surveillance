@@ -3,10 +3,10 @@ title: Definition of surveillance
 subtitle: Surveillance is information for action!
 ---
 
-The motto of public health surveillance ist information for action. This is also the shortest definition of surveillance but does not capture all elements. A history of the definitions can be found in the Article [The Past, Present, and Future of Public Health Surveillance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/table/tab5/) by Bernard Choi. The most influential definition is from Alexander Langumir that set out the path for the future definitions. > 
+The motto of public health surveillance ist information for action. This is also the shortest definition of surveillance but does not capture all elements. A history of the definitions can be found in the Article [The Past, Present, and Future of Public Health Surveillance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/table/tab5/) by Bernard Choi. The most influential definition is from Alexander Langumir that set out the path for the future definitions. 
 
 ## Definition of Public health surveillance by WHO
->  Public health surveillance is an ongoing, systematic collection, analysis and interpretation of health-related data essential to the planning, implementation, and evaluation of public health practice.
+>  Public health surveillance is an _ongoing_, _systematic_ _collection_, _analysis_ and _interpretation_ of health-related data essential to the planning, _implementation_, and evaluation of public health practice.
 ^[World Health Organisation 2005 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/table/tab5/]
 
 ## Important parts of the definition

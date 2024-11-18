@@ -4,10 +4,19 @@ subtitle: Be true to yourself
 ---
 
 
-```{r}
+::: {.content-visible when-format="html"}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
 source("../graphs.R")
-create_surveillance_plot(highlight = "Stage 6")
+create_surveillance_plot(highlight = "Stage 6", output_type = "plotly", language = "en")
 ```
+:::
+
+::: {.content-visible when-format="pdf"}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
+source("../graphs.R")
+create_surveillance_plot(highlight = "Stage 6", output_type = "ggplot", language = "en")
+```
+:::
 
 
 The analysis and assessment stage involves the calculation of relevant indicators, examining data through the lenses of time, place, and person, assessing the results by drawing of conclusions and eventually formulating recommendations. Essentially, this stage transforms raw data into actionable information, aligning with the "data–information–knowledge–wisdom" hierarchy^[Rowley, J. (2007). The wisdom hierarchy: representations of the DIKW hierarchy. Journal of Information Science, 33(2), 163-180. [https://doi.org/10.1177/0165551506070706](https://doi.org/10.1177/0165551506070706)].

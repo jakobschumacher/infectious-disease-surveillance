@@ -3,10 +3,48 @@ title: "Public Health Measures (Stage 8)"
 subtitle: This is what its all about.
 ---
 
-```{r}
+::: {.content-visible when-format="html"}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
 source("../graphs.R")
-create_surveillance_plot(highlight = "Stage 8")
+create_surveillance_plot(highlight = "Stage 8", output_type = "plotly", language = "en")
 ```
+:::
+
+::: {.content-visible when-format="pdf"}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
+source("../graphs.R")
+create_surveillance_plot(highlight = "Stage 8", output_type = "ggplot", language = "en")
+```
+:::
 
 
 Measures are the goal towards which surveillance is directed. Public health measures are all deliberate efforts by commissioned actors aimed at preventing the further spread and generally minimizing the harm caused by infectious diseases. Measures are often legally defined. Measures can be divided into case-based measures and population-based measures. Case-based measures include, for example, informing an affected person about transmission routes or measures such as quarantine. Population-based measures are those that affect many people, for example, the population of a federal state.
+
+
+
+Typical interventions taken are:  
+- guidance: The local public gives the case or his contact persons guidance on what to do and how to behave
+- mandate: The local public health official could order a case or a contact person to do something. This could be quarantine for example
+- information: the local public health agency informs everybody who needs to know about this public health event
+ 
+
+
+
+Typical population based interventions are:
+- Boiling water before drinking
+- Requiring to wear masks
+- Closing schools
+- Giving advice
+
+
+
+Typical interventions are:
+- change in calculated antibitotic therapy (so before information about resistance of the specific pathogen is available) according to a higher resistancy in an area
+- change in immunization strategies
+
+
+Typical interventions are:
+- Wearing masks
+- Washing handy frequently
+- Not using public transport
+- Avoiding specific groups

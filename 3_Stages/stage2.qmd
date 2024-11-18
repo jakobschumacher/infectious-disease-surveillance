@@ -3,10 +3,20 @@ title: "Infection Event (Stage 2)"
 subtitle: Choosing the right event is crucial and depends on the objectives
 ---
 
-```{r}
+
+::: {.content-visible when-format="html"}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
 source("../graphs.R")
-create_surveillance_plot(highlight = "Stage 2")
+create_surveillance_plot(highlight = "Stage 2", output_type = "plotly", language = "en")
 ```
+:::
+
+::: {.content-visible when-format="pdf"}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
+source("../graphs.R")
+create_surveillance_plot(highlight = "Stage 2", output_type = "ggplot", language = "en")
+```
+:::
 
 
 Surveillance systems monitor a wide range of infection-related events. Understanding the event is essential for understanding a surveillance system.The choice of events to monitor in a surveillance system is a critical decision that shapes the system's in many ways. The choice depends on the Objective of the surveillance system. 

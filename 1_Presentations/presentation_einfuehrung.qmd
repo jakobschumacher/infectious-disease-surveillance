@@ -1,10 +1,14 @@
 ---
 title: "Surveillance Systeme"
-subtitle: Wozu dient Surveillance? Wie erfolgt Surveillance? 
+subtitle: Was ist das? Warum gibt es das? 
 author: Jakob Schumacher
 format: 
   revealjs:
     embed-resources: true
+    slide-number: true
+    show-slide-number: print
+    revealjs-plugins:
+     - fullscreen
 title-slide-attributes: 
   data-background-image: ../img/logo.png
   data-background-size: 10%
@@ -15,68 +19,153 @@ title-slide-attributes:
 ## Das sollen Sie mitnehmen
 - Surveillance ist wichtiger denn je
 - Surveillance heißt: "Daten für Taten"
-- Schritte: 
+- Überblick über die Schritte 
 - Surveillance muss durchdefiniert werden
+- Untererfassungspyramide
+
+
+# Einleitung{.dark-theme}
+
 
 ## Was ist die Wahrheit?
-Neuer CDC-Präsident: "Covid-19 greift bestimmte Rassen unverhältnismäßig stark an. Die Menschen, die am meisten immun sind, sind aschkenasische Juden und Chinesen“
+Möglicher CDC-Präsident: _"Covid-19 greift bestimmte Rassen unverhältnismäßig stark an. Die Menschen, die am meisten immun sind, sind aschkenasische Juden und Chinesen“_
 
+![](../img/hand-person-female-finger-sitting-conversation-804575-pxhere.com.jpg)
 
-## Einbettung in andere Surveillance
+::: footer
+https://pxhere.com/es/photo/804575 - CC0
+::: 
+
+## Andere Formen von Surveillance
 - Gesellschaftliche Surveillance
 - Rhizomatische Surveillance
 - Top-Down Surveillance
 
 ## Definition
->  Public health surveillance is the __systematic__ and __ongoing__ collection, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.
+>  Surveillance ist die fortlaufende, systematische Erfassung, Analyse und Interpretation gesundheitsbezogener Daten, die für die Planung, Durchführung und Bewertung der öffentlichen Gesundheitspraxis unerlässlich sind.
 
-## Surveilance Schritte
-```{r}
-#| fig-width: 12
-#| fig-height: 7
+In aller Kürze: 
+
+> _Daten für Taten!_
+
+
+## Ziele der Surveillance
+
+* Maßnahmen für einen Fall
+* Maßnahmen für die Bevölkerung
+* Maßnahmen durch die Medizin
+* Maßnahmen durch das Individuum
+* Evaluierung von Maßnahmen
+* Wissenschaftliche Erkenntnisse
+* Erfüllung von Verpflichtung
+
+# Schritte 
+
+##  {fullscreen=true}
+
+```{r surveillanceschritte}
 #| fig-align: center
+#| out.width: 100%
+#| fig.width: 17
+#| fig.height: 9
 source("../graphs.R")
-create_surveillance_plot()
-
+create_surveillance_plot(highlight = "none", output_type = "ggplot", language = "de")
 ```
 
+
+# Typen
+
 ## Wichtige Typen von Surveillance
+- Indicator-basierte Surveillance
+- Event-basierte Surveillance
+- Syndromische Surveillance
+- Aktiv vs. Passiv
+- Sentinal vs. Gesamt
+- Reservoir Surveillance
+- Risikofaktor Surveillance
+
+## Inidcator-basierte Surveillance
+- "Klassische Surveillance"
+- Ein _Indikator_  ist z.B. ein Fall
+- Üblicherweise: Arztmeldung/Labormeldung
+- Bsp: Deutsches Meldewesen
+
+## Event-basierte Surveillance
+- Erfasst alle möglichen Events
+- Besteht aus einem System "Signale" zu erfassen
+- Häufig eine Gruppe von Experten
+- Bsp: Epilag
+
+## Syndromische Surveillance
+- Erfasst Verhaltensweisen, die assoziiert sind mit Erkrankung
+- Diverse Gruppe von Surveillancesystemen
+- Bsp: Grippeweb
+
+# Attribute
+
+## Attribute
+- Surveillancesysteme haben Vorteile und Nachteile  
+- Hier spricht man von Attributen
+- Sind wichtig für die Evaluation
 
 
-## Attribute eines Surveillancesystems
 
-
-## Untererfassungspyramide
-
+## Untererfassung
 ![Underestimation pyramid](../img/attributes_underestimation_pyramid.png)
 
-## Untererfassungspyramide Norovirus
+## Norovirus
 ![Underestimation pyramid](../img/attributes_underestimation_pyramid_noro.png)
 
-## Untererfassungspyramide Ebola
+## Ebola
 ![Underestimation pyramid](../img/attributes_underestimation_pyramid_ebola.png)
-
 
 ## Vailidität
 
-![Representaion of validity. Do you really see the truth behind all our mirros and lenses? Image done by bing image creator](../img/attributes_validity.jpg)
+![Sind wir uns sicher, dass wir alles richtig erkennen?](../img/attributes_validity.jpg)
 
+
+::: footer
+ Image done by bing image creator
+::: 
 
 ## Repräsentativität
 |  |  |
 |:--|--:|
-|![[AWeith - Mediawiki](https://en.wikipedia.org/wiki/Iceberg#/media/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg)](../img/attributes_iceberg_small.jpg)|![[Linnaea Mallette - publicdomainpictures.net](https://www.publicdomainpictures.net/en/free-download.php?image=boulder&id=348919)](../img/attributes_boulder_small.jpg)|
+|![](../img/attributes_iceberg_small.jpg)|![](../img/attributes_boulder_small.jpg)|
 
+Wie viel ist unter der Oberfläche bei einem Eisberg oder bei einem Felsbrocken?
+
+::: footer
+[Iceberg - AWeith - Mediawiki](https://en.wikipedia.org/wiki/Iceberg#/media/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg) - [Boulder - Linnaea Mallette - publicdomainpictures.net](https://www.publicdomainpictures.net/en/free-download.php?image=boulder&id=348919)
 
 ## Timeliness
 
-![Vocabulary of different time measurements](../img/attributes_timeliness.png)
+![Zeitlichkeit](../img/attributes_timeliness.png)
 
 
-## Usefulness
-![Representaion of usefulness. What can you do with the information? Image done by bing image creator](../img/attributes_usefullness.jpg)
-
-- __Defintion:__ _contribution to the prevention and control of infectious diseases_
-- __How to measure:__ Survey
+## Nützlichkeit
+![Wie nützlich ist die Surveillance](../img/attributes_usefullness.jpg)
 
 
+::: footer
+Image done by bing image creator
+:::
+
+
+## Beispiel: Deutsches Meldesystem
+![](../img/german_notificationssystem.png)
+
+## Beispiel: Epilag
+![](../img/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg)
+
+::: footer
+[Christina @ wocintechchat.com](https://unsplash.com/de/@wocintechchat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+:::
+      
+
+## Beispiel: Grippeweb
+![](../img/anomaly-16aIvW0lxOk-unsplash.jpg)
+
+::: footer
+[Anomaly - Usplash](https://unsplash.com/de/@anomaly?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+::: 

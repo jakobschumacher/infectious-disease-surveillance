@@ -1,304 +1,139 @@
 
-pacman::p_load(plotly, dplyr)
+pacman::p_load(dplyr, plotly, ggplot2)
+create_surveillance_plot <- function(highlight = "none", output_type = "ggplot", language = "en") {
 
-library(plotly)
-library(tibble)
+  # Data preparation with language selection
+  if (language == "de") {
+    stage <- c("1\nZiele",
+               "2\nEreignis",
+               "3\nSammeln",
+               "4\nKlassifizieren",
+               "5\nDaten",
+               "6\nAnalysieren",
+               "7\nKommunizieren",
+               "8\nHandeln")
 
-create_surveillance_plot <- function(highlight = "Stage 1") {
-
-  stage <- c("1<br>Objectives",
-             "2<br>Event",
-             "3<br>Collect",
-             "4<br>Classify",
-             "5<br>Data",
-             "6<br>Analyse",
-             "7<br>Communicate",
-             "8<br>Act")
-
-  hoverinfo <- c(
-    "Stage 1: Objectives ",
-    "Stage 2: Infectious disease \nEvents ",
-    "Stage 3: Collection of \nevents",
-    "Stage 4: Classification \nof collected information",
-    "Stage 5: Data management \nand processing",
-    "Stage 6: Analysis and \nassessment of data",
-    "Stage 7: Communication of\n findings",
-    "Stage 8: Action based on \nsurveillance information"
-  )
-
-  # Size and base colors for the stages
-  size <- rep(1, 8)
-  base_colors <- c('#1b9e77','#d95f02','#7570b3','#e7298a','#66a61e','#e6ab02','#a6761d','#666666')
-  grey_color <- "#e3e3e3"  # Color to grey out other stages
-
-  # Matching the highlight argument to stage index
-  stage_map <- c("Stage 1", "Stage 2", "Stage 3", "Stage 4", "Stage 5", "Stage 6", "Stage 7", "Stage 8")
-
-  colors <- if (highlight == "none") {
-    base_colors
+    hoverinfo <- c(
+      "Stufe 1: Festlegung der Ziele",
+      "Stufe 2: Definition der Ereignisse",
+      "Stufe 3: Sammlung der Ereignisse",
+      "Stufe 4: Klassifizierung der gesammelten Informationen",
+      "Stufe 5: Datenmanagement und Verarbeitung",
+      "Stufe 6: Analyse und Bewertung der Daten",
+      "Stufe 7: Kommunikation der Ergebnisse",
+      "Stufe 8: Maßnahmen basierend auf Überwachungsinformationen"
+    )
+    center_text <- "Schritte der\nSurveillance"
   } else {
-    ifelse(stage_map == highlight, base_colors, grey_color)
+    stage <- c("1\nObjectives",
+               "2\nEvent",
+               "3\nCollect",
+               "4\nClassify",
+               "5\nData",
+               "6\nAnalyse",
+               "7\nCommunicate",
+               "8\nAct")
+
+    hoverinfo <- c(
+      "Stage 1: Set the objectives",
+      "Stage 2: Define the Events",
+      "Stage 3: Collect the events",
+      "Stage 4: Classify collected information",
+      "Stage 5: Data management and processing",
+      "Stage 6: Analysis and assessment of data",
+      "Stage 7: Communication of findings",
+      "Stage 8: Action based on surveillance information"
+    )
+    center_text <- "Stages of\nSurveillance"
   }
 
-  # Create plot
-  graphdata <- tibble(stage, hoverinfo, size)
+  base_colors <- c('#1b9e77','#d95f02','#7570b3','#e7298a','#66a61e','#e6ab02','#a6761d','#666666')
+  grey_color <- "#e3e3e3"
 
-  plot_stages <- graphdata |>
-    plot_ly(labels = ~stage,
-            values = ~size,
-            text = ~stage,
-            pull = 0.02,
-            marker = list(
-              colors = colors
-              # line = list(color = "#c0c0c0", width = 2)  # White border around slices
-            ),
-            hoverinfo = 'text',
-            textinfo = 'label',              # Show labels inside pie
-            textfont = list(
-              family = 'Arial, sans-serif',
-              size = 20,
-              color = "#fff"  # Darker color for contrast
-            ),
-            insidetextorientation = 'horizontal',  # Ensure the text is easier to read
-            hovertext = hoverinfo,
-            hoverlabel = list(font = list(size = 20),  # Increase hover text size
-                              namelength = -1,
-                              padding = list(l = 30, r = 30, t = 30, b = 30))) |>
-    add_pie(hole = 0.6, direction = "clockwise", rotation = -25) |>
-    layout(showlegend = F,
-           xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
-           yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))  |>
-    layout(
-      margin = list(l = 50, r = 50, t = 50, b = 50),
-      annotations = list(
-        list(
-          text = "Stages of \nSurveillance",  # Adjust text to describe the pie chart
-          x = 0.5,
-          y = 0.5,
-          font = list(size = 28),
-          showarrow = FALSE
-        ))
+  # Create the color palette separately for each plot type
+  if (output_type == "ggplot") {
+    # Reverse color order for clockwise ggplot orientation
+    colors <- if (highlight == "none") {
+      rev(base_colors)
+    } else {
+      highlight_index <- as.integer(gsub("[^0-9]", "", highlight))
+      rev(ifelse(1:8 == highlight_index, base_colors, grey_color))
+    }
+  } else {
+    # Keep the original order for plotly
+    colors <- if (highlight == "none") {
+      base_colors
+    } else {
+      highlight_index <- as.integer(gsub("[^0-9]", "", highlight))
+      ifelse(1:8 == highlight_index, base_colors, grey_color)
+    }
+  }
+
+  # Create dataframe
+  graphdata <- data.frame(stage = stage, hoverinfo = hoverinfo, size = rep(1, 8), colors = colors) |>
+    dplyr::mutate(
+      cumulative = cumsum(size),
+      midpoint = cumulative - size / 2
     )
 
-  return(plot_stages)
+  if (output_type == "ggplot") {
+    # ggplot version with larger hole and corrected clockwise orientation
+    plot <- ggplot2::ggplot(dplyr::arrange(graphdata, dplyr::desc(stage)), ggplot2::aes(x = "", y = size, fill = stage)) +
+      ggplot2::geom_col(width = 0.5, color = "white") +  # Set width to create larger hole
+      ggplot2::geom_text(ggplot2::aes(y = midpoint, label = stage), color = "white", size = 4) +  # Labels inside slices
+      ggplot2::coord_polar(theta = "y") +  # Reverse direction for clockwise
+      ggplot2::scale_fill_manual(values = colors) +
+      ggplot2::theme_void() +
+      ggplot2::theme(
+        legend.position = "none",
+        plot.margin = ggplot2::margin(50, 50, 50, 50)
+      ) +
+      ggplot2::annotate("text", x = 0, y = 0, label = center_text, size = 6, hjust = 0.5)
+
+    return(plot)
+
+  } else if (output_type == "plotly") {
+    # Plotly version with original color order
+    plot <- plotly::plot_ly(
+      data = graphdata,
+      labels = ~stage,
+      values = ~size,
+      text = ~stage,
+      pull = 0.02,
+      marker = list(colors = colors),
+      hoverinfo = 'text',
+      textinfo = 'label',
+      textfont = list(family = 'Arial, sans-serif', size = 12, color = "#fff"),
+      insidetextorientation = 'horizontal',
+      hovertext = hoverinfo,
+      hoverlabel = list(font = list(size = 12), namelength = -1, padding = list(l = 30, r = 30, t = 30, b = 30))
+    ) |>
+      plotly::add_pie(hole = 0.6, direction = "clockwise", rotation = -25) |>
+      plotly::layout(
+        showlegend = FALSE,
+        xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+        yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+        margin = list(l = 50, r = 50, t = 50, b = 50),
+        annotations = list(
+          list(
+            text = center_text,
+            x = 0.5,
+            y = 0.5,
+            font = list(size = 28),
+            showarrow = FALSE
+          )
+        )
+      )
+
+    return(plot)
+  } else {
+    stop("Invalid output_type. Please use 'ggplot' or 'plotly'.")
+  }
 }
 
-# Test the function with a highlight
-create_surveillance_plot(highlight = "none")
+
+# Example usage
+# create_surveillance_plot(highlight = "Stage 7", output_type = "ggplot", language = "de")
+# create_surveillance_plot(highlight = "Stage 7", output_type = "plotly", language = "en")
 
 
-
-
-
-
-
-
-
-
-# sysfonts::font_add_google("Zilla Slab", "pf", regular.wt = 500)
-#
-#
-#
-#
-library(DiagrammeR)
-library(dplyr)
-
-a_graph <-  create_graph() %>%
-  add_node(label = "Infektionsereignis (1)") %>%
-  add_node(labe = "Erfassung (2)") %>%
-  add_node(label = "Klassifikation (3)") %>%
-  add_node(label = "Datenverarbeitung (4)") %>%
-  add_node(label = "Bewertung (5)") %>%
-  add_node(label = "Kommunikation (6)") %>%
-  add_node(label = "Entscheidung (7)", type = "rect") %>%
-  add_edge(from = 1, to = 2) |>
-  add_edge(from = 2, to = 3) |>
-  add_edge(from = 3, to = 4) |>
-  add_edge(from = 4, to = 5) |>
-  add_edge(from = 5, to = 6) |>
-  add_edge(from = 6, to = 7) |>
-  add_edge(from = 7, to = 1) |>
-  set_node_attrs(node_attr = "shape", value = "rectangle") |>
-  set_node_attrs(node_attr = "style", value = "rounded,filled") %>%
-  set_node_attrs(node_attr = "color", value = "lightblue") |>
-  set_node_attrs(node_attr = "width", value = 1.4)
-
-render_graph(a_graph, layout = "circle")
-
-a_graph <-  create_graph() %>%
-  add_node(labe = "Events") %>%
-  add_node(label = "Classification") %>%
-  add_node(label = "Assessment") %>%
-  add_node(label = "Decision") %>%
-  add_edge(from = 1, to = 2) |>
-  add_edge(from = 2, to = 3) |>
-  add_edge(from = 3, to = 4) |>
-  add_edge(from = 4, to = 1)
-
-
-render_graph(a_graph, layout = "nicely")
-#
-#
-# Surveillance systems
-#
-#
-#
-# ## Detailed graph about an infectious disease surveillance system
-# library(DiagrammeR)
-#
-#
-# a_graph <-  create_graph() %>%
-#   add_node(labe = "Events") %>%
-#   add_node(labe = "Info gathering") %>%
-#   add_node(label = "Classification") %>%
-#   add_node(label = "Data handling") %>%
-#   add_node(label = "Quality check") %>%
-#   add_node(label = "Signal detection") %>%
-#   add_node(label = "Assessment") %>%
-#   add_node(label = "Communication") %>%
-#   add_node(label = "Measures") %>%
-#   add_edge(from = 1, to = 2) |>
-#   add_edge(from = 2, to = 3) |>
-#   add_edge(from = 3, to = 4) |>
-#   add_edge(from = 4, to = 1)
-#
-#
-# render_graph(a_graph, layout = "nicely")
-#
-#
-# DiagrammeR::grViz("digraph {
-#
-# graph [layout = dot, rankdir = LR]
-#
-# # define the global styles of the nodes. We can override these in box if we wish
-# node [shape = rectangle, style = filled, fillcolor = Linen]
-#
-# data1 [label = 'Event', shape = folder, fillcolor = Beige]
-# data2 [label = 'Event', shape = folder, fillcolor = Beige]
-# process [label =  'Collection \n Classification']
-# data [label =  'Data', shape = cylinder]
-# statistical [label = 'Information', shape = signature]
-#
-# # edge definitions with the node IDs
-# {data1 data2}  -> process -> data -> statistical
-# }")
-#
-#
-#
-# library(rsvg)
-#
-#
-# plot_info_for_action <- DiagrammeR::grViz("digraph {
-# graph [layout = dot, rankdir = LR]
-# # define the global styles of the nodes. We can override these in box if we wish
-# node [shape = rectangle, style = filled, fillcolor = Linen]
-# information [label =  'Information']
-# action [label =  'Action']
-#
-# # edge definitions with the node IDs
-# information -> action
-# }")
-#
-#
-# # Save the grViz plot as an SVG file
-# svg_file <- tempfile(fileext = ".svg")
-# DiagrammeR::export_svg(plot_info_for_action) %>% charToRaw() %>% rsvg::rsvg_svg(svg_file)
-#
-# # Convert the SVG file to a PNG file
-# png_file <- tempfile(fileext = ".png")
-# rsvg::rsvg_png(svg_file, png_file)
-#
-#
-#
-#
-#
-# plot(sticker(a_graph,
-#              package="Infectious disease",
-#              h_fill="#07A1E2", h_color="#185191",
-#              url="produnis.de/R", u_size=5, u_color="white",
-#              p_size=15,
-#              s_x=1, s_y=.75, s_width=.6,
-#              filename="imgfile.png"))
-#
-#
-#
-#
-# library(hexSticker)
-# imgurl <- system.file("img/surveillance.png", package="hexSticker")
-# plot(sticker("img/surveillance.png",
-#              package="Infectious disease",
-#              h_fill="#07A1E2", h_color="#185191",
-#              url="produnis.de/R", u_size=5, u_color="white",
-#              p_size=15,
-#              s_x=1, s_y=.75, s_width=.6,
-#         filename="imgfile.png"))
-#
-#
-#
-#
-# plot(hexSticker::sticker(ggplot2::ggplot() +
-#                            ggplot2::theme_void() +
-#                            ggplot2::annotate("text", x=1, y=1, label= "Information", label= "bolditalic(hello)",
-#                                              col="blue", size=10) +
-#                            ggplot2::annotate("text", x=1, y=2, label= "Action"),
-#              package="Infectious disease Surveillance", p_size=8, p_x = 1, s_x=0.8, s_y=.6, s_width=1.4, s_height=1.2,
-#              url = "www.test",
-#              filename="baseplot.png")
-#
-# )
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-# library(DiagrammeR)
-# library(hexSticker)
-# library(DiagrammeRsvg)
-# library(rsvg)
-#
-# # Create a simple diagram
-# graph <- grViz("
-#   digraph {
-#     graph [layout = dot, rankdir = TB]
-#     node [shape = rectangle, style = filled, color = lightblue]
-#
-#     A [label = 'Info']
-#     C [label = 'Action']
-#
-#     A -> C
-#   }
-# ")
-#
-#
-# ggplot()
-#
-# # Save the diagram as an SVG file first
-# graph_svg <- export_svg(graph)
-#
-# # Convert SVG to PNG
-# rsvg_png(charToRaw(graph_svg), "diagram.png", width = 50, height = 50)
-#
-#
-# # Create the hex sticker with the diagram
-# s <- sticker("diagram.png",
-#         package = "MyPackage", # Name of your package or text
-#         p_size = 3,
-#         s_x = 1, s_y = 0.8, s_width = 0.8, # Position and size of the image
-#         h_fill = "#FFFFFF", # Hex color for background
-#         h_color = "#000000", # Hex color for border
-#         filename = "hexSticker.png")
-#
-# plot(s)
-#
-#
-#
-#
-#
-#
-#

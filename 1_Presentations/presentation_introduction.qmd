@@ -9,8 +9,6 @@ format:
 
 ## Definition
 >  Public health surveillance is the __systematic__ and __ongoing__ collection, collation and __analysis__ of data for public health purposes and the __timely__ __dissemination__ of public health information for assessment and __public health response__ as necessary.
-^[[World Health Assembly 2005](https://apps.who.int/gb/ebwha/pdf_files/WHA58-REC1/english/A58_2005_REC1-en.pdf) (similar definition from Langmuir AD. William Farr: Founder of modern concept of surveillance. Int J Epidemiol 1973;5:13-8)]
-
 
 
 ## Other surveillance systems
