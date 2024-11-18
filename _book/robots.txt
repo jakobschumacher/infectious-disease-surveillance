@@ -1,1 +1,0 @@
-Sitemap: https://jakobschumacher.github.io/infectious-disease-surveillance/sitemap.xml
