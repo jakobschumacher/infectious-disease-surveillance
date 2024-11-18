@@ -1,8 +1,5 @@
 
 pacman::p_load(dplyr, plotly, ggplot2, purrr)
-
-
-
 create_surveillance_plot <- function(highlight = "none", output_type = "ggplot", language = "en") {
 
   # Data preparation with language selection
@@ -48,24 +45,14 @@ create_surveillance_plot <- function(highlight = "none", output_type = "ggplot",
 
   base_colors <- c('#1b9e77','#d95f02','#7570b3','#e7298a','#66a61e','#e6ab02','#a6761d')
   grey_color <- "#e3e3e3"
+  center_color <- if (highlight == "Stage 1") "#cc3dac" else grey_color
 
-  # Create the color palette separately for each plot type
-  if (output_type == "ggplot") {
-    # Reverse color order for clockwise ggplot orientation
-    colors <- if (highlight == "none") {
-      rev(base_colors)
-    } else {
-      highlight_index <- as.integer(gsub("[^0-9]", "", highlight))
-      rev(ifelse(1:7 == highlight_index, base_colors, grey_color))
-    }
+  # Create the color palette for the pie slices
+  colors <- if (highlight == "none") {
+    base_colors
   } else {
-    # Keep the original order for plotly
-    colors <- if (highlight == "none") {
-      base_colors
-    } else {
-      highlight_index <- as.integer(gsub("[^0-9]", "", highlight))
-      ifelse(1:7 == highlight_index, base_colors, grey_color)
-    }
+    highlight_index <- match(highlight, paste0("Stage ", 2:8)) # Match the stage index
+    ifelse(1:7 == highlight_index, base_colors, grey_color)
   }
 
   # Create dataframe
@@ -76,24 +63,24 @@ create_surveillance_plot <- function(highlight = "none", output_type = "ggplot",
     )
 
   if (output_type == "ggplot") {
-    # ggplot version with larger hole and corrected clockwise orientation
+    # ggplot2 version
     plot <- ggplot2::ggplot(dplyr::arrange(graphdata, dplyr::desc(stage)), ggplot2::aes(x = "", y = size, fill = stage)) +
       ggplot2::geom_col(width = 0.5, color = "white") +  
-      ggplot2::geom_text(ggplot2::aes(y = midpoint, label = stage), color = "white", size = 6) +  # Labels inside slices
-      ggplot2::coord_polar(theta = "y") +  # Reverse direction for clockwise
+      ggplot2::geom_text(ggplot2::aes(y = midpoint, label = stage), color = "white", size = 6) +  
+      ggplot2::coord_polar(theta = "y") +  
       ggplot2::scale_fill_manual(values = colors) +
       ggplot2::theme_void() +
       ggplot2::theme(
         legend.position = "none",
-        plot.margin = ggplot2::margin(50, 50, 50, 50)
+        plot.margin = ggplot2::margin(0,0,0,0)
       ) +
-        ggplot2::annotate("point", x = 0, y = 0, size = 120, color = "#cc3dac", shape = 21, fill = "#cc3dac") +
+      ggplot2::annotate("point", x = 0, y = 0, size = 120, color = center_color, shape = 21, fill = center_color) +
       ggplot2::annotate("text", x = 0, y = 0, label = center_text, size = 6, hjust = 0.5, colour = "white") 
 
     return(plot)
 
   } else if (output_type == "plotly") {
-    # Plotly version with original color order
+    # Plotly version
     plot <- plotly::plot_ly(
       data = graphdata,
       labels = ~stage,
@@ -119,7 +106,7 @@ create_surveillance_plot <- function(highlight = "none", output_type = "ggplot",
             text = center_text,
             x = 0.5,
             y = 0.5,
-            font = list(size = 28),
+            font = list(size = 28, color = center_color),
             showarrow = FALSE
           )
         )
@@ -130,8 +117,6 @@ create_surveillance_plot <- function(highlight = "none", output_type = "ggplot",
     stop("Invalid output_type. Please use 'ggplot' or 'plotly'.")
   }
 }
-
-
 
 
 generate_surveillance_plots <- function(highlights = c("none", paste0("Stage ", 1:7)), languages = c("de", "en"), output_dir = "img/surveillance_plots", width = 12, height = 12) {
@@ -152,8 +137,7 @@ generate_surveillance_plots <- function(highlights = c("none", paste0("Stage ", 
     plot <- plot + theme(plot.margin = margin(0,0,0,0)) # Adjust margins as needed (top, right, bottom, left)
     
     # Define file name
-    file_name <- paste0(output_dir, "/surveillance_", language, "_", highlight, ".png")
-    
+    file_name <- paste0(output_dir, "/surveillance_", language, "_", tolower(gsub(" ", "_", highlight)), ".png")
     # Save the plot
     ggsave(filename = file_name, plot = plot, width = width, height = height)
   }
@@ -167,3 +151,4 @@ generate_surveillance_plots <- function(highlights = c("none", paste0("Stage ", 
 
 # Call the function with custom width and height
 generate_surveillance_plots()
+

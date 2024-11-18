@@ -1,6 +1,6 @@
 ---
 title: International regulations
-subtitle: How is surveillance regulated internationally
+subtitle: How is surveillance regulated internationally?
 ---
 
 ## International health regulations

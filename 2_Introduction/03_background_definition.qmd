@@ -1,16 +1,14 @@
 ---
 title: Definition of surveillance
-subtitle: Surveillance is information for action!
+subtitle: What exactly is infectious diesase surveillance?
 ---
 
-The motto of public health surveillance ist information for action. This is also the shortest definition of surveillance but does not capture all elements. A history of the definitions can be found in the Article [The Past, Present, and Future of Public Health Surveillance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/table/tab5/) by Bernard Choi. The most influential definition is from Alexander Langumir that set out the path for the future definitions. 
+The motto of public health surveillance ist information for action. This is also the shortest definition of surveillance - although it does not capture all elements. The definition of the WHO is more comprehensive:
 
-## Definition of Public health surveillance by WHO
 >  Public health surveillance is an _ongoing_, _systematic_ _collection_, _analysis_ and _interpretation_ of health-related data essential to the planning, _implementation_, and evaluation of public health practice.
 ^[World Health Organisation 2005 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/table/tab5/]
 
-## Important parts of the definition
-The definition of public health surveillance is very informative. It gives us all important elements of a surveillance system. 
+This definition is very informative and gives us all important elements of a surveillance system. 
 
 |Element|Explanation|
 |---|---|
@@ -20,7 +18,10 @@ The definition of public health surveillance is very informative. It gives us al
 |analysis|Indicators are calculated and the data is parsed according to time, place and person|
 |interpretation|Assessment of the indicators and sense making|
 |implementation of public health practice|The information guides public health responses|
-: Elements of the public health surveillance definition {.striped .hover tbl-colwidths="[25,75]"}
+: {.striped .hover tbl-colwidths="[25,75]"}
 
-## Infectious disease surveillance
-The infectious disease surveillance is that part of public health surveillance that is concerned with the surveillance of infectious diseases. 
+Infectious disease surveillance is a subset of public health surveillance that is concerned with the surveillance of infectious diseases. 
+
+## Learn more{.unnumbered}
+* A history of the definitions can be found in the Article [The Past, Present, and Future of Public Health Surveillance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/table/tab5/) by Bernard Choi. 
+* The first definition in the modern form comes from Alexander Langumir - a very influential epidemiologist, who also did set up the FETP programme of the CDC. You can read about his life in his [Wikipedia-Article](https://en.wikipedia.org/wiki/Alexander_Langmuir).

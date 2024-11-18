@@ -1,6 +1,6 @@
 ---
 title: Other forms of surveillance
-subtitle: What is the larger picture of surveillance?
+subtitle: How does infectious disease surveillance fit into the landscape?
 ---
 
 Nearly all complex biological and technical systems have mechanisms to monitor and control the system's condition. Many social systems also regularly analyze their current state. There are various terms for these status assessments: A scientific study is one form of status assessment, as is the police surveillance of a group or the evaluation of a project in the corporate sector. Surveillance is also a form of status assessment.
@@ -19,8 +19,12 @@ The surveillance done by the big tech companies is a form a rhizomatic surveilla
 ## Top-down-surveillance
 The top-down-surveillance is the surveillance which we usually think of first when we hear the word surveillance. There is an agent usually a dominent one like the state who watches was its constituents do. This can take the form of an Panopticon, where one person can watch many different person and after which some prisons have been modeled. This form of surveillance often aims to achieve a specific behavior among those being monitored. Epidemiological surveillance belongs to this level of surveillance. 
 
+
+## 
+
+
 ## Learn more
-You can read more about different types of surveillance in this article by Tieman et al. ^[ Timan, Tjerk and Galič, Maša and Koops, Bert-Jaap, Surveillance Theory and Its Implications for Law (December 1, 2017) [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3098182](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3098182)]
+You can read more about different types of surveillance in the article  [Timan, Tjerk and Galič, Maša and Koops, Bert-Jaap: Surveillance Theory and Its Implications for Law (December 1, 2017)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3098182)]
 
 
 

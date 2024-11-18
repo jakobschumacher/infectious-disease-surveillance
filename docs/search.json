@@ -124,7 +124,7 @@
     "href": "2_Introduction/03_background_definition.html",
     "title": "1  Definition of surveillance",
     "section": "",
-    "text": "1.1 Definition of Public health surveillance by WHO\nThe motto of public health surveillance ist information for action. This is also the shortest definition of surveillance but does not capture all elements. A history of the definitions can be found in the Article The Past, Present, and Future of Public Health Surveillance by Bernard Choi. The most influential definition is from Alexander Langumir that set out the path for the future definitions.",
+    "text": "Learn more\nThe motto of public health surveillance ist information for action. This is also the shortest definition of surveillance - although it does not capture all elements. The definition of the WHO is more comprehensive:\nThis definition is very informative and gives us all important elements of a surveillance system.\nInfectious disease surveillance is a subset of public health surveillance that is concerned with the surveillance of infectious diseases.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
@@ -135,7 +135,7 @@
     "href": "2_Introduction/03_background_definition.html#definition-of-public-health-surveillance-by-who",
     "title": "1  Definition of surveillance",
     "section": "",
-    "text": "Public health surveillance is an ongoing, systematic collection, analysis and interpretation of health-related data essential to the planning, implementation, and evaluation of public health practice. 1",
+    "text": "Public health surveillance is an ongoing, systematic collection, analysis and interpretation of health-related data essential to the planning, implementation, and evaluation of public health practice. 1\n\n\n\nElements of the public health surveillance definition\n\n\n\n\n\n\nElement\nExplanation\n\n\n\n\nongoing\nsurveillance is planned for a longer time (usually). This is in contrast to a scientific study or a survey\n\n\nsystematic\nsurveillance is a planned undertaking that works with clear definitions\n\n\ncollection\nEvents are collected and stored in datasystems\n\n\nanalysis\nIndicators are calculated and the data is parsed according to time, place and person\n\n\ninterpretation\nAssessment of the indicators and sense making\n\n\nimplementation of public health practice\nThe information guides public health responses",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
@@ -156,8 +156,8 @@
     "objectID": "2_Introduction/03_background_definition.html#infectious-disease-surveillance",
     "href": "2_Introduction/03_background_definition.html#infectious-disease-surveillance",
     "title": "1  Definition of surveillance",
-    "section": "1.3 Infectious disease surveillance",
-    "text": "1.3 Infectious disease surveillance\nThe infectious disease surveillance is that part of public health surveillance that is concerned with the surveillance of infectious diseases.",
+    "section": "1.2 Infectious disease surveillance",
+    "text": "1.2 Infectious disease surveillance\nThe infectious disease surveillance is that part of public health surveillance that is concerned with the surveillance of infectious diseases.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
@@ -211,8 +211,8 @@
     "objectID": "2_Introduction/04_background_othersurveillance.html#learn-more",
     "href": "2_Introduction/04_background_othersurveillance.html#learn-more",
     "title": "2  Other forms of surveillance",
-    "section": "2.4 Learn more",
-    "text": "2.4 Learn more\nYou can read more about different types of surveillance in this article by Tieman et al. 2",
+    "section": "2.5 Learn more",
+    "text": "2.5 Learn more\nYou can read more about different types of surveillance in the article Timan, Tjerk and Galič, Maša and Koops, Bert-Jaap: Surveillance Theory and Its Implications for Law (December 1, 2017)]",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Domain</span>"
@@ -223,7 +223,7 @@
     "href": "2_Introduction/04_background_othersurveillance.html#footnotes",
     "title": "2  Other forms of surveillance",
     "section": "",
-    "text": "Haggerty KD, Ericson RV. The surveillant assemblage. Br J Sociol. 2000 Dec;51(4):605-22. doi: 10.1080/00071310020015280. https://pubmed.ncbi.nlm.nih.gov/11140886/↩︎\n Timan, Tjerk and Galič, Maša and Koops, Bert-Jaap, Surveillance Theory and Its Implications for Law (December 1, 2017) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3098182↩︎",
+    "text": "Haggerty KD, Ericson RV. The surveillant assemblage. Br J Sociol. 2000 Dec;51(4):605-22. doi: 10.1080/00071310020015280. https://pubmed.ncbi.nlm.nih.gov/11140886/↩︎",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Domain</span>"
@@ -289,7 +289,7 @@
     "href": "3_Stages/stage1.html#primary-objectives",
     "title": "4  Objectives of surveillance (Stage 1)",
     "section": "",
-    "text": "Objective\nDescription\n\n\n\n\nGet information to initate case based action\nAll the interventions that are taken when there is a person with an infection\n\n\nGet information to initate population based action\nAll the interventions that are taken that affect a large part of the population\n\n\nGet information to initate individual action\ninterventions taken by the individual\n\n\nGet information to initate action by medical professionals\nThe interventions that are taken by the medical system. A special form of the individual action",
+    "text": "Objective\nDescription\n\n\n\n\nGet information to initate case based action\nAll the interventions that are taken when there is a person with an infection\n\n\nGet information to initate population based action\nAll the interventions that are taken that affect a large part of the population\n\n\nGet information to initate individual action\ninterventions taken by the individual\n\n\nGet information to initate action by medical professionals\nThe interventions that are taken by the medical system. A special form of the individual action\n\n\n\n\n4.1.1 Get information to initate case based action\nMany public health interventions focus around the direct prevention of the spread from one person to another. This action is usually taken by a local public health agency. For this a surveillance systems needs to directly identify the single cases. So the objective of the surveillance system is to get all necessary information.\n\n\n4.1.2 Get information to initate population based action\nSome public health interventions focus on the population or a group. These interventions are sometimes described as non-pharmaceutical-interventions - although this sometimes also compromises case based interventions. This kind of intervention is often done via a regulation by a federal state or a national body. But it can also be taken by a local public health agency. This action requires usually only trends and not necessariliy case based information. So a surveillance system can have the objective to get the necessary information for this action\n\n\n4.1.3 Get information to initate individual action\nThe information from surveillance systems can lead to people changing their behaviour. This compromises many different interventions, that are taken by the people themselves (if it is initatied by an agency it would be a population based intervention). These interventions can be ineffective or even counterproductive. So the surveillance can have the objective to elicit the information that is needed from the individuals to do effective and useful action.\n\n\n4.1.4 Get information to initate action by medical professionals\nSome findings of surveillance systems lead to a change in practice of medical professionals. A medical professional society could change the guidelines according to findings. This intervention is initiated by the medical people and not necessarily by the public health agencies. The objective of the surveillance could be based on eliciting the information needed.",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
@@ -300,7 +300,7 @@
     "href": "3_Stages/stage1.html#secondary-objectives",
     "title": "4  Objectives of surveillance (Stage 1)",
     "section": "4.2 Secondary objectives",
-    "text": "4.2 Secondary objectives\n\n\n\n\n\n\n\nObjective\nDescription\n\n\n\n\nScientific advances\nAdvance the knowledge on infectious diseases\n\n\nEvaluation\nDocuments the impact of an intervention, or track progress towards specified goals\n\n\nResource allocation\nSet priorities by the governmant or an institution and develope long term strategy\n\n\nFullfill obligation\nMost nations have commited themselves to the International Health regulations. Thus they have to set up surveillance system",
+    "text": "4.2 Secondary objectives\n\n\n\n\n\n\n\nObjective\nDescription\n\n\n\n\nScientific advances\nAdvance the knowledge on infectious diseases\n\n\nEvaluation\nDocuments the impact of an intervention, or track progress towards specified goals\n\n\nResource allocation\nSet priorities by the governmant or an institution and develope long term strategy\n\n\nFullfill obligation\nMost nations have commited themselves to the International Health regulations. Thus they have to set up surveillance system\n\n\n\n\n4.2.1 Scientific advances\nSurveillance systems collect data that can also be used for public health research. Scientists can use the data to analyse specific public health problems. The system can give information about the nature of a pathogen and epidemiological characteristics of a public health problem. One example would be the change of variants that follow the introduction of a new vaccine.\n\n\n4.2.2 Evaluation\nPublic health interventions should be benefical for the population. The intervention can measure output, outcome and impact. Measuring the impact can be considered the most important part because it shows the benefits. This impact measurement can be done in with a surveillance system.\n\n\n4.2.3 Resource allocation\nGovernments need to decide about their priorities and the distribution of resources. These decisions can be taken upon the information from surveillance systems.\n\n\n4.2.4 Fullfill obligation\nThe International health regulations require: Each State Party shall develop, strengthen and maintain […] the capacity to detect, assess, notify and report events Thus it can be an objective of a surveillance system to fullfill these obligations.",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
@@ -398,8 +398,8 @@
     "objectID": "3_Stages/stage1.html#other-concepts-for-objectives",
     "href": "3_Stages/stage1.html#other-concepts-for-objectives",
     "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.11 Other concepts for objectives",
-    "text": "4.11 Other concepts for objectives\nThere are other summaries for the objectives of a surveillance system that have a similar concepts.\n\n4.11.1 World bank\nThe world bank notes the objectives of an public health surveillance system as follows2:\n- recognize cases or clusters of cases to trigger interventions to prevent transmission or reduce morbidity and mortality (includes the special case in which surveillance at the national level is required to recognize multi-state clusters); - identify new health problems and emerging diseases; - assess public health impact of health events or determine and measure trends; - measure causal factors in disease (e.g., risk factors) to initiate actions to prevent the onset of disease; - demonstrate the need for intervention programs and resources, and allocate resources during health planning; - monitor effectiveness and evaluate the impact of prevention and control measures, intervention strategies, and health policy changes; - identify high-risk population groups or geographic areas to target interventions and guide analytic studies; - provide data for research, and develop hypotheses that lead to analytic studies about risk factors for disease causation, propagation or progression; - measure progress toward Millennium Development Goals, or other project or program goals, including PRSP (Poverty Reduction Strategy Paper) targets.\n\n\n4.11.2 EU/EEA surveillance\nThe EU/EEA surveillance 3 focuses on the need for the supranational body - Detect and monitor any multinational infectious disease outbreaks with respect to source, time, population, and place in order to provide a rationale for public health action; - Monitor trends in infectious diseases over time and across Member States to assess the present situation, respond to rises above warning thresholds and facilitate appropriate evidence-based action; - Contribute to the evaluation and monitoring of prevention and control programmes targeted at infectious diseases in order to provide the evidence for recommendations to strengthen and improve these programmes at the national and European level; - Identify population groups at risk and in need of targeted prevention measures; - Contribute to the awareness of and the assessment of the burden of infectious diseases on the population using such data as disease prevalence, complications, hospitalisation, and mortality; and - Generate hypotheses on (new) sources, modes of transmission and groups most at risk and identify needs for research and pilot projects",
+    "section": "4.3 Other concepts for objectives",
+    "text": "4.3 Other concepts for objectives\nThere are other summaries for the objectives of a surveillance system that have a similar concepts. Although they tend to be not specific but have a broader perspective.\n\n4.3.1 World bank\nThe world bank notes the objectives of an public health surveillance system as follows2:\n\nrecognize cases or clusters of cases to trigger interventions to prevent transmission or reduce morbidity and mortality (includes the special case in which surveillance at the national level is required to recognize multi-state clusters);\nidentify new health problems and emerging diseases;\nassess public health impact of health events or determine and measure trends;\nmeasure causal factors in disease (e.g., risk factors) to initiate actions to prevent the onset of disease;\ndemonstrate the need for intervention programs and resources, and allocate resources during health planning;\nmonitor effectiveness and evaluate the impact of prevention and control measures, intervention strategies, and health policy changes;\nidentify high-risk population groups or geographic areas to target interventions and guide analytic studies;\nprovide data for research, and develop hypotheses that lead to analytic studies about risk factors for disease causation, propagation or progression;\nmeasure progress toward Millennium Development Goals, or other project or program goals, including PRSP (Poverty Reduction Strategy Paper) targets._\n\n\n\n4.3.2 EU/EEA surveillance\nThe EU/EEA surveillance 3 focuses on the need for the supranational body\n\nDetect and monitor any multinational infectious disease outbreaks with respect to source, time, population, and place in order to provide a rationale for public health action;\nMonitor trends in infectious diseases over time and across Member States to assess the present situation, respond to rises above warning thresholds and facilitate appropriate evidence-based action;\nContribute to the evaluation and monitoring of prevention and control programmes targeted at infectious diseases in order to provide the evidence for recommendations to strengthen and improve these programmes at the national and European level;\nIdentify population groups at risk and in need of targeted prevention measures;\nContribute to the awareness of and the assessment of the burden of infectious diseases on the population using such data as disease prevalence, complications, hospitalisation, and mortality; and\nGenerate hypotheses on (new) sources, modes of transmission and groups most at risk and identify needs for research and pilot projects",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
@@ -409,8 +409,8 @@
     "objectID": "3_Stages/stage1.html#objectives-in-practice",
     "href": "3_Stages/stage1.html#objectives-in-practice",
     "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.12 Objectives in practice",
-    "text": "4.12 Objectives in practice\nAlthough objectives play a decisive role in theory they are not as relevant in practice. Large surveillance systems tend to develope a life on its own and the focus on the objectives gets lost over time. New changes are introduced based on new needs but old parts stay in place although they might have losts their importance.",
+    "section": "4.4 Objectives in practice",
+    "text": "4.4 Objectives in practice\nAlthough objectives play a decisive role in theory they are not as relevant in practice. Large surveillance systems tend to develope a life on its own and the focus on the objectives gets lost over time. New changes are introduced based on new needs but old parts stay in place although they might have losts their importance. Furthermore we a entagled into a complicated net of the large surveillancesystems and a single person is rarely in the position to change a complete system. So to really set the focus on the objectives is a difficult undertaking.\nWhen a surveillancesystem is changed there are often not purely rational and objective-based values at work. People tend to follow differen decision making processes than a rational approach. Besides a rational approach one can differ between a “standard-approach” an “environmental-approach” and a “garbage-can-apporach”.",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
@@ -959,6 +959,50 @@
     "text": "Acknowledgements\n\nThe contents of the book\n\nMost content comes from the “EPIET-World”. One important basis is the introductory course of the ECDC Fellowship Programme and specifically the presentations that have been held there by numerous euroopean surveillance experts. * One important source are the publications by ECDC namely the Handbook on evaluating infectious disease surveillance\nThe publications from CDC have been used especially\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/\n\n\n\n\nUsage of images\n\nOnly images that had a creative commons were used (except the pictures from Bing Image Creator). The authors of the work are written underneath each picture.\nThe primary source of images is Mediawiki the image storing space of Wikipedia the greates project of the internet.\n\n\n\nCoding and publishing of the book\nThis book builds upon the wonderful software of quarto, that itself uses many open source software projects. One important basis is R and Git. This book is published on github.\n\n\nUsage of artificial intelligence\n\nChatGPT has been used to polish the text and help with the wording. It has neither been used to generate content or to structure the book or a text. ChatGPT has also been used to code - especially the stages graph.\nBing Image Creator has been used to create images",
     "crumbs": [
       "About"
+    ]
+  },
+  {
+    "objectID": "2_Introduction/03_background_definition.html#learn-more",
+    "href": "2_Introduction/03_background_definition.html#learn-more",
+    "title": "1  Definition of surveillance",
+    "section": "",
+    "text": "A history of the definitions can be found in the Article The Past, Present, and Future of Public Health Surveillance by Bernard Choi.\nThe first definition in the modern form comes from Alexander Langumir - a very influential epidemiologist, who also did set up the FETP programme of the CDC. You can read about his life in his Wikipedia-Article.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
+    ]
+  },
+  {
+    "objectID": "2_Introduction/03_background_definition.html#definition-of-public-health-surveillance",
+    "href": "2_Introduction/03_background_definition.html#definition-of-public-health-surveillance",
+    "title": "1  Definition of surveillance",
+    "section": "",
+    "text": "Public health surveillance is an ongoing, systematic collection, analysis and interpretation of health-related data essential to the planning, implementation, and evaluation of public health practice. 1\n\n\n\nElements of the public health surveillance definition\n\n\n\n\n\n\nElement\nExplanation\n\n\n\n\nongoing\nsurveillance is planned for a longer time (usually). This is in contrast to a scientific study or a survey\n\n\nsystematic\nsurveillance is a planned undertaking that works with clear definitions\n\n\ncollection\nEvents are collected and stored in datasystems\n\n\nanalysis\nIndicators are calculated and the data is parsed according to time, place and person\n\n\ninterpretation\nAssessment of the indicators and sense making\n\n\nimplementation of public health practice\nThe information guides public health responses",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
+    ]
+  },
+  {
+    "objectID": "2_Introduction/04_background_othersurveillance.html#section",
+    "href": "2_Introduction/04_background_othersurveillance.html#section",
+    "title": "2  Other forms of surveillance",
+    "section": "2.4 ",
+    "text": "2.4",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Domain</span>"
+    ]
+  },
+  {
+    "objectID": "3_Stages/stage1.html#read-more",
+    "href": "3_Stages/stage1.html#read-more",
+    "title": "4  Objectives of surveillance (Stage 1)",
+    "section": "Read more",
+    "text": "Read more\n\nIf you want to know more about the different approaches take the great coursera course on organisational analysis by McFarland",
+    "crumbs": [
+      "Stages",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
     ]
   }
 ]
