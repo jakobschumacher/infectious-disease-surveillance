@@ -142,11 +142,7 @@ In aller Kürze:
 - Bsp: Epilag
 
 
-# Beispiele
-
 ## Beispiel: Epilag
-
-
 
 ::: {.column width="40%"}
 ![](../img/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg)
