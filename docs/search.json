@@ -44,7 +44,7 @@
     "href": "preface.html",
     "title": "Preface",
     "section": "",
-    "text": "On the 28th of October in 2020 German chancellor Angela Merkel and the head of the federal states stuck their heads together. They had to make tough decisions about measurements to mitigate the COVID-19 pandemic. We dont know exactly what they were talking about but we can be certain that they were making the decisions with graph in picture 1 in mind.\n\n\n\nPicture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”\n\n\nInfectious diseases are a threat to humanity: some have the ability to easily spread from one person to others persons and infecting all of mankind, some can be transmitted before the infectious persons knows that he is sick, some have no cure and a high fatality rate, some are able to spread long distances via air, water or food.\nTo combat infectious diseases mankind has developed numerous techniques throughout the ages. On very important tool that is a prerequisite to most count measures is infectious disease surveillance. Knowing what happens when and how is one of the cornerstonse of every response. And infectious disease surveillance does exactly that.",
+    "text": "On the 28th of October in 2020 German chancellor Angela Merkel and the head of the federal states stuck their heads together. They had to make tough decisions about measurements to mitigate the COVID-19 pandemic. We dont know exactly what they were talking about but we can be certain that they were making the decisions with graph in picture 1 in mind.\n\n\n\nPicture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”\n\n\nInfectious diseases are a threat to humanity: some have the ability to easily spread from one person to others persons and infecting all of mankind, some can be transmitted before the infectious persons knows that he is sick, some have no cure and a high fatality rate, some are able to spread long distances via air, water or food.\nTo combat infectious diseases mankind has developed numerous techniques throughout the ages. On very important tool that is a prerequisite to most count measures is infectious disease surveillance. Knowing what happens when and how is one of the cornerstonse of every response. And infectious disease surveillance does exactly that.\n\n\n\nPicture taken from “Täglicher Lagebericht des RKI zur Coronavirus-Krankheit-2019 (COVID-19) 21.10.2020”",
     "crumbs": [
       "Preface"
     ]
@@ -124,40 +124,18 @@
     "href": "2_Introduction/03_background_definition.html",
     "title": "1  Definition of surveillance",
     "section": "",
-    "text": "Learn more\nThe motto of public health surveillance ist information for action. This is also the shortest definition of surveillance - although it does not capture all elements. The definition of the WHO is more comprehensive:\nThis definition is very informative and gives us all important elements of a surveillance system.\nInfectious disease surveillance is a subset of public health surveillance that is concerned with the surveillance of infectious diseases.",
+    "text": "Learn more",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
     ]
   },
   {
-    "objectID": "2_Introduction/03_background_definition.html#definition-of-public-health-surveillance-by-who",
-    "href": "2_Introduction/03_background_definition.html#definition-of-public-health-surveillance-by-who",
+    "objectID": "2_Introduction/03_background_definition.html#learn-more",
+    "href": "2_Introduction/03_background_definition.html#learn-more",
     "title": "1  Definition of surveillance",
     "section": "",
-    "text": "Public health surveillance is an ongoing, systematic collection, analysis and interpretation of health-related data essential to the planning, implementation, and evaluation of public health practice. 1\n\n\n\nElements of the public health surveillance definition\n\n\n\n\n\n\nElement\nExplanation\n\n\n\n\nongoing\nsurveillance is planned for a longer time (usually). This is in contrast to a scientific study or a survey\n\n\nsystematic\nsurveillance is a planned undertaking that works with clear definitions\n\n\ncollection\nEvents are collected and stored in datasystems\n\n\nanalysis\nIndicators are calculated and the data is parsed according to time, place and person\n\n\ninterpretation\nAssessment of the indicators and sense making\n\n\nimplementation of public health practice\nThe information guides public health responses",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
-    ]
-  },
-  {
-    "objectID": "2_Introduction/03_background_definition.html#important-parts-of-the-definition",
-    "href": "2_Introduction/03_background_definition.html#important-parts-of-the-definition",
-    "title": "1  Definition of surveillance",
-    "section": "1.2 Important parts of the definition",
-    "text": "1.2 Important parts of the definition\nThe definition of public health surveillance is very informative. It gives us all important elements of a surveillance system.\n\nElements of the public health surveillance definition\n\n\n\n\n\n\nElement\nExplanation\n\n\n\n\nongoing\nsurveillance is planned for a longer time (usually). This is in contrast to a scientific study or a survey\n\n\nsystematic\nsurveillance is a planned undertaking that works with clear definitions\n\n\ncollection\nEvents are collected and stored in datasystems\n\n\nanalysis\nIndicators are calculated and the data is parsed according to time, place and person\n\n\ninterpretation\nAssessment of the indicators and sense making\n\n\nimplementation of public health practice\nThe information guides public health responses",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
-    ]
-  },
-  {
-    "objectID": "2_Introduction/03_background_definition.html#infectious-disease-surveillance",
-    "href": "2_Introduction/03_background_definition.html#infectious-disease-surveillance",
-    "title": "1  Definition of surveillance",
-    "section": "1.2 Infectious disease surveillance",
-    "text": "1.2 Infectious disease surveillance\nThe infectious disease surveillance is that part of public health surveillance that is concerned with the surveillance of infectious diseases.",
+    "text": "A history of the definitions can be found in the Article The Past, Present, and Future of Public Health Surveillance by Bernard Choi.\nThe first definition in the modern form comes from Alexander Langumir - a very influential epidemiologist, who also did set up the FETP programme of the CDC. You can read about his life in his Wikipedia-Article.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
@@ -179,7 +157,7 @@
     "href": "2_Introduction/04_background_othersurveillance.html",
     "title": "2  Other forms of surveillance",
     "section": "",
-    "text": "2.1 Neighbourhood surveillance\nNearly all complex biological and technical systems have mechanisms to monitor and control the system’s condition. Many social systems also regularly analyze their current state. There are various terms for these status assessments: A scientific study is one form of status assessment, as is the police surveillance of a group or the evaluation of a project in the corporate sector. Surveillance is also a form of status assessment.\nNeighbourhood surveillance is the oldest form of surveillance. In its broadest sense it es people watching other people. Small Communities such as villages usually have a strong neighbourhood surveillance. Neighbors see and know everything what other neigbohrs are doing. This can be framed positively as in the saying: “it takes a village to raise a child” or negatively when people blaspheme other people.\nWith the widespread availability of cameras and the possibility to communicate directly this form of surveillance has gained a large momentum. The largely unsuccesfull Google glass project could have been an even larger driver of participatory surveillance. Now Surveillance becomes a tool that does not lie in the hands of a strong actor such as a state or less strong actors such as companies but in the hands of the individuals. This gives infectious disease specialists the opportunity to gather information from thos eindividuals as it is done in epidemic intelligence.\nThis form of surveillance is sometimes also called participatory surveillance - if you want to emphasize the empowerment of the people. One rather negative example of a participatory surveillance is vividly depicted in the book and film the circle. Sometimes this form of surveillance is called bottom-up-surveillance to emphasize the opposition to top-down-surveillance.",
+    "text": "2.1 Neighbourhood surveillance\nNeighbourhood surveillance is the oldest form of surveillance. In its broadest sense it es people watching other people. Small Communities such as villages usually have a strong neighbourhood surveillance. Neighbors see and know everything what other neigbohrs are doing. This can be framed positively as in the saying: “it takes a village to raise a child” or negatively when people blaspheme other people.\nWith the widespread availability of cameras and the possibility to communicate directly this form of surveillance has gained a large momentum. The largely unsuccesfull Google glass project could have been an even larger driver of participatory surveillance. Now Surveillance becomes a tool that does not lie in the hands of a strong actor such as a state or less strong actors such as companies but in the hands of the individuals. This gives infectious disease specialists the opportunity to gather information from thos eindividuals as it is done in epidemic intelligence.\nThis form of surveillance is sometimes also called participatory surveillance - if you want to emphasize the empowerment of the people. One rather negative example of a participatory surveillance is vividly depicted in the book and film the circle. Sometimes this form of surveillance is called bottom-up-surveillance to emphasize the opposition to top-down-surveillance.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Domain</span>"
@@ -202,6 +180,17 @@
     "title": "2  Other forms of surveillance",
     "section": "2.3 Top-down-surveillance",
     "text": "2.3 Top-down-surveillance\nThe top-down-surveillance is the surveillance which we usually think of first when we hear the word surveillance. There is an agent usually a dominent one like the state who watches was its constituents do. This can take the form of an Panopticon, where one person can watch many different person and after which some prisons have been modeled. This form of surveillance often aims to achieve a specific behavior among those being monitored. Epidemiological surveillance belongs to this level of surveillance.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Domain</span>"
+    ]
+  },
+  {
+    "objectID": "2_Introduction/04_background_othersurveillance.html#section",
+    "href": "2_Introduction/04_background_othersurveillance.html#section",
+    "title": "2  Other forms of surveillance",
+    "section": "2.4 ",
+    "text": "2.4",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Domain</span>"
@@ -267,7 +256,7 @@
     "href": "2_Introduction/06_background_legal.html#essential-public-health-operations",
     "title": "3  International regulations",
     "section": "3.3 Essential public health operations",
-    "text": "3.3 Essential public health operations\nSurveillance is also a component of the Essential Public Health Operations. The essential public health regulations are a tool of WHO Europe and defines central tasks for public health institutes. The goal of this surveillance component is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.",
+    "text": "3.3 Essential public health operations\nSurveillance is also a component of the Essential Public Health Operations. The essential public health regulations are a tool of WHO Europe and defines central tasks for public health institutes. The goal of this surveillance component is to provide information and insights for health needs assessments, health impact assessments, and the planning of health services.\n\n\n\nContents of the IHR. Graph by ÖGD-Kontaktstelle RKI",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Int. Regulations</span>"
@@ -278,7 +267,7 @@
     "href": "3_Stages/stage1.html",
     "title": "4  Objectives of surveillance (Stage 1)",
     "section": "",
-    "text": "4.1 Primary objectives\nThe objectives of a surveillance system are the reasons why a surveillance systems is set into place. The overall objective of infectious disease surveillance is described nicely in the German infection protection act:\nThe overarching objectiv can be decomposed into more conrete objectives that are based on the interventions that can be taken. These can be subdivided into primary objectives that have a direct effect on the spread of an infectious disease or secondary objectives that exert and indirect influence.",
+    "text": "4.1 Primary objectives",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
@@ -307,94 +296,6 @@
     ]
   },
   {
-    "objectID": "3_Stages/stage1.html#get-information-to-initate-case-based-action",
-    "href": "3_Stages/stage1.html#get-information-to-initate-case-based-action",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.3 Get information to initate case based action",
-    "text": "4.3 Get information to initate case based action\nMany public health interventions focus around the direct prevention of the spread from one person to another. This action is usually taken by a local public health agency. For this a surveillance systems needs to directly identify the single cases. So the objective of the surveillance system is to get all necessary information.",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
-    ]
-  },
-  {
-    "objectID": "3_Stages/stage1.html#get-information-to-initate-population-based-action",
-    "href": "3_Stages/stage1.html#get-information-to-initate-population-based-action",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.4 Get information to initate population based action",
-    "text": "4.4 Get information to initate population based action\nSome public health interventions focus on the population or a group. These interventions are sometimes described as non-pharmaceutical-interventions - although this sometimes also compromises case based interventions. This kind of intervention is often done via a regulation by a federal state or a national body. But it can also be taken by a local public health agency. This action requires usually only trends and not necessariliy case based information. So a surveillance system can have the objective to get the necessary information for this action",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
-    ]
-  },
-  {
-    "objectID": "3_Stages/stage1.html#get-information-to-initate-individual-action",
-    "href": "3_Stages/stage1.html#get-information-to-initate-individual-action",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.5 Get information to initate individual action",
-    "text": "4.5 Get information to initate individual action\nThe information from surveillance systems can lead to people changing their behaviour. This compromises many different interventions, that are taken by the people themselves (if it is initatied by an agency it would be a population based intervention). These interventions can be ineffective or even counterproductive. So the surveillance can have the objective to elicit the information that is needed from the individuals to do effective and useful action.",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
-    ]
-  },
-  {
-    "objectID": "3_Stages/stage1.html#get-information-to-initate-action-by-medical-professionals",
-    "href": "3_Stages/stage1.html#get-information-to-initate-action-by-medical-professionals",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.6 Get information to initate action by medical professionals",
-    "text": "4.6 Get information to initate action by medical professionals\nSome findings of surveillance systems lead to a change in practice of medical professionals. A medical professional society could change the guidelines according to findings. This intervention is initiated by the medical people and not necessarily by the public health agencies. The objective of the surveillance could be based on eliciting the information needed.",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
-    ]
-  },
-  {
-    "objectID": "3_Stages/stage1.html#scientific-advances",
-    "href": "3_Stages/stage1.html#scientific-advances",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.7 Scientific advances",
-    "text": "4.7 Scientific advances\nSurveillance systems collect data that can also be used for public health research. Scientists can use the data to analyse specific public health problems. The system can give information about the nature of a pathogen and epidemiological characteristics of a public health problem. One example would be the change of variants that follow the introduction of a new vaccine.",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
-    ]
-  },
-  {
-    "objectID": "3_Stages/stage1.html#evaluation",
-    "href": "3_Stages/stage1.html#evaluation",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.8 Evaluation",
-    "text": "4.8 Evaluation\nPublic health interventions should be benefical for the population. The intervention can measure output, outcome and impact. Measuring the impact can be considered the most important part because it shows the benefits. This impact measurement can be done in with a surveillance system.",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
-    ]
-  },
-  {
-    "objectID": "3_Stages/stage1.html#resource-allocation",
-    "href": "3_Stages/stage1.html#resource-allocation",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.9 Resource allocation",
-    "text": "4.9 Resource allocation\nGovernments need to decide about their priorities and the distribution of resources. These decisions can be taken upon the information from surveillance systems.",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
-    ]
-  },
-  {
-    "objectID": "3_Stages/stage1.html#fullfill-obligation",
-    "href": "3_Stages/stage1.html#fullfill-obligation",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "4.10 Fullfill obligation",
-    "text": "4.10 Fullfill obligation\nThe International health regulations require: Each State Party shall develop, strengthen and maintain […] the capacity to detect, assess, notify and report events Thus it can be an objective of a surveillance system to fullfill these obligations.",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
-    ]
-  },
-  {
     "objectID": "3_Stages/stage1.html#other-concepts-for-objectives",
     "href": "3_Stages/stage1.html#other-concepts-for-objectives",
     "title": "4  Objectives of surveillance (Stage 1)",
@@ -417,6 +318,17 @@
     ]
   },
   {
+    "objectID": "3_Stages/stage1.html#read-more",
+    "href": "3_Stages/stage1.html#read-more",
+    "title": "4  Objectives of surveillance (Stage 1)",
+    "section": "Read more",
+    "text": "Read more\n\nIf you want to know more about the different approaches take the great coursera course on organisational analysis by McFarland",
+    "crumbs": [
+      "Stages",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
+    ]
+  },
+  {
     "objectID": "3_Stages/stage1.html#footnotes",
     "href": "3_Stages/stage1.html#footnotes",
     "title": "4  Objectives of surveillance (Stage 1)",
@@ -432,7 +344,7 @@
     "href": "3_Stages/stage2.html",
     "title": "5  Infection Event (Stage 2)",
     "section": "",
-    "text": "5.1 Naming and Categorization\nSurveillance systems monitor a wide range of infection-related events. Understanding the event is essential for understanding a surveillance system.The choice of events to monitor in a surveillance system is a critical decision that shapes the system’s in many ways. The choice depends on the Objective of the surveillance system.\nSurveillance systems are often named after the events they monitor. For example:",
+    "text": "5.1 Naming and Categorization\nSurveillance systems are often named after the events they monitor. For example:",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Event (2)</span>"
@@ -465,7 +377,7 @@
     "href": "3_Stages/stage3.html",
     "title": "6  Collection (Stage 3)",
     "section": "",
-    "text": "6.1 Typical collection methods\nThe collection of an infectious disease Event form the foundation of any effective surveillance. The specific methods of collection can vary widely depending on the type of surveillance system. The collection is usually done by an public health agency or a commisioned insitution. The method of data collection often influences the naming of surveillance systems.\nA collection processes can be based on any comminication form like: Phone calls, serial interface, Reports on paper, Fax or E-Mail, direct investigation. In recent years many efforts have been put into establishing a fully seamless electronic system via electronic interfaces.",
+    "text": "6.1 Typical collection methods",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Collection (3)</span>"
@@ -520,7 +432,7 @@
     "href": "3_Stages/stage4.html",
     "title": "7  Classification (Stage 4)",
     "section": "",
-    "text": "7.1 Typical classification definitions\nClassification means categorizing the recorded events into two or more groups. Sometimes the word “collation” is used for this stage, for example in the WHO definition of surveillance. Classification means a person or software applies a set of uniform criteria to define a disease, health event or condition for infectious disease surveillance. The classification is based on the specific objective.\nUsually the word “applying a case definition” is used to describe this process. But it is better to use more specific words and use the word “case definition” for the general concept. Classification is often a hidden part of the surveillance system or built into the system in a way that it is not recognized as such. For example, the application of reporting definition is built into the reporting software.\nDefinitions enable public health officials to classify and count cases consistently for example across reporting jurisdictions. This avoids comparing “apples to oranges”. Classification is important because recorded events can be erroneous and should not be counted. Or there may not be enough information to decide whether a real event has occurred. Without classification, the events form an unclear collection with questionable significance. Even in seemingly trivial classifications, important definitions must be agreed upon: In a mortality surveillance deaths are counted. But does the death of a tourist with a foreign passport count as a death in the surveillance system?\nExample for the application of definitions along the surveillance stages of a case-based surveillance system.",
+    "text": "7.1 Typical classification definitions\nExample for the application of definitions along the surveillance stages of a case-based surveillance system.",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Classification (4)</span>"
@@ -564,7 +476,7 @@
     "href": "3_Stages/stage4.html#creating-you-own-definitions",
     "title": "7  Classification (Stage 4)",
     "section": "7.4 Creating you own definitions",
-    "text": "7.4 Creating you own definitions\n\nIdentify the objectives of the surveillance system\nInvolve a multi-sectoral team (e.g. physicians, reference laboratories, epidemiologists,…)\nBalance between sensitivity and specificity when collecting / reporting\nDefine important and frequently used terms (e.g. fever)\nUse a standardised format and structure for all case definitions\nPlan the implementation of the case definitions (e.g. communicate, train, evaluate)",
+    "text": "7.4 Creating you own definitions\n\nIdentify the objectives of the surveillance system\nInvolve a multi-sectoral team (e.g. physicians, reference laboratories, epidemiologists,…)\nBalance between sensitivity and specificity when collecting / reporting\nDefine important and frequently used terms (e.g. fever)\nUse a standardised format and structure for all case definitions\nPlan the implementation of the case definitions (e.g. communicate, train, evaluate)\n\n\n\n\nCase definition for Q-Fever by the european center for disease control\nCase definition for avian flu by the european center for disease control\nCase definition for zika by the european center for disease control",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Classification (4)</span>"
@@ -575,7 +487,7 @@
     "href": "3_Stages/stage5.html",
     "title": "8  Data Processing (Stage 5)",
     "section": "",
-    "text": "8.1 Typical ways of data processing\nData processing is seldom mentioned in classical surveillance literature, but it is a stage that significantly improves surveillance systems. Many people at all levels are involved in data processing within surveillance systems. In the past, data was transmitted monthly by mail in surveillance systems, whereas today, data flow mostly occurs through interfaces between software programs and databases. The way data is transmitted affects data quality and, consequently, the evaluation of the data. Data processing also includes the application of scripts that prepare the data for subsequent evaluation. An example is automated outbreak detection. Here, data is analyzed using an algorithm or machine learning to determine whether there is a high probability of an outbreak. The resulting dataset can be made available as open data, a publication format that has increased significantly in recent times.",
+    "text": "8.1 Typical ways of data processing",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data processing (5)</span>"
@@ -630,7 +542,7 @@
     "href": "3_Stages/stage6.html",
     "title": "9  Analysis and Assessment (Stage 6)",
     "section": "",
-    "text": "9.1 Analysis\nThe analysis and assessment stage involves the calculation of relevant indicators, examining data through the lenses of time, place, and person, assessing the results by drawing of conclusions and eventually formulating recommendations. Essentially, this stage transforms raw data into actionable information, aligning with the “data–information–knowledge–wisdom” hierarchy1.\nThe complexity of analysis varies significantly across scenarios:",
+    "text": "9.1 Analysis",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Analysis (6)</span>"
@@ -674,7 +586,7 @@
     "href": "3_Stages/stage7.html",
     "title": "10  Communication (Stage 7)",
     "section": "",
-    "text": "10.1 Graphical\nCommunication is the dissemination of the obtained information in words, writing, and images. Communication consists of traditional elements such as press releases and press conferences or the preparation of reports. Communication now also includes social media and fact-checking. The presentation of data and information in dashboards also counts as communication.\nthe graphical representation of information is often done in terms of time, place, and person\nThe communication of epidemiological information was a major focus towards the end of the pandemic and is an area with strong development potential. Almost worldwide, a significant portion of the population rejected the measures to combat the COVID-19 pandemic, thereby influencing the course of the pandemic.",
+    "text": "10.1 Graphical\nthe graphical representation of information is often done in terms of time, place, and person\nThe communication of epidemiological information was a major focus towards the end of the pandemic and is an area with strong development potential. Almost worldwide, a significant portion of the population rejected the measures to combat the COVID-19 pandemic, thereby influencing the course of the pandemic.",
     "crumbs": [
       "Stages",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Communication (7)</span>"
@@ -729,7 +641,7 @@
     "href": "4_Types/02_type_case.html#example-of-a-case-based-surveillance-system",
     "title": "12  Case based surveillance",
     "section": "12.4 Example of a case based surveillance system",
-    "text": "12.4 Example of a case based surveillance system\nThe German infectious disease reporting system is governed by the Infection Protection Act (IfSG). It is the backbone of epidemiological surveillance in Germany. It has developed historically and has its roots in the Imperial Epidemic Act of 1900. This act hat for example the following regulation: “Any case of illness and any death from leprosy, cholera (Asian), typhus, yellow fever, plague (Oriental bubonic plague), smallpox […] must be reported immediately to the competent police authority.” The current reporting system was established in 2000 with the creation of the Infection Protection Act. The reporting system is legally regulated in Sections 6 to 11 of the Act, which have been amended multiple times, usually in response to acute events such as the HUS epidemic in 2011.\nThe events (Stage 1) monitored are typically the occurrence of infectious diseases. However, the reporting system encompasses various reporting obligations and multiple reporting channels. It can therefore be viewed as a collection of related but essentially different surveillance systems. A significant component of the reporting system is the obligation for physicians, pathologists, and other professionals to report. The event captured in this context is the suspicion of a disease, the diagnosis of the disease, or the death from a diseases. The infectious diseases are laid out in the text of the law and consists out of severe diseases that can be medically diagnosed, such as measles, polio, or HUS. Another relevant component is the obligation for laboratories to report. The monitored event is a laboratory finding indicative of an acute infection. This laboratory reporting obligation applies to a wide range of infectious diseases. In addition to the physician and laboratory reporting obligations, there are other components, such as non-nominal reporting obligations for the laboratory detection of certain pathogens like HIV, which follow a separate reporting pathway.\nThe capture of physician and laboratory reports (Stage 2) is usually carried out through the reporting process and investigations by the health authorities. For many years, the method of reporting was not standardized and was typically done via fax. In the last decade, the German Electronic Reporting and Information System (DEMIS) has been developed, primarily digitizing the reporting process from the reporter to the health authority. This method of reporting is now legally required for many reporting channels under the Infection Protection Act. The way health authorities conduct investigations is not prescribed, although there are, of course, restrictions due to privacy rights. A common investigation involves a phone call from the health authority and an infection control interview with the affected individuals. The reporting system is thus a hybrid system of passive and active surveillance. It is passive because the monitored events do not exist solely because of the reporting system. For instance, in most cases, a laboratory test is performed for clinical reasons, not for epidemiological reasons. It is active because health authorities actively investigate and contact the affected individuals. Investigation is a central part of the job profile for public health inspectors.\nThe classification (Stage 3) within the reporting system is performed by the health authority, assisted by the respective reporting software. After entering the collected data, the software indicates whether the event matches the defined criteria. These definitions are twofold: first, there is a definition for events that must be reported to the state authority and the RKI (“reporting definition”), and second, there is a definition for cases officially counted in the RKI statistics (“reference definition”). Establishing these definitions is crucial for ensuring comparability and identifying increases or decreases in the number of cases. At the start of the COVID-19 pandemic, the Chinese government changed the case definition of COVID-19, leading to an artificial spike in the statistics. Case definitions can be sensitive, aiming to capture as many cases as possible, or specific, aiming to include only a small number of false-positive cases. Case definitions exist not only for a surveillance system but are also often established separately for outbreaks. Additionally, case definitions are not necessarily the standard for implementing measures. For example, in a suspected case of hemorrhagic fever, action does not need to wait until a case definition is met.\nData management (Stage 4) takes place after classification. The reporting system has significantly benefited from more professional data management. Before the introduction of electronic reporting software, data was transmitted laboriously and prone to errors via mail or fax. With increasing digitization and the reduction of media disruptions, data management has become increasingly precise and faster. The most well-known reporting software, SurvNet, from the Robert Koch Institute (RKI), sets the standards for transmission from the health authority to the state authority and from there to the RKI. Data management is carried out in databases operated by the RKI. This process includes quality assurance and data preparation for the subsequent evaluation stage. The preparation also involves automated signal detection, identifying and appropriately displaying potential outbreaks.\nThe analysis of the reporting system’s data occurs at all three levels: local, state, and national. This is similar to the interventions taken. Usually the local agency takes case based measurements, whereas the state and the nation take population-based measurements",
+    "text": "12.4 Example of a case based surveillance system\nThe German infectious disease reporting system is governed by the Infection Protection Act (IfSG). It is the backbone of epidemiological surveillance in Germany. It has developed historically and has its roots in the Imperial Epidemic Act of 1900. This act hat for example the following regulation: “Any case of illness and any death from leprosy, cholera (Asian), typhus, yellow fever, plague (Oriental bubonic plague), smallpox […] must be reported immediately to the competent police authority.” The current reporting system was established in 2000 with the creation of the Infection Protection Act. The reporting system is legally regulated in Sections 6 to 11 of the Act, which have been amended multiple times, usually in response to acute events such as the HUS epidemic in 2011.\nThe events (Stage 1) monitored are typically the occurrence of infectious diseases. However, the reporting system encompasses various reporting obligations and multiple reporting channels. It can therefore be viewed as a collection of related but essentially different surveillance systems. A significant component of the reporting system is the obligation for physicians, pathologists, and other professionals to report. The event captured in this context is the suspicion of a disease, the diagnosis of the disease, or the death from a diseases. The infectious diseases are laid out in the text of the law and consists out of severe diseases that can be medically diagnosed, such as measles, polio, or HUS. Another relevant component is the obligation for laboratories to report. The monitored event is a laboratory finding indicative of an acute infection. This laboratory reporting obligation applies to a wide range of infectious diseases. In addition to the physician and laboratory reporting obligations, there are other components, such as non-nominal reporting obligations for the laboratory detection of certain pathogens like HIV, which follow a separate reporting pathway.\nThe capture of physician and laboratory reports (Stage 2) is usually carried out through the reporting process and investigations by the health authorities. For many years, the method of reporting was not standardized and was typically done via fax. In the last decade, the German Electronic Reporting and Information System (DEMIS) has been developed, primarily digitizing the reporting process from the reporter to the health authority. This method of reporting is now legally required for many reporting channels under the Infection Protection Act. The way health authorities conduct investigations is not prescribed, although there are, of course, restrictions due to privacy rights. A common investigation involves a phone call from the health authority and an infection control interview with the affected individuals. The reporting system is thus a hybrid system of passive and active surveillance. It is passive because the monitored events do not exist solely because of the reporting system. For instance, in most cases, a laboratory test is performed for clinical reasons, not for epidemiological reasons. It is active because health authorities actively investigate and contact the affected individuals. Investigation is a central part of the job profile for public health inspectors.\nThe classification (Stage 3) within the reporting system is performed by the health authority, assisted by the respective reporting software. After entering the collected data, the software indicates whether the event matches the defined criteria. These definitions are twofold: first, there is a definition for events that must be reported to the state authority and the RKI (“reporting definition”), and second, there is a definition for cases officially counted in the RKI statistics (“reference definition”). Establishing these definitions is crucial for ensuring comparability and identifying increases or decreases in the number of cases. At the start of the COVID-19 pandemic, the Chinese government changed the case definition of COVID-19, leading to an artificial spike in the statistics. Case definitions can be sensitive, aiming to capture as many cases as possible, or specific, aiming to include only a small number of false-positive cases. Case definitions exist not only for a surveillance system but are also often established separately for outbreaks. Additionally, case definitions are not necessarily the standard for implementing measures. For example, in a suspected case of hemorrhagic fever, action does not need to wait until a case definition is met.\nData management (Stage 4) takes place after classification. The reporting system has significantly benefited from more professional data management. Before the introduction of electronic reporting software, data was transmitted laboriously and prone to errors via mail or fax. With increasing digitization and the reduction of media disruptions, data management has become increasingly precise and faster. The most well-known reporting software, SurvNet, from the Robert Koch Institute (RKI), sets the standards for transmission from the health authority to the state authority and from there to the RKI. Data management is carried out in databases operated by the RKI. This process includes quality assurance and data preparation for the subsequent evaluation stage. The preparation also involves automated signal detection, identifying and appropriately displaying potential outbreaks.\nThe analysis of the reporting system’s data occurs at all three levels: local, state, and national. This is similar to the interventions taken. Usually the local agency takes case based measurements, whereas the state and the nation take population-based measurements\n\n\n\nScope of a case based surveillance system. Adapted from ECDC Handbook Data quality monitoring and surveillance system evaluation",
     "crumbs": [
       "Types",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Case based surveillance</span>"
@@ -751,7 +663,7 @@
     "href": "4_Types/04_type_event.html",
     "title": "14  Event based surveillance",
     "section": "",
-    "text": "14.1 Stages of event based surveillance\nWarning: This is not ready\nEvent based surveillance is a defined system that rapidly detects events that might be a threat to public health. These events could be news reports, rumors, social media or informations by other surveillance systems. The collected events are then analysed, assessed and the relevent information is disseminated. The goal of an event based surveillance system is to provide an early warning system and detect previously unkown or generally threats, that are not detected by indicator based surveillance systems.",
+    "text": "14.1 Stages of event based surveillance",
     "crumbs": [
       "Types",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
@@ -806,7 +718,7 @@
     "href": "4_Types/04_type_event.html#resources",
     "title": "14  Event based surveillance",
     "section": "14.6 Resources",
-    "text": "14.6 Resources\n\nNorzin T, Ghiasbeglou H, Patricio M, Romanova S, Zaghlool A, Tanguay F, Zhao L. Event-based surveillance: Providing early warning for communicable disease threats. Can Commun Dis Rep. 2023 Feb 1;49(1):29-34. PMID: 38090144",
+    "text": "14.6 Resources\n\nNorzin T, Ghiasbeglou H, Patricio M, Romanova S, Zaghlool A, Tanguay F, Zhao L. Event-based surveillance: Providing early warning for communicable disease threats. Can Commun Dis Rep. 2023 Feb 1;49(1):29-34. PMID: 38090144\n\n\n\n\nGraph adapted from the ECDC Fellowship programme",
     "crumbs": [
       "Types",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Event based surveillance</span>"
@@ -850,7 +762,7 @@
     "href": "4_Types/07_type_massgathering.html",
     "title": "17  Mass-Gathering Surveillance",
     "section": "",
-    "text": "17.1 Additional reading\nMass-gathering surveillance refers to surveillance systems that are set up for the duration of a special event. A mass-gathering is a planned or spontaneous event where the number of people attending could strain the planning and response resources of the community or country hosting the event1\nMass-gatherings can be a threat to public health because any large group of people poses the risk of the spread of an infectious disease. Such events are also accomapnied by many small food vendors, that have limited facilites. As many mass-gathering usually go along with lots of international attention and the attention of media, there is usually a political pressure.\nTypically, different components from other surveillance systems are employed. For instance, a separate surveillance system might be implemented during a European Football Championship.",
+    "text": "17.1 Additional reading",
     "crumbs": [
       "Types",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Mass-Gathering Surveillance</span>"
@@ -883,7 +795,7 @@
     "href": "4_Types/08_type_activevspassive.html",
     "title": "18  Active vs passive",
     "section": "",
-    "text": "18.1 Active surveillance system\nCase based surveiallance systems can be divided whether they are active or passive. Many surveillancesystems have elements of both.\nAn active surveillance system involves a group of individuals who actively collect information for the surveillance system.\nAn example of an active surveillance system would if the staff of an agency goes door-to-door to gather information.",
+    "text": "18.1 Active surveillance system\nAn active surveillance system involves a group of individuals who actively collect information for the surveillance system.\nAn example of an active surveillance system would if the staff of an agency goes door-to-door to gather information.",
     "crumbs": [
       "Types",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Active vs passive</span>"
@@ -959,50 +871,6 @@
     "text": "Acknowledgements\n\nThe contents of the book\n\nMost content comes from the “EPIET-World”. One important basis is the introductory course of the ECDC Fellowship Programme and specifically the presentations that have been held there by numerous euroopean surveillance experts. * One important source are the publications by ECDC namely the Handbook on evaluating infectious disease surveillance\nThe publications from CDC have been used especially\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820481/\n\n\n\n\nUsage of images\n\nOnly images that had a creative commons were used (except the pictures from Bing Image Creator). The authors of the work are written underneath each picture.\nThe primary source of images is Mediawiki the image storing space of Wikipedia the greates project of the internet.\n\n\n\nCoding and publishing of the book\nThis book builds upon the wonderful software of quarto, that itself uses many open source software projects. One important basis is R and Git. This book is published on github.\n\n\nUsage of artificial intelligence\n\nChatGPT has been used to polish the text and help with the wording. It has neither been used to generate content or to structure the book or a text. ChatGPT has also been used to code - especially the stages graph.\nBing Image Creator has been used to create images",
     "crumbs": [
       "About"
-    ]
-  },
-  {
-    "objectID": "2_Introduction/03_background_definition.html#learn-more",
-    "href": "2_Introduction/03_background_definition.html#learn-more",
-    "title": "1  Definition of surveillance",
-    "section": "",
-    "text": "A history of the definitions can be found in the Article The Past, Present, and Future of Public Health Surveillance by Bernard Choi.\nThe first definition in the modern form comes from Alexander Langumir - a very influential epidemiologist, who also did set up the FETP programme of the CDC. You can read about his life in his Wikipedia-Article.",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
-    ]
-  },
-  {
-    "objectID": "2_Introduction/03_background_definition.html#definition-of-public-health-surveillance",
-    "href": "2_Introduction/03_background_definition.html#definition-of-public-health-surveillance",
-    "title": "1  Definition of surveillance",
-    "section": "",
-    "text": "Public health surveillance is an ongoing, systematic collection, analysis and interpretation of health-related data essential to the planning, implementation, and evaluation of public health practice. 1\n\n\n\nElements of the public health surveillance definition\n\n\n\n\n\n\nElement\nExplanation\n\n\n\n\nongoing\nsurveillance is planned for a longer time (usually). This is in contrast to a scientific study or a survey\n\n\nsystematic\nsurveillance is a planned undertaking that works with clear definitions\n\n\ncollection\nEvents are collected and stored in datasystems\n\n\nanalysis\nIndicators are calculated and the data is parsed according to time, place and person\n\n\ninterpretation\nAssessment of the indicators and sense making\n\n\nimplementation of public health practice\nThe information guides public health responses",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definition</span>"
-    ]
-  },
-  {
-    "objectID": "2_Introduction/04_background_othersurveillance.html#section",
-    "href": "2_Introduction/04_background_othersurveillance.html#section",
-    "title": "2  Other forms of surveillance",
-    "section": "2.4 ",
-    "text": "2.4",
-    "crumbs": [
-      "Introduction",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Domain</span>"
-    ]
-  },
-  {
-    "objectID": "3_Stages/stage1.html#read-more",
-    "href": "3_Stages/stage1.html#read-more",
-    "title": "4  Objectives of surveillance (Stage 1)",
-    "section": "Read more",
-    "text": "Read more\n\nIf you want to know more about the different approaches take the great coursera course on organisational analysis by McFarland",
-    "crumbs": [
-      "Stages",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Objectives (1)</span>"
     ]
   }
 ]

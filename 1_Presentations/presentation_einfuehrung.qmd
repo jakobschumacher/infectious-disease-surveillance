@@ -39,6 +39,12 @@ https://pxhere.com/es/photo/804575 - CC0
 - Rhizomatische Surveillance
 - Top-Down Surveillance
 
+## Abgrenzung
+- Wissenschaft
+- Evaluation
+- Umfrage
+- Anekdoten
+
 ## Definition
 >  Surveillance ist die fortlaufende, systematische Erfassung, Analyse und Interpretation gesundheitsbezogener Daten, die für die Planung, Durchführung und Bewertung der öffentlichen Gesundheitspraxis unerlässlich sind.
 
@@ -61,6 +67,50 @@ In aller Kürze:
 
 ## {background-image="../img/surveillance_plots/surveillance_de_none.png" background-repeat="cover" background-size="1000px" }
 
+## Events
+- Events bestimmen "das Schicksal" des Systems
+- Events sind das was gemessen wird, z.B.:
+  - Ein Nachweis einer Krankheit
+  - Eine Suchaufruf für den Begriff "Kopfweh"
+  - Ein benutzes Kondom
+  
+## Sammeln
+- Durch die Sammlung entstehen die Kosten
+- Wird zwischen _aktiv_ und _passiv_ unterschieden
+
+## Klassifizieren
+- Die Klassifikation wird zu oft übersehen
+- Zählen ist schwieriger als man denkt
+- Wie viele EHEC-Fälle haben wir in der Kita?
+  - Eine Person mit EHEC Nachweis und blutigem Durchfall
+  - Zwei Personen mit EHEC Nachweis ohne Symptome
+  - Ein Kind mit Durchfall
+  - Drei Kinder sind als krank abgemeldet
+  - Ein Kind fehlt unentschuldigt
+  
+## Daten managen
+- Das Werkzeug der Surveillance-Spezialisten
+- Beeinflusst die Qualität entscheidend
+
+## Analysieren
+- Daten werden zu "informationen" umgewandelt
+- Mehrstufiger Prozess
+  - Extraktion und Reinigung
+  - Werte berechnet
+  - Grafiken erstellt
+  - Bewertet mit Kenntnis der Limitationen
+  
+## Vermitteln
+- Die Informationen müssen übermittelt werden
+- Traditioneller Weise: Bericht
+- Modern: Socialmedia
+- Bester Weg: unklar
+
+## Handeln
+- Fallbasiertes Handeln
+- Bevölkerungsbasiertes Handeln
+- Medizinisches Handeln
+- Personenbezogenes Handeln
 
 
 # Typen
@@ -80,26 +130,53 @@ In aller Kürze:
 - Üblicherweise: Arztmeldung/Labormeldung
 - Bsp: Deutsches Meldewesen
 
+
+## Beispiel: Deutsches Meldesystem
+
+![](../img/german_notificationssystem.png)
+
 ## Event-basierte Surveillance
 - Erfasst alle möglichen Events
 - Besteht aus einem System "Signale" zu erfassen
 - Häufig eine Gruppe von Experten
 - Bsp: Epilag
 
+
+# Beispiele
+
+## Beispiel: Epilag
+
+
+
+::: {.column width="40%"}
+![](../img/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg)
+:::
+
+::: {.column width="60%"}
+* Länder und RKI haben eine wöchentliche Telefonkonferenz
+* Bericht über aktuelle Ereignisse
+* Keine Indikatoren
+:::
+
+::: footer
+[Bild: Christina auf wocintechchat.com](https://unsplash.com/de/@wocintechchat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+:::
+      
 ## Syndromische Surveillance
 - Erfasst Verhaltensweisen, die assoziiert sind mit Erkrankung
 - Diverse Gruppe von Surveillancesystemen
 - Bsp: Grippeweb
 
+## Beispiel: Grippeweb
+* Personen geben wöchentlich Auskunft
+* Erfassung von Tests
+* Abstriche
+
 ## Abwassersurveillance
 - Abwasser wird untersucht auf Erreger
-- Bsp: AMELAG -
+- Bsp: AMELAG 
 
-# Beispiel
 
-## Beispiel: Deutsches Meldesystem
-
-![](../img/german_notificationssystem.png)
 
 
 # Attribute
@@ -108,8 +185,6 @@ In aller Kürze:
 - Surveillancesysteme haben Vorteile und Nachteile  
 - Hier spricht man von Attributen
 - Sind wichtig für die Evaluation
-
-
 
 ## Untererfassung
 ![Underestimation pyramid](../img/attributes_underestimation_pyramid.png)
@@ -156,51 +231,11 @@ Wie viel ist unter der Oberfläche bei einem Eisberg oder bei einem Felsbrocken?
 :::
 
 
-# Beispiele
+## Jetzt sind Sie an der Reihe
+Erstellen Sie ein gedankliches Surveillancesystem
 
-## Beispiel: Epilag
-
-
-
-::: {.column width="40%"}
-![](../img/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg)
-:::
-
-::: {.column width="60%"}
-
-* Länder und RKI haben eine wöchentliche Telefonkonferenz
-* Bericht über aktuelle Ereignisse
-* Keine Indikatoren
-:::
-
-
-
-::: footer
-[Bild: Christina auf wocintechchat.com](https://unsplash.com/de/@wocintechchat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-:::
-      
-
-## Beispiel: Grippeweb
-
-::: {.column width="40%"}
-![](../img/anomaly-16aIvW0lxOk-unsplash.jpg)
-:::
-
-::: {.column width="60%"}
-
-* Personen geben wöchentlich Auskunft
-* Erfassung von Tests
-* Abstriche
-:::
-
-
-::: footer
-[Bild: Anomaly auf Usplash.com](https://unsplash.com/de/@anomaly?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-::: 
-
-## Aufgabe
 * Schizophrenie
 * Impfablehnung
 * Zahnstatus
 * Angriffe auf SpDi-Mitarbeitende
-* Giftstoffe
+* Bleihaltige Kinderspielzeuge
