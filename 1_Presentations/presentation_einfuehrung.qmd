@@ -107,6 +107,7 @@ In aller Kürze:
 - Bester Weg: unklar
 
 ## Handeln
+- VORSICHT: Zählt im eigentlichen Sinne nicht zur Surveillance dazu
 - Fallbasiertes Handeln
 - Bevölkerungsbasiertes Handeln
 - Medizinisches Handeln
@@ -120,7 +121,7 @@ In aller Kürze:
 - Event-basierte Surveillance
 - Syndromische Surveillance
 - Abwassersurveillance
-- Sentinal vs. Gesamt
+- Sentinel vs. Gesamt
 - Reservoir Surveillance
 - Risikofaktor Surveillance
 
@@ -191,7 +192,7 @@ In aller Kürze:
 ## Ebola
 ![Underestimation pyramid](../img/attributes_underestimation_pyramid_ebola.png)
 
-## Vailidität
+## Validität
 
 ![Sind wir uns sicher, dass wir alles richtig erkennen?](../img/attributes_validity.jpg)
 
